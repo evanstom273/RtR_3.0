@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://7d1ns703f54i"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_t1wra"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_k8svn"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_nhy6f"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_exjup"]
+
+[resource]
+script = ExtResource("4_exjup")
+CharacterName = ""
+metadata/_custom_type_script = "uid://b7ygmym5lhg73"
