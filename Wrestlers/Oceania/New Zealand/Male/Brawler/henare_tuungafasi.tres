@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://1cccgdrcyikr"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_4inda"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_vwpqe"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_swl3f"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_rl6h3"]
+
+[resource]
+script = ExtResource("4_rl6h3")
+CharacterName = "Henare Tu'ungafasi"
+ClassType = 3
+Disposition = 1
+Height = "5'8\""
+Weight = 295
+birthplace = 5
+strength = 25
+speed = 12
+stamina = 29
+skill = 16
+striking = 39
+charisma = 26
+pop_north_america = 11
+pop_latin_america = 15
+pop_europe = 5
+pop_asia = 12
+pop_africa = 8
+pop_oceania = 32

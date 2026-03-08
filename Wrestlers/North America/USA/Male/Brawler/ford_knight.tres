@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bl6otcnp13bbj"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_oymda"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_0t3hd"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_nalcf"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_lqwog"]
+
+[resource]
+script = ExtResource("4_lqwog")
+CharacterName = "Ford Knight"
+ClassType = 3
+Age = 59
+Height = "6'3\""
+Weight = 246
+strength = 34
+speed = 15
+stamina = 22
+skill = 13
+striking = 42
+charisma = 30
+pop_north_america = 38
+pop_latin_america = 15
+pop_europe = 6
+pop_asia = 15
+pop_africa = 7
+pop_oceania = 15

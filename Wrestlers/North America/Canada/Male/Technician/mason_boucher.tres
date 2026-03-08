@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://drmbboar8jv0w"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_43ikg"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_5hsvf"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_q3osn"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_jgwva"]
+
+[resource]
+script = ExtResource("4_jgwva")
+CharacterName = "Mason Boucher"
+ClassType = 2
+Age = 56
+Height = "6'9\""
+Weight = 282
+country_north_america = 1
+strength = 18
+speed = 24
+stamina = 25
+skill = 41
+striking = 18
+charisma = 28
+pop_north_america = 44
+pop_latin_america = 5
+pop_europe = 12
+pop_asia = 14
+pop_africa = 13
+pop_oceania = 9

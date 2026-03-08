@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dwg3n5cwerr1l"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_73kwy"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_o1h04"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_egqnh"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_wwe15"]
+
+[resource]
+script = ExtResource("4_wwe15")
+CharacterName = "Min-ho Hwang"
+Division = 1
+Age = 38
+Height = "5'8\""
+Weight = 200
+birthplace = 3
+country_asia = 3
+strength = 47
+speed = 12
+stamina = 31
+skill = 16
+striking = 25
+charisma = 21
+pop_north_america = 15
+pop_latin_america = 11
+pop_europe = 6
+pop_asia = 28
+pop_africa = 15
+pop_oceania = 8

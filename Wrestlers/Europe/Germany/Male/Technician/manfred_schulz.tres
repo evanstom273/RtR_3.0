@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://di870k5yml2pw"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_v4r6q"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_hvkaf"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_yq7ed"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_m00ak"]
+
+[resource]
+script = ExtResource("4_m00ak")
+CharacterName = "Manfred Schulz"
+ClassType = 2
+Age = 52
+Height = "7'0\""
+Weight = 214
+birthplace = 2
+country_europe = 3
+strength = 20
+speed = 19
+stamina = 35
+skill = 38
+charisma = 22
+pop_north_america = 14
+pop_latin_america = 10
+pop_europe = 52
+pop_asia = 5
+pop_africa = 11
+pop_oceania = 11

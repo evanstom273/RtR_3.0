@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dhqa3jdtp0cvo"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_68rex"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_3ohca"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_w7bc7"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ce5dn"]
+
+[resource]
+script = ExtResource("4_ce5dn")
+CharacterName = "Gage Cross"
+ClassType = 1
+Division = 1
+Age = 42
+Height = "6'3\""
+Weight = 234
+strength = 19
+speed = 40
+stamina = 43
+skill = 22
+striking = 22
+charisma = 29
+pop_north_america = 43
+pop_latin_america = 5
+pop_europe = 6
+pop_asia = 7
+pop_africa = 10
+pop_oceania = 14

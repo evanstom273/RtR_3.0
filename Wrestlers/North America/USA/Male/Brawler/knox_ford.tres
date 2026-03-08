@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b8qimtmtfslyn"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ryn5a"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_gs6mg"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_trtut"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_403o5"]
+
+[resource]
+script = ExtResource("4_403o5")
+CharacterName = "Knox Ford"
+ClassType = 3
+Age = 50
+Height = "5'6\""
+Weight = 253
+strength = 32
+speed = 15
+stamina = 25
+skill = 11
+striking = 43
+charisma = 30
+pop_north_america = 30
+pop_latin_america = 6
+pop_europe = 11
+pop_asia = 13
+pop_africa = 8
+pop_oceania = 5

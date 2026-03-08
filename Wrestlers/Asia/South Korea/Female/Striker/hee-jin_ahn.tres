@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bufvos0470c4q"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_n6xfd"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_3h5t8"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_to16b"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_rhmjr"]
+
+[resource]
+script = ExtResource("4_rhmjr")
+CharacterName = "Hee-jin Ahn"
+ClassType = 4
+Gender = 1
+Division = 2
+Age = 62
+Height = "5'2\""
+Weight = 142
+birthplace = 3
+country_asia = 3
+speed = 31
+stamina = 23
+skill = 12
+striking = 50
+charisma = 29
+pop_north_america = 9
+pop_latin_america = 10
+pop_europe = 15
+pop_asia = 36
+pop_africa = 11
+pop_oceania = 9

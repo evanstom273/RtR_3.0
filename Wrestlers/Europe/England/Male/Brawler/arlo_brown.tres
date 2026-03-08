@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bag1omv3v0p0s"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_dc3wi"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_oe1o0"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_mjoya"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_w58vw"]
+
+[resource]
+script = ExtResource("4_w58vw")
+CharacterName = "Arlo Brown"
+ClassType = 3
+Age = 52
+Height = "6'10\""
+birthplace = 2
+strength = 26
+speed = 13
+stamina = 25
+skill = 18
+striking = 45
+charisma = 15
+pop_north_america = 12
+pop_latin_america = 8
+pop_europe = 53
+pop_asia = 13
+pop_africa = 13
+pop_oceania = 7

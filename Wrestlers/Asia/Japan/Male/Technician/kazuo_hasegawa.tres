@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bw61mbgmkjhmh"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_m72n7"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_t8ich"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_nbxdw"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_yxpb1"]
+
+[resource]
+script = ExtResource("4_yxpb1")
+CharacterName = "Kazuo Hasegawa"
+ClassType = 2
+Division = 1
+Disposition = 1
+Age = 45
+Height = "6'1\""
+Weight = 199
+birthplace = 3
+strength = 17
+speed = 15
+stamina = 35
+skill = 42
+striking = 15
+charisma = 15
+pop_north_america = 10
+pop_latin_america = 9
+pop_europe = 6
+pop_asia = 31
+pop_africa = 14
+pop_oceania = 14

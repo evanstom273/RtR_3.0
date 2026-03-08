@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://d1lt6rffhp76t"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_tlghj"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_a1gks"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_1l76q"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_y8c0b"]
+
+[resource]
+script = ExtResource("4_y8c0b")
+CharacterName = "Tommaso Bruno"
+ClassType = 2
+Division = 1
+Age = 42
+Weight = 178
+birthplace = 2
+country_europe = 5
+strength = 20
+speed = 21
+stamina = 32
+skill = 41
+striking = 15
+charisma = 26
+pop_north_america = 13
+pop_latin_america = 13
+pop_europe = 37
+pop_asia = 6
+pop_africa = 11
+pop_oceania = 14

@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://5dpofilqyghg"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_4dy3j"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_41roi"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_dhox8"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_bn6xq"]
+
+[resource]
+script = ExtResource("4_bn6xq")
+CharacterName = "Akira Ogawa"
+ClassType = 4
+Age = 33
+Height = "5'8\""
+Weight = 231
+birthplace = 3
+strength = 17
+speed = 32
+stamina = 26
+skill = 11
+striking = 49
+charisma = 22
+pop_north_america = 5
+pop_latin_america = 10
+pop_europe = 7
+pop_asia = 34
+pop_africa = 11
+pop_oceania = 6

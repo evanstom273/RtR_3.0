@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bf0p2b3q40b0o"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_mxxyi"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_627ve"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_8sre6"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_rmjtr"]
+
+[resource]
+script = ExtResource("4_rmjtr")
+CharacterName = "Abigail Morin"
+ClassType = 1
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 37
+Height = "5'10\""
+Weight = 130
+country_north_america = 1
+strength = 12
+speed = 46
+stamina = 42
+skill = 24
+striking = 20
+charisma = 21
+pop_north_america = 31
+pop_latin_america = 7
+pop_europe = 11
+pop_asia = 5
+pop_africa = 5
+pop_oceania = 14

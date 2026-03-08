@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bbgy6kucayjbm"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_bqds6"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ykb33"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_clh8s"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ro5pk"]
+
+[resource]
+script = ExtResource("4_ro5pk")
+CharacterName = "William Williams"
+ClassType = 3
+Division = 1
+Age = 35
+Height = "6'11\""
+Weight = 319
+birthplace = 2
+strength = 28
+speed = 14
+stamina = 22
+skill = 19
+striking = 37
+charisma = 25
+pop_north_america = 6
+pop_latin_america = 8
+pop_europe = 31
+pop_asia = 8
+pop_africa = 5
+pop_oceania = 12

@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cnmsse3gu2hei"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_drxu3"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_eom4y"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_gcmff"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_lf75p"]
+
+[resource]
+script = ExtResource("4_lf75p")
+CharacterName = "Xolani Zungu"
+ClassType = 3
+Age = 45
+Height = "5'9\""
+Weight = 310
+birthplace = 4
+country_africa = 1
+strength = 31
+speed = 15
+stamina = 27
+skill = 17
+striking = 47
+charisma = 28
+pop_north_america = 13
+pop_latin_america = 9
+pop_europe = 15
+pop_asia = 9
+pop_africa = 36
+pop_oceania = 8

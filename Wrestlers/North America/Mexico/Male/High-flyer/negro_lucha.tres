@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dvkm5b884fqgx"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_1sl7k"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_hqc7i"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_trn3e"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_63hia"]
+
+[resource]
+script = ExtResource("4_63hia")
+CharacterName = "Negro Lucha"
+ClassType = 1
+Disposition = 1
+Age = 59
+Height = "6'1\""
+Weight = 229
+country_north_america = 2
+strength = 11
+speed = 47
+stamina = 33
+skill = 30
+striking = 25
+charisma = 20
+pop_north_america = 43
+pop_latin_america = 14
+pop_europe = 7
+pop_asia = 10
+pop_africa = 11
+pop_oceania = 10

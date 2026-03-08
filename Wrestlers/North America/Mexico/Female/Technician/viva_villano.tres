@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ha858yusr3j1"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ybhrl"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ei2ij"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_l605j"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_abcih"]
+
+[resource]
+script = ExtResource("4_abcih")
+CharacterName = "Viva Villano"
+ClassType = 2
+Gender = 1
+Division = 2
+Age = 43
+Height = "5'9\""
+Weight = 174
+country_north_america = 2
+strength = 21
+speed = 25
+stamina = 31
+skill = 42
+striking = 15
+charisma = 25
+pop_north_america = 32
+pop_latin_america = 15
+pop_europe = 7
+pop_asia = 5
+pop_africa = 9
+pop_oceania = 11

@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://3wxl4d4tut3o"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_v5cof"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_emdqv"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_338fw"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_qrytq"]
+
+[resource]
+script = ExtResource("4_qrytq")
+CharacterName = "Beau Chase"
+ClassType = 2
+Disposition = 1
+Age = 58
+Height = "6'2\""
+Weight = 311
+strength = 16
+speed = 17
+stamina = 30
+skill = 41
+charisma = 24
+pop_north_america = 41
+pop_latin_america = 9
+pop_europe = 14
+pop_asia = 9
+pop_africa = 11
+pop_oceania = 6

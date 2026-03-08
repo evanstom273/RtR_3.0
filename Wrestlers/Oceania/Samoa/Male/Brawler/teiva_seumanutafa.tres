@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cjvc2kn48ijtt"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_n8i3h"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_cwj3c"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_cgerj"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_pet6m"]
+
+[resource]
+script = ExtResource("4_pet6m")
+CharacterName = "Teiva Seumanutafa"
+ClassType = 3
+Disposition = 1
+Age = 53
+Height = "6'6\""
+Weight = 178
+birthplace = 5
+country_oceania = 2
+strength = 34
+speed = 16
+stamina = 22
+skill = 11
+striking = 36
+charisma = 15
+pop_north_america = 15
+pop_latin_america = 8
+pop_europe = 15
+pop_asia = 8
+pop_africa = 13
+pop_oceania = 40

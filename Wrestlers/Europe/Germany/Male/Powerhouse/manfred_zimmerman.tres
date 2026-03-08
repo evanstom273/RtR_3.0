@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bphv634pqugrx"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_mp3d8"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_42gyi"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_l3geh"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_co8vp"]
+
+[resource]
+script = ExtResource("4_co8vp")
+CharacterName = "Manfred Zimmerman"
+Age = 30
+Height = "5'6\""
+Weight = 205
+birthplace = 2
+country_europe = 3
+strength = 44
+speed = 12
+stamina = 35
+skill = 20
+striking = 16
+charisma = 27
+pop_north_america = 12
+pop_latin_america = 7
+pop_europe = 39
+pop_asia = 12
+pop_africa = 14
+pop_oceania = 14

@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://7m1t7y16m65m"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_f12j7"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_v6a5s"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_gi0mg"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_xr8do"]
+
+[resource]
+script = ExtResource("4_xr8do")
+CharacterName = "Joon Nam"
+ClassType = 1
+Division = 1
+Age = 61
+Height = "6'11\""
+Weight = 269
+birthplace = 3
+country_asia = 3
+strength = 13
+speed = 43
+stamina = 39
+skill = 30
+striking = 23
+charisma = 32
+pop_north_america = 6
+pop_latin_america = 11
+pop_europe = 10
+pop_asia = 52
+pop_africa = 10
+pop_oceania = 11

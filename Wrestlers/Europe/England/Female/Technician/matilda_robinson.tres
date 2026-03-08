@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://k3oofbfsjkg0"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_54ovq"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_e4scw"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_uv28j"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_kbepj"]
+
+[resource]
+script = ExtResource("4_kbepj")
+CharacterName = "Matilda Robinson"
+ClassType = 2
+Gender = 1
+Division = 2
+Age = 64
+Height = "5'5\""
+Weight = 164
+birthplace = 2
+strength = 15
+speed = 15
+stamina = 32
+skill = 43
+striking = 20
+charisma = 16
+pop_north_america = 6
+pop_latin_america = 15
+pop_europe = 38
+pop_asia = 11
+pop_africa = 9
+pop_oceania = 12

@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://16ag2irpslj3"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_e6kys"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_x7lr3"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_40q80"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_xh2fn"]
+
+[resource]
+script = ExtResource("4_xh2fn")
+CharacterName = "Lucas Levesque"
+Division = 1
+Disposition = 1
+Age = 35
+Height = "6'3\""
+Weight = 193
+country_north_america = 1
+strength = 39
+speed = 14
+stamina = 27
+skill = 23
+striking = 22
+charisma = 29
+pop_north_america = 47
+pop_latin_america = 6
+pop_europe = 6
+pop_asia = 13
+pop_africa = 15
+pop_oceania = 13

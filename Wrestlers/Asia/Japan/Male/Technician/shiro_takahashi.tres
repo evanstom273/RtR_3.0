@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cfj63m6y085lk"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_k0eai"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_n1atr"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_miff4"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_wqb5u"]
+
+[resource]
+script = ExtResource("4_wqb5u")
+CharacterName = "Shiro Takahashi"
+ClassType = 2
+Disposition = 1
+Age = 27
+Height = "6'7\""
+Weight = 228
+birthplace = 3
+strength = 17
+speed = 18
+stamina = 32
+skill = 44
+striking = 14
+charisma = 15
+pop_north_america = 8
+pop_latin_america = 14
+pop_europe = 12
+pop_asia = 46
+pop_africa = 9
+pop_oceania = 9

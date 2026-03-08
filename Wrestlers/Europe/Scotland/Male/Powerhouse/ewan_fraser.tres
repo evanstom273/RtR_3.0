@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dj0pikjnc4qw5"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_kbunr"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_qmpkr"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_xt4t3"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_mwxyc"]
+
+[resource]
+script = ExtResource("4_mwxyc")
+CharacterName = "Ewan Fraser"
+Division = 1
+Age = 26
+Height = "6'4\""
+Weight = 298
+birthplace = 2
+country_europe = 1
+strength = 45
+speed = 19
+stamina = 25
+skill = 17
+striking = 25
+charisma = 24
+pop_north_america = 14
+pop_latin_america = 13
+pop_europe = 32
+pop_asia = 14
+pop_africa = 6
+pop_oceania = 12

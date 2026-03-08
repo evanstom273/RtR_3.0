@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://djgsaxchx4dor"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_roivh"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_oql2h"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_165f6"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_6seon"]
+
+[resource]
+script = ExtResource("4_6seon")
+CharacterName = "Obi Eze"
+Age = 54
+Height = "6'8\""
+Weight = 229
+birthplace = 4
+strength = 42
+stamina = 33
+skill = 18
+striking = 23
+charisma = 15
+pop_north_america = 9
+pop_latin_america = 7
+pop_europe = 6
+pop_asia = 7
+pop_africa = 29
+pop_oceania = 8

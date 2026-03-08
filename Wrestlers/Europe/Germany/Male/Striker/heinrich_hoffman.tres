@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://d2f6brj0ew4qj"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_mg8ck"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_cb38v"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_16yhr"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_pjdn2"]
+
+[resource]
+script = ExtResource("4_pjdn2")
+CharacterName = "Heinrich Hoffman"
+ClassType = 4
+Disposition = 1
+Age = 50
+Height = "6'8\""
+Weight = 236
+birthplace = 2
+country_europe = 3
+strength = 16
+speed = 34
+stamina = 25
+striking = 41
+charisma = 21
+pop_north_america = 5
+pop_latin_america = 12
+pop_europe = 40
+pop_asia = 14
+pop_africa = 8
+pop_oceania = 5

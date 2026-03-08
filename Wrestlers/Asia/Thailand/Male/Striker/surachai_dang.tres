@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cndovwc058o8d"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_w3d5k"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_8u07b"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_fpxwl"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_liq3b"]
+
+[resource]
+script = ExtResource("4_liq3b")
+CharacterName = "Surachai Dang"
+ClassType = 4
+Disposition = 1
+Age = 24
+Height = "5'11\""
+Weight = 223
+birthplace = 3
+strength = 19
+speed = 27
+stamina = 27
+skill = 19
+striking = 46
+charisma = 20
+pop_north_america = 9
+pop_latin_america = 10
+pop_europe = 14
+pop_asia = 30
+pop_africa = 7
+pop_oceania = 15

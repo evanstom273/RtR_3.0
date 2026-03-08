@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c3wo772wks68x"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_hcb1b"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_8oa1a"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_mepwl"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_mkf8l"]
+
+[resource]
+script = ExtResource("4_mkf8l")
+CharacterName = "Remy Fournier"
+ClassType = 2
+Division = 1
+Disposition = 1
+Age = 64
+Height = "6'11\""
+Weight = 262
+birthplace = 2
+country_europe = 2
+strength = 24
+speed = 24
+stamina = 27
+skill = 50
+striking = 17
+charisma = 28
+pop_north_america = 13
+pop_latin_america = 5
+pop_europe = 42
+pop_asia = 12
+pop_africa = 9
+pop_oceania = 6

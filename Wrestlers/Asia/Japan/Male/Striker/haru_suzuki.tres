@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cmsm06n6o02tb"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ysrxa"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_vb6ec"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_auogc"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ngy6s"]
+
+[resource]
+script = ExtResource("4_ngy6s")
+CharacterName = "Haru Suzuki"
+ClassType = 4
+Division = 1
+Age = 42
+Height = "5'6\""
+Weight = 206
+birthplace = 3
+strength = 17
+speed = 35
+stamina = 30
+skill = 11
+striking = 39
+charisma = 16
+pop_north_america = 11
+pop_latin_america = 7
+pop_europe = 13
+pop_asia = 42
+pop_africa = 12
+pop_oceania = 14

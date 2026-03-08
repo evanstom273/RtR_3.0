@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bw3papeyba5aq"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_8gm6p"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_5xn65"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_m3br8"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_tt32f"]
+
+[resource]
+script = ExtResource("4_tt32f")
+CharacterName = "Yuji Sato"
+ClassType = 2
+Disposition = 1
+Age = 35
+Height = "6'1\""
+Weight = 271
+birthplace = 3
+strength = 24
+speed = 16
+stamina = 35
+skill = 45
+striking = 12
+charisma = 18
+pop_north_america = 5
+pop_latin_america = 5
+pop_europe = 14
+pop_asia = 37
+pop_africa = 6
+pop_oceania = 13

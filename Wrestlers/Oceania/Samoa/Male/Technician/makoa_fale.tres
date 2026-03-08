@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cbksanc7l6xnk"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_e00pd"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_gw01s"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ogkuf"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_kvy64"]
+
+[resource]
+script = ExtResource("4_kvy64")
+CharacterName = "Makoa Fale"
+ClassType = 2
+Age = 47
+Height = "6'3\""
+Weight = 222
+birthplace = 5
+country_oceania = 2
+strength = 24
+speed = 23
+stamina = 33
+skill = 37
+striking = 13
+charisma = 16
+pop_north_america = 6
+pop_latin_america = 14
+pop_europe = 15
+pop_asia = 14
+pop_africa = 13
+pop_oceania = 44

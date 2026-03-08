@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://d2gycoyqb5aw5"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_kdo5k"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_abpjt"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_noo8u"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_2e8s7"]
+
+[resource]
+script = ExtResource("4_2e8s7")
+CharacterName = "Ichiro Goto"
+ClassType = 4
+Division = 1
+Disposition = 1
+Age = 42
+Height = "6'8\""
+Weight = 285
+birthplace = 3
+strength = 12
+speed = 31
+stamina = 24
+skill = 12
+striking = 44
+charisma = 21
+pop_north_america = 9
+pop_latin_america = 15
+pop_europe = 15
+pop_asia = 46
+pop_africa = 14
+pop_oceania = 9

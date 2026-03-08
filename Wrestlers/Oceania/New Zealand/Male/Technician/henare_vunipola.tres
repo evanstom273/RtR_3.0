@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://d16b4pjg27xix"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_uq7io"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_o71kk"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_qbjq1"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_xsg05"]
+
+[resource]
+script = ExtResource("4_xsg05")
+CharacterName = "Henare Vunipola"
+ClassType = 2
+Division = 1
+Age = 41
+Height = "6'10\""
+Weight = 174
+birthplace = 5
+strength = 21
+speed = 15
+stamina = 35
+skill = 38
+striking = 19
+charisma = 27
+pop_north_america = 15
+pop_latin_america = 6
+pop_europe = 10
+pop_asia = 8
+pop_africa = 5
+pop_oceania = 44

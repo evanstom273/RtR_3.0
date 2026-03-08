@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://xmucv7s2mp8i"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_msbm6"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ph8fe"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_bvo2x"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_i8sn5"]
+
+[resource]
+script = ExtResource("4_i8sn5")
+CharacterName = "Dhruv Banerjee"
+ClassType = 4
+Age = 43
+Height = "6'1\""
+Weight = 296
+birthplace = 3
+country_asia = 2
+strength = 14
+speed = 31
+stamina = 24
+skill = 18
+striking = 50
+charisma = 20
+pop_north_america = 12
+pop_latin_america = 9
+pop_europe = 9
+pop_asia = 35
+pop_africa = 8
+pop_oceania = 6

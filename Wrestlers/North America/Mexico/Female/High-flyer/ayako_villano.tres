@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://w3bk11l0bwm0"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_20m5m"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_b6qmh"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_dwq0g"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_0l2r6"]
+
+[resource]
+script = ExtResource("4_0l2r6")
+CharacterName = "Ayako Villano"
+ClassType = 1
+Gender = 1
+Division = 2
+Age = 38
+Height = "5'2\""
+Weight = 192
+country_north_america = 2
+strength = 11
+speed = 46
+stamina = 40
+skill = 21
+striking = 15
+charisma = 32
+pop_north_america = 26
+pop_latin_america = 7
+pop_europe = 8
+pop_asia = 11
+pop_africa = 6
+pop_oceania = 10

@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bchglne6vhfkh"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ymdi4"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_1u0mc"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_qlinq"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ctc5c"]
+
+[resource]
+script = ExtResource("4_ctc5c")
+CharacterName = "Sipho Nkosi"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 50
+Height = "7'0\""
+Weight = 180
+birthplace = 4
+country_africa = 1
+strength = 32
+speed = 12
+stamina = 21
+skill = 15
+striking = 44
+charisma = 23
+pop_north_america = 12
+pop_latin_america = 9
+pop_europe = 7
+pop_asia = 10
+pop_africa = 52
+pop_oceania = 7

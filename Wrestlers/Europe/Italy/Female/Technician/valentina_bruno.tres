@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://n3mraoitq1d"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_mb8jb"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_070kq"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_vwlh0"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_wlbj1"]
+
+[resource]
+script = ExtResource("4_wlbj1")
+CharacterName = "Valentina Bruno"
+ClassType = 2
+Gender = 1
+Division = 2
+Age = 29
+Height = "5'3\""
+Weight = 143
+birthplace = 2
+country_europe = 5
+strength = 18
+speed = 19
+stamina = 34
+skill = 49
+striking = 19
+charisma = 20
+pop_north_america = 10
+pop_latin_america = 7
+pop_europe = 36
+pop_asia = 13
+pop_africa = 7
+pop_oceania = 6

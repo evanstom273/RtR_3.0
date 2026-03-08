@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://d0w7ct6t1dc87"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_elhur"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_2soyx"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_f84ix"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_do74f"]
+
+[resource]
+script = ExtResource("4_do74f")
+CharacterName = "Ivy Brown"
+ClassType = 3
+Gender = 1
+Division = 2
+Age = 41
+Height = "5'0\""
+Weight = 149
+birthplace = 5
+country_oceania = 1
+strength = 29
+speed = 19
+stamina = 27
+skill = 11
+striking = 46
+charisma = 25
+pop_north_america = 6
+pop_latin_america = 13
+pop_europe = 5
+pop_asia = 8
+pop_africa = 6
+pop_oceania = 35

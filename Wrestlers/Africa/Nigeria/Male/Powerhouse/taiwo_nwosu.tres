@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ujipwqdebf3t"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_cx4v2"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_5rjbm"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_8cqgb"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_g2xm7"]
+
+[resource]
+script = ExtResource("4_g2xm7")
+CharacterName = "Taiwo Nwosu"
+Division = 1
+Weight = 186
+birthplace = 4
+strength = 41
+speed = 19
+stamina = 27
+skill = 19
+striking = 23
+charisma = 20
+pop_north_america = 6
+pop_latin_america = 8
+pop_europe = 5
+pop_asia = 11
+pop_africa = 35
+pop_oceania = 9

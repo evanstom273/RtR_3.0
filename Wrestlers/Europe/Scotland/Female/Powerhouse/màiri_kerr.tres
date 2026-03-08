@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bpkpn14rma2fu"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_j7rho"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ns4y7"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_wtm4d"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ifd3o"]
+
+[resource]
+script = ExtResource("4_ifd3o")
+CharacterName = "Màiri Kerr"
+Gender = 1
+Division = 2
+Age = 28
+Height = "5'8\""
+Weight = 135
+birthplace = 2
+country_europe = 1
+strength = 48
+speed = 18
+stamina = 25
+skill = 19
+striking = 22
+charisma = 25
+pop_north_america = 12
+pop_latin_america = 9
+pop_europe = 36
+pop_asia = 12
+pop_africa = 5
+pop_oceania = 11

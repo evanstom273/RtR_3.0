@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://sssqobjoi80y"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_jni0s"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_uqm20"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_dw1xg"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_q726p"]
+
+[resource]
+script = ExtResource("4_q726p")
+CharacterName = "Arjun Bose"
+Division = 1
+Age = 60
+Height = "5'6\""
+Weight = 312
+birthplace = 3
+country_asia = 2
+strength = 49
+speed = 11
+stamina = 27
+skill = 19
+striking = 23
+charisma = 27
+pop_north_america = 14
+pop_latin_america = 14
+pop_europe = 10
+pop_asia = 44
+pop_africa = 13
+pop_oceania = 9

@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cgbt1ltopohxo"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_lexcl"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_iaolm"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ww4sf"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_lsv7t"]
+
+[resource]
+script = ExtResource("4_lsv7t")
+CharacterName = "Leilani Tupou"
+Gender = 1
+Division = 2
+Age = 53
+Height = "5'7\""
+Weight = 162
+birthplace = 5
+country_oceania = 2
+strength = 43
+speed = 17
+stamina = 30
+skill = 17
+striking = 16
+charisma = 15
+pop_north_america = 11
+pop_latin_america = 7
+pop_europe = 10
+pop_asia = 9
+pop_africa = 12
+pop_oceania = 27

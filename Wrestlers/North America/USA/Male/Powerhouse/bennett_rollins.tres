@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b1sj8ekltbacc"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_31c4o"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_kjrk7"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_7swaj"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_5biot"]
+
+[resource]
+script = ExtResource("4_5biot")
+CharacterName = "Bennett Rollins"
+Division = 1
+Disposition = 1
+Age = 57
+Height = "5'10\""
+Weight = 309
+strength = 43
+speed = 20
+stamina = 29
+skill = 21
+striking = 23
+charisma = 24
+pop_north_america = 34
+pop_latin_america = 5
+pop_europe = 11
+pop_asia = 12
+pop_africa = 5
+pop_oceania = 8

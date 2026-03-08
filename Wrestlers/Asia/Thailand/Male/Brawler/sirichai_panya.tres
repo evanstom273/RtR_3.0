@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bbk5v1kgc7v25"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_45fau"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_6axi7"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_4avgl"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_inkyv"]
+
+[resource]
+script = ExtResource("4_inkyv")
+CharacterName = "Sirichai Panya"
+ClassType = 3
+Division = 1
+Age = 58
+Height = "6'11\""
+Weight = 247
+birthplace = 3
+strength = 25
+speed = 15
+stamina = 26
+skill = 16
+striking = 44
+charisma = 28
+pop_north_america = 14
+pop_latin_america = 13
+pop_europe = 6
+pop_asia = 38
+pop_africa = 6
+pop_oceania = 13

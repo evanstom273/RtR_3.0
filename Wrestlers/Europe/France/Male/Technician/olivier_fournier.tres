@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bdfwr1aw3qaf5"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_1tgcs"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_mjquh"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ojtwc"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_01356"]
+
+[resource]
+script = ExtResource("4_01356")
+CharacterName = "Olivier Fournier"
+ClassType = 2
+Disposition = 1
+Age = 46
+Height = "5'7\""
+Weight = 208
+birthplace = 2
+country_europe = 2
+strength = 22
+speed = 23
+stamina = 26
+skill = 50
+striking = 18
+charisma = 25
+pop_north_america = 7
+pop_latin_america = 7
+pop_europe = 30
+pop_asia = 9
+pop_africa = 14
+pop_oceania = 14

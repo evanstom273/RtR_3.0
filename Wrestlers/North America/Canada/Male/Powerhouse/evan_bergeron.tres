@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cabgy3jyyv8jx"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_nsk6v"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_b3bmc"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_qcsr2"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_xjdv5"]
+
+[resource]
+script = ExtResource("4_xjdv5")
+CharacterName = "Evan Bergeron"
+Division = 1
+Age = 65
+Height = "5'6\""
+Weight = 215
+country_north_america = 1
+strength = 47
+speed = 18
+stamina = 29
+skill = 24
+striking = 23
+charisma = 28
+pop_north_america = 41
+pop_latin_america = 13
+pop_europe = 9
+pop_asia = 9
+pop_africa = 15
+pop_oceania = 8

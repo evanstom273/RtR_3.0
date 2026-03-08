@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://clp5ukthsg2tk"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_rmwby"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_lphtg"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_7pmf2"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_otu16"]
+
+[resource]
+script = ExtResource("4_otu16")
+CharacterName = "Stefan Schmidt"
+ClassType = 2
+Disposition = 1
+Age = 58
+Height = "5'11\""
+Weight = 264
+birthplace = 2
+country_europe = 3
+strength = 16
+speed = 19
+stamina = 28
+skill = 35
+striking = 11
+charisma = 29
+pop_north_america = 10
+pop_latin_america = 12
+pop_europe = 33
+pop_asia = 6
+pop_africa = 7
+pop_oceania = 14

@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://grjejftf3wsh"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_gyi2x"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_k7q4u"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_f8m2g"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_jvwv4"]
+
+[resource]
+script = ExtResource("4_jvwv4")
+CharacterName = "Fionn Burke"
+ClassType = 4
+Disposition = 1
+Age = 56
+Height = "5'7\""
+Weight = 230
+birthplace = 2
+country_europe = 4
+strength = 18
+speed = 29
+stamina = 26
+skill = 11
+striking = 47
+charisma = 30
+pop_north_america = 10
+pop_latin_america = 7
+pop_europe = 30
+pop_asia = 14
+pop_africa = 13
+pop_oceania = 8

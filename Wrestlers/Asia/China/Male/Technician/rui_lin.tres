@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ogwwweua8wci"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_shq4o"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_jm4cy"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_cwmpv"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_rv31q"]
+
+[resource]
+script = ExtResource("4_rv31q")
+CharacterName = "Rui Lin"
+ClassType = 2
+Division = 1
+Age = 54
+Height = "5'9\""
+Weight = 196
+birthplace = 3
+country_asia = 1
+strength = 20
+speed = 19
+stamina = 26
+skill = 36
+striking = 12
+charisma = 16
+pop_north_america = 15
+pop_latin_america = 8
+pop_europe = 7
+pop_asia = 41
+pop_africa = 8
+pop_oceania = 7

@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c0axo2v7m76qp"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_uvgyt"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_06ktv"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_4r06u"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_mrfox"]
+
+[resource]
+script = ExtResource("4_mrfox")
+CharacterName = "Gunner Rollins"
+Disposition = 1
+Age = 47
+Height = "6'1\""
+Weight = 198
+strength = 37
+speed = 20
+stamina = 25
+skill = 16
+striking = 17
+charisma = 20
+pop_north_america = 48
+pop_latin_america = 12
+pop_europe = 15
+pop_asia = 9
+pop_africa = 13
+pop_oceania = 5

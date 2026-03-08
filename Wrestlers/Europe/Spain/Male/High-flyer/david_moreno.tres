@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bfmkw40ck3vdh"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_8jk3c"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_r2142"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_rpe62"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_bie6i"]
+
+[resource]
+script = ExtResource("4_bie6i")
+CharacterName = "David Moreno"
+ClassType = 1
+Division = 1
+Age = 24
+Height = "6'8\""
+birthplace = 2
+country_europe = 6
+strength = 16
+speed = 38
+stamina = 44
+skill = 23
+striking = 20
+charisma = 28
+pop_north_america = 8
+pop_latin_america = 6
+pop_europe = 43
+pop_asia = 8
+pop_africa = 5
+pop_oceania = 9

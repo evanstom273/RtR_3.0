@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cahy8f4t2xuek"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_pvb4d"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ygegu"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_qgn67"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_jhbac"]
+
+[resource]
+script = ExtResource("4_jhbac")
+CharacterName = "Filippo Esposito"
+ClassType = 2
+Division = 1
+Age = 59
+Height = "6'10\""
+Weight = 176
+birthplace = 2
+country_europe = 5
+strength = 17
+speed = 20
+stamina = 31
+skill = 40
+striking = 20
+charisma = 16
+pop_north_america = 15
+pop_latin_america = 13
+pop_europe = 30
+pop_asia = 12
+pop_africa = 9
+pop_oceania = 15

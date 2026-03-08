@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://br7d0vcnwn2ht"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_7sip3"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_lispm"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_01f0i"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_jcb4x"]
+
+[resource]
+script = ExtResource("4_jcb4x")
+CharacterName = "Akwasi Conteh"
+ClassType = 1
+Division = 1
+Age = 29
+Height = "6'1\""
+Weight = 225
+birthplace = 4
+country_africa = 2
+strength = 12
+speed = 40
+stamina = 42
+skill = 29
+striking = 22
+charisma = 26
+pop_north_america = 7
+pop_latin_america = 8
+pop_europe = 14
+pop_asia = 13
+pop_africa = 45
+pop_oceania = 13

@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://7s3bp5qr2j45"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_hfop2"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_xcgng"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_02yjf"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_0q3in"]
+
+[resource]
+script = ExtResource("4_0q3in")
+CharacterName = "Lupe Sika"
+Division = 1
+Age = 64
+Height = "5'10\""
+Weight = 179
+birthplace = 5
+country_oceania = 2
+strength = 37
+speed = 17
+stamina = 28
+skill = 17
+striking = 18
+charisma = 18
+pop_north_america = 14
+pop_latin_america = 7
+pop_europe = 10
+pop_asia = 12
+pop_africa = 8
+pop_oceania = 26

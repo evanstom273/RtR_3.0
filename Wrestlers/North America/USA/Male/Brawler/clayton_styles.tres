@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cphw1oyc3g7hv"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_535o7"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_sjriy"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_nc43n"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_qbm72"]
+
+[resource]
+script = ExtResource("4_qbm72")
+CharacterName = "Clayton Styles"
+ClassType = 3
+Division = 1
+Age = 64
+Height = "6'1\""
+Weight = 280
+strength = 32
+speed = 15
+stamina = 28
+skill = 12
+striking = 48
+charisma = 16
+pop_north_america = 39
+pop_latin_america = 12
+pop_europe = 5
+pop_asia = 8
+pop_africa = 5
+pop_oceania = 6

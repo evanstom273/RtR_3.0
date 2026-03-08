@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://1lgb7p8nxmsr"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_sjbq3"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_4588a"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ppg72"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_fq4uw"]
+
+[resource]
+script = ExtResource("4_fq4uw")
+CharacterName = "Ha-yoon Kang"
+ClassType = 1
+Gender = 1
+Division = 2
+Height = "5'6\""
+Weight = 115
+birthplace = 3
+country_asia = 3
+strength = 16
+speed = 40
+stamina = 44
+skill = 30
+striking = 24
+charisma = 32
+pop_north_america = 14
+pop_latin_america = 8
+pop_europe = 13
+pop_asia = 40
+pop_africa = 6
+pop_oceania = 10

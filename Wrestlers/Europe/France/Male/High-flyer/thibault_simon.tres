@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://hbjeel22obe5"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_pmgb1"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_wic3m"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_c1i5e"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_jgdbl"]
+
+[resource]
+script = ExtResource("4_jgdbl")
+CharacterName = "Thibault Simon"
+ClassType = 1
+Age = 62
+Height = "5'8\""
+Weight = 215
+birthplace = 2
+country_europe = 2
+strength = 19
+speed = 48
+stamina = 33
+skill = 24
+striking = 17
+charisma = 25
+pop_north_america = 11
+pop_latin_america = 5
+pop_europe = 35
+pop_asia = 7
+pop_africa = 6
+pop_oceania = 15

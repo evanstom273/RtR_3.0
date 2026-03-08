@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://qju10h8w2jyg"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_8mevh"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_6tmsg"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_5styl"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_q44k2"]
+
+[resource]
+script = ExtResource("4_q44k2")
+CharacterName = "Beau Knight"
+ClassType = 3
+Division = 1
+Age = 56
+Height = "6'6\""
+Weight = 262
+strength = 29
+speed = 14
+stamina = 28
+skill = 19
+striking = 36
+charisma = 21
+pop_north_america = 32
+pop_latin_america = 5
+pop_europe = 11
+pop_asia = 11
+pop_africa = 9
+pop_oceania = 5

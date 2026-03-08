@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bo54ruotan6vt"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_r6t85"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_gfpig"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_eyot0"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_osgsr"]
+
+[resource]
+script = ExtResource("4_osgsr")
+CharacterName = "Graeme Duncan"
+Age = 61
+Height = "6'10\""
+birthplace = 2
+country_europe = 1
+strength = 49
+speed = 11
+stamina = 26
+skill = 23
+striking = 25
+charisma = 20
+pop_north_america = 10
+pop_latin_america = 10
+pop_europe = 43
+pop_asia = 6
+pop_africa = 6
+pop_oceania = 11

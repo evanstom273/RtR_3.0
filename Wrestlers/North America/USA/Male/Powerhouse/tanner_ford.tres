@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ci8d6mgyghalx"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_gck8u"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_dssm6"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_yp0j8"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ctcxq"]
+
+[resource]
+script = ExtResource("4_ctcxq")
+CharacterName = "Tanner Ford"
+Division = 1
+Disposition = 1
+Age = 57
+Height = "5'8\""
+Weight = 183
+strength = 39
+speed = 12
+stamina = 25
+skill = 20
+striking = 22
+charisma = 23
+pop_north_america = 47
+pop_latin_america = 6
+pop_europe = 14
+pop_asia = 14
+pop_africa = 8
+pop_oceania = 6

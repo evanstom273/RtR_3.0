@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bp1yi1tneyvv7"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_3towb"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_a81vi"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_grvo2"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_lu84n"]
+
+[resource]
+script = ExtResource("4_lu84n")
+CharacterName = "Rodrigo Garcia"
+ClassType = 2
+Disposition = 1
+Age = 58
+Height = "6'3\""
+Weight = 195
+birthplace = 1
+country_latin_america = 1
+strength = 19
+speed = 15
+stamina = 35
+skill = 46
+striking = 15
+charisma = 26
+pop_north_america = 7
+pop_latin_america = 31
+pop_europe = 13
+pop_asia = 6
+pop_africa = 15
+pop_oceania = 6

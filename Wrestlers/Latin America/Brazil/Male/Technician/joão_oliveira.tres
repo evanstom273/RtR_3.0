@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dl05q4vobwj0x"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_b4e2g"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_vc6ek"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_0onte"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_xvi2c"]
+
+[resource]
+script = ExtResource("4_xvi2c")
+CharacterName = "João Oliveira"
+ClassType = 2
+Division = 1
+Age = 29
+Height = "6'6\""
+Weight = 184
+birthplace = 1
+strength = 15
+speed = 19
+stamina = 27
+skill = 40
+charisma = 21
+pop_north_america = 9
+pop_latin_america = 35
+pop_europe = 12
+pop_asia = 9
+pop_africa = 11
+pop_oceania = 7

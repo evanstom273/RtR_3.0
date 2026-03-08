@@ -1,0 +1,31 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dtcaljq46ottw"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_3kisj"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_6hnrj"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_vhbeo"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_t8b40"]
+
+[resource]
+script = ExtResource("4_t8b40")
+CharacterName = "Enyonam Barry"
+ClassType = 4
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 64
+Height = "5'1\""
+Weight = 184
+birthplace = 4
+country_africa = 2
+strength = 11
+speed = 25
+stamina = 23
+skill = 11
+striking = 48
+charisma = 20
+pop_north_america = 10
+pop_latin_america = 10
+pop_europe = 14
+pop_asia = 10
+pop_africa = 49
+pop_oceania = 13

@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bi82myhvl0rxh"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_53jay"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_4kqmu"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_cdwdu"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_v5n1s"]
+
+[resource]
+script = ExtResource("4_v5n1s")
+CharacterName = "Tiffany Perro"
+ClassType = 1
+Gender = 1
+Division = 2
+Age = 54
+Height = "5'8\""
+Weight = 190
+country_north_america = 2
+strength = 15
+speed = 44
+stamina = 40
+skill = 26
+striking = 22
+charisma = 34
+pop_north_america = 32
+pop_latin_america = 8
+pop_europe = 13
+pop_asia = 15
+pop_africa = 13
+pop_oceania = 15

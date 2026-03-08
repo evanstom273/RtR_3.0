@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dgnwa37lfy6jr"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_6eyb4"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_rqeqs"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_lq2pk"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_jel0c"]
+
+[resource]
+script = ExtResource("4_jel0c")
+CharacterName = "Darragh Gallagher"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 61
+Height = "6'10\""
+Weight = 303
+birthplace = 2
+country_europe = 4
+strength = 33
+speed = 13
+stamina = 24
+skill = 11
+striking = 46
+charisma = 15
+pop_north_america = 11
+pop_latin_america = 15
+pop_europe = 52
+pop_asia = 13
+pop_africa = 7
+pop_oceania = 8

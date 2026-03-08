@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ceksavgq3prd0"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_5vyfl"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_n5qoq"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_yqwvm"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_toudp"]
+
+[resource]
+script = ExtResource("4_toudp")
+CharacterName = "Saki Takahashi"
+ClassType = 1
+Gender = 1
+Division = 2
+Age = 33
+Height = "5'5\""
+Weight = 158
+birthplace = 3
+strength = 12
+speed = 40
+stamina = 31
+skill = 21
+striking = 19
+charisma = 21
+pop_north_america = 7
+pop_latin_america = 5
+pop_europe = 7
+pop_asia = 40
+pop_africa = 11
+pop_oceania = 15

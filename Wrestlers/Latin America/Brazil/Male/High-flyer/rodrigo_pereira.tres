@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ksgs2vb4v20r"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_b5fdv"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_qg8ln"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ycfoo"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_2ux3y"]
+
+[resource]
+script = ExtResource("4_2ux3y")
+CharacterName = "Rodrigo Pereira"
+ClassType = 1
+Age = 29
+Height = "5'6\""
+Weight = 262
+birthplace = 1
+strength = 20
+speed = 46
+stamina = 32
+skill = 20
+striking = 15
+charisma = 20
+pop_north_america = 9
+pop_latin_america = 44
+pop_europe = 14
+pop_asia = 7
+pop_africa = 6
+pop_oceania = 6

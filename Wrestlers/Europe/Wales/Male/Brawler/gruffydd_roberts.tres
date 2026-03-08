@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cqos2ejqwfif2"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_70g5q"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_0fo7n"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_01i2o"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_26wjn"]
+
+[resource]
+script = ExtResource("4_26wjn")
+CharacterName = "Gruffydd Roberts"
+ClassType = 3
+Age = 52
+Height = "6'7\""
+Weight = 245
+birthplace = 2
+country_europe = 7
+strength = 31
+speed = 18
+stamina = 23
+skill = 19
+striking = 49
+charisma = 27
+pop_north_america = 5
+pop_latin_america = 13
+pop_europe = 51
+pop_asia = 5
+pop_africa = 14
+pop_oceania = 14

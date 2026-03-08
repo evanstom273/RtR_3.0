@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://crcv3xnuintvt"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_jn710"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_hwhga"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_y5qx3"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_n0t0t"]
+
+[resource]
+script = ExtResource("4_n0t0t")
+CharacterName = "Amelie Laurent"
+ClassType = 2
+Gender = 1
+Division = 2
+Age = 34
+Height = "5'4\""
+Weight = 192
+birthplace = 2
+country_europe = 2
+strength = 19
+speed = 17
+stamina = 31
+skill = 50
+striking = 18
+charisma = 19
+pop_north_america = 11
+pop_latin_america = 8
+pop_europe = 32
+pop_asia = 8
+pop_africa = 6
+pop_oceania = 10

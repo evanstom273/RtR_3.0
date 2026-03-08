@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cgxkbeutkdny4"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_u4cr8"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_lrbpx"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_0wa3x"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_t2m8g"]
+
+[resource]
+script = ExtResource("4_t2m8g")
+CharacterName = "Sinead Quinn"
+ClassType = 3
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 62
+Height = "5'10\""
+Weight = 150
+birthplace = 2
+country_europe = 4
+strength = 26
+speed = 18
+stamina = 21
+striking = 45
+charisma = 21
+pop_north_america = 5
+pop_latin_america = 5
+pop_europe = 52
+pop_asia = 9
+pop_africa = 9
+pop_oceania = 13

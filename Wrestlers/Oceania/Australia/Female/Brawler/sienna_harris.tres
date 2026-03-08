@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://2yhmas0ueftj"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_3u8pt"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_o2n5e"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_wdy26"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_vqckh"]
+
+[resource]
+script = ExtResource("4_vqckh")
+CharacterName = "Sienna Harris"
+ClassType = 3
+Gender = 1
+Division = 2
+Age = 29
+Height = "5'1\""
+Weight = 200
+birthplace = 5
+country_oceania = 1
+strength = 31
+speed = 19
+stamina = 29
+skill = 11
+striking = 36
+charisma = 20
+pop_north_america = 5
+pop_latin_america = 8
+pop_europe = 14
+pop_asia = 14
+pop_africa = 11
+pop_oceania = 32

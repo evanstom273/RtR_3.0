@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://5wgt8iody365"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_yda17"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_3upsw"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_i4ps6"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_loo8m"]
+
+[resource]
+script = ExtResource("4_loo8m")
+CharacterName = "Thanawat Charoensuk"
+ClassType = 4
+Division = 1
+Disposition = 1
+Age = 31
+Height = "5'8\""
+Weight = 228
+birthplace = 3
+strength = 16
+speed = 31
+stamina = 20
+skill = 20
+striking = 35
+charisma = 21
+pop_north_america = 5
+pop_latin_america = 7
+pop_europe = 6
+pop_asia = 44
+pop_africa = 7
+pop_oceania = 11

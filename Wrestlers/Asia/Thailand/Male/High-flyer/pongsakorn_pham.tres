@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ds7fgjbocnu1o"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_lan8m"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_qwtcm"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_g1xnj"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ljtxq"]
+
+[resource]
+script = ExtResource("4_ljtxq")
+CharacterName = "Pongsakorn Pham"
+ClassType = 1
+Disposition = 1
+Age = 39
+Height = "6'6\""
+Weight = 317
+birthplace = 3
+strength = 11
+speed = 41
+stamina = 34
+skill = 22
+striking = 16
+charisma = 31
+pop_north_america = 11
+pop_latin_america = 13
+pop_europe = 7
+pop_asia = 47
+pop_africa = 6
+pop_oceania = 12

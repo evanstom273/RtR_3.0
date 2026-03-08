@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://407mq41oqxeu"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_h2a4p"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_0prk7"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_rd6ng"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ndjqe"]
+
+[resource]
+script = ExtResource("4_ndjqe")
+CharacterName = "Maverick Wolf"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 49
+Height = "5'11\""
+Weight = 170
+strength = 33
+speed = 14
+stamina = 22
+skill = 15
+striking = 47
+charisma = 15
+pop_north_america = 39
+pop_latin_america = 15
+pop_europe = 12
+pop_asia = 11
+pop_africa = 6
+pop_oceania = 13

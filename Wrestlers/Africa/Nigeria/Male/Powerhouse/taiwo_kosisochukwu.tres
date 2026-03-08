@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://le851hx6r8xn"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_sv2g1"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_jf6ul"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_5a3x7"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_y832t"]
+
+[resource]
+script = ExtResource("4_y832t")
+CharacterName = "Taiwo Kosisochukwu"
+Age = 27
+Height = "6'11\""
+Weight = 269
+birthplace = 4
+strength = 43
+speed = 14
+stamina = 33
+skill = 17
+striking = 24
+charisma = 19
+pop_north_america = 13
+pop_latin_america = 9
+pop_europe = 9
+pop_asia = 11
+pop_africa = 31
+pop_oceania = 11

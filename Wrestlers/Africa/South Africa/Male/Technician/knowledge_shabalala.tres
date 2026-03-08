@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bxwrnp0s31ifj"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_joww2"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_rosll"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_yd1j4"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_jo4n2"]
+
+[resource]
+script = ExtResource("4_jo4n2")
+CharacterName = "Knowledge Shabalala"
+ClassType = 2
+Age = 54
+Height = "6'10\""
+Weight = 226
+birthplace = 4
+country_africa = 1
+strength = 21
+speed = 21
+stamina = 29
+skill = 50
+charisma = 30
+pop_north_america = 8
+pop_latin_america = 7
+pop_europe = 5
+pop_asia = 12
+pop_africa = 51
+pop_oceania = 6

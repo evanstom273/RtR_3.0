@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c4b1nu8kfp57x"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ck4re"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_lkeio"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_a68gi"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_13ixc"]
+
+[resource]
+script = ExtResource("4_13ixc")
+CharacterName = "Wilder Styles"
+Division = 1
+Age = 49
+Height = "6'5\""
+Weight = 294
+strength = 37
+speed = 12
+stamina = 27
+skill = 21
+striking = 20
+charisma = 23
+pop_north_america = 36
+pop_latin_america = 8
+pop_europe = 11
+pop_asia = 6
+pop_africa = 14
+pop_oceania = 8

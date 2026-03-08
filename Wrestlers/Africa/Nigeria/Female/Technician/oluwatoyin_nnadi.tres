@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://chts3qvw2c1k8"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_gceoh"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_318u7"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_mycus"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_5jbrv"]
+
+[resource]
+script = ExtResource("4_5jbrv")
+CharacterName = "Oluwatoyin Nnadi"
+ClassType = 2
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 62
+Height = "5'7\""
+Weight = 194
+birthplace = 4
+strength = 24
+speed = 19
+stamina = 29
+skill = 45
+striking = 16
+charisma = 26
+pop_north_america = 10
+pop_latin_america = 8
+pop_europe = 11
+pop_asia = 13
+pop_africa = 31
+pop_oceania = 15

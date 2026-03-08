@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://djal2t6o8wxfx"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_uewic"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_q73b2"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ehhjc"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_6ltcp"]
+
+[resource]
+script = ExtResource("4_6ltcp")
+CharacterName = "Charlie Moore"
+ClassType = 4
+Division = 1
+Disposition = 1
+Age = 31
+Height = "6'6\""
+Weight = 286
+birthplace = 2
+strength = 18
+speed = 35
+stamina = 24
+skill = 16
+striking = 41
+charisma = 15
+pop_north_america = 6
+pop_latin_america = 15
+pop_europe = 37
+pop_asia = 15
+pop_africa = 8
+pop_oceania = 11

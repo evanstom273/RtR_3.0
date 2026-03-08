@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dtgwyijuy6ugl"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_tf6i3"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_5vdwe"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_kxint"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_qi2fj"]
+
+[resource]
+script = ExtResource("4_qi2fj")
+CharacterName = "Owen Boucher"
+ClassType = 2
+Age = 65
+Height = "6'2\""
+Weight = 226
+country_north_america = 1
+strength = 23
+speed = 22
+stamina = 28
+skill = 41
+striking = 11
+charisma = 24
+pop_north_america = 41
+pop_latin_america = 9
+pop_europe = 12
+pop_asia = 5
+pop_africa = 5
+pop_oceania = 12

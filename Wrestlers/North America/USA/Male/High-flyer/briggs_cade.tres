@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dmlc01gykjlo1"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_u1e07"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_g4uep"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_it3jt"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_2oxm6"]
+
+[resource]
+script = ExtResource("4_2oxm6")
+CharacterName = "Briggs Cade"
+ClassType = 1
+Age = 64
+Weight = 294
+strength = 13
+speed = 49
+stamina = 32
+skill = 30
+striking = 19
+charisma = 34
+pop_north_america = 36
+pop_latin_america = 11
+pop_europe = 13
+pop_asia = 8
+pop_africa = 12
+pop_oceania = 14

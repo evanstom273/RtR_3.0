@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dss77a7vaa6l8"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_jsrcx"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_lexv8"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ck8fw"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_10n0v"]
+
+[resource]
+script = ExtResource("4_10n0v")
+CharacterName = "Alex Gagnon"
+ClassType = 2
+Division = 1
+Age = 54
+Height = "6'8\""
+Weight = 306
+country_north_america = 1
+strength = 20
+speed = 25
+stamina = 25
+skill = 45
+striking = 15
+charisma = 28
+pop_north_america = 42
+pop_latin_america = 15
+pop_europe = 10
+pop_asia = 10
+pop_africa = 5
+pop_oceania = 5

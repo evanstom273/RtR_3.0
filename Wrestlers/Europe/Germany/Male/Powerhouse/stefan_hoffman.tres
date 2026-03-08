@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bu23ku5k762u3"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ae5el"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_3jqau"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_1fetk"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_6mk5p"]
+
+[resource]
+script = ExtResource("4_6mk5p")
+CharacterName = "Stefan Hoffman"
+Disposition = 1
+Age = 61
+Height = "5'7\""
+Weight = 216
+birthplace = 2
+country_europe = 3
+strength = 46
+speed = 16
+stamina = 25
+skill = 21
+striking = 15
+charisma = 24
+pop_north_america = 14
+pop_latin_america = 15
+pop_europe = 35
+pop_asia = 14
+pop_africa = 14
+pop_oceania = 8

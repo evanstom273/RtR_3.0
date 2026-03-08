@@ -1,0 +1,31 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dwuv42sbd0lbt"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ftl3a"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_j3x6c"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_eudgt"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_6me5k"]
+
+[resource]
+script = ExtResource("4_6me5k")
+CharacterName = "Sophie Kelly"
+ClassType = 2
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 50
+Height = "5'9\""
+Weight = 187
+birthplace = 5
+country_oceania = 1
+strength = 20
+speed = 25
+stamina = 25
+skill = 46
+striking = 16
+charisma = 30
+pop_north_america = 5
+pop_latin_america = 15
+pop_europe = 9
+pop_asia = 11
+pop_africa = 5
+pop_oceania = 45

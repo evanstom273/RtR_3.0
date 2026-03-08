@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://phiu4dtt7hr0"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_kodeb"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_8j54x"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_pq8pw"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_osflo"]
+
+[resource]
+script = ExtResource("4_osflo")
+CharacterName = "Flynn Johnson"
+ClassType = 3
+Height = "6'4\""
+Weight = 311
+birthplace = 5
+country_oceania = 1
+strength = 35
+speed = 17
+stamina = 21
+skill = 15
+striking = 38
+charisma = 25
+pop_north_america = 7
+pop_latin_america = 9
+pop_europe = 9
+pop_asia = 14
+pop_africa = 12
+pop_oceania = 47

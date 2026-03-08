@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cl2v7cp3fdrq8"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_h8nj1"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_11x2l"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_3bwsm"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_4edco"]
+
+[resource]
+script = ExtResource("4_4edco")
+CharacterName = "Hui Hu"
+ClassType = 2
+Division = 1
+Disposition = 1
+Age = 32
+Height = "6'2\""
+Weight = 194
+birthplace = 3
+country_asia = 1
+strength = 20
+speed = 16
+stamina = 26
+skill = 41
+striking = 14
+charisma = 24
+pop_north_america = 10
+pop_latin_america = 12
+pop_europe = 9
+pop_asia = 43
+pop_africa = 14
+pop_oceania = 11

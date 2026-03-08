@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://mlhett6qe06j"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_xahx6"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_x8a6g"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_y35a6"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_x1uy4"]
+
+[resource]
+script = ExtResource("4_x1uy4")
+CharacterName = "Min-jun Park"
+ClassType = 4
+Division = 1
+Age = 37
+Height = "5'10\""
+Weight = 182
+birthplace = 3
+country_asia = 3
+strength = 19
+speed = 33
+stamina = 21
+skill = 14
+striking = 36
+charisma = 23
+pop_north_america = 9
+pop_latin_america = 13
+pop_europe = 8
+pop_asia = 51
+pop_africa = 5
+pop_oceania = 11

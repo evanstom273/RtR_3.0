@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bq5h87tocm7u3"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_4m7ls"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_2yby7"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_aeboq"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_whlsv"]
+
+[resource]
+script = ExtResource("4_whlsv")
+CharacterName = "Storm Blackwood"
+Gender = 1
+Division = 2
+Age = 28
+Height = "5'2\""
+Weight = 180
+strength = 47
+speed = 13
+stamina = 27
+skill = 17
+striking = 19
+charisma = 23
+pop_north_america = 39
+pop_latin_america = 12
+pop_europe = 8
+pop_asia = 7
+pop_africa = 9
+pop_oceania = 10

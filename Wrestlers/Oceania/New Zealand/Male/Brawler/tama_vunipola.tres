@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b614wi58on66p"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_p0yo1"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_fawtu"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_4t14f"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_m7iqc"]
+
+[resource]
+script = ExtResource("4_m7iqc")
+CharacterName = "Tama Vunipola"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 31
+Weight = 213
+birthplace = 5
+strength = 30
+speed = 14
+stamina = 24
+skill = 11
+striking = 37
+charisma = 26
+pop_north_america = 11
+pop_latin_america = 5
+pop_europe = 15
+pop_asia = 10
+pop_africa = 5
+pop_oceania = 46

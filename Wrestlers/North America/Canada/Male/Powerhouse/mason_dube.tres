@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dgia6jvnweaeg"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_nvght"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_cxl1c"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_r8k78"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_7rqu3"]
+
+[resource]
+script = ExtResource("4_7rqu3")
+CharacterName = "Mason Dube"
+Age = 37
+Height = "6'4\""
+Weight = 238
+country_north_america = 1
+strength = 36
+speed = 12
+stamina = 34
+skill = 19
+striking = 17
+charisma = 24
+pop_north_america = 42
+pop_latin_america = 9
+pop_europe = 14
+pop_asia = 13
+pop_africa = 7
+pop_oceania = 12

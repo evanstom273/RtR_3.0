@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://co80wt3vvadpb"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_8404r"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_slmus"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_cshph"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_f4jjq"]
+
+[resource]
+script = ExtResource("4_f4jjq")
+CharacterName = "Daniela Cardoso"
+ClassType = 3
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 24
+Height = "5'1\""
+Weight = 139
+birthplace = 1
+strength = 25
+speed = 16
+stamina = 21
+skill = 15
+striking = 36
+charisma = 25
+pop_north_america = 5
+pop_latin_america = 38
+pop_europe = 6
+pop_asia = 14
+pop_africa = 11
+pop_oceania = 15

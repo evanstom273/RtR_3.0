@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ck2r6vd3gkjrp"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_qkwlp"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_lloh8"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_3j0tp"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_jq1i6"]
+
+[resource]
+script = ExtResource("4_jq1i6")
+CharacterName = "Guillaume Blanc"
+ClassType = 3
+Disposition = 1
+Age = 43
+Height = "5'9\""
+Weight = 286
+birthplace = 2
+country_europe = 2
+strength = 26
+speed = 16
+stamina = 24
+skill = 13
+striking = 42
+charisma = 19
+pop_north_america = 5
+pop_latin_america = 10
+pop_europe = 32
+pop_asia = 13
+pop_africa = 10
+pop_oceania = 10

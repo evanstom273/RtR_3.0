@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c362othxkhp1n"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_usabl"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_8lld1"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_12o4a"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_2i60c"]
+
+[resource]
+script = ExtResource("4_2i60c")
+CharacterName = "Somchai Kaewkong"
+ClassType = 4
+Division = 1
+Age = 28
+Height = "5'10\""
+Weight = 188
+birthplace = 3
+strength = 20
+speed = 29
+stamina = 21
+skill = 20
+striking = 46
+charisma = 27
+pop_north_america = 15
+pop_latin_america = 9
+pop_europe = 13
+pop_asia = 53
+pop_africa = 11
+pop_oceania = 7

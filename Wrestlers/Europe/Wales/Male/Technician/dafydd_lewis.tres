@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b6padaojtcjal"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_t76vh"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_vijpx"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_dsrwf"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_t6vdu"]
+
+[resource]
+script = ExtResource("4_t6vdu")
+CharacterName = "Dafydd Lewis"
+ClassType = 2
+Disposition = 1
+Age = 22
+Height = "5'7\""
+Weight = 319
+birthplace = 2
+country_europe = 7
+strength = 23
+speed = 24
+stamina = 27
+skill = 50
+striking = 19
+charisma = 16
+pop_north_america = 6
+pop_latin_america = 15
+pop_europe = 40
+pop_asia = 8
+pop_africa = 11
+pop_oceania = 11

@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b3m7pd17rw3e2"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ggxga"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_1nvau"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_njq2o"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_6t0iy"]
+
+[resource]
+script = ExtResource("4_6t0iy")
+CharacterName = "Tetsuo Watanabe"
+Division = 1
+Disposition = 1
+Age = 34
+Height = "5'11\""
+Weight = 251
+birthplace = 3
+strength = 48
+speed = 11
+stamina = 34
+skill = 22
+striking = 24
+charisma = 16
+pop_north_america = 14
+pop_latin_america = 5
+pop_europe = 8
+pop_asia = 37
+pop_africa = 7
+pop_oceania = 13

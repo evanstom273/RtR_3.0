@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://d12v7uqh51btf"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ovoni"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_0jt3k"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_a0arc"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_6npb5"]
+
+[resource]
+script = ExtResource("4_6npb5")
+CharacterName = "Yong Wang"
+ClassType = 1
+Division = 1
+Disposition = 1
+Age = 23
+Height = "6'6\""
+Weight = 317
+birthplace = 3
+country_asia = 1
+strength = 11
+speed = 46
+stamina = 39
+skill = 22
+striking = 24
+charisma = 33
+pop_north_america = 15
+pop_latin_america = 14
+pop_europe = 10
+pop_asia = 35
+pop_africa = 6
+pop_oceania = 10

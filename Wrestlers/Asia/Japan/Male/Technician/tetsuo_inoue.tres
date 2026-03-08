@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bd2r2l2q4y6ga"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ghrok"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_hbjyp"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_u8e7c"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_earqj"]
+
+[resource]
+script = ExtResource("4_earqj")
+CharacterName = "Tetsuo Inoue"
+ClassType = 2
+Division = 1
+Disposition = 1
+Age = 54
+Height = "6'9\""
+Weight = 172
+birthplace = 3
+strength = 20
+speed = 17
+stamina = 29
+skill = 50
+striking = 19
+charisma = 25
+pop_north_america = 14
+pop_latin_america = 13
+pop_europe = 14
+pop_asia = 49
+pop_africa = 6
+pop_oceania = 13

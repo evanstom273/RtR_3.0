@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://byewjgulq1bvb"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_jxvh2"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_digjp"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_1caop"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_gurf8"]
+
+[resource]
+script = ExtResource("4_gurf8")
+CharacterName = "Ross Scott"
+ClassType = 4
+Division = 1
+Age = 36
+Height = "7'0\""
+Weight = 244
+birthplace = 2
+country_europe = 1
+strength = 14
+speed = 28
+stamina = 22
+striking = 37
+charisma = 28
+pop_north_america = 6
+pop_latin_america = 5
+pop_europe = 42
+pop_asia = 9
+pop_africa = 8
+pop_oceania = 15

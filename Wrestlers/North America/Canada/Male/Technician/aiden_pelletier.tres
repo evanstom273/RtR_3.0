@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c6kla7uhxl7qe"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_41sbl"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_agbq6"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_l1xe5"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_l27af"]
+
+[resource]
+script = ExtResource("4_l27af")
+CharacterName = "Aiden Pelletier"
+ClassType = 2
+Division = 1
+Disposition = 1
+Age = 58
+Height = "6'11\""
+Weight = 289
+country_north_america = 1
+strength = 16
+speed = 16
+stamina = 34
+skill = 43
+striking = 16
+charisma = 20
+pop_north_america = 26
+pop_latin_america = 14
+pop_europe = 15
+pop_asia = 5
+pop_africa = 9
+pop_oceania = 11

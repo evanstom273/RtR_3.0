@@ -1,0 +1,24 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b5v07wqvx5qbj"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_2817f"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_gijb7"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_k84gu"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_1duk8"]
+
+[resource]
+script = ExtResource("4_1duk8")
+CharacterName = "Duke Ford"
+ClassType = 3
+Age = 64
+Weight = 294
+strength = 35
+speed = 20
+stamina = 28
+striking = 39
+charisma = 30
+pop_north_america = 45
+pop_latin_america = 5
+pop_europe = 9
+pop_asia = 7
+pop_africa = 11
+pop_oceania = 12

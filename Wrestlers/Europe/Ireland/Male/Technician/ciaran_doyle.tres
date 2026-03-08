@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://2iv1wlnvo17c"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_qlj5w"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_hgb1l"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_bl10j"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_iyixa"]
+
+[resource]
+script = ExtResource("4_iyixa")
+CharacterName = "Ciaran Doyle"
+ClassType = 2
+Division = 1
+Disposition = 1
+Age = 42
+Height = "5'8\""
+Weight = 245
+birthplace = 2
+country_europe = 4
+strength = 23
+speed = 16
+stamina = 26
+skill = 41
+striking = 18
+charisma = 23
+pop_north_america = 9
+pop_latin_america = 11
+pop_europe = 51
+pop_asia = 11
+pop_africa = 13
+pop_oceania = 14

@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ctocuagcb4v8g"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_1uyx2"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_2a5cy"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_bld51"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_gbqo4"]
+
+[resource]
+script = ExtResource("4_gbqo4")
+CharacterName = "Summer Knight"
+ClassType = 1
+Gender = 1
+Division = 2
+Age = 24
+Height = "5'7\""
+Weight = 187
+strength = 15
+speed = 40
+stamina = 34
+skill = 24
+striking = 16
+charisma = 31
+pop_north_america = 35
+pop_latin_america = 7
+pop_europe = 14
+pop_asia = 13
+pop_africa = 12
+pop_oceania = 9

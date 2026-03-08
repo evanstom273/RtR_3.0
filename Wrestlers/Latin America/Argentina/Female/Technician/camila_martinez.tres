@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://hpbdxmvyf12t"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_qbjjq"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_73xtt"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_83y6p"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_klg21"]
+
+[resource]
+script = ExtResource("4_klg21")
+CharacterName = "Camila Martinez"
+ClassType = 2
+Gender = 1
+Division = 2
+Age = 44
+Height = "5'5\""
+Weight = 143
+birthplace = 1
+country_latin_america = 1
+strength = 20
+speed = 22
+stamina = 27
+skill = 42
+charisma = 22
+pop_north_america = 9
+pop_latin_america = 39
+pop_europe = 7
+pop_asia = 7
+pop_africa = 7
+pop_oceania = 6

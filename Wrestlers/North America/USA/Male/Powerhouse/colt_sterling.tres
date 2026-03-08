@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://wkbc7ca6qih0"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_e8u8d"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ijr0n"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_fsp3c"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_t22p0"]
+
+[resource]
+script = ExtResource("4_t22p0")
+CharacterName = "Colt Sterling"
+Division = 1
+Disposition = 1
+Age = 37
+Height = "7'0\""
+Weight = 185
+strength = 49
+speed = 20
+stamina = 34
+skill = 15
+striking = 24
+charisma = 24
+pop_north_america = 37
+pop_latin_america = 9
+pop_europe = 7
+pop_asia = 9
+pop_africa = 12
+pop_oceania = 14

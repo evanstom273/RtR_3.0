@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bvy0tyo2juldj"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_hcn3f"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_vocy8"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_w6xex"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_q1511"]
+
+[resource]
+script = ExtResource("4_q1511")
+CharacterName = "Stuart Cameron"
+ClassType = 3
+Age = 50
+Height = "5'8\""
+Weight = 304
+birthplace = 2
+country_europe = 1
+strength = 33
+speed = 15
+stamina = 23
+skill = 14
+striking = 41
+charisma = 18
+pop_north_america = 10
+pop_latin_america = 11
+pop_europe = 34
+pop_asia = 8
+pop_africa = 6
+pop_oceania = 9

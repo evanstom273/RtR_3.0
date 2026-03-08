@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b1mjrrkvxacgw"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_8omht"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_c603x"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_1m7qk"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_3srgc"]
+
+[resource]
+script = ExtResource("4_3srgc")
+CharacterName = "Murray Wallace"
+Disposition = 1
+Age = 54
+Height = "5'9\""
+Weight = 302
+birthplace = 2
+country_europe = 1
+strength = 46
+speed = 14
+stamina = 26
+skill = 22
+striking = 18
+charisma = 26
+pop_north_america = 12
+pop_latin_america = 6
+pop_europe = 46
+pop_asia = 12
+pop_africa = 13
+pop_oceania = 11

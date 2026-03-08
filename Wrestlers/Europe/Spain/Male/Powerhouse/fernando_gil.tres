@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ulmart1iqhi6"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_eq1fh"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_mno80"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_e1j1x"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_8vyfg"]
+
+[resource]
+script = ExtResource("4_8vyfg")
+CharacterName = "Fernando Gil"
+Division = 1
+Age = 55
+Height = "6'5\""
+Weight = 267
+birthplace = 2
+country_europe = 6
+strength = 42
+speed = 14
+stamina = 27
+skill = 17
+striking = 19
+charisma = 27
+pop_north_america = 9
+pop_latin_america = 5
+pop_europe = 51
+pop_asia = 14
+pop_africa = 13
+pop_oceania = 11

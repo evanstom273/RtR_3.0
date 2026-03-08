@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dvhykxi0ht0vr"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_qsbhs"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_fwsmc"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_n6tbd"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_uvwog"]
+
+[resource]
+script = ExtResource("4_uvwog")
+CharacterName = "Oliver Green"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 23
+Height = "5'9\""
+Weight = 189
+birthplace = 2
+strength = 32
+speed = 13
+stamina = 20
+skill = 17
+striking = 48
+charisma = 30
+pop_north_america = 15
+pop_latin_america = 14
+pop_europe = 36
+pop_asia = 13
+pop_africa = 11
+pop_oceania = 5

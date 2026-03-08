@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c6qyqsox8hn2r"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_hu6q8"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_pjkus"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_mmm1k"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ecv0v"]
+
+[resource]
+script = ExtResource("4_ecv0v")
+CharacterName = "Ricardo Gonzalez"
+ClassType = 2
+Division = 1
+Disposition = 1
+Age = 62
+Height = "5'9\""
+Weight = 229
+birthplace = 1
+country_latin_america = 1
+strength = 24
+speed = 15
+stamina = 32
+skill = 46
+striking = 15
+charisma = 30
+pop_north_america = 10
+pop_latin_america = 37
+pop_europe = 7
+pop_asia = 14
+pop_africa = 6
+pop_oceania = 12

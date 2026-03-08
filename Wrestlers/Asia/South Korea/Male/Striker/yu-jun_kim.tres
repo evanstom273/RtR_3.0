@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://0ehwk3y4b8en"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_7ifhv"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_bt5dn"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_nqq8y"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_bifg7"]
+
+[resource]
+script = ExtResource("4_bifg7")
+CharacterName = "Yu-jun Kim"
+ClassType = 4
+Disposition = 1
+Age = 52
+Height = "7'0\""
+Weight = 310
+birthplace = 3
+country_asia = 3
+strength = 16
+speed = 27
+stamina = 23
+skill = 20
+striking = 42
+charisma = 30
+pop_north_america = 7
+pop_latin_america = 6
+pop_europe = 9
+pop_asia = 30
+pop_africa = 12
+pop_oceania = 15

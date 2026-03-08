@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bouij3q6r00ru"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_etr7g"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_p7yca"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_yy3jc"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_pvubn"]
+
+[resource]
+script = ExtResource("4_pvubn")
+CharacterName = "Ivy Chase"
+ClassType = 3
+Gender = 1
+Division = 2
+Age = 57
+Height = "5'6\""
+Weight = 172
+strength = 31
+speed = 16
+stamina = 29
+striking = 41
+charisma = 15
+pop_north_america = 36
+pop_latin_america = 13
+pop_europe = 15
+pop_asia = 11
+pop_africa = 5
+pop_oceania = 12

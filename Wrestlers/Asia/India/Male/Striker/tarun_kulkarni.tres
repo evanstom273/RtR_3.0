@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://d363gg4ff0xrt"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_83wcj"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_rcebp"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_fn7o0"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_66g3x"]
+
+[resource]
+script = ExtResource("4_66g3x")
+CharacterName = "Tarun Kulkarni"
+ClassType = 4
+Disposition = 1
+Age = 26
+Height = "5'10\""
+Weight = 292
+birthplace = 3
+country_asia = 2
+strength = 20
+speed = 25
+stamina = 29
+skill = 13
+striking = 41
+charisma = 29
+pop_north_america = 14
+pop_latin_america = 13
+pop_europe = 5
+pop_asia = 39
+pop_africa = 14
+pop_oceania = 8

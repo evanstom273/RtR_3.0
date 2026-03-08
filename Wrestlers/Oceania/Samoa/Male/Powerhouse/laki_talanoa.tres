@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cojk0uw3iydsl"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_be40e"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_u2kna"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_vgg6k"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_rfx3x"]
+
+[resource]
+script = ExtResource("4_rfx3x")
+CharacterName = "Laki Talanoa"
+Disposition = 1
+Age = 46
+Height = "5'10\""
+Weight = 272
+birthplace = 5
+country_oceania = 2
+strength = 44
+speed = 17
+stamina = 35
+skill = 21
+striking = 17
+charisma = 28
+pop_north_america = 6
+pop_latin_america = 5
+pop_europe = 5
+pop_asia = 13
+pop_africa = 7
+pop_oceania = 46

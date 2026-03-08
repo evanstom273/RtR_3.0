@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ph8b8qnad838"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_wutyk"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_pt5p8"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_d2hji"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_42ye0"]
+
+[resource]
+script = ExtResource("4_42ye0")
+CharacterName = "Pita Whitelock"
+ClassType = 3
+Disposition = 1
+Age = 64
+Height = "5'10\""
+Weight = 200
+birthplace = 5
+strength = 26
+speed = 19
+stamina = 20
+skill = 18
+striking = 46
+charisma = 21
+pop_north_america = 14
+pop_latin_america = 13
+pop_europe = 14
+pop_asia = 9
+pop_africa = 9
+pop_oceania = 36

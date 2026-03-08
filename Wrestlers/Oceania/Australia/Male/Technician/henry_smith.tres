@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://3yrlvvuwhvht"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_uk4u5"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_7wxvc"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_if1e3"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_6ef70"]
+
+[resource]
+script = ExtResource("4_6ef70")
+CharacterName = "Henry Smith"
+ClassType = 2
+Disposition = 1
+Age = 59
+Height = "6'5\""
+Weight = 306
+birthplace = 5
+country_oceania = 1
+strength = 16
+speed = 18
+stamina = 28
+skill = 45
+striking = 15
+charisma = 25
+pop_north_america = 8
+pop_latin_america = 10
+pop_europe = 14
+pop_asia = 15
+pop_africa = 9
+pop_oceania = 46

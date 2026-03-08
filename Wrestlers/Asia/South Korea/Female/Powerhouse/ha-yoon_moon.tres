@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://m78ganb7phud"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ne5ph"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_luit0"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ranbq"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_7pufa"]
+
+[resource]
+script = ExtResource("4_7pufa")
+CharacterName = "Ha-yoon Moon"
+Gender = 1
+Division = 2
+Age = 38
+Height = "5'6\""
+Weight = 145
+birthplace = 3
+country_asia = 3
+strength = 43
+speed = 14
+stamina = 29
+skill = 15
+striking = 16
+charisma = 17
+pop_north_america = 11
+pop_latin_america = 6
+pop_europe = 13
+pop_asia = 38
+pop_africa = 7
+pop_oceania = 7

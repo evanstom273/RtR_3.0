@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cgxahfrg20wjw"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_6f3uk"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_o3h66"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_acrgl"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_8eekc"]
+
+[resource]
+script = ExtResource("4_8eekc")
+CharacterName = "Mose Manu"
+ClassType = 2
+Disposition = 1
+Age = 22
+Height = "6'11\""
+Weight = 206
+birthplace = 5
+country_oceania = 2
+strength = 21
+speed = 21
+stamina = 26
+skill = 35
+striking = 17
+charisma = 26
+pop_north_america = 6
+pop_latin_america = 11
+pop_europe = 13
+pop_asia = 11
+pop_africa = 14
+pop_oceania = 40

@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bnxw4ced262g"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_63v4v"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_1qetw"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_hnnmp"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_w40yl"]
+
+[resource]
+script = ExtResource("4_w40yl")
+CharacterName = "Yong Tang"
+ClassType = 1
+Division = 1
+Disposition = 1
+Age = 58
+Height = "6'6\""
+birthplace = 3
+country_asia = 1
+strength = 14
+speed = 40
+stamina = 42
+skill = 30
+striking = 23
+charisma = 26
+pop_north_america = 15
+pop_latin_america = 6
+pop_europe = 15
+pop_asia = 52
+pop_africa = 14
+pop_oceania = 13

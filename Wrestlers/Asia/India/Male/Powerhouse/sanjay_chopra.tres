@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://d3pkxxia840qa"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_i4ouq"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_v3yus"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_qcjh6"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_mayjl"]
+
+[resource]
+script = ExtResource("4_mayjl")
+CharacterName = "Sanjay Chopra"
+Division = 1
+Age = 23
+Height = "6'2\""
+Weight = 178
+birthplace = 3
+country_asia = 2
+strength = 47
+speed = 12
+stamina = 33
+skill = 19
+striking = 15
+charisma = 25
+pop_north_america = 8
+pop_latin_america = 10
+pop_europe = 10
+pop_asia = 31
+pop_africa = 9
+pop_oceania = 7

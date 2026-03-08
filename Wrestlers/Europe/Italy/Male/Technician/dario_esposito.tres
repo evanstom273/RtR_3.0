@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ca850smcqenet"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_7mo72"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ur1la"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_2fwp7"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_c43d8"]
+
+[resource]
+script = ExtResource("4_c43d8")
+CharacterName = "Dario Esposito"
+ClassType = 2
+Age = 57
+Height = "5'10\""
+Weight = 227
+birthplace = 2
+country_europe = 5
+strength = 15
+speed = 17
+stamina = 31
+skill = 45
+striking = 17
+charisma = 24
+pop_north_america = 10
+pop_latin_america = 15
+pop_europe = 49
+pop_asia = 11
+pop_africa = 11
+pop_oceania = 5

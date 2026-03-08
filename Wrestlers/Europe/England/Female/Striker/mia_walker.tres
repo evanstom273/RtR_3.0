@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c7ln88vt2uh2"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_vq0sc"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_lf2m3"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_xdm8x"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_u5mc1"]
+
+[resource]
+script = ExtResource("4_u5mc1")
+CharacterName = "Mia Walker"
+ClassType = 4
+Gender = 1
+Division = 2
+Age = 22
+Height = "5'10\""
+Weight = 111
+birthplace = 2
+strength = 18
+speed = 31
+stamina = 26
+skill = 16
+striking = 35
+charisma = 23
+pop_north_america = 10
+pop_latin_america = 15
+pop_europe = 52
+pop_asia = 10
+pop_africa = 10
+pop_oceania = 8

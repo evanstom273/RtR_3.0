@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bpl1rsjcixhtg"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_kqyiu"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_scb7u"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_fl85n"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_vaude"]
+
+[resource]
+script = ExtResource("4_vaude")
+CharacterName = "Sirichai Charoensuk"
+ClassType = 4
+Age = 24
+Height = "5'10\""
+Weight = 284
+birthplace = 3
+strength = 17
+speed = 34
+stamina = 21
+striking = 47
+charisma = 20
+pop_north_america = 15
+pop_latin_america = 10
+pop_europe = 12
+pop_asia = 33
+pop_africa = 9
+pop_oceania = 11
