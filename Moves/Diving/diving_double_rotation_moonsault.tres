@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://b2fh7nineikwd"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_uou4i"]
+
+[resource]
+script = ExtResource("1_uou4i")
+move_name = "Diving Double Rotation Moonsault"
+key_stat = Array[int]([1])
+target_parts = Array[int]([1])
+required_player_position = 2
+required_opponent_position = Array[int]([1])
+outcome_opponent_position = 1
+outcome_self_position = 1

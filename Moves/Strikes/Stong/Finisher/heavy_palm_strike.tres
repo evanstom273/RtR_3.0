@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cwt847dokb1m3"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_8y2gl"]
+
+[resource]
+script = ExtResource("1_8y2gl")
+move_name = "Heavy Palm Strike"
+key_stat = Array[int]([2])
+target_parts = Array[int]([0])
+is_finisher = true
+required_opponent_position = Array[int]([0])

@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://coacm4fbr58q5"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_db4al"]
+
+[resource]
+script = ExtResource("1_db4al")
+move_name = "Diving Running Splash"
+key_stat = Array[int]([1])
+target_parts = Array[int]([1])
+is_finisher = true
+required_player_position = 2
+required_opponent_position = Array[int]([1])
+outcome_opponent_position = 1
+outcome_self_position = 1

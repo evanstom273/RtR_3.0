@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://b6x6sn7kx8r21"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_ro54a"]
+
+[resource]
+script = ExtResource("1_ro54a")
+move_name = "Grounded Shoulder Drive"
+key_stat = Array[int]([3])
+target_parts = Array[int]([1])
+required_opponent_position = Array[int]([1])
+outcome_opponent_position = 1

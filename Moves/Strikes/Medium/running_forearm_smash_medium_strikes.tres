@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://br3xhtki1iaiq"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_g80v7"]
+
+[resource]
+script = ExtResource("1_g80v7")
+move_name = "Running Forearm Smash (Medium Strikes)"
+key_stat = Array[int]([2])
+target_parts = Array[int]([0])
+required_opponent_position = Array[int]([0])

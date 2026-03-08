@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://dmwi7s55qf575"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_a5v4n"]
+
+[resource]
+script = ExtResource("1_a5v4n")
+move_name = "Grounded Knee Strikes"
+key_stat = Array[int]([3])
+target_parts = Array[int]([1])
+required_opponent_position = Array[int]([1])
+outcome_opponent_position = 1

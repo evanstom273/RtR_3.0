@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://ckxnw1vd517wt"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_synu4"]
+
+[resource]
+script = ExtResource("1_synu4")
+move_name = "Running Flying Forearm"
+key_stat = Array[int]([1])
+target_parts = Array[int]([1, 4])
+required_player_position = 1
+required_opponent_position = Array[int]([0])
+outcome_opponent_position = 1

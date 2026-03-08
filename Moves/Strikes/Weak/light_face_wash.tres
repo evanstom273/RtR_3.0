@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bkcn1aju2556y"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_he8vt"]
+
+[resource]
+script = ExtResource("1_he8vt")
+move_name = "Light Face Wash"
+key_stat = Array[int]([2])
+target_parts = Array[int]([0, 1])
+required_opponent_position = Array[int]([0])

@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cxtm77xnqrg1h"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_qas73"]
+
+[resource]
+script = ExtResource("1_qas73")
+move_name = "Elbow to Temple"
+key_stat = Array[int]([2])
+target_parts = Array[int]([0])
+required_opponent_position = Array[int]([0])

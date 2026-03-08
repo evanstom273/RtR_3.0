@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://sne1fk4nlu7x"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_six4h"]
+
+[resource]
+script = ExtResource("1_six4h")
+move_name = "Springboard Thrust Kick"
+key_stat = Array[int]([1])
+target_parts = Array[int]([1])
+required_player_position = 3
+required_opponent_position = Array[int]([0])
+outcome_opponent_position = 1
+outcome_self_position = 1

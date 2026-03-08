@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bxk5o7rrq58qo"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_ufcn6"]
+
+[resource]
+script = ExtResource("1_ufcn6")
+move_name = "Heavy Ear Clap"
+key_stat = Array[int]([2])
+target_parts = Array[int]([0])
+is_finisher = true
+required_opponent_position = Array[int]([0])

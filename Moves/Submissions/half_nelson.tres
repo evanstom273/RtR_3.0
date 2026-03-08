@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://c58m0o6ts2w1c"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_rlxbl"]
+
+[resource]
+script = ExtResource("1_rlxbl")
+move_name = "Half Nelson"
+key_stat = Array[int]([3])
+target_parts = Array[int]([1])
+is_submission = true
+required_opponent_position = Array[int]([0])

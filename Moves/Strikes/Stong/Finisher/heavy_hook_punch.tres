@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://dd7h072ncincm"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_wj3gi"]
+
+[resource]
+script = ExtResource("1_wj3gi")
+move_name = "Heavy Hook Punch"
+key_stat = Array[int]([2])
+target_parts = Array[int]([0, 1])
+is_finisher = true
+required_opponent_position = Array[int]([0])

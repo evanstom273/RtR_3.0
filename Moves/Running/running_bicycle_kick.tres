@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bjy4thpi1x3um"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_cym8o"]
+
+[resource]
+script = ExtResource("1_cym8o")
+move_name = "Running Bicycle Kick"
+key_stat = Array[int]([1])
+target_parts = Array[int]([1])
+required_player_position = 1
+required_opponent_position = Array[int]([0])
+outcome_opponent_position = 1

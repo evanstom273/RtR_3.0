@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bg3h8xei2yf8t"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_rrk1a"]
+
+[resource]
+script = ExtResource("1_rrk1a")
+move_name = "Rear Arm Drag"
+key_stat = Array[int]([3])
+target_parts = Array[int]([1])
+required_opponent_position = Array[int]([0])
+outcome_opponent_position = 1

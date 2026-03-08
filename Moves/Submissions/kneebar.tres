@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://djomnytsv8o6n"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_2d5br"]
+
+[resource]
+script = ExtResource("1_2d5br")
+move_name = "Kneebar"
+key_stat = Array[int]([3])
+target_parts = Array[int]([1, 0])
+is_submission = true
+required_opponent_position = Array[int]([1])
+outcome_opponent_position = 1
+outcome_self_position = 1

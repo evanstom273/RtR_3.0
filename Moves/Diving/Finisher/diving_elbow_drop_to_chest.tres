@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://dxd1v8rqxrmdj"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_6bn1l"]
+
+[resource]
+script = ExtResource("1_6bn1l")
+move_name = "Diving Elbow Drop to Chest"
+key_stat = Array[int]([1])
+target_parts = Array[int]([1, 4])
+is_finisher = true
+required_player_position = 2
+required_opponent_position = Array[int]([1])
+outcome_opponent_position = 1
+outcome_self_position = 1

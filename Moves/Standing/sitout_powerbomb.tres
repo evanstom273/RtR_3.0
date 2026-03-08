@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://benjqp2714j6s"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_uet6d"]
+
+[resource]
+script = ExtResource("1_uet6d")
+move_name = "Sitout Powerbomb"
+key_stat = Array[int]([0])
+target_parts = Array[int]([1, 5])
+required_opponent_position = Array[int]([0])
+outcome_opponent_position = 1

@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bb6i1x6g3ceml"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_pqlbu"]
+
+[resource]
+script = ExtResource("1_pqlbu")
+move_name = "Grounded Eye Gouge (Dirty)"
+key_stat = Array[int]([3])
+target_parts = Array[int]([1])
+required_opponent_position = Array[int]([1])
+outcome_opponent_position = 1

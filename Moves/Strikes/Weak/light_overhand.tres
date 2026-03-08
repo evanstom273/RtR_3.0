@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://banft1sk05eqy"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_bnfai"]
+
+[resource]
+script = ExtResource("1_bnfai")
+move_name = "Light Overhand"
+key_stat = Array[int]([2])
+target_parts = Array[int]([0, 4])
+required_opponent_position = Array[int]([0])

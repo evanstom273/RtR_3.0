@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://fk8ubpvtj35q"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_pj62j"]
+
+[resource]
+script = ExtResource("1_pj62j")
+move_name = "Grounded Punches"
+key_stat = Array[int]([3])
+target_parts = Array[int]([1])
+required_opponent_position = Array[int]([1])
+outcome_opponent_position = 1

@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://dewqs7u8pu5kt"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_v2unl"]
+
+[resource]
+script = ExtResource("1_v2unl")
+move_name = "AA Fireman's Carry"
+key_stat = Array[int]([0])
+target_parts = Array[int]([1])
+required_opponent_position = Array[int]([0])

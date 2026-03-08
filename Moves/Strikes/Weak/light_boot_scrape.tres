@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://c6xpoyj2jiuyc"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_075yy"]
+
+[resource]
+script = ExtResource("1_075yy")
+move_name = "Light Boot Scrape"
+key_stat = Array[int]([2])
+target_parts = Array[int]([0])
+required_opponent_position = Array[int]([0])

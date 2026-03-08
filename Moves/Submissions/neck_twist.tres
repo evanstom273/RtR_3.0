@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cy8k7jg6dpucb"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_pd0kp"]
+
+[resource]
+script = ExtResource("1_pd0kp")
+move_name = "Neck Twist"
+key_stat = Array[int]([3])
+target_parts = Array[int]([1])
+is_submission = true
+required_opponent_position = Array[int]([0])

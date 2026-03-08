@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://br2wyyeevog2t"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_bnw6l"]
+
+[resource]
+script = ExtResource("1_bnw6l")
+move_name = "Liontamer"
+key_stat = Array[int]([3])
+target_parts = Array[int]([1])
+is_submission = true
+required_opponent_position = Array[int]([1])
+outcome_opponent_position = 1
+outcome_self_position = 1
