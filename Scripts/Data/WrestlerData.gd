@@ -15,6 +15,7 @@ enum CharacterGender { MALE, FEMALE }
 enum CharacterDivision { MAIN_EVENT, SINGLES, WOMENS }
 enum CharacterDisposition {FACE, HEEL }
 enum CharacterStats { STRENGTH, SPEED, STRIKING, SKILL }
+enum CharacterPos { STANDING, RUNNING, GROUNDED, IN_CORNER }
 
 # --- Personal Info ---
 @export_group("Personal Info")

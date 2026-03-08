@@ -2,7 +2,7 @@
 extends Resource
 class_name MoveResource
 
-enum MovePosition { STANDING, GROUNDED, CORNER, ROPE_REBOUND, SPRINGBOARD, DIVING }
+enum MovePosition { STANDING, GROUNDED, CORNER, ROPE_REBOUND, SPRINGBOARD, DIVING, RUNNING }
 
 enum MoveType { STRIKE, GRAPPLE, AERIAL, SUBMISSION }
 
