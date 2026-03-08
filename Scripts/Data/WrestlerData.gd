@@ -14,7 +14,7 @@ enum CharacterClass { POWERHOUSE, HIGH_FLYER, TECHNICIAN, BRAWLER, STRIKER }
 enum CharacterGender { MALE, FEMALE }
 enum CharacterDivision { MAIN_EVENT, SINGLES, WOMENS }
 enum CharacterDisposition {FACE, HEEL }
-enum CharacterStats { STRENGTH, SPEED, STRIKING, SKILL}
+enum CharacterStats { STRENGTH, SPEED, STRIKING, SKILL }
 
 # --- Personal Info ---
 @export_group("Personal Info")
