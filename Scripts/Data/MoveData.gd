@@ -10,6 +10,8 @@ enum KeyStat { STRENGTH, SPEED, STRIKING, SKILL }
 
 enum CharacterBodyParts { HEAD, BODY, LEFT_ARM, RIGHT_ARM, LEFT_LEG, RIGHT_LEG }
 
+enum TargetPos { STANDING, GROUNDED, IN_CORNER }
+
 # --- Move Details ---
 @export_group("Move Info")
 @export var move_name: String = ""
@@ -19,6 +21,6 @@ enum CharacterBodyParts { HEAD, BODY, LEFT_ARM, RIGHT_ARM, LEFT_LEG, RIGHT_LEG }
 @export var is_finisher: bool = false
 
 @export_group("Positioning")
-@export var required_opponent_position: MovePosition = MovePosition.STANDING
+@export var required_opponent_position: Array[TargetPos]
 @export var outcome_opponent_position: MovePosition = MovePosition.STANDING
 @export var outcome_self_position: MovePosition = MovePosition.STANDING
