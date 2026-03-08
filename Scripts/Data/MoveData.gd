@@ -16,7 +16,7 @@ enum TargetPos { STANDING, GROUNDED, IN_CORNER }
 @export_group("Move Info")
 @export var move_name: String = ""
 @export var move_type: MoveType = MoveType.STRIKE
-@export var key_stat: KeyStat = KeyStat.STRENGTH
+@export var key_stat: Array [KeyStat] = []
 @export var target_parts: Array[CharacterBodyParts] = []
 @export var is_finisher: bool = false
 
