@@ -4,8 +4,6 @@ class_name MoveResource
 
 enum MovePosition { STANDING, GROUNDED, CORNER, ROPE_REBOUND, SPRINGBOARD, DIVING, RUNNING }
 
-enum MoveType { STRIKE, GRAPPLE, AERIAL, SUBMISSION }
-
 enum KeyStat { STRENGTH, SPEED, STRIKING, SKILL }
 
 enum CharacterBodyParts { HEAD, BODY, LEFT_ARM, RIGHT_ARM, LEFT_LEG, RIGHT_LEG }
@@ -15,10 +13,10 @@ enum TargetPos { STANDING, GROUNDED, IN_CORNER }
 # --- Move Details ---
 @export_group("Move Info")
 @export var move_name: String = ""
-@export var move_type: MoveType = MoveType.STRIKE
 @export var key_stat: Array [KeyStat] = []
 @export var target_parts: Array[CharacterBodyParts] = []
 @export var is_finisher: bool = false
+@export var is_submission: bool = false
 
 @export_group("Positioning")
 @export var required_opponent_position: Array[TargetPos]
