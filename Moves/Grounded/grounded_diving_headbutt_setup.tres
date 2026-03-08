@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://qlicodhf514h"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://05v0xcejii51"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_8ihqd"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_8ihqd")
 move_name = "Grounded Diving Headbutt (Setup)"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1])
+target_parts = Array[int]([0])
 required_opponent_position = Array[int]([1])
 outcome_opponent_position = 1
 outcome_self_position = 1

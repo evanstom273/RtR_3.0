@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://chjlp834qacci"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://ba8gx0vrtvhwe"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_4y0w7"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_4y0w7")
 move_name = "Running German Suplex"
 key_stat = Array[int]([1])
-target_parts = Array[int]([1, 2])
+target_parts = Array[int]([1])
 required_player_position = 1
 required_opponent_position = Array[int]([0])
 outcome_opponent_position = 1

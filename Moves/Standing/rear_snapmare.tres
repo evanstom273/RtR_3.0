@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://behwdj4vdlga6"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cfhqcpo0t7gxf"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_m5n58"]
 
@@ -6,6 +6,6 @@
 script = ExtResource("1_m5n58")
 move_name = "Rear Snapmare"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1, 3])
+target_parts = Array[int]([1])
 required_opponent_position = Array[int]([0])
 outcome_opponent_position = 1

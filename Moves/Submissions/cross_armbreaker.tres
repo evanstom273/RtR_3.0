@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://dpn1j8mtldyn8"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bkc3oiybh2i5r"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_ki47p"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_ki47p")
 move_name = "Cross Armbreaker"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1])
+target_parts = Array[int]([2, 3])
 is_submission = true
 required_opponent_position = Array[int]([1])
 outcome_opponent_position = 1

@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://dilm1mimxuo3e"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://2yesm12i42y5"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_y2t7k"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_y2t7k")
 move_name = "Running Arm Drag"
 key_stat = Array[int]([1])
-target_parts = Array[int]([1, 2])
+target_parts = Array[int]([2, 3])
 required_player_position = 1
 required_opponent_position = Array[int]([0])
 outcome_opponent_position = 1

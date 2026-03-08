@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://batb5jedpdc63"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://caog3jimnc8d4"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_xtscw"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_xtscw")
 move_name = "Springboard Dropkick to Knee"
 key_stat = Array[int]([1])
-target_parts = Array[int]([4])
+target_parts = Array[int]([4, 5])
 required_player_position = 3
 required_opponent_position = Array[int]([0])
 outcome_opponent_position = 1

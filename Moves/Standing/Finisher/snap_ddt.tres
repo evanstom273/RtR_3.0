@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://hu6hi7k4cdg4"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_7nnlx"]
+
+[resource]
+script = ExtResource("1_7nnlx")
+move_name = "Snap DDT"
+key_stat = Array[int]([0])
+target_parts = Array[int]([0])
+is_finisher = true
+required_opponent_position = Array[int]([0])
+outcome_opponent_position = 1

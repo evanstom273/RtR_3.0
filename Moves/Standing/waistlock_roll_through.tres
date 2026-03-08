@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://dy2i4x2vg667c"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://dx3sh5vibkjh"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_xal73"]
 
@@ -6,5 +6,5 @@
 script = ExtResource("1_xal73")
 move_name = "Waistlock Roll-Through"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1])
+target_parts = Array[int]([4, 5])
 required_opponent_position = Array[int]([0])

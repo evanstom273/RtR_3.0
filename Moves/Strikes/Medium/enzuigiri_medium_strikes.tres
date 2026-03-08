@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://4l4x5468clcv"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cqin71464se1c"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_b8hbc"]
 
@@ -6,5 +6,5 @@
 script = ExtResource("1_b8hbc")
 move_name = "Enzuigiri (Medium Strikes)"
 key_stat = Array[int]([2])
-target_parts = Array[int]([0, 4])
+target_parts = Array[int]([1])
 required_opponent_position = Array[int]([0])

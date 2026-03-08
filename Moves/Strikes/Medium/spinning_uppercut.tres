@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://c6auyn646lra0"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cyfre0shfwxe0"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_c8mus"]
 
@@ -6,5 +6,5 @@
 script = ExtResource("1_c8mus")
 move_name = "Spinning Uppercut"
 key_stat = Array[int]([2])
-target_parts = Array[int]([0, 1])
+target_parts = Array[int]([0])
 required_opponent_position = Array[int]([0])

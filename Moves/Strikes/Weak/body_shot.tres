@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bfe6e0swytat7"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://d00eilcrt3ecc"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_t8tih"]
 
@@ -6,5 +6,5 @@
 script = ExtResource("1_t8tih")
 move_name = "Body Shot"
 key_stat = Array[int]([2])
-target_parts = Array[int]([0])
+target_parts = Array[int]([1])
 required_opponent_position = Array[int]([0])

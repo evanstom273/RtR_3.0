@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://d0447qxmmc6dy"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://c323rblrqrq0s"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_x0rno"]
 
@@ -6,6 +6,6 @@
 script = ExtResource("1_x0rno")
 move_name = "Running Discus Lariat"
 key_stat = Array[int]([2])
-target_parts = Array[int]([0, 2])
+target_parts = Array[int]([1])
 required_opponent_position = Array[int]([0])
 outcome_opponent_position = 1

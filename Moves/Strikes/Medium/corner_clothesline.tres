@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://k13b3cakthjf"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cfb17ch4xoa0u"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_rip2l"]
 
@@ -6,6 +6,6 @@
 script = ExtResource("1_rip2l")
 move_name = "Corner Clothesline"
 key_stat = Array[int]([2])
-target_parts = Array[int]([0])
+target_parts = Array[int]([1])
 required_opponent_position = Array[int]([2])
 outcome_opponent_position = 1

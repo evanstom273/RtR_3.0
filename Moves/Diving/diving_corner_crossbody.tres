@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://c1cw7qh0bwhpb"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://dgdcim62us82c"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_7do1u"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_7do1u")
 move_name = "Diving Corner Crossbody"
 key_stat = Array[int]([1])
-target_parts = Array[int]([0])
+target_parts = Array[int]([1])
 required_player_position = 2
 required_opponent_position = Array[int]([2])
 outcome_opponent_position = 1

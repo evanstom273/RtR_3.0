@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://jmj75823wx3d"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_oc0mx"]
+
+[resource]
+script = ExtResource("1_oc0mx")
+move_name = "Big Boot (Heavy)"
+key_stat = Array[int]([2])
+target_parts = Array[int]([0])
+is_finisher = true
+required_opponent_position = Array[int]([0])
+outcome_opponent_position = 1

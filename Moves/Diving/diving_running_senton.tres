@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bkof1wphh8206"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://peipp6utbe2u"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_otlby"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_otlby")
 move_name = "Diving Running Senton"
 key_stat = Array[int]([1])
-target_parts = Array[int]([1, 0])
+target_parts = Array[int]([1])
 required_player_position = 2
 required_opponent_position = Array[int]([1])
 outcome_opponent_position = 1

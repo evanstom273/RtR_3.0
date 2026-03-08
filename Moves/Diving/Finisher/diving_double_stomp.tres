@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://w8yj8sm1vg4x"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bujmi3e3bg3tp"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_urh54"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_urh54")
 move_name = "Diving Double Stomp"
 key_stat = Array[int]([1])
-target_parts = Array[int]([1, 3])
+target_parts = Array[int]([0])
 is_finisher = true
 required_player_position = 2
 required_opponent_position = Array[int]([1])

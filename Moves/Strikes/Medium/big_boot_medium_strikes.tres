@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://du4nioh6qd34o"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://6p0f76df8m1m"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_mi0dw"]
 
@@ -6,6 +6,6 @@
 script = ExtResource("1_mi0dw")
 move_name = "Big Boot (Medium Strikes)"
 key_stat = Array[int]([2])
-target_parts = Array[int]([0])
+target_parts = Array[int]([1])
 required_opponent_position = Array[int]([0])
 outcome_opponent_position = 1

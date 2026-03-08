@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cxssg8u5yq3rd"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://dmkuoy1jgkt6a"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_036jk"]
 
@@ -6,6 +6,6 @@
 script = ExtResource("1_036jk")
 move_name = "Rear Wheelbarrow Facebuster"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1])
+target_parts = Array[int]([0])
 required_opponent_position = Array[int]([0])
 outcome_opponent_position = 1

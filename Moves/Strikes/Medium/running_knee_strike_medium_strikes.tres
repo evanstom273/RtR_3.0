@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://4ofo3cvl2tj5"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://ctjotsxic1j07"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_3ojvv"]
 
@@ -6,6 +6,6 @@
 script = ExtResource("1_3ojvv")
 move_name = "Running Knee Strike (Medium Strikes)"
 key_stat = Array[int]([2])
-target_parts = Array[int]([0, 2])
+target_parts = Array[int]([1])
 required_opponent_position = Array[int]([0])
 outcome_opponent_position = 1

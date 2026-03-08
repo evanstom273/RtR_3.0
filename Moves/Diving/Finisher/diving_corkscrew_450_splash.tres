@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cn6f5j4e0fxrh"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bk2txmdqpc3y0"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_qhdam"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_qhdam")
 move_name = "Diving Corkscrew 450 Splash"
 key_stat = Array[int]([1])
-target_parts = Array[int]([1, 2])
+target_parts = Array[int]([1])
 is_finisher = true
 required_player_position = 2
 required_opponent_position = Array[int]([1])

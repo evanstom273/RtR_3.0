@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://dlha6cd6xdslo"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://6d57hy61cmr3"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_ordeq"]
 
@@ -6,5 +6,5 @@
 script = ExtResource("1_ordeq")
 move_name = "Kick Combo"
 key_stat = Array[int]([2])
-target_parts = Array[int]([0, 4])
+target_parts = Array[int]([1])
 required_opponent_position = Array[int]([0])

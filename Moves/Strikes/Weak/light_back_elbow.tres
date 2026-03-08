@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://b7uguwa2lf2lf"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://j4675fnfy5jv"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_uf0a6"]
 
@@ -6,5 +6,5 @@
 script = ExtResource("1_uf0a6")
 move_name = "Light Back Elbow"
 key_stat = Array[int]([2])
-target_parts = Array[int]([0, 1])
+target_parts = Array[int]([0])
 required_opponent_position = Array[int]([0])

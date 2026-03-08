@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://dxrcd6b1m5qpu"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://tua1rxvvclj3"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_bksyp"]
 
@@ -6,5 +6,5 @@
 script = ExtResource("1_bksyp")
 move_name = "Light Basement Dropkick"
 key_stat = Array[int]([2])
-target_parts = Array[int]([0, 5])
+target_parts = Array[int]([1])
 required_opponent_position = Array[int]([0])

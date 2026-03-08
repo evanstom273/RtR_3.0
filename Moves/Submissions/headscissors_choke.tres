@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://3jguwd1v7q2g"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://daks0ecyp4bf2"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_633lj"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_633lj")
 move_name = "Headscissors Choke"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1])
+target_parts = Array[int]([0])
 is_submission = true
 required_opponent_position = Array[int]([1])
 outcome_opponent_position = 1

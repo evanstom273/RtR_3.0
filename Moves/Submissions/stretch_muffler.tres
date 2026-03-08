@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://b6aw6xl1c8gkq"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://d0fy8lui77pto"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_yw6hc"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_yw6hc")
 move_name = "Stretch Muffler"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1, 5])
+target_parts = Array[int]([1])
 is_submission = true
 required_opponent_position = Array[int]([1])
 outcome_opponent_position = 1

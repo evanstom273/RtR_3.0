@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://qr6r1dt3ghd5"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cvglsyxf6iam0"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_23kws"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_23kws")
 move_name = "Omoplata"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1])
+target_parts = Array[int]([2, 3])
 is_submission = true
 required_opponent_position = Array[int]([1])
 outcome_opponent_position = 1

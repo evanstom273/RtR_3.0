@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://c7q8eyu078wpt"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://1fabnh7aevqv"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_fug7y"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_fug7y")
 move_name = "Figure-Four Leglock"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1])
+target_parts = Array[int]([4, 5])
 is_submission = true
 required_opponent_position = Array[int]([1])
 outcome_opponent_position = 1

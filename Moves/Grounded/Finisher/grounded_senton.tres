@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://n8t27fofdriv"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_gat05"]
+
+[resource]
+script = ExtResource("1_gat05")
+move_name = "Grounded Senton"
+key_stat = Array[int]([3])
+target_parts = Array[int]([1])
+is_finisher = true
+required_opponent_position = Array[int]([1])
+outcome_opponent_position = 1
+outcome_self_position = 1

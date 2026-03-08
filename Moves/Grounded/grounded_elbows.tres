@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://qj65nsc7857v"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bgb30tke5qgkn"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_2ntvp"]
 
@@ -6,6 +6,6 @@
 script = ExtResource("1_2ntvp")
 move_name = "Grounded Elbows"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1, 0])
+target_parts = Array[int]([0])
 required_opponent_position = Array[int]([1])
 outcome_opponent_position = 1

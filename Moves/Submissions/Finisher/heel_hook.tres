@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bub5y8hcge2n6"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bmbm7mt7pl8r8"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_m6m85"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_m6m85")
 move_name = "Heel Hook"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1])
+target_parts = Array[int]([4, 5])
 is_finisher = true
 is_submission = true
 required_opponent_position = Array[int]([1])

@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://nko6xygd7gy6"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://by1r5i1o5yhek"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_dgcmq"]
 
@@ -6,5 +6,5 @@
 script = ExtResource("1_dgcmq")
 move_name = "Rear Low Kick"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1])
+target_parts = Array[int]([4, 5])
 required_opponent_position = Array[int]([0])

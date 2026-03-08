@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://dr6dh2uv4ka8o"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bwhsffr6moj4p"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_alvrj"]
 
@@ -6,5 +6,5 @@
 script = ExtResource("1_alvrj")
 move_name = "Hammerlock Takedown"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1])
+target_parts = Array[int]([2, 3])
 required_opponent_position = Array[int]([0])

@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bod1knqpbjuun"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cgb6bannx6wfn"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_2wukl"]
 
@@ -6,6 +6,6 @@
 script = ExtResource("1_2wukl")
 move_name = "Spinning Back Kick"
 key_stat = Array[int]([2])
-target_parts = Array[int]([0])
+target_parts = Array[int]([1])
 required_opponent_position = Array[int]([0])
 outcome_opponent_position = 1

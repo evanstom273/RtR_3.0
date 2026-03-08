@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://0m8vcvw7bbxc"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://denr11yg08n34"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_xk076"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_xk076")
 move_name = "Running Tilt-a-Whirl Headscissors"
 key_stat = Array[int]([1])
-target_parts = Array[int]([1, 2])
+target_parts = Array[int]([1])
 required_player_position = 1
 required_opponent_position = Array[int]([0])
 outcome_opponent_position = 1

@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bg2b6unp3ts2c"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_qjlgh"]
+
+[resource]
+script = ExtResource("1_qjlgh")
+move_name = "Rear Bridging Suplex"
+key_stat = Array[int]([3])
+target_parts = Array[int]([1])
+is_finisher = true
+required_opponent_position = Array[int]([0])
+outcome_opponent_position = 1

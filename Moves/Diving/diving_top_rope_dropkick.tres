@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://b58t6ww1piwyv"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bdymol8ge3qrj"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_er7in"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_er7in")
 move_name = "Diving Top-Rope Dropkick"
 key_stat = Array[int]([1])
-target_parts = Array[int]([0, 2])
+target_parts = Array[int]([1])
 required_player_position = 2
 required_opponent_position = Array[int]([0])
 outcome_opponent_position = 1

@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://7i657hhjorw5"]
+
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_n70ny"]
+
+[resource]
+script = ExtResource("1_n70ny")
+move_name = "Rear Naked Choke Hold"
+key_stat = Array[int]([3])
+target_parts = Array[int]([0])
+is_finisher = true
+required_opponent_position = Array[int]([0])

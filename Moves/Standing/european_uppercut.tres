@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bgn5w6a3aq31p"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://uykf6g01m1j2"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_xmljc"]
 
@@ -6,5 +6,5 @@
 script = ExtResource("1_xmljc")
 move_name = "European Uppercut"
 key_stat = Array[int]([0])
-target_parts = Array[int]([1])
+target_parts = Array[int]([0])
 required_opponent_position = Array[int]([0])

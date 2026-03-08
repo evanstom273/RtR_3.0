@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cw6duvpj1mf0k"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://d1ma6faup8dko"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_m8337"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_m8337")
 move_name = "Running Tilt-a-Whirl DDT"
 key_stat = Array[int]([1])
-target_parts = Array[int]([1])
+target_parts = Array[int]([0])
 required_player_position = 1
 required_opponent_position = Array[int]([0])
 outcome_opponent_position = 1

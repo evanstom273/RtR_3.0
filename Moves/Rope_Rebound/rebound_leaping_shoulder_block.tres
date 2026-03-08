@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cm1254q8d1j1j"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cgojxrjrseduv"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_77h3y"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_77h3y")
 move_name = "Rebound Leaping Shoulder Block"
 key_stat = Array[int]([1])
-target_parts = Array[int]([1, 3])
+target_parts = Array[int]([1])
 required_player_position = 1
 required_opponent_position = Array[int]([0])
 outcome_opponent_position = 1

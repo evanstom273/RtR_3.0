@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cgyd2s68gwxx7"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://dhsf8s8h1xod6"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_vqk1w"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_vqk1w")
 move_name = "Running Spinebuster"
 key_stat = Array[int]([1])
-target_parts = Array[int]([1, 0])
+target_parts = Array[int]([1])
 required_player_position = 1
 required_opponent_position = Array[int]([0])
 outcome_opponent_position = 1

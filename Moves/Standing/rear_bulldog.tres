@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://b7os10ru0jnh1"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://c4mebskj8tihb"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_2wdsg"]
 
@@ -6,6 +6,6 @@
 script = ExtResource("1_2wdsg")
 move_name = "Rear Bulldog"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1])
+target_parts = Array[int]([0])
 required_opponent_position = Array[int]([0])
 outcome_opponent_position = 1

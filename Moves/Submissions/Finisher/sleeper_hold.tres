@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://ckonb52w7ceqs"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bg265lhpsutfs"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_f7mm8"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_f7mm8")
 move_name = "Sleeper Hold"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1, 5])
+target_parts = Array[int]([0])
 is_finisher = true
 is_submission = true
 required_opponent_position = Array[int]([0])

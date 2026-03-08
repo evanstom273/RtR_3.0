@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cqbpmwsbglpcj"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://lfi8ebee5jn2"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_6k7js"]
 
@@ -6,6 +6,6 @@
 script = ExtResource("1_6k7js")
 move_name = "Grounded Figure-Four Setup"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1, 5])
+target_parts = Array[int]([4, 5])
 required_opponent_position = Array[int]([1])
 outcome_opponent_position = 1

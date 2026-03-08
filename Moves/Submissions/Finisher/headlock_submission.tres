@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://c7wsr4iu550k8"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cw6kkdaasusfh"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_gmorc"]
 
@@ -6,7 +6,7 @@
 script = ExtResource("1_gmorc")
 move_name = "Headlock (Submission)"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1])
+target_parts = Array[int]([0])
 is_finisher = true
 is_submission = true
 required_opponent_position = Array[int]([0])

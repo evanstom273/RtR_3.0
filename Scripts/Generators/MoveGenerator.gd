@@ -123,6 +123,196 @@ const GROUNDED_BODY_DROP_KEYWORDS := [
     "diving",
 ]
 
+const ARM_TARGET_KEYWORDS := [
+    "armbar",
+    "arm breaker",
+    "armbreaker",
+    "cross armbreaker",
+    "kimura",
+    "fujiwara",
+    "hammerlock",
+    "omoplata",
+    "double wrist lock",
+    "keylock",
+    "arm drag",
+    "arm wrench",
+    "arm trap",
+    "arm lock",
+    "armlock",
+    "short arm",
+    "shoulder breaker",
+    "crossface chickenwing",
+    "chickenwing",
+]
+
+const LEG_TARGET_KEYWORDS := [
+    "leglock",
+    "leg lock",
+    "ankle lock",
+    "heel hook",
+    "kneebar",
+    "knee bar",
+    "toe hold",
+    "figure four",
+    "figure-four",
+    "calf slicer",
+    "single leg",
+    "single-leg",
+    "boston crab",
+    "walls of jericho",
+    "sharpshooter",
+    "scorpion deathlock",
+    "cloverleaf",
+    "indian deathlock",
+    "achilles",
+    "dragon screw",
+    "chop block",
+    "dropkick to knee",
+]
+
+const HEAD_TARGET_KEYWORDS := [
+    "ddt",
+    "piledriver",
+    "neckbreaker",
+    "neck crank",
+    "neck crank",
+    "neck twist",
+    "cutter",
+    "stunner",
+    "bulldog",
+    "facebuster",
+    "face plant",
+    "faceplant",
+    "flatliner",
+    "reverse sto",
+    "sto",
+    "slingblade",
+    "headbutt",
+    "headlock",
+    "chinlock",
+    "chin lock",
+    "sleeper",
+    "choke",
+    "clutch",
+    "cravate",
+    "guillotine",
+    "mandible claw",
+    "iron claw",
+    "clawhold",
+    "crossface",
+]
+
+const FINISHER_NAME_KEYWORDS := [
+    "piledriver",
+    "powerbomb",
+    "brainbuster",
+    "brain buster",
+    "burning hammer",
+    "tombstone",
+    "gotch",
+    "package piledriver",
+    "emerald flowsion",
+    "death valley driver",
+    "death valley bomb",
+    "driver",
+    "spike ddt",
+    "ddt",
+    "neckbreaker",
+    "cutter",
+    "stunner",
+    "rko",
+    "twist of fate",
+    "diamond cutter",
+    "superkick",
+    "lariat",
+    "clothesline",
+    "big boot",
+    "punt",
+    "v-trigger",
+    "shining wizard",
+    "meteora",
+    "spear",
+    "gore",
+    "chokeslam",
+    "powerslam",
+    "spinebuster",
+    "uranage",
+    "suplex",
+    "bomb",
+    "slam",
+    "moonsault",
+    "450",
+    "630",
+    "splash",
+    "senton bomb",
+    "double stomp",
+    "phoenix splash",
+    "guillotine leg drop",
+    "elbow drop",
+    "armbar",
+    "kimura",
+    "ankle lock",
+    "heel hook",
+    "kneebar",
+    "sharpshooter",
+    "cloverleaf",
+    "crossface",
+    "stf",
+    "crippler crossface",
+    "walls of jericho",
+    "boston crab",
+    "cobra clutch",
+    "sleeper",
+    "guillotine choke",
+    "rear naked choke",
+    "tazmission",
+    "rings of saturn",
+]
+
+const NON_FINISHER_NAME_KEYWORDS := [
+    "light ",
+    "medium ",
+    "tap",
+    "combo",
+    "variant",
+    "setup",
+    "taunt",
+    "pat strike",
+]
+
+const BODY_TARGET_KEYWORDS := [
+    "slam",
+    "suplex",
+    "powerbomb",
+    "bomb",
+    "driver",
+    "spinebuster",
+    "backbreaker",
+    "stretch",
+    "press",
+    "carry",
+    "splash",
+    "senton",
+    "crossbody",
+    "body block",
+    "body press",
+    "body attack",
+    "spear",
+    "shoulder block",
+    "shoulder tackle",
+    "powerslam",
+    "uranage",
+    "takeover",
+    "throw",
+    "toss",
+    "drop toe hold",
+    "snapmare",
+    "hurricanrana",
+    "frankensteiner",
+    "headscissors",
+    "moonsault",
+]
+
 func _run():
     var move_list = [
     ["Piledriver", LegacyMovePool.STANDING_IN_FRONT, MoveResource.KeyStat.STRENGTH, [MoveResource.CharacterBodyParts.BODY], false, false],
@@ -1294,31 +1484,38 @@ func _run():
         LegacyMovePool.DIVING_GROUNDED: "Diving",
         LegacyMovePool.WEAK_STRIKES: "Strikes/Weak",
         LegacyMovePool.MEDIUM_STRIKES: "Strikes/Medium",
-        LegacyMovePool.STRONG_STRIKES: "Strikes/Stong",
+        LegacyMovePool.STRONG_STRIKES: "Strikes/Strong",
         LegacyMovePool.SUBMISSION: "Submissions",
     }
 
     if not DirAccess.dir_exists_absolute("res://Moves"):
         DirAccess.make_dir_recursive_absolute("res://Moves")
 
+    var finisher_blocked_pools := {
+        LegacyMovePool.WEAK_STRIKES: true,
+        LegacyMovePool.MEDIUM_STRIKES: true,
+    }
+
     for data in move_list:
         var move_name: String = data[0]
         var legacy_pool: LegacyMovePool = data[1]
         var key_stat: MoveResource.KeyStat = data[2]
         var target_parts_raw: Array = data[3]
-        var is_finisher: bool = data.size() > 4 and data[4]
+        var explicit_is_finisher: bool = data.size() > 4 and data[4]
         var explicit_is_submission: bool = data.size() > 5 and data[5]
+        var inferred_is_finisher := _infer_is_finisher(move_name, legacy_pool, explicit_is_submission)
+        var effective_is_finisher := (explicit_is_finisher or inferred_is_finisher) and not finisher_blocked_pools.has(legacy_pool)
 
         var new_move := MoveResource.new()
         new_move.move_name = move_name
         new_move.key_stat = [key_stat]
-        new_move.is_finisher = is_finisher
+        new_move.is_finisher = effective_is_finisher
         new_move.is_submission = explicit_is_submission
 
         var typed_parts: Array[MoveResource.CharacterBodyParts] = []
         for part in target_parts_raw:
             typed_parts.append(part)
-        new_move.target_parts = typed_parts
+        new_move.target_parts = _infer_target_parts(move_name, typed_parts, explicit_is_submission)
 
         new_move.required_player_position = _map_required_player_position(legacy_pool)
         new_move.required_opponent_position = _map_required_opponent_position(move_name, legacy_pool, explicit_is_submission)
@@ -1330,7 +1527,7 @@ func _run():
 
         var sub_folder: String = class_to_folder[legacy_pool]
         var folder_path := "res://Moves/" + sub_folder
-        if is_finisher:
+        if effective_is_finisher:
             folder_path += "/Finisher"
         if not DirAccess.dir_exists_absolute(folder_path):
             DirAccess.make_dir_recursive_absolute(folder_path)
@@ -1454,6 +1651,161 @@ func _resolve_outcome(move_name: String, pool: LegacyMovePool, explicit_is_submi
         "self": MoveResource.MovePosition.STANDING,
         "is_submission": false,
     }
+
+func _infer_is_finisher(move_name: String, pool: LegacyMovePool, explicit_is_submission: bool = false) -> bool:
+    if pool == LegacyMovePool.WEAK_STRIKES or pool == LegacyMovePool.MEDIUM_STRIKES:
+        return false
+
+    var name := move_name.to_lower()
+
+    if _contains_any(name, NON_FINISHER_NAME_KEYWORDS):
+        return false
+
+    if explicit_is_submission or pool == LegacyMovePool.SUBMISSION:
+        return _contains_any(name, FINISHER_NAME_KEYWORDS)
+
+    if pool == LegacyMovePool.STANDING_IN_FRONT or pool == LegacyMovePool.STANDING_BEHIND:
+        return _contains_any(name, FINISHER_NAME_KEYWORDS)
+
+    if pool == LegacyMovePool.GROUNDED:
+        return _contains_any(name, [
+            "stomp",
+            "double stomp",
+            "elbow drop",
+            "knee drop",
+            "leg drop",
+            "headbutt",
+            "senton",
+            "splash",
+            "moonsault",
+            "450",
+            "corkscrew",
+            "guillotine",
+        ])
+
+    if pool == LegacyMovePool.RUNNING or pool == LegacyMovePool.ROPE_REBOUND:
+        return _contains_any(name, [
+            "lariat",
+            "clothesline",
+            "dropkick",
+            "knee",
+            "big boot",
+            "superkick",
+            "spear",
+            "gore",
+            "forearm",
+            "elbow",
+            "wizard",
+            "meteora",
+            "bulldog",
+            "cutter",
+            "stunner",
+            "neckbreaker",
+        ])
+
+    if pool == LegacyMovePool.SPRINGBOARD or pool == LegacyMovePool.DIVING_STANDING or pool == LegacyMovePool.DIVING_GROUNDED:
+        return _contains_any(name, FINISHER_NAME_KEYWORDS)
+
+    if pool == LegacyMovePool.STRONG_STRIKES:
+        return _contains_any(name, [
+            "lariat",
+            "clothesline",
+            "big boot",
+            "superkick",
+            "punt",
+            "running knee",
+            "v-trigger",
+            "wizard",
+            "meteora",
+            "dropkick",
+            "elbow",
+            "forearm",
+            "backfist",
+            "spinning",
+            "roundhouse",
+        ])
+
+    return false
+
+
+func _infer_target_parts(move_name: String, fallback_parts: Array[MoveResource.CharacterBodyParts], explicit_is_submission: bool = false) -> Array[MoveResource.CharacterBodyParts]:
+    var name := move_name.to_lower()
+    var parts: Array[MoveResource.CharacterBodyParts] = []
+
+    var is_submission := explicit_is_submission or _contains_any(name, [
+        "hold", "lock", "stretch", "clutch", "choke", "sleeper", "vice", "crab", "deathlock", "armbar", "bar", "submission"
+    ])
+
+    var add_unique = func(part: MoveResource.CharacterBodyParts):
+        if not parts.has(part):
+            parts.append(part)
+
+    if explicit_is_submission or is_submission:
+        if _contains_any(name, ARM_TARGET_KEYWORDS):
+            add_unique.call(MoveResource.CharacterBodyParts.LEFT_ARM)
+            add_unique.call(MoveResource.CharacterBodyParts.RIGHT_ARM)
+            if _contains_any(name, ["crossface", "rings of saturn"]):
+                add_unique.call(MoveResource.CharacterBodyParts.HEAD)
+            return parts
+        if _contains_any(name, LEG_TARGET_KEYWORDS):
+            add_unique.call(MoveResource.CharacterBodyParts.LEFT_LEG)
+            add_unique.call(MoveResource.CharacterBodyParts.RIGHT_LEG)
+            if _contains_any(name, ["stf", "crossface stf", "figure-four on head"]):
+                add_unique.call(MoveResource.CharacterBodyParts.HEAD)
+            return parts
+        if _contains_any(name, ["sleeper", "choke", "cravate", "guillotine", "chinlock", "headlock", "clutch", "neck crank", "neck twist", "mandible claw", "iron claw"]):
+            add_unique.call(MoveResource.CharacterBodyParts.HEAD)
+            return parts
+        if _contains_any(name, ["abdominal stretch", "bearhug", "torture rack", "stretch muffler"]):
+            add_unique.call(MoveResource.CharacterBodyParts.BODY)
+            return parts
+
+    if _contains_any(name, ARM_TARGET_KEYWORDS):
+        add_unique.call(MoveResource.CharacterBodyParts.LEFT_ARM)
+        add_unique.call(MoveResource.CharacterBodyParts.RIGHT_ARM)
+
+    if _contains_any(name, LEG_TARGET_KEYWORDS):
+        add_unique.call(MoveResource.CharacterBodyParts.LEFT_LEG)
+        add_unique.call(MoveResource.CharacterBodyParts.RIGHT_LEG)
+
+    if _contains_any(name, HEAD_TARGET_KEYWORDS):
+        add_unique.call(MoveResource.CharacterBodyParts.HEAD)
+
+    if _contains_any(name, BODY_TARGET_KEYWORDS):
+        add_unique.call(MoveResource.CharacterBodyParts.BODY)
+
+    if "backbreaker" in name or "spinebuster" in name or "body" in name:
+        add_unique.call(MoveResource.CharacterBodyParts.BODY)
+
+    if _contains_any(name, ["kick", "knee", "elbow", "forearm", "uppercut", "punch", "jab", "backfist", "lariat", "clothesline", "palm strike", "strike"]):
+        if _contains_any(name, ["low", "to knee", "chop block"]):
+            add_unique.call(MoveResource.CharacterBodyParts.LEFT_LEG)
+            add_unique.call(MoveResource.CharacterBodyParts.RIGHT_LEG)
+        elif _contains_any(name, ["uppercut", "headbutt", "superkick", "roundhouse", "spinning heel kick", "high knee", "backfist", "elbow", "forearm", "punch", "jab", "palm strike"]):
+            add_unique.call(MoveResource.CharacterBodyParts.HEAD)
+        else:
+            add_unique.call(MoveResource.CharacterBodyParts.BODY)
+
+    if is_submission:
+        if parts.is_empty():
+            if _is_standing_submission(move_name):
+                add_unique.call(MoveResource.CharacterBodyParts.HEAD)
+            else:
+                add_unique.call(MoveResource.CharacterBodyParts.LEFT_LEG)
+                add_unique.call(MoveResource.CharacterBodyParts.RIGHT_LEG)
+        elif parts.has(MoveResource.CharacterBodyParts.HEAD) and not parts.has(MoveResource.CharacterBodyParts.BODY):
+            if "stretch" in name or "clutch" in name:
+                add_unique.call(MoveResource.CharacterBodyParts.BODY)
+
+    if parts.is_empty():
+        for part in fallback_parts:
+            if not parts.has(part):
+                parts.append(part)
+
+    if parts.is_empty():
+        parts.append(MoveResource.CharacterBodyParts.BODY)
+
+    return parts
 
 func _is_standing_submission(move_name: String) -> bool:
     return _contains_any(move_name.to_lower(), STANDING_SUBMISSION_KEYWORDS)

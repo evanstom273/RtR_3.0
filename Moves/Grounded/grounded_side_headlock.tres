@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://bc5dhmllvfnws"]
+[gd_resource type="Resource" script_class="MoveResource" format=3 uid="uid://cehv3blom61g4"]
 
 [ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="1_l2wyn"]
 
@@ -6,6 +6,6 @@
 script = ExtResource("1_l2wyn")
 move_name = "Grounded Side Headlock"
 key_stat = Array[int]([3])
-target_parts = Array[int]([1])
+target_parts = Array[int]([0])
 required_opponent_position = Array[int]([1])
 outcome_opponent_position = 1
