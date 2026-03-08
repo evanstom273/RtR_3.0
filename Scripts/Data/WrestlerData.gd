@@ -49,7 +49,7 @@ enum CharacterStats { STRENGTH, SPEED, STRIKING, SKILL}
 @export var current_contract: ContractResource
 @export var contract_history: Array[ContractResource] = []
 @export var PreviousPromotions: Array[PromotionResource]
-@export_file("*.tres") var current_championship_path: String1
+@export_file("*.tres") var current_championship_path: String
 
 func get_current_promotion() -> Resource:
     if current_promotion_path and ResourceLoader.exists(current_promotion_path):
