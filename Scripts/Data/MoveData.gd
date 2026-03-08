@@ -3,12 +3,10 @@ extends Resource
 class_name MoveResource
 
 enum MovePosition { STANDING, GROUNDED, CORNER, ROPE_REBOUND, SPRINGBOARD, DIVING, RUNNING }
-
 enum KeyStat { STRENGTH, SPEED, STRIKING, SKILL }
-
 enum CharacterBodyParts { HEAD, BODY, LEFT_ARM, RIGHT_ARM, LEFT_LEG, RIGHT_LEG }
-
 enum TargetPos { STANDING, GROUNDED, IN_CORNER }
+enum CharacterStartPos { STANDING, RUNNING, TOP_ROPE, SPRINGBOARD }
 
 # --- Move Details ---
 @export_group("Move Info")
@@ -19,6 +17,7 @@ enum TargetPos { STANDING, GROUNDED, IN_CORNER }
 @export var is_submission: bool = false
 
 @export_group("Positioning")
-@export var required_opponent_position: Array[TargetPos]
+@export var required_player_position: CharacterStartPos = CharacterStartPos.STANDING
+@export var required_opponent_position: Array[TargetPos] = []
 @export var outcome_opponent_position: MovePosition = MovePosition.STANDING
 @export var outcome_self_position: MovePosition = MovePosition.STANDING
