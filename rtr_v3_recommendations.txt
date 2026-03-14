@@ -1,0 +1,229 @@
+ROLL THE ROPES 3.0 – SYSTEM & ARCHITECTURE RECOMMENDATIONS
+
+This document summarizes the recommended changes and improvements
+discussed for the RtR_3.0 project. It focuses on data integrity,
+generator stability, and long‑term world simulation health rather than
+cosmetic code style.
+
+  -----------------------------------
+  PRIORITY 1 – DATA INTEGRITY FIXES
+  -----------------------------------
+
+1.  Add Thailand support
+
+WrestlerData.gd
+
+Change: enum CountryAsia { JAPAN, CHINA, INDIA, SOUTH_KOREA }
+
+To: enum CountryAsia { JAPAN, CHINA, INDIA, SOUTH_KOREA, THAILAND }
+
+WrestlerGenerator.gd
+
+Add Thailand mapping inside _set_wrestler_region():
+
+“Asia”: wrestler.birthplace = WrestlerResource.Region.ASIA match
+country_name: “Japan”: wrestler.country_asia =
+WrestlerResource.CountryAsia.JAPAN “India”: wrestler.country_asia =
+WrestlerResource.CountryAsia.INDIA “China”: wrestler.country_asia =
+WrestlerResource.CountryAsia.CHINA “South Korea”: wrestler.country_asia
+= WrestlerResource.CountryAsia.SOUTH_KOREA “Thailand”:
+wrestler.country_asia = WrestlerResource.CountryAsia.THAILAND
+
+2.  Prevent duplicate wrestler names
+
+Add near top of WrestlerGenerator.gd:
+
+var used_names := {}
+
+Add helper:
+
+func _get_unique_name(region_name: String, country_name: String, gender:
+int, first_names: Array, last_names: Array) -> String: var key =
+“%s|%s|%s” % [region_name, country_name, str(gender)]
+
+    if not used_names.has(key):
+        used_names[key] = {}
+
+    var attempts := 0
+    var max_attempts := first_names.size() * last_names.size()
+
+    while attempts < max_attempts:
+        var first = first_names.pick_random()
+        var last = last_names.pick_random()
+        var full_name = first + " " + last
+
+        if not used_names[key].has(full_name):
+            used_names[key][full_name] = true
+            return full_name
+
+        attempts += 1
+
+    var fallback_base = first_names.pick_random() + " " + last_names.pick_random()
+    var suffix := 2
+    var fallback_name = "%s %d" % [fallback_base, suffix]
+
+    while used_names[key].has(fallback_name):
+        suffix += 1
+        fallback_name = "%s %d" % [fallback_base, suffix]
+
+    used_names[key][fallback_name] = true
+    return fallback_name
+
+3.  Protect filenames from collisions
+
+Replace:
+
+var safe_name = wrestler.CharacterName.replace(”
+“,”_“).replace(”’“,”“).to_lower() +”.tres” var file_path = folder_path +
+“/” + safe_name
+
+With:
+
+var base_name = wrestler.CharacterName.replace(”
+“,”_“).replace(”’“,”“).to_lower() var file_path = folder_path +”/” +
+base_name + “.tres”
+
+var suffix := 2 while FileAccess.file_exists(file_path): file_path =
+folder_path + “/” + base_name + “_” + str(suffix) + “.tres” suffix += 1
+
+  ---------------------------------------------------
+  PRIORITY 2 – STABLE IDENTITY FOR WORLD SIMULATION
+  ---------------------------------------------------
+
+4.  Add permanent internal wrestler ID
+
+WrestlerData.gd
+
+@export var wrestler_id: String = “”
+
+Generator example:
+
+func generate_wrestler_id(region_name: String, country_name: String,
+wrestler_name: String, index: int) -> String: var region_part =
+region_name.to_lower().replace(” “,””) var country_part =
+country_name.to_lower().replace(” “,”“) var name_part =
+wrestler_name.to_lower().replace(” “,””).replace(“’”, ““)
+return”%s_%s_%s_%03d” % [region_part, country_part, name_part, index]
+
+IDs must be: - unique - stable - not player-facing - never reused
+
+  -----------------------------------------
+  PRIORITY 3 – PROMOTION POPULARITY MODEL
+  -----------------------------------------
+
+5.  Use regional popularity as the core system
+
+Store:
+
+pop_north_america pop_latin_america pop_europe pop_asia pop_africa
+pop_oceania
+
+6.  Derive global popularity from regional values
+
+func get_global_popularity() -> float: return float( pop_north_america +
+pop_latin_america + pop_europe + pop_asia + pop_africa + pop_oceania ) /
+6.0
+
+7.  Show global_pop in inspector but make it read‑only
+
+func _get_property_list() -> Array: return [ { “name”: “global_pop”,
+“type”: TYPE_FLOAT, “usage”: PROPERTY_USAGE_EDITOR |
+PROPERTY_USAGE_READ_ONLY } ]
+
+func _get(property): if property == “global_pop”: return
+get_global_popularity() return null
+
+func _set(property, value): if property == “global_pop”: return true
+return false
+
+  -----------------------------------------
+  PRIORITY 4 – PROMOTION GENERATION RULES
+  -----------------------------------------
+
+Per promotion roster structure:
+
+Main Event Division 12 wrestlers 6 face / 6 heel
+
+Midcard Division 16 wrestlers 8 face / 8 heel
+
+Women Division 8 wrestlers 4 face / 4 heel
+
+Titles 3 titles per promotion World Midcard Women
+
+Total per promotion: 36 wrestlers
+
+Promotions should draft wrestlers from the global pool instead of
+generating their own roster from scratch.
+
+  ---------------------------------
+  PRIORITY 5 – ECONOMY & TRAINING
+  ---------------------------------
+
+Keep smaller weekly contract values:
+
+Typical wrestler pay: $300 – $5,000 per week
+
+Top stars: $8,000 – $15,000 per week
+
+Elite outliers: Up to ~$20,000 per week
+
+Training costs scale by stat value.
+
+Example scaling idea:
+
+10 → 11 : ~$20 19 → 20 : ~$100 49 → 50 : ~$500+
+
+Higher stats should cost progressively more to improve.
+
+  ---------------------------------------
+  PRIORITY 6 – MATCH ENGINE & MOVE DATA
+  ---------------------------------------
+
+Keep match positioning data inside MoveResource.
+
+Moves already include:
+
+required_player_position required_opponent_position
+outcome_opponent_position outcome_self_position key_stat target_parts
+finisher / submission flags
+
+This enables a positional match engine driven entirely by move data.
+
+  --------------------------------------
+  PRIORITY 7 – WORLD VALIDATION SCRIPT
+  --------------------------------------
+
+Before UI development, build a world validation tool that checks:
+
+-   every wrestler has a unique ID
+-   no duplicate wrestler names
+-   no duplicate filenames
+-   all country / region values valid
+-   promotion rosters match required quotas
+-   titles belong to valid promotions
+-   champions belong to correct divisions
+-   contracts reference valid wrestlers/promotions
+-   no wrestler assigned to multiple promotions unintentionally
+-   popularity values remain within bounds
+
+  --------------------------------------
+  PRIORITY 8 – LOWER PRIORITY CLEANUPS
+  --------------------------------------
+
+Not urgent for V3 core systems:
+
+-   centralizing shared region/country enums
+-   proper display formatting for country names
+-   converting dictionary history entries into typed resources
+
+  ---------
+  SUMMARY
+  ---------
+
+Immediate tasks: - add Thailand support - prevent duplicate names -
+prevent filename overwrites - add wrestler internal IDs - derive
+promotion global popularity - enforce promotion roster quotas - build
+world validation script
+
+Later tasks: - enum centralization - UI text polish - move helper
+functions
