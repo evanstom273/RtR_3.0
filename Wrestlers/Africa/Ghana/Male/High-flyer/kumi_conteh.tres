@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_swvlt")
 CharacterName = "Kumi Conteh"
+wrestler_id = "8"
 ClassType = 1
 Age = 60
 Height = "5'6\""

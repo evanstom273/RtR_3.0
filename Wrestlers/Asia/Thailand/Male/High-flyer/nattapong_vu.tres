@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_aba5q")
 CharacterName = "Nattapong Vu"
+wrestler_id = "291"
 ClassType = 1
 Disposition = 1
 Age = 35

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_cfwtr")
 CharacterName = "Chloe Leblanc"
+wrestler_id = "707"
 ClassType = 2
 Gender = 1
 Division = 2

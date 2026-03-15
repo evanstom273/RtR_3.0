@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ccxnc")
 CharacterName = "Brock Rhodes"
+wrestler_id = "934"
 Division = 1
 Age = 40
 Height = "6'4\""

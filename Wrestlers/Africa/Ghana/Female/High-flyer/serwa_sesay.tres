@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_d6mt8")
 CharacterName = "Serwa Sesay"
+wrestler_id = "2"
 ClassType = 1
 Gender = 1
 Division = 2

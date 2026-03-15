@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_0jheo")
 CharacterName = "Magnus Reid"
+wrestler_id = "553"
 ClassType = 4
 Division = 1
 Age = 27

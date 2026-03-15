@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_5wcke")
 CharacterName = "Kaito Hayashi"
+wrestler_id = "221"
 ClassType = 2
 Age = 26
 Height = "5'9\""

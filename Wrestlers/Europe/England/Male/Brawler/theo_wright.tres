@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_wher2")
 CharacterName = "Theo Wright"
+wrestler_id = "342"
 ClassType = 3
 Division = 1
 Age = 29

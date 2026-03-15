@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_vlyr5")
 CharacterName = "Briggs Mercer"
+wrestler_id = "932"
 Age = 51
 Height = "6'2\""
 Weight = 256

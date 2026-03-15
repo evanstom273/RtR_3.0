@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ysimb")
 CharacterName = "Alessandro Mancini"
+wrestler_id = "505"
 ClassType = 4
 Disposition = 1
 Age = 41

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_gtvxu")
 CharacterName = "Keisuke Matsumoto"
+wrestler_id = "223"
 ClassType = 2
 Division = 1
 Age = 64

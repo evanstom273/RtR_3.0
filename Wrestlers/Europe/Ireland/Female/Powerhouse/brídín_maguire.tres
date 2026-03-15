@@ -7,7 +7,8 @@
 
 [resource]
 script = ExtResource("4_a1csl")
-CharacterName = "Brídín Maguire"
+CharacterName = "BrÃ­dÃ­n Maguire"
+wrestler_id = "453"
 Gender = 1
 Division = 2
 Disposition = 1

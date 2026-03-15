@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_0pkg8")
 CharacterName = "Wyatt Ford"
+wrestler_id = "977"
 Age = 34
 Height = "6'5\""
 Weight = 295

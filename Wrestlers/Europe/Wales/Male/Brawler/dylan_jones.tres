@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_8wdgj")
 CharacterName = "Dylan Jones"
+wrestler_id = "599"
 ClassType = 3
 Disposition = 1
 Age = 36

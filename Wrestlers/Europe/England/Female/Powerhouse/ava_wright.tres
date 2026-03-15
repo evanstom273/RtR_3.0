@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_tga85")
 CharacterName = "Ava Wright"
+wrestler_id = "316"
 Gender = 1
 Division = 2
 Disposition = 1

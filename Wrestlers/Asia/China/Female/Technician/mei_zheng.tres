@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_gg317")
 CharacterName = "Mei Zheng"
+wrestler_id = "89"
 ClassType = 2
 Gender = 1
 Division = 2

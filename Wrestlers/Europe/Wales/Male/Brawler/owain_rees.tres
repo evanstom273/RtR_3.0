@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_35q1u")
 CharacterName = "Owain Rees"
+wrestler_id = "603"
 ClassType = 3
 Division = 1
 Age = 29

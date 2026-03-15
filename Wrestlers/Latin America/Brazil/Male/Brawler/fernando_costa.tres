@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_3xjhj")
 CharacterName = "Fernando Costa"
+wrestler_id = "661"
 ClassType = 3
 Age = 49
 Height = "5'10\""

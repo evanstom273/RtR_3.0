@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_3flv3")
 CharacterName = "Harper Lavoie"
+wrestler_id = "708"
 ClassType = 2
 Gender = 1
 Division = 2

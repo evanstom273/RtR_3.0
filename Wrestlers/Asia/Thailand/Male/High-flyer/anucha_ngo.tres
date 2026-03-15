@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ccp78")
 CharacterName = "Anucha Ngo"
+wrestler_id = "286"
 ClassType = 1
 Division = 1
 Disposition = 1

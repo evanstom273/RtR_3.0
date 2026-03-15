@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_pysch")
 CharacterName = "Knowledge Vilakazi"
+wrestler_id = "69"
 Division = 1
 Disposition = 1
 Age = 42

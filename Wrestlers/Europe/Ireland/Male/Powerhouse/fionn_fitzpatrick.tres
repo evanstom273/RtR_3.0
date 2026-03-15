@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_seeo2")
 CharacterName = "Fionn Fitzpatrick"
+wrestler_id = "467"
 Division = 1
 Disposition = 1
 Age = 59

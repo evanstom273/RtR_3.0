@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_0digk")
 CharacterName = "Marco Jimenez"
+wrestler_id = "625"
 ClassType = 3
 Disposition = 1
 Age = 63

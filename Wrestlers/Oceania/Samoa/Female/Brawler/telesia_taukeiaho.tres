@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ucisp")
 CharacterName = "Telesia Taukei'aho"
+wrestler_id = "1066"
 ClassType = 3
 Gender = 1
 Division = 2

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_i2cmy")
 CharacterName = "Marcelo Carvalho"
+wrestler_id = "688"
 ClassType = 4
 Disposition = 1
 Age = 63

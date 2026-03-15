@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_a3u5r")
 CharacterName = "Naoki Tanaka"
+wrestler_id = "208"
 ClassType = 4
 Age = 31
 Height = "5'9\""

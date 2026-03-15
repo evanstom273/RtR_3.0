@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_8r644")
 CharacterName = "Shelby Styles"
+wrestler_id = "859"
 ClassType = 2
 Gender = 1
 Division = 2

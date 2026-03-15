@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_c1re2")
 CharacterName = "Lekan Abiola"
+wrestler_id = "44"
 ClassType = 4
 Division = 1
 Disposition = 1

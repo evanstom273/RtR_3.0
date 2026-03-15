@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_p7fsc")
 CharacterName = "Rangi Ioane"
+wrestler_id = "1053"
 Disposition = 1
 Age = 55
 Height = "6'1\""

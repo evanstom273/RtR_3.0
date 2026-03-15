@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_onu0b")
 CharacterName = "Min Ma"
+wrestler_id = "84"
 Gender = 1
 Division = 2
 Disposition = 1

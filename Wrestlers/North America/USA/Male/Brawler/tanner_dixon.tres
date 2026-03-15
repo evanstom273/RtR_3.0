@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_v7wm8")
 CharacterName = "Tanner Dixon"
+wrestler_id = "912"
 ClassType = 3
 Division = 1
 Age = 47

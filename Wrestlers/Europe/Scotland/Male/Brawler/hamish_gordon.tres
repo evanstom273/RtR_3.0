@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_g0qob")
 CharacterName = "Hamish Gordon"
+wrestler_id = "532"
 ClassType = 3
 Division = 1
 Disposition = 1

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_c16y2")
 CharacterName = "Gunther Keller"
+wrestler_id = "429"
 Division = 1
 Disposition = 1
 Age = 52

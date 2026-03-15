@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_odqym")
 CharacterName = "Clayton Chase"
+wrestler_id = "936"
 Division = 1
 Age = 63
 Height = "6'3\""

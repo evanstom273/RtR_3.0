@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_3bpyw")
 CharacterName = "Ryuji Ogawa"
+wrestler_id = "230"
 ClassType = 2
 Age = 48
 Height = "5'10\""

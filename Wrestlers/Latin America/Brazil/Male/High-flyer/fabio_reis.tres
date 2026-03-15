@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_6ba8o")
 CharacterName = "Fabio Reis"
+wrestler_id = "674"
 ClassType = 1
 Disposition = 1
 Age = 24

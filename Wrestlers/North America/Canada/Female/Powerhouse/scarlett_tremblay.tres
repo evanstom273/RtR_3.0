@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_1g2ts")
 CharacterName = "Scarlett Tremblay"
+wrestler_id = "701"
 Gender = 1
 Division = 2
 Age = 40

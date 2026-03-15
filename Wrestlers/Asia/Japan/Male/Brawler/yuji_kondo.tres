@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_oh0cc")
 CharacterName = "Yuji Kondo"
+wrestler_id = "184"
 ClassType = 3
 Age = 41
 Height = "5'11\""

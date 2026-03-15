@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_4de34")
 CharacterName = "Hijo Juventud"
+wrestler_id = "815"
 ClassType = 2
 Division = 1
 Age = 39

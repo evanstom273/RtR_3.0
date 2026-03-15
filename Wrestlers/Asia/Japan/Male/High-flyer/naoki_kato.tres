@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_s0kt5")
 CharacterName = "Naoki Kato"
+wrestler_id = "188"
 ClassType = 1
 Age = 56
 Weight = 151

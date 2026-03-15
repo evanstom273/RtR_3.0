@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_yhjq6")
 CharacterName = "Dusty Dixon"
+wrestler_id = "952"
 Division = 1
 Age = 46
 Height = "6'1\""

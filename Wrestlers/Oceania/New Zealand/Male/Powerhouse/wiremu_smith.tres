@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_4ns1b")
 CharacterName = "Wiremu Smith"
+wrestler_id = "1055"
 Disposition = 1
 Age = 34
 Height = "6'5\""

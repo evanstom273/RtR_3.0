@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_o0ygp")
 CharacterName = "Bastien Bonnet"
+wrestler_id = "393"
 ClassType = 4
 Age = 41
 Height = "5'11\""

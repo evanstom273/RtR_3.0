@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_lh4o2")
 CharacterName = "Natsuki Nakamura"
+wrestler_id = "170"
 ClassType = 4
 Gender = 1
 Division = 2

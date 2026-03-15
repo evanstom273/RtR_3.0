@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_1y8ki")
 CharacterName = "Sefina Fifita"
+wrestler_id = "1069"
 Gender = 1
 Division = 2
 Age = 50

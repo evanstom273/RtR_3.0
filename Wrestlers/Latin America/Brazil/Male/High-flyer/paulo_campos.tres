@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_nflrr")
 CharacterName = "Paulo Campos"
+wrestler_id = "676"
 ClassType = 1
 Division = 1
 Age = 47

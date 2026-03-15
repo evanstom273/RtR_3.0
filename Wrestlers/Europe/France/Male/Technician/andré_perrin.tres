@@ -7,7 +7,8 @@
 
 [resource]
 script = ExtResource("4_c00vh")
-CharacterName = "André Perrin"
+CharacterName = "AndrÃ© Perrin"
+wrestler_id = "397"
 ClassType = 2
 Division = 1
 Disposition = 1

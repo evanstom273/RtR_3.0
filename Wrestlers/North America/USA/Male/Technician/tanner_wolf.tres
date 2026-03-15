@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_gpwd3")
 CharacterName = "Tanner Wolf"
+wrestler_id = "991"
 ClassType = 2
 Division = 1
 Age = 48

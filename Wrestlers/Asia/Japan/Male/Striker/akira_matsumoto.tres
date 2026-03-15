@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_28q3a")
 CharacterName = "Akira Matsumoto"
+wrestler_id = "194"
 ClassType = 4
 Disposition = 1
 Age = 27

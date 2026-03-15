@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ti3ut")
 CharacterName = "Mandla Cele"
+wrestler_id = "61"
 ClassType = 3
 Division = 1
 Age = 39

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_54tiq")
 CharacterName = "Gabriela Medina"
+wrestler_id = "621"
 Gender = 1
 Division = 2
 Age = 64

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_c441w")
 CharacterName = "Lachlan Macleod"
+wrestler_id = "548"
 Division = 1
 Disposition = 1
 Age = 41

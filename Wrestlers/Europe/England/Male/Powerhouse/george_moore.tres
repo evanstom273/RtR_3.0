@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_bloan")
 CharacterName = "George Moore"
+wrestler_id = "353"
 Disposition = 1
 Age = 57
 Height = "6'1\""

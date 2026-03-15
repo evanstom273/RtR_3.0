@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_yt8uf")
 CharacterName = "Tetsuo Ogawa"
+wrestler_id = "234"
 ClassType = 2
 Division = 1
 Age = 50

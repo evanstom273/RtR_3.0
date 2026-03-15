@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_12j4g")
 CharacterName = "Wisdom Nxumalo"
+wrestler_id = "62"
 ClassType = 3
 Division = 1
 Disposition = 1

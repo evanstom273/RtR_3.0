@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_vc27m")
 CharacterName = "Cameron MacDonald"
+wrestler_id = "536"
 ClassType = 1
 Division = 1
 Disposition = 1

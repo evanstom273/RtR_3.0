@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_pkve5")
 CharacterName = "Surachai Pham"
+wrestler_id = "303"
 ClassType = 4
 Division = 1
 Disposition = 1

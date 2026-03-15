@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_uo3ou")
 CharacterName = "Adeline Thomas"
+wrestler_id = "378"
 Gender = 1
 Division = 2
 Age = 27

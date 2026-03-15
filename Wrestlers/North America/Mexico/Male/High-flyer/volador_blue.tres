@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_anrku")
 CharacterName = "Volador Blue"
+wrestler_id = "803"
 ClassType = 1
 Age = 29
 Height = "5'9\""

@@ -7,7 +7,8 @@
 
 [resource]
 script = ExtResource("4_rkmyn")
-CharacterName = "Andrés Moreno"
+CharacterName = "AndrÃ©s Moreno"
+wrestler_id = "579"
 ClassType = 2
 Age = 22
 Height = "5'11\""

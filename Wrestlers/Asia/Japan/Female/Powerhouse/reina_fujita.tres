@@ -8,14 +8,13 @@
 [resource]
 script = ExtResource("4_76prg")
 CharacterName = "Reina Fujita"
+wrestler_id = "164"
 Gender = 1
 Division = 2
 Disposition = 1
 Age = 60
 Height = "5'1\""
 Weight = 153
-style = ""
-finisher_name = ""
 birthplace = 3
 strength = 48
 speed = 19

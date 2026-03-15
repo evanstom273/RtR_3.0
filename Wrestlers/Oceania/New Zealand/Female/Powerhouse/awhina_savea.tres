@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_xwgr2")
 CharacterName = "Awhina Savea"
+wrestler_id = "1039"
 Gender = 1
 Division = 2
 Age = 47

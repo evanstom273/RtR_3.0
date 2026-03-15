@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_aaemx")
 CharacterName = "Noah Simard"
+wrestler_id = "727"
 Age = 31
 Height = "6'3\""
 Weight = 266

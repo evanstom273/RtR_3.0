@@ -7,7 +7,8 @@
 
 [resource]
 script = ExtResource("4_xeetx")
-CharacterName = "Metálica Lucha"
+CharacterName = "MetÃ¡lica Lucha"
+wrestler_id = "762"
 ClassType = 1
 Gender = 1
 Division = 2

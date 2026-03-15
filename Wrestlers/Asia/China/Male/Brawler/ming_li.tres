@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_b7v1q")
 CharacterName = "Ming Li"
+wrestler_id = "91"
 ClassType = 3
 Division = 1
 Age = 31

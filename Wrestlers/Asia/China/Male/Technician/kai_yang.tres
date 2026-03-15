@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ciwt6")
 CharacterName = "Kai Yang"
+wrestler_id = "113"
 ClassType = 2
 Age = 32
 Height = "6'1\""

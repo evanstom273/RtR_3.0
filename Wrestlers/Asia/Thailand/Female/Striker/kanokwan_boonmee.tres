@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_u4x3j")
 CharacterName = "Kanokwan Boonmee"
+wrestler_id = "282"
 ClassType = 4
 Gender = 1
 Division = 2

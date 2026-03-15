@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_dcpkh")
 CharacterName = "Piper Steele"
+wrestler_id = "841"
 Gender = 1
 Division = 2
 Age = 39

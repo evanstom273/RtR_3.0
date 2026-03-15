@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_dyndo")
 CharacterName = "Rory Morrison"
+wrestler_id = "551"
 Division = 1
 Age = 51
 Height = "6'2\""

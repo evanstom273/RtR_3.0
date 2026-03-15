@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_vp1ph")
 CharacterName = "Javier Morales"
+wrestler_id = "631"
 ClassType = 1
 Age = 40
 Height = "5'7\""

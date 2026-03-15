@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_q78ws")
 CharacterName = "Aroha McKenzie"
+wrestler_id = "1035"
 ClassType = 3
 Gender = 1
 Division = 2

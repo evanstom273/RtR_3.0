@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_7vutc")
 CharacterName = "Deirdre McMahon"
+wrestler_id = "449"
 ClassType = 3
 Gender = 1
 Division = 2

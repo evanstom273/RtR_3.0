@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_77fth")
 CharacterName = "Lachlan Cameron"
+wrestler_id = "547"
 Division = 1
 Age = 51
 Height = "6'2\""

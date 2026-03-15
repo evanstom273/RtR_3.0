@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_02x1x")
 CharacterName = "Jackson Beaulieu"
+wrestler_id = "746"
 ClassType = 2
 Division = 1
 Age = 24

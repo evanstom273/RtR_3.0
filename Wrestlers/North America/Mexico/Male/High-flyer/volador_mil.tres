@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_suyu3")
 CharacterName = "Volador Mil"
+wrestler_id = "804"
 ClassType = 1
 Division = 1
 Age = 63

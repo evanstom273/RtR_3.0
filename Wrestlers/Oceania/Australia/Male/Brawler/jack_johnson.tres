@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_le55c")
 CharacterName = "Jack Johnson"
+wrestler_id = "1007"
 ClassType = 3
 Disposition = 1
 Age = 35

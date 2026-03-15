@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_q2kfy")
 CharacterName = "Naoki Takahashi"
+wrestler_id = "189"
 ClassType = 1
 Disposition = 1
 Age = 26

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_yfurq")
 CharacterName = "Edge Pelletier"
+wrestler_id = "731"
 ClassType = 4
 Disposition = 1
 Age = 45

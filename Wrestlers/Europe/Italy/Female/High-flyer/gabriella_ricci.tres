@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_pfyau")
 CharacterName = "Gabriella Ricci"
+wrestler_id = "487"
 ClassType = 1
 Gender = 1
 Division = 2

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_tx3v5")
 CharacterName = "Hugo Mercier"
+wrestler_id = "403"
 ClassType = 2
 Disposition = 1
 Age = 63

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_6o44v")
 CharacterName = "Taiwo Chukwuma"
+wrestler_id = "34"
 ClassType = 1
 Disposition = 1
 Age = 34

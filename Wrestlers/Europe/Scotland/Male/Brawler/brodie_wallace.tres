@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_yhn00")
 CharacterName = "Brodie Wallace"
+wrestler_id = "528"
 ClassType = 3
 Division = 1
 Disposition = 1

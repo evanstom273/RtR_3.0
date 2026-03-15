@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_y00cr")
 CharacterName = "Wei Zhang"
+wrestler_id = "119"
 ClassType = 2
 Division = 1
 Age = 53

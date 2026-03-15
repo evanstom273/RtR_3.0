@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_bbkwh")
 CharacterName = "Bernard Bernard"
+wrestler_id = "398"
 ClassType = 2
 Disposition = 1
 Age = 49

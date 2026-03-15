@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_owveg")
 CharacterName = "Freddie Wilson"
+wrestler_id = "366"
 ClassType = 2
 Age = 38
 Height = "6'1\""

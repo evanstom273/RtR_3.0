@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_vxvcb")
 CharacterName = "Tetteh Barrow"
+wrestler_id = "18"
 Disposition = 1
 Age = 65
 Height = "6'1\""

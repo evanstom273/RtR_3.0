@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_jmo2d")
 CharacterName = "George Clarke"
+wrestler_id = "352"
 Division = 1
 Disposition = 1
 Age = 37

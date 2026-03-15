@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_mu6vv")
 CharacterName = "Rawiri McKenzie"
+wrestler_id = "1054"
 Division = 1
 Disposition = 1
 Age = 23

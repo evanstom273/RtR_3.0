@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_jbpfg")
 CharacterName = "Ryker Rollins"
+wrestler_id = "967"
 Division = 1
 Age = 65
 Height = "6'5\""

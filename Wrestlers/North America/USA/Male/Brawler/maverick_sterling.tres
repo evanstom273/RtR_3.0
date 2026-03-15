@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_d0t2k")
 CharacterName = "Maverick Sterling"
+wrestler_id = "901"
 ClassType = 3
 Age = 42
 Height = "5'11\""

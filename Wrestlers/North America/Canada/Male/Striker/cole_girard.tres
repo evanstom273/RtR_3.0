@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_jbwy1")
 CharacterName = "Cole Girard"
+wrestler_id = "730"
 ClassType = 4
 Disposition = 1
 Age = 49

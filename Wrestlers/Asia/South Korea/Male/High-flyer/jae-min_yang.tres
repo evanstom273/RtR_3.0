@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_wfb70")
 CharacterName = "Jae-min Yang"
+wrestler_id = "253"
 ClassType = 1
 Age = 23
 Height = "5'10\""

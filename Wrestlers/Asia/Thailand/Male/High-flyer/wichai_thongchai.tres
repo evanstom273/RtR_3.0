@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_3bvp4")
 CharacterName = "Wichai Thongchai"
+wrestler_id = "297"
 ClassType = 1
 Age = 41
 Height = "5'7\""

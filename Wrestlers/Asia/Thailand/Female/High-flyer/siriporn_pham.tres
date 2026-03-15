@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_oadih")
 CharacterName = "Siriporn Pham"
+wrestler_id = "279"
 ClassType = 1
 Gender = 1
 Division = 2

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_g0dgk")
 CharacterName = "Serena Mancini"
+wrestler_id = "492"
 ClassType = 2
 Gender = 1
 Division = 2

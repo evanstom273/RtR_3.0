@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_qxgll")
 CharacterName = "Liam Smith"
+wrestler_id = "1009"
 ClassType = 3
 Age = 29
 Height = "6'2\""

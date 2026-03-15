@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_dn3ey")
 CharacterName = "Duke Steele"
+wrestler_id = "884"
 ClassType = 3
 Disposition = 1
 Age = 26

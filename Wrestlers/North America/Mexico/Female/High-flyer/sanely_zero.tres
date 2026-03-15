@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_c28ei")
 CharacterName = "Sanely Zero"
+wrestler_id = "763"
 ClassType = 1
 Gender = 1
 Division = 2

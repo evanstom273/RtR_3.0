@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_abqyb")
 CharacterName = "Ropata Lomu"
+wrestler_id = "1045"
 ClassType = 3
 Division = 1
 Disposition = 1

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_0o5pm")
 CharacterName = "Freedom Mtshali"
+wrestler_id = "68"
 Age = 57
 Weight = 231
 birthplace = 4

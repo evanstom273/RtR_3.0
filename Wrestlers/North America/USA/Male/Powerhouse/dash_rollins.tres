@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_bsglo")
 CharacterName = "Dash Rollins"
+wrestler_id = "948"
 Disposition = 1
 Age = 47
 Height = "6'5\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_6774v")
 CharacterName = "Sawyer Steele"
+wrestler_id = "911"
 ClassType = 3
 Division = 1
 Disposition = 1

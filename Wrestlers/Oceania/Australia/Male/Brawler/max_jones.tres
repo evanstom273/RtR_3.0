@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_7nfw6")
 CharacterName = "Max Jones"
+wrestler_id = "1011"
 ClassType = 3
 Division = 1
 Age = 46

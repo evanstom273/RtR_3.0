@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_oes2t")
 CharacterName = "Noboru Yoshida"
+wrestler_id = "209"
 ClassType = 4
 Division = 1
 Age = 34

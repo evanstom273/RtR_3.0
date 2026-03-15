@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_h5awh")
 CharacterName = "Tanner Rollins"
+wrestler_id = "970"
 Age = 49
 Height = "6'2\""
 Weight = 263

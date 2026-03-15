@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_44t68")
 CharacterName = "Ji-ah Jeon"
+wrestler_id = "241"
 Gender = 1
 Division = 2
 Age = 64

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_bgu3y")
 CharacterName = "Angel Mendoza"
+wrestler_id = "626"
 ClassType = 1
 Disposition = 1
 Age = 48

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_1ibng")
 CharacterName = "Apichat Vo"
+wrestler_id = "300"
 ClassType = 4
 Age = 56
 Weight = 176

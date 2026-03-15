@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_gksup")
 CharacterName = "Ethan Wright"
+wrestler_id = "1018"
 Division = 1
 Age = 26
 Height = "6'4\""

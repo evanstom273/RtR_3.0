@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_60i7c")
 CharacterName = "Tarun Sharma"
+wrestler_id = "154"
 ClassType = 4
 Disposition = 1
 Age = 34

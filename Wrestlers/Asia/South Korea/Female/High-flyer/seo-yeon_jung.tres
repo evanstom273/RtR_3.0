@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_kk2po")
 CharacterName = "Seo-yeon Jung"
+wrestler_id = "240"
 ClassType = 1
 Gender = 1
 Division = 2

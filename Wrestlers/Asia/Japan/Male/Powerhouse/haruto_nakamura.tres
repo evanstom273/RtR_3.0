@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ts4f0")
 CharacterName = "Haruto Nakamura"
+wrestler_id = "192"
 Division = 1
 Disposition = 1
 Age = 33

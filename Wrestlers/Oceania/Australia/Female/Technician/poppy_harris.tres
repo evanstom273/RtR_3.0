@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_kmsin")
 CharacterName = "Poppy Harris"
+wrestler_id = "1003"
 ClassType = 2
 Gender = 1
 Division = 2

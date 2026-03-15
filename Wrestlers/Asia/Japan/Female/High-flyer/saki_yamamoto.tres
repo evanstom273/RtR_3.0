@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ymm3l")
 CharacterName = "Saki Yamamoto"
+wrestler_id = "162"
 ClassType = 1
 Gender = 1
 Division = 2
@@ -15,8 +16,6 @@ Disposition = 1
 Age = 52
 Height = "5'1\""
 Weight = 105
-style = ""
-finisher_name = ""
 birthplace = 3
 strength = 16
 speed = 46

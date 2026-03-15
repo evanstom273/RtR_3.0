@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_bwgds")
 CharacterName = "Eduardo Reis"
+wrestler_id = "660"
 ClassType = 3
 Division = 1
 Age = 22

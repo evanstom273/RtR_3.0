@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_e4lau")
 CharacterName = "Fraser Robertson"
+wrestler_id = "544"
 Division = 1
 Age = 53
 Height = "6'2\""

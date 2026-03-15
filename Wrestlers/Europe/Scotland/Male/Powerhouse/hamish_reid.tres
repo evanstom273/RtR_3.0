@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_uppon")
 CharacterName = "Hamish Reid"
+wrestler_id = "546"
 Age = 23
 Height = "6'2\""
 Weight = 249

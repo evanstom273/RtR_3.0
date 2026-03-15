@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_tm4b0")
 CharacterName = "Kaito Kimura"
+wrestler_id = "222"
 ClassType = 2
 Age = 34
 Height = "6'1\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_bu30b")
 CharacterName = "Rodrigo Alvarez"
+wrestler_id = "574"
 ClassType = 1
 Disposition = 1
 Age = 26

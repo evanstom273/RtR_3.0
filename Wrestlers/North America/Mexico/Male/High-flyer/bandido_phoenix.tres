@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_1cmdk")
 CharacterName = "Bandido Phoenix"
+wrestler_id = "780"
 ClassType = 1
 Disposition = 1
 Age = 62

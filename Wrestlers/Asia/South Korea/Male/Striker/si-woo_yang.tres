@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_5i66u")
 CharacterName = "Si-woo Yang"
+wrestler_id = "274"
 ClassType = 4
 Disposition = 1
 Age = 31

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_q2o30")
 CharacterName = "Lani Vaai"
+wrestler_id = "1071"
 ClassType = 2
 Gender = 1
 Division = 2

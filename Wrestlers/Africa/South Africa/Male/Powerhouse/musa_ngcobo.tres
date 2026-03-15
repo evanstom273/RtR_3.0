@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_6l5pm")
 CharacterName = "Musa Ngcobo"
+wrestler_id = "71"
 Division = 1
 Disposition = 1
 Age = 33

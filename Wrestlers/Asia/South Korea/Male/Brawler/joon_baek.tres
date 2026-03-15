@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_7nl8v")
 CharacterName = "Joon Baek"
+wrestler_id = "249"
 ClassType = 3
 Disposition = 1
 Age = 41

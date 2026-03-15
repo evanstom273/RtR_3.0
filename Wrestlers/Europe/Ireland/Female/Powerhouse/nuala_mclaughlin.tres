@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_y8ql4")
 CharacterName = "Nuala McLaughlin"
+wrestler_id = "454"
 Gender = 1
 Division = 2
 Disposition = 1

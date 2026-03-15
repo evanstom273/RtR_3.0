@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_uib7r")
 CharacterName = "Moana Williams"
+wrestler_id = "1047"
 ClassType = 1
 Height = "5'10\""
 Weight = 145

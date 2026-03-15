@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_yijlp")
 CharacterName = "Rush Dragon"
+wrestler_id = "796"
 ClassType = 1
 Disposition = 1
 Age = 42

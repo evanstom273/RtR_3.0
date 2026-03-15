@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_7sxcv")
 CharacterName = "Blair Thorne"
+wrestler_id = "816"
 ClassType = 3
 Gender = 1
 Division = 2

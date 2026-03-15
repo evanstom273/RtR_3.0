@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_8y417")
 CharacterName = "Afua Fofana"
+wrestler_id = "5"
 ClassType = 2
 Gender = 1
 Division = 2

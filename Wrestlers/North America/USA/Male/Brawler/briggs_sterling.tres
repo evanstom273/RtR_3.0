@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_cpxj6")
 CharacterName = "Briggs Sterling"
+wrestler_id = "870"
 ClassType = 3
 Division = 1
 Height = "6'2\""

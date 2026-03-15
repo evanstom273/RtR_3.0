@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ualvp")
 CharacterName = "Ana Campos"
+wrestler_id = "657"
 ClassType = 4
 Gender = 1
 Division = 2

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ao2h1")
 CharacterName = "Adjei Mensah"
+wrestler_id = "12"
 Division = 1
 Age = 64
 Weight = 247

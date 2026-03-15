@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_jig65")
 CharacterName = "Gunner Stone"
+wrestler_id = "893"
 ClassType = 3
 Age = 23
 Height = "6'5\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_smam7")
 CharacterName = "Oliver Johnson"
+wrestler_id = "1021"
 Age = 51
 Height = "6'4\""
 Weight = 274

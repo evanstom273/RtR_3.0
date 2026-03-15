@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_tqcfw")
 CharacterName = "Sombat Dang"
+wrestler_id = "302"
 ClassType = 4
 Division = 1
 Age = 24

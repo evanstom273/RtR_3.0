@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_tl6et")
 CharacterName = "Ricardo Morales"
+wrestler_id = "645"
 ClassType = 2
 Disposition = 1
 Age = 49

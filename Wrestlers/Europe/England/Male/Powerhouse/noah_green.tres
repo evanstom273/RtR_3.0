@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_254sd")
 CharacterName = "Noah Green"
+wrestler_id = "355"
 Division = 1
 Disposition = 1
 Age = 47

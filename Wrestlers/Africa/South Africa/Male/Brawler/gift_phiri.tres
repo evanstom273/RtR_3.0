@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_8du5i")
 CharacterName = "Gift Phiri"
+wrestler_id = "60"
 ClassType = 3
 Disposition = 1
 Age = 47

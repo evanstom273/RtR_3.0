@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_0hcif")
 CharacterName = "Alejandro Gonzalez"
+wrestler_id = "638"
 ClassType = 2
 Division = 1
 Disposition = 1

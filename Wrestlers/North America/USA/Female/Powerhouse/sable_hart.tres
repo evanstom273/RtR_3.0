@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_8a4mf")
 CharacterName = "Sable Hart"
+wrestler_id = "844"
 Gender = 1
 Division = 2
 Disposition = 1

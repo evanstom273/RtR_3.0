@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_yqxyl")
 CharacterName = "Kwame Diallo"
+wrestler_id = "16"
 Age = 36
 Height = "5'9\""
 Weight = 215

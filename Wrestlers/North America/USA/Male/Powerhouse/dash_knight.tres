@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_smqn3")
 CharacterName = "Dash Knight"
+wrestler_id = "947"
 Age = 60
 Height = "6'3\""
 Weight = 271

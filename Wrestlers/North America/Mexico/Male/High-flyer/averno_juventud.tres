@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_y8n47")
 CharacterName = "Averno Juventud"
+wrestler_id = "778"
 ClassType = 1
 Age = 65
 Weight = 163

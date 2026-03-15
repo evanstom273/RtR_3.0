@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ng84r")
 CharacterName = "Sloane Vaughn"
+wrestler_id = "849"
 Gender = 1
 Division = 2
 Age = 22

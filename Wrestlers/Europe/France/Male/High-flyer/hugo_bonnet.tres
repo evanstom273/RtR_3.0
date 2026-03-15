@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_b1duv")
 CharacterName = "Hugo Bonnet"
+wrestler_id = "387"
 ClassType = 1
 Disposition = 1
 Age = 51

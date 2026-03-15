@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ts1s5")
 CharacterName = "Apinya Do"
+wrestler_id = "281"
 ClassType = 4
 Gender = 1
 Division = 2

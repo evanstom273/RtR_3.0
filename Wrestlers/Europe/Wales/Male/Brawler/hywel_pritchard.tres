@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_h8lxq")
 CharacterName = "Hywel Pritchard"
+wrestler_id = "602"
 ClassType = 3
 Division = 1
 Age = 29

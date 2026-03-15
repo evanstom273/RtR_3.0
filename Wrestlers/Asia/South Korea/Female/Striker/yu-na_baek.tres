@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_olmq1")
 CharacterName = "Yu-na Baek"
+wrestler_id = "244"
 ClassType = 4
 Gender = 1
 Division = 2

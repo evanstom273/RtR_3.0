@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_gms2e")
 CharacterName = "Dragon Solar"
+wrestler_id = "782"
 ClassType = 1
 Age = 42
 Height = "5'11\""

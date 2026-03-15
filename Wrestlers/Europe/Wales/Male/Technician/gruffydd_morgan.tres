@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_maudq")
 CharacterName = "Gruffydd Morgan"
+wrestler_id = "611"
 ClassType = 2
 Division = 1
 Disposition = 1

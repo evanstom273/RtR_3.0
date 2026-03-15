@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_51gal")
 CharacterName = "Gustavo Barbosa"
+wrestler_id = "663"
 ClassType = 3
 Age = 52
 Height = "5'7\""

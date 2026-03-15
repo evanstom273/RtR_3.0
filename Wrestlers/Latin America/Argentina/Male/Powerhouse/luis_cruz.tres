@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_4hpxw")
 CharacterName = "Luis Cruz"
+wrestler_id = "635"
 Age = 52
 Height = "5'8\""
 Weight = 209

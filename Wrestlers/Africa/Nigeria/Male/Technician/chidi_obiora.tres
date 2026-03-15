@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_wbrtt")
 CharacterName = "Chidi Obiora"
+wrestler_id = "50"
 ClassType = 2
 Division = 1
 Age = 65

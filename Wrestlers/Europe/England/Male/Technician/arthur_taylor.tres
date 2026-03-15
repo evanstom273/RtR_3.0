@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_bmfxs")
 CharacterName = "Arthur Taylor"
+wrestler_id = "362"
 ClassType = 2
 Disposition = 1
 Age = 24

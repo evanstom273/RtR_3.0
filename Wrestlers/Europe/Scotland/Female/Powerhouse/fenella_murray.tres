@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_evlut")
 CharacterName = "Fenella Murray"
+wrestler_id = "521"
 Gender = 1
 Division = 2
 Disposition = 1

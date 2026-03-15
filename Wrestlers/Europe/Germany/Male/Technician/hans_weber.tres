@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_px07i")
 CharacterName = "Hans Weber"
+wrestler_id = "439"
 ClassType = 2
 Disposition = 1
 Age = 45

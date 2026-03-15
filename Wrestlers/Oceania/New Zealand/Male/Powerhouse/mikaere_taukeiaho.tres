@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_8qsk0")
 CharacterName = "Mikaere Taukei'aho"
+wrestler_id = "1051"
 Age = 30
 Height = "6'4\""
 Weight = 275

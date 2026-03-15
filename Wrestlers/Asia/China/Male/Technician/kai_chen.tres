@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_7p5iu")
 CharacterName = "Kai Chen"
+wrestler_id = "111"
 ClassType = 2
 Division = 1
 Disposition = 1

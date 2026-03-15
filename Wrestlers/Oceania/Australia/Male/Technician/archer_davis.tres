@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_k78ry")
 CharacterName = "Archer Davis"
+wrestler_id = "1023"
 ClassType = 2
 Division = 1
 Disposition = 1

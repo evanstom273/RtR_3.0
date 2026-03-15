@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_g42hc")
 CharacterName = "Neel Patel"
+wrestler_id = "158"
 ClassType = 2
 Age = 34
 Height = "5'8\""

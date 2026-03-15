@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_64vc0")
 CharacterName = "Dragon Sagrada"
+wrestler_id = "807"
 Height = "5'10\""
 Weight = 214
 country_north_america = 2

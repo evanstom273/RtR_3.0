@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_agiqo")
 CharacterName = "Rawiri Williams"
+wrestler_id = "1058"
 ClassType = 4
 Division = 1
 Age = 41

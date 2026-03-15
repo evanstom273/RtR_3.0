@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_vnt5c")
 CharacterName = "Trey Blackwood"
+wrestler_id = "913"
 ClassType = 3
 Division = 1
 Disposition = 1

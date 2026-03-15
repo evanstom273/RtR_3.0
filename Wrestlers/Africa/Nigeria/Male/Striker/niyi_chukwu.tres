@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ksqlv")
 CharacterName = "Niyi Chukwu"
+wrestler_id = "48"
 ClassType = 4
 Division = 1
 Age = 29

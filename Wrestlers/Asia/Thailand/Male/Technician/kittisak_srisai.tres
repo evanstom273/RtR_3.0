@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_t0xqc")
 CharacterName = "Kittisak Srisai"
+wrestler_id = "305"
 ClassType = 2
 Age = 63
 Weight = 193

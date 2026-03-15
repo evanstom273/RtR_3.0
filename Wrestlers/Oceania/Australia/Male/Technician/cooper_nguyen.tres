@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_l6bp7")
 CharacterName = "Cooper Nguyen"
+wrestler_id = "1026"
 ClassType = 2
 Division = 1
 Age = 57

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_uxfam")
 CharacterName = "Ruby Reigns"
+wrestler_id = "854"
 ClassType = 4
 Gender = 1
 Division = 2

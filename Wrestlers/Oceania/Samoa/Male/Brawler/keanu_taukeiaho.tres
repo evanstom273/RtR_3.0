@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_tu2bn")
 CharacterName = "Keanu Taukei'aho"
+wrestler_id = "1073"
 ClassType = 3
 Age = 30
 Height = "6'3\""

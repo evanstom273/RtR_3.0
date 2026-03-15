@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_0f021")
 CharacterName = "Edge Gauthier"
+wrestler_id = "742"
 ClassType = 2
 Division = 1
 Disposition = 1

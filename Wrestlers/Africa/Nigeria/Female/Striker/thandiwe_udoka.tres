@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_863yq")
 CharacterName = "Thandiwe Udoka"
+wrestler_id = "27"
 ClassType = 4
 Gender = 1
 Division = 2

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_7khd4")
 CharacterName = "Rhys Hughes"
+wrestler_id = "614"
 ClassType = 2
 Division = 1
 Age = 26

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ut84u")
 CharacterName = "Ingrid Schroeder"
+wrestler_id = "418"
 ClassType = 2
 Gender = 1
 Division = 2

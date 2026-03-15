@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_c7a8e")
 CharacterName = "Daniela Pereira"
+wrestler_id = "658"
 ClassType = 4
 Gender = 1
 Division = 2

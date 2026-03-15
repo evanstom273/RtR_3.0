@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_qylee")
 CharacterName = "Sinead Walsh"
+wrestler_id = "456"
 ClassType = 2
 Gender = 1
 Division = 2

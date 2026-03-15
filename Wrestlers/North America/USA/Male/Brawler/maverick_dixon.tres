@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_vjyqd")
 CharacterName = "Maverick Dixon"
+wrestler_id = "900"
 ClassType = 3
 Division = 1
 Age = 24

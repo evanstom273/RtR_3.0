@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_d3p3l")
 CharacterName = "Henare Read"
+wrestler_id = "1042"
 ClassType = 3
 Disposition = 1
 Age = 65

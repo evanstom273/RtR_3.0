@@ -7,7 +7,8 @@
 
 [resource]
 script = ExtResource("4_l0fpa")
-CharacterName = "Jürgen Müller"
+CharacterName = "JÃ¼rgen MÃ¼ller"
+wrestler_id = "424"
 ClassType = 1
 Division = 1
 Age = 43

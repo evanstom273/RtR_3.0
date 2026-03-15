@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_3ilrk")
 CharacterName = "Mephisto Panther"
+wrestler_id = "809"
 ClassType = 4
 Age = 28
 Height = "5'10\""

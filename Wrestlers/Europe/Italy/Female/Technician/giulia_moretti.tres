@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_4habd")
 CharacterName = "Giulia Moretti"
+wrestler_id = "490"
 ClassType = 2
 Gender = 1
 Division = 2

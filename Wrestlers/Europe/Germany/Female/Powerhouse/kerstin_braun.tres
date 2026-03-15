@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_cnfdi")
 CharacterName = "Kerstin Braun"
+wrestler_id = "414"
 Gender = 1
 Division = 2
 Age = 59

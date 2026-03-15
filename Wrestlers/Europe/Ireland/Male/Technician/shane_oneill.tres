@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_rssyo")
 CharacterName = "Shane O'Neill"
+wrestler_id = "485"
 ClassType = 2
 Age = 42
 Weight = 179

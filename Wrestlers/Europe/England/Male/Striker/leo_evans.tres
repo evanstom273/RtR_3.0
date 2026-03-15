@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_tup2m")
 CharacterName = "Leo Evans"
+wrestler_id = "357"
 ClassType = 4
 Age = 51
 Height = "5'11\""

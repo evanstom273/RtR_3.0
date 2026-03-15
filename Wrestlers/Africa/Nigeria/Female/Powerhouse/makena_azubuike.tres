@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_dwxos")
 CharacterName = "Makena Azubuike"
+wrestler_id = "23"
 Gender = 1
 Division = 2
 Disposition = 1

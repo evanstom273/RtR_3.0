@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_2rbs2")
 CharacterName = "Uale Taumoepeau"
+wrestler_id = "1081"
 ClassType = 3
 Division = 1
 Height = "6'5\""

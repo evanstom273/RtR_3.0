@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_oersy")
 CharacterName = "Palesa Sithole"
+wrestler_id = "57"
 Gender = 1
 Division = 2
 Age = 61

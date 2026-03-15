@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ts1xs")
 CharacterName = "Cole Carrier"
+wrestler_id = "716"
 Disposition = 1
 Age = 57
 Weight = 245

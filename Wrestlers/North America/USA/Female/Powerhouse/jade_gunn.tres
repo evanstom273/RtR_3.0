@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_deudd")
 CharacterName = "Jade Gunn"
+wrestler_id = "838"
 Gender = 1
 Division = 2
 Age = 60

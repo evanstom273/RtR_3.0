@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_hookm")
 CharacterName = "Fleur Fournier"
+wrestler_id = "382"
 ClassType = 2
 Gender = 1
 Division = 2

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_srbbj")
 CharacterName = "Fernando Suarez"
+wrestler_id = "575"
 Age = 40
 Height = "6'2\""
 Weight = 254

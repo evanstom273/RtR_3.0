@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_6wy56")
 CharacterName = "Mei Kimura"
+wrestler_id = "161"
 ClassType = 1
 Gender = 1
 Division = 2

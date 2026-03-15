@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_wfvk6")
 CharacterName = "Hadley Gunn"
+wrestler_id = "821"
 ClassType = 3
 Gender = 1
 Division = 2

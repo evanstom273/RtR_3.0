@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_a28xl")
 CharacterName = "Andrade Perro"
+wrestler_id = "775"
 ClassType = 1
 Division = 1
 Age = 64

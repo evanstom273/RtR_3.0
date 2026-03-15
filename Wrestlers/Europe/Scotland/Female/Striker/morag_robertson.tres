@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_plcfa")
 CharacterName = "Morag Robertson"
+wrestler_id = "524"
 ClassType = 4
 Gender = 1
 Division = 2

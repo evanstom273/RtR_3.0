@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_6oxn5")
 CharacterName = "Niyi Nnamdi"
+wrestler_id = "36"
 Age = 50
 Weight = 241
 birthplace = 4

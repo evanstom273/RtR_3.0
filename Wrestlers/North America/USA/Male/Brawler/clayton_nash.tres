@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_d2kaa")
 CharacterName = "Clayton Nash"
+wrestler_id = "875"
 ClassType = 3
 Disposition = 1
 Age = 22

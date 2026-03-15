@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_15n8e")
 CharacterName = "Giancarlo Santoro"
+wrestler_id = "514"
 ClassType = 2
 Division = 1
 Disposition = 1

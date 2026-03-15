@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_55hnk")
 CharacterName = "Sawyer Rollins"
+wrestler_id = "910"
 ClassType = 3
 Age = 35
 Height = "6'3\""

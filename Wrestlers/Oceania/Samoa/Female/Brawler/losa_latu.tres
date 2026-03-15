@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_6kg6o")
 CharacterName = "Losa Latu"
+wrestler_id = "1065"
 ClassType = 3
 Gender = 1
 Division = 2

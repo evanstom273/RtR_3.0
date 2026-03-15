@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_xaysp")
 CharacterName = "Eduardo Pereira"
+wrestler_id = "690"
 ClassType = 2
 Age = 56
 Weight = 183

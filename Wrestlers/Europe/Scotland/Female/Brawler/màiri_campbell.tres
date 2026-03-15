@@ -7,7 +7,8 @@
 
 [resource]
 script = ExtResource("4_00p8j")
-CharacterName = "Màiri Campbell"
+CharacterName = "MÃ iri Campbell"
+wrestler_id = "516"
 ClassType = 3
 Gender = 1
 Division = 2

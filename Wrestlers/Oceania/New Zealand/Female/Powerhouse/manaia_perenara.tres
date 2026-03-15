@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_xf6ix")
 CharacterName = "Manaia Perenara"
+wrestler_id = "1040"
 Gender = 1
 Division = 2
 Disposition = 1

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_4gn2c")
 CharacterName = "Ryker Rhodes"
+wrestler_id = "966"
 Age = 60
 Height = "6'4\""
 Weight = 284

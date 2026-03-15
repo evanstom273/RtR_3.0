@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ct31h")
 CharacterName = "Massimo Longo"
+wrestler_id = "515"
 ClassType = 2
 Division = 1
 Age = 65

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_a23st")
 CharacterName = "Maxime Bonnet"
+wrestler_id = "406"
 ClassType = 2
 Disposition = 1
 Age = 33

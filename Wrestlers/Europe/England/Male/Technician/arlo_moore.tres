@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_aac34")
 CharacterName = "Arlo Moore"
+wrestler_id = "359"
 ClassType = 2
 Division = 1
 Age = 65

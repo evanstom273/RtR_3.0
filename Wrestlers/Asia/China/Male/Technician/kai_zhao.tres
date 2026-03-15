@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_riov4")
 CharacterName = "Kai Zhao"
+wrestler_id = "114"
 ClassType = 2
 Disposition = 1
 Age = 39

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_eeybv")
 CharacterName = "Kofi Luatua"
+wrestler_id = "1074"
 ClassType = 3
 Division = 1
 Age = 35

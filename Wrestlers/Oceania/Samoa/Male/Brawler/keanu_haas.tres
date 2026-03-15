@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ubo4d")
 CharacterName = "Keanu Haas"
+wrestler_id = "1072"
 ClassType = 3
 Disposition = 1
 Age = 49

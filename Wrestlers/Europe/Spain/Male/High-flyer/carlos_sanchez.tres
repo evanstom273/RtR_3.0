@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_rmi3d")
 CharacterName = "Carlos Sanchez"
+wrestler_id = "569"
 ClassType = 1
 Age = 42
 Height = "5'9\""

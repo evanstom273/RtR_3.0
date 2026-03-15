@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_6bx0o")
 CharacterName = "Zanele Phiri"
+wrestler_id = "58"
 Gender = 1
 Division = 2
 Age = 31

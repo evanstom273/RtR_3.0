@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_dhgs7")
 CharacterName = "Oliver Roberts"
+wrestler_id = "338"
 ClassType = 3
 Division = 1
 Disposition = 1

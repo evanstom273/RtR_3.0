@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_lqsep")
 CharacterName = "Dash Gunn"
+wrestler_id = "945"
 Division = 1
 Age = 65
 Height = "6'2\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_gvs3q")
 CharacterName = "Boateng Coulibaly"
+wrestler_id = "7"
 ClassType = 1
 Division = 1
 Age = 46

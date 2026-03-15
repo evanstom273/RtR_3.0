@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_cysly")
 CharacterName = "Iona Duncan"
+wrestler_id = "518"
 ClassType = 1
 Gender = 1
 Division = 2

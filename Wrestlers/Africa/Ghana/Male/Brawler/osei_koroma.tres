@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_m1ubx")
 CharacterName = "Osei Koroma"
+wrestler_id = "6"
 ClassType = 3
 Division = 1
 Age = 62

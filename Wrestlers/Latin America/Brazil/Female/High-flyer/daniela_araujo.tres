@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_3hrsx")
 CharacterName = "Daniela Araujo"
+wrestler_id = "650"
 ClassType = 1
 Gender = 1
 Division = 2

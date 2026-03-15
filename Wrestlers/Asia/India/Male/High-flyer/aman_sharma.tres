@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_25hpv")
 CharacterName = "Aman Sharma"
+wrestler_id = "135"
 ClassType = 1
 Age = 33
 Weight = 145

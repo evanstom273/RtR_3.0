@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_1loty")
 CharacterName = "Tyler Pelletier"
+wrestler_id = "755"
 ClassType = 2
 Division = 1
 Disposition = 1

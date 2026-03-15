@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_gddc8")
 CharacterName = "Jie Zhao"
+wrestler_id = "97"
 ClassType = 4
 Disposition = 1
 Age = 41

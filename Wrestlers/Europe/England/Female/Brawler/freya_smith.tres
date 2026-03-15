@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_tgwjx")
 CharacterName = "Freya Smith"
+wrestler_id = "311"
 ClassType = 3
 Gender = 1
 Division = 2

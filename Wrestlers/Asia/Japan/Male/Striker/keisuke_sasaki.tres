@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_6nc4t")
 CharacterName = "Keisuke Sasaki"
+wrestler_id = "204"
 ClassType = 4
 Division = 1
 Disposition = 1

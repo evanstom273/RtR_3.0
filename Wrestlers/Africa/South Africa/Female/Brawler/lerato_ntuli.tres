@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_hcsdl")
 CharacterName = "Lerato Ntuli"
+wrestler_id = "54"
 ClassType = 3
 Gender = 1
 Division = 2

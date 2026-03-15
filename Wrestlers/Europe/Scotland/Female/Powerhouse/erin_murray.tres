@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_owp8a")
 CharacterName = "Erin Murray"
+wrestler_id = "520"
 Gender = 1
 Division = 2
 Age = 27

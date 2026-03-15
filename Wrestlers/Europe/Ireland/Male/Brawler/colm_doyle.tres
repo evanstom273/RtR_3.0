@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_jbpce")
 CharacterName = "Colm Doyle"
+wrestler_id = "458"
 ClassType = 3
 Division = 1
 Disposition = 1

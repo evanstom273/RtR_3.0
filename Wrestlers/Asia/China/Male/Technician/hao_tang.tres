@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_q1rdl")
 CharacterName = "Hao Tang"
+wrestler_id = "109"
 ClassType = 2
 Division = 1
 Age = 62

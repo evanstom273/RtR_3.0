@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_42co8")
 CharacterName = "Logan Bouchard"
+wrestler_id = "724"
 Division = 1
 Disposition = 1
 Age = 30

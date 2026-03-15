@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_rty5v")
 CharacterName = "Otto Zimmerman"
+wrestler_id = "432"
 Division = 1
 Age = 65
 Height = "6'3\""

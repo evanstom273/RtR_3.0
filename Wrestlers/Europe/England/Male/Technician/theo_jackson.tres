@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_opkpa")
 CharacterName = "Theo Jackson"
+wrestler_id = "373"
 ClassType = 2
 Disposition = 1
 Age = 29

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_evs7i")
 CharacterName = "Alfie Wilson"
+wrestler_id = "351"
 Division = 1
 Age = 65
 Height = "6'3\""

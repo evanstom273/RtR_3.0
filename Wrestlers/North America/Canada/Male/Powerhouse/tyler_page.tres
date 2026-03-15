@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_owetj")
 CharacterName = "Tyler Page"
+wrestler_id = "729"
 Division = 1
 Age = 59
 Height = "6'1\""

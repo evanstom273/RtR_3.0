@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_adraj")
 CharacterName = "Thiago Rocha"
+wrestler_id = "667"
 ClassType = 3
 Division = 1
 Age = 49

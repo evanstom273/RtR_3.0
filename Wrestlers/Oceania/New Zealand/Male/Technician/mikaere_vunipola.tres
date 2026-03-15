@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_5dkho")
 CharacterName = "Mikaere Vunipola"
+wrestler_id = "1062"
 ClassType = 2
 Disposition = 1
 Age = 40

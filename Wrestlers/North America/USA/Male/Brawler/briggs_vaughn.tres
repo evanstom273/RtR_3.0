@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_pmhdd")
 CharacterName = "Briggs Vaughn"
+wrestler_id = "871"
 ClassType = 3
 Division = 1
 Disposition = 1

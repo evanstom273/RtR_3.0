@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_gron2")
 CharacterName = "Ewan Gordon"
+wrestler_id = "530"
 ClassType = 3
 Age = 60
 Height = "5'11\""

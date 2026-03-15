@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_r58wq")
 CharacterName = "Cerys Edwards"
+wrestler_id = "588"
 Gender = 1
 Division = 2
 Disposition = 1

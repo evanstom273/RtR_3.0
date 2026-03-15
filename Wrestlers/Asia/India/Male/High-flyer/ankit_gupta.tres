@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_wooe4")
 CharacterName = "Ankit Gupta"
+wrestler_id = "136"
 ClassType = 1
 Division = 1
 Age = 41

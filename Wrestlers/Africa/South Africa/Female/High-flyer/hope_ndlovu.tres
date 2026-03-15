@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_oj18m")
 CharacterName = "Hope Ndlovu"
+wrestler_id = "56"
 ClassType = 1
 Gender = 1
 Division = 2

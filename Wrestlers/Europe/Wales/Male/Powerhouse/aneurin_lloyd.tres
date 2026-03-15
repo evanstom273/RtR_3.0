@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_odkmv")
 CharacterName = "Aneurin Lloyd"
+wrestler_id = "607"
 Division = 1
 Disposition = 1
 Age = 32

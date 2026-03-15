@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_hewph")
 CharacterName = "Wilder Vanguard"
+wrestler_id = "918"
 ClassType = 3
 Division = 1
 Age = 34

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_kwfm2")
 CharacterName = "Rodrigo Alves"
+wrestler_id = "695"
 ClassType = 2
 Age = 36
 Height = "5'8\""

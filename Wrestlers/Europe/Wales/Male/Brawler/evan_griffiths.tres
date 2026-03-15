@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ijtaw")
 CharacterName = "Evan Griffiths"
+wrestler_id = "600"
 ClassType = 3
 Disposition = 1
 Age = 57

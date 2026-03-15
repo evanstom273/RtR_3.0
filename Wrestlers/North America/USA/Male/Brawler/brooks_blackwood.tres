@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_av5ko")
 CharacterName = "Brooks Blackwood"
+wrestler_id = "873"
 ClassType = 3
 Disposition = 1
 Age = 33

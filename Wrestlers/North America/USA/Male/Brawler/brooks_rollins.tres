@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_3jiai")
 CharacterName = "Brooks Rollins"
+wrestler_id = "874"
 ClassType = 3
 Disposition = 1
 Age = 57

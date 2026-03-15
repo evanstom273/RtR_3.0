@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_g8ea3")
 CharacterName = "Blair Vanguard"
+wrestler_id = "817"
 ClassType = 3
 Gender = 1
 Division = 2

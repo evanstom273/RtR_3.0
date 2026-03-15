@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_lfosh")
 CharacterName = "Theo Evans"
+wrestler_id = "340"
 ClassType = 3
 Division = 1
 Disposition = 1

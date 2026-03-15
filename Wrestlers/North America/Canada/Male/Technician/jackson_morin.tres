@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_wprna")
 CharacterName = "Jackson Morin"
+wrestler_id = "748"
 ClassType = 2
 Disposition = 1
 Age = 65

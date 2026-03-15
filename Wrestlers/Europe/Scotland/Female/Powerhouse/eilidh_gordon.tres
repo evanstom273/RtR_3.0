@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_03na0")
 CharacterName = "Eilidh Gordon"
+wrestler_id = "519"
 Gender = 1
 Division = 2
 Age = 44

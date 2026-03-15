@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_bitq2")
 CharacterName = "Oliver Taylor"
+wrestler_id = "339"
 ClassType = 3
 Division = 1
 Disposition = 1

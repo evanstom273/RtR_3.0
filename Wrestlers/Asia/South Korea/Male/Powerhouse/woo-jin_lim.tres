@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_aaix5")
 CharacterName = "Woo-jin Lim"
+wrestler_id = "262"
 Division = 1
 Disposition = 1
 Age = 61

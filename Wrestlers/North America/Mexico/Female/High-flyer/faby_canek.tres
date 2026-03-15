@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_e8nvf")
 CharacterName = "Faby Canek"
+wrestler_id = "759"
 ClassType = 1
 Gender = 1
 Division = 2

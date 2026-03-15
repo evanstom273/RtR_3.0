@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_8wo0q")
 CharacterName = "Helmut Weber"
+wrestler_id = "430"
 Division = 1
 Age = 23
 Height = "6'4\""

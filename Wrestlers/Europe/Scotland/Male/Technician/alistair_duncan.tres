@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_mrfn5")
 CharacterName = "Alistair Duncan"
+wrestler_id = "554"
 ClassType = 2
 Age = 56
 Height = "5'11\""

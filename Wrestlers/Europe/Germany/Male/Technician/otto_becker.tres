@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_uwgve")
 CharacterName = "Otto Becker"
+wrestler_id = "444"
 ClassType = 2
 Age = 57
 Height = "5'11\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_i1naw")
 CharacterName = "Etienne Petit"
+wrestler_id = "390"
 Division = 1
 Age = 28
 Height = "5'10\""

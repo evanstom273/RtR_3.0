@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_pk763")
 CharacterName = "Preeti Sharma"
+wrestler_id = "129"
 ClassType = 2
 Gender = 1
 Division = 2

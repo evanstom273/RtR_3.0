@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_li4jn")
 CharacterName = "Peni Tuiasoa"
+wrestler_id = "1085"
 Division = 1
 Disposition = 1
 Age = 27

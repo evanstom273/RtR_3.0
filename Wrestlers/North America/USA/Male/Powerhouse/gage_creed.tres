@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_y8qa2")
 CharacterName = "Gage Creed"
+wrestler_id = "956"
 Disposition = 1
 Age = 59
 Height = "6'5\""

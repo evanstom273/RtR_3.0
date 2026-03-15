@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_fvqt6")
 CharacterName = "Hideo Takahashi"
+wrestler_id = "201"
 ClassType = 4
 Division = 1
 Age = 59

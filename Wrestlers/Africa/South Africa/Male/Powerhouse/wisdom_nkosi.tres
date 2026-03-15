@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_v0iq5")
 CharacterName = "Wisdom Nkosi"
+wrestler_id = "76"
 Division = 1
 Age = 43
 Height = "6'3\""

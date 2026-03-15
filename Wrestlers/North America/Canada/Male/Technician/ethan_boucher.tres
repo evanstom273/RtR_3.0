@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_m6cmt")
 CharacterName = "Ethan Boucher"
+wrestler_id = "744"
 ClassType = 2
 Age = 58
 Weight = 185

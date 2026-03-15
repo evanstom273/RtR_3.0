@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_x86da")
 CharacterName = "Alberto Gomez"
+wrestler_id = "577"
 ClassType = 4
 Disposition = 1
 Age = 27

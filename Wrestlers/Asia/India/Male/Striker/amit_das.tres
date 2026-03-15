@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_mi2dd")
 CharacterName = "Amit Das"
+wrestler_id = "149"
 ClassType = 4
 Division = 1
 Age = 37

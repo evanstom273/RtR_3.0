@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_qbiw2")
 CharacterName = "Brock Ford"
+wrestler_id = "985"
 ClassType = 2
 Disposition = 1
 Age = 57

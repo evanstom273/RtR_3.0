@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_fynbr")
 CharacterName = "Brendan Walsh"
+wrestler_id = "473"
 ClassType = 2
 Disposition = 1
 Age = 44

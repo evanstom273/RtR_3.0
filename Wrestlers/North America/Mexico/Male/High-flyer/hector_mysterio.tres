@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ew4lq")
 CharacterName = "Hector Mysterio"
+wrestler_id = "786"
 ClassType = 1
 Age = 58
 Height = "5'9\""

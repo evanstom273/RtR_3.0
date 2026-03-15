@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_8wjjb")
 CharacterName = "Veronique Blanc"
+wrestler_id = "385"
 ClassType = 2
 Gender = 1
 Division = 2

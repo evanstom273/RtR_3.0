@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_uwf3k")
 CharacterName = "Ace Creed"
+wrestler_id = "862"
 ClassType = 3
 Age = 49
 Height = "6'5\""

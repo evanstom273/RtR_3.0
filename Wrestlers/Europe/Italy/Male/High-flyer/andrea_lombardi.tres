@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_aco53")
 CharacterName = "Andrea Lombardi"
+wrestler_id = "495"
 ClassType = 1
 Disposition = 1
 Age = 41

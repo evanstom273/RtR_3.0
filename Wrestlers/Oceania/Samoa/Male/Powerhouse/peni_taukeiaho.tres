@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_xjqss")
 CharacterName = "Peni Taukei'aho"
+wrestler_id = "1084"
 Division = 1
 Age = 52
 Height = "6'2\""

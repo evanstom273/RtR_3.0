@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_je1ca")
 CharacterName = "Jean Simon"
+wrestler_id = "388"
 ClassType = 1
 Disposition = 1
 Age = 38

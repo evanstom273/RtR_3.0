@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_enqll")
 CharacterName = "Ye-jun Park"
+wrestler_id = "258"
 ClassType = 1
 Age = 53
 Height = "5'11\""

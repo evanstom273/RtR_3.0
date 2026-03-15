@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_jpfwx")
 CharacterName = "Fionn Quinn"
+wrestler_id = "478"
 ClassType = 2
 Division = 1
 Disposition = 1

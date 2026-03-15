@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_bief7")
 CharacterName = "Gbenga Kosisochukwu"
+wrestler_id = "43"
 ClassType = 4
 Age = 31
 Height = "6'3\""

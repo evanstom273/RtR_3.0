@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_t6wo1")
 CharacterName = "Gunner Hart"
+wrestler_id = "958"
 Age = 50
 Height = "6'5\""
 Weight = 292

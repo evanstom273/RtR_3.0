@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_k11ru")
 CharacterName = "Dae-jung Nam"
+wrestler_id = "250"
 ClassType = 1
 Disposition = 1
 Age = 38

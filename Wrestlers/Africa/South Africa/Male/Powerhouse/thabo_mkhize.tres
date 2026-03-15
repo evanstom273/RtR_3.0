@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ap2x5")
 CharacterName = "Thabo Mkhize"
+wrestler_id = "74"
 Age = 28
 Height = "5'10\""
 Weight = 223

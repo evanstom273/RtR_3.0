@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_e5bl6")
 CharacterName = "Colt Vaughn"
+wrestler_id = "941"
 Division = 1
 Age = 42
 Weight = 232

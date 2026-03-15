@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_f2wod")
 CharacterName = "Evan Girard"
+wrestler_id = "720"
 Disposition = 1
 Age = 63
 Height = "6'6\""

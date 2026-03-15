@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_cvpt5")
 CharacterName = "Gwenllian Watkins"
+wrestler_id = "589"
 Gender = 1
 Division = 2
 Age = 47

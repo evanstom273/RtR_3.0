@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_mqpnv")
 CharacterName = "Mia Davis"
+wrestler_id = "997"
 ClassType = 1
 Gender = 1
 Division = 2

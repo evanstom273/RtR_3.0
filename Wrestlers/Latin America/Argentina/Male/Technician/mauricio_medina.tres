@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_fv5sy")
 CharacterName = "Mauricio Medina"
+wrestler_id = "643"
 ClassType = 2
 Division = 1
 Age = 27

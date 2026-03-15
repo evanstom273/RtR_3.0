@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_uumd6")
 CharacterName = "Liam Thomas"
+wrestler_id = "1010"
 ClassType = 3
 Disposition = 1
 Age = 24

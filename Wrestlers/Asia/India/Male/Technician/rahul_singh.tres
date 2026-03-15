@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_pjib1")
 CharacterName = "Rahul Singh"
+wrestler_id = "159"
 ClassType = 2
 Division = 1
 Age = 50

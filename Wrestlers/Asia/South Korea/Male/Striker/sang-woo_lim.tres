@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_woqj6")
 CharacterName = "Sang-woo Lim"
+wrestler_id = "271"
 ClassType = 4
 Disposition = 1
 Height = "5'8\""

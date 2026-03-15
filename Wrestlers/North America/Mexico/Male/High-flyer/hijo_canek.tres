@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_lijlr")
 CharacterName = "Hijo Canek"
+wrestler_id = "787"
 ClassType = 1
 Disposition = 1
 Age = 41

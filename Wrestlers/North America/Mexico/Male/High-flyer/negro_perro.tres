@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_2xh13")
 CharacterName = "Negro Perro"
+wrestler_id = "793"
 ClassType = 1
 Division = 1
 Age = 29

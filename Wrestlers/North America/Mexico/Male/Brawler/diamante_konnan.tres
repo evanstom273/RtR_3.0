@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_67a1l")
 CharacterName = "Diamante Konnan"
+wrestler_id = "771"
 ClassType = 3
 Division = 1
 Age = 39

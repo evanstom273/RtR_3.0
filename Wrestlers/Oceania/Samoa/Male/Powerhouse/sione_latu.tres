@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_wsxvi")
 CharacterName = "Sione Latu"
+wrestler_id = "1087"
 Disposition = 1
 Age = 48
 Height = "6'3\""

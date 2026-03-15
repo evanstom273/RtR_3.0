@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_8nyyn")
 CharacterName = "Hong Liu"
+wrestler_id = "81"
 ClassType = 3
 Gender = 1
 Division = 2

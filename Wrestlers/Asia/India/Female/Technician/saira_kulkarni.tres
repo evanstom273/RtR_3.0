@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_sfaxq")
 CharacterName = "Saira Kulkarni"
+wrestler_id = "130"
 ClassType = 2
 Gender = 1
 Division = 2

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_7mbsj")
 CharacterName = "Daichi Okada"
+wrestler_id = "198"
 ClassType = 4
 Division = 1
 Age = 22

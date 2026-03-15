@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_uul7g")
 CharacterName = "Lupe Aiono"
+wrestler_id = "1068"
 Gender = 1
 Division = 2
 Age = 40

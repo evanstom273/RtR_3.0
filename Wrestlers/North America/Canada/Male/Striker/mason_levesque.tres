@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_78848")
 CharacterName = "Mason Levesque"
+wrestler_id = "733"
 ClassType = 4
 Disposition = 1
 Age = 48

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_po0ds")
 CharacterName = "Blessing Mokoena"
+wrestler_id = "79"
 ClassType = 2
 Age = 60
 Weight = 174

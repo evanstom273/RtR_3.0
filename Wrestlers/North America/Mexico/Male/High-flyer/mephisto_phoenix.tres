@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_y2llg")
 CharacterName = "Mephisto Phoenix"
+wrestler_id = "791"
 ClassType = 1
 Disposition = 1
 Age = 52

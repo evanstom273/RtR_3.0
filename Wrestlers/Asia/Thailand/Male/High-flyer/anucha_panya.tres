@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_tnpx2")
 CharacterName = "Anucha Panya"
+wrestler_id = "287"
 ClassType = 1
 Division = 1
 Disposition = 1

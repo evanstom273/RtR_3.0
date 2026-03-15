@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_5l1bq")
 CharacterName = "Da-eun Yang"
+wrestler_id = "245"
 ClassType = 2
 Gender = 1
 Division = 2

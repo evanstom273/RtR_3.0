@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_m34cr")
 CharacterName = "Jackson Bouchard"
+wrestler_id = "747"
 ClassType = 2
 Age = 33
 Height = "6'1\""

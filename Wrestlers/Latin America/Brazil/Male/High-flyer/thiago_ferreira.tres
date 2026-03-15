@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_t5fs5")
 CharacterName = "Thiago Ferreira"
+wrestler_id = "683"
 ClassType = 1
 Disposition = 1
 Age = 63

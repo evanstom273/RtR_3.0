@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_wictg")
 CharacterName = "Manuel Gomez"
+wrestler_id = "583"
 ClassType = 2
 Age = 65
 Height = "6'3\""

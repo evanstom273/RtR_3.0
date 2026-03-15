@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_lom1l")
 CharacterName = "Llewelyn Powell"
+wrestler_id = "613"
 ClassType = 2
 Division = 1
 Disposition = 1

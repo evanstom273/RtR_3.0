@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_tct42")
 CharacterName = "Ji-ho Hwang"
+wrestler_id = "260"
 Disposition = 1
 Age = 49
 Height = "5'8\""

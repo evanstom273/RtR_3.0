@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_4d122")
 CharacterName = "Hazel Dube"
+wrestler_id = "709"
 ClassType = 2
 Gender = 1
 Division = 2

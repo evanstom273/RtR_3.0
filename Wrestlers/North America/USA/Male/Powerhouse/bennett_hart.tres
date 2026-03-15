@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_145mk")
 CharacterName = "Bennett Hart"
+wrestler_id = "930"
 Disposition = 1
 Age = 62
 Height = "6'3\""

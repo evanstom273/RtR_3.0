@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_1dqls")
 CharacterName = "Andile Madonsela"
+wrestler_id = "67"
 Division = 1
 Disposition = 1
 Age = 50

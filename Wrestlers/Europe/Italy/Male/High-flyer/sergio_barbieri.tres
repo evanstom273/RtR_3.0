@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_3ntg3")
 CharacterName = "Sergio Barbieri"
+wrestler_id = "503"
 ClassType = 1
 Disposition = 1
 Age = 41

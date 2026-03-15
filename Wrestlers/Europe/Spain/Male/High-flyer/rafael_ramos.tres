@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_di5xb")
 CharacterName = "Rafael Ramos"
+wrestler_id = "573"
 ClassType = 1
 Age = 50
 Height = "5'10\""

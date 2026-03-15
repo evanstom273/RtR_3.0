@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_u1u8o")
 CharacterName = "George Thompson"
+wrestler_id = "367"
 ClassType = 2
 Age = 59
 Weight = 180

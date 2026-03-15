@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ewfji")
 CharacterName = "Faith Mokoena"
+wrestler_id = "53"
 ClassType = 3
 Gender = 1
 Division = 2

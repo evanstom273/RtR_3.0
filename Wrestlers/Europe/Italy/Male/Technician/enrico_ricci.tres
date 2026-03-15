@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_x6syt")
 CharacterName = "Enrico Ricci"
+wrestler_id = "510"
 ClassType = 2
 Age = 32
 Height = "5'10\""

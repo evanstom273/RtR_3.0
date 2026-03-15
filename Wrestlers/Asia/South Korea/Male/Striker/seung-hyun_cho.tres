@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_gjsew")
 CharacterName = "Seung-hyun Cho"
+wrestler_id = "272"
 ClassType = 4
 Division = 1
 Age = 22

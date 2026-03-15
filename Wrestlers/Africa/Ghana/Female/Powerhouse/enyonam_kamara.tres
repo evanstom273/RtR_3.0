@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_q28ys")
 CharacterName = "Enyonam Kamara"
+wrestler_id = "4"
 Gender = 1
 Division = 2
 Disposition = 1

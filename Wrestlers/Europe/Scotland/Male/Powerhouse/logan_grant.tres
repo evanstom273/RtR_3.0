@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_kdfp5")
 CharacterName = "Logan Grant"
+wrestler_id = "549"
 Disposition = 1
 Age = 60
 Height = "5'10\""

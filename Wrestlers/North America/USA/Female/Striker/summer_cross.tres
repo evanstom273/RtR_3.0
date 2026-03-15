@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_jybfc")
 CharacterName = "Summer Cross"
+wrestler_id = "856"
 ClassType = 4
 Gender = 1
 Division = 2

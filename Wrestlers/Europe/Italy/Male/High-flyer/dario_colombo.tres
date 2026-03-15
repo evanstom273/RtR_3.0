@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_v72ts")
 CharacterName = "Dario Colombo"
+wrestler_id = "496"
 ClassType = 1
 Disposition = 1
 Age = 38

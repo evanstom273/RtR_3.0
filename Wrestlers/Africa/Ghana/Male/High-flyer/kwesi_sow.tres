@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_3xt1l")
 CharacterName = "Kwesi Sow"
+wrestler_id = "9"
 ClassType = 1
 Disposition = 1
 Age = 38

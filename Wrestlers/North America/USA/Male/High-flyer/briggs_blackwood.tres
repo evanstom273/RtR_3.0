@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_bia2h")
 CharacterName = "Briggs Blackwood"
+wrestler_id = "920"
 ClassType = 1
 Age = 22
 Height = "6'2\""

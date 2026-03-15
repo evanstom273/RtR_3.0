@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_owwpk")
 CharacterName = "Boitumelo Cele"
+wrestler_id = "51"
 ClassType = 3
 Gender = 1
 Division = 2

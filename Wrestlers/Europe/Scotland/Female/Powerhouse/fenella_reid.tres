@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_aa68w")
 CharacterName = "Fenella Reid"
+wrestler_id = "522"
 Gender = 1
 Division = 2
 Disposition = 1

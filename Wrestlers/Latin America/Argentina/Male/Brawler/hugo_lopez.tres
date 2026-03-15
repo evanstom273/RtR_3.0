@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_fmeyh")
 CharacterName = "Hugo Lopez"
+wrestler_id = "624"
 ClassType = 3
 Disposition = 1
 Age = 22

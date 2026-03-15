@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_6rmm8")
 CharacterName = "Estrella Zero"
+wrestler_id = "758"
 ClassType = 1
 Gender = 1
 Division = 2

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_h7vku")
 CharacterName = "Penta Santo"
+wrestler_id = "794"
 ClassType = 1
 Division = 1
 Disposition = 1

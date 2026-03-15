@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_fti3r")
 CharacterName = "Dong-hyun Song"
+wrestler_id = "266"
 ClassType = 4
 Division = 1
 Disposition = 1

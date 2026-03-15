@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_is8gx")
 CharacterName = "Tamati Cane"
+wrestler_id = "1046"
 ClassType = 3
 Age = 47
 Weight = 215

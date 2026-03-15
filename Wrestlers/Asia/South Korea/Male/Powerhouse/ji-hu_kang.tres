@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_l3pvi")
 CharacterName = "Ji-hu Kang"
+wrestler_id = "261"
 Division = 1
 Disposition = 1
 Age = 51

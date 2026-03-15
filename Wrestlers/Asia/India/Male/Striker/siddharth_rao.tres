@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_f7osp")
 CharacterName = "Siddharth Rao"
+wrestler_id = "153"
 ClassType = 4
 Age = 24
 Height = "5'11\""

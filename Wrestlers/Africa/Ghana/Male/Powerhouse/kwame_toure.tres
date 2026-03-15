@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_0774p")
 CharacterName = "Kwame Toure"
+wrestler_id = "17"
 Division = 1
 Disposition = 1
 Age = 34

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_d8tin")
 CharacterName = "Averno Perro"
+wrestler_id = "779"
 ClassType = 1
 Disposition = 1
 Age = 30

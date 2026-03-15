@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_wddno")
 CharacterName = "Ayako Azteca"
+wrestler_id = "757"
 ClassType = 1
 Gender = 1
 Division = 2

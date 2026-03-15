@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_q0jij")
 CharacterName = "Osei Barry"
+wrestler_id = "11"
 ClassType = 1
 Disposition = 1
 Age = 52

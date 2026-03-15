@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_pfmv2")
 CharacterName = "Wolfgang Wagner"
+wrestler_id = "446"
 ClassType = 2
 Disposition = 1
 Age = 62

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_fp2kw")
 CharacterName = "Shin Saito"
+wrestler_id = "210"
 ClassType = 4
 Age = 38
 Height = "5'10\""

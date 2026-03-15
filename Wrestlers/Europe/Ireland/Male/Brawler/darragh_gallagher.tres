@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_jel0c")
 CharacterName = "Darragh Gallagher"
+wrestler_id = "459"
 ClassType = 3
 Division = 1
 Age = 38

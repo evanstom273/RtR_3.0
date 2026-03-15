@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_h3bsw")
 CharacterName = "Keisuke Watanabe"
+wrestler_id = "224"
 ClassType = 2
 Division = 1
 Disposition = 1

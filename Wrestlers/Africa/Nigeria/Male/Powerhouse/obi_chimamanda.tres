@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_pfbt8")
 CharacterName = "Obi Chimamanda"
+wrestler_id = "37"
 Division = 1
 Disposition = 1
 Age = 41

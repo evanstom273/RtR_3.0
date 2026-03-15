@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_pxrdp")
 CharacterName = "Elena Castillo"
+wrestler_id = "558"
 ClassType = 1
 Gender = 1
 Division = 2

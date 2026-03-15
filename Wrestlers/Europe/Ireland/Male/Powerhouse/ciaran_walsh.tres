@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_y2ive")
 CharacterName = "Ciaran Walsh"
+wrestler_id = "466"
 Disposition = 1
 Age = 43
 Height = "6'1\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_047db")
 CharacterName = "Daniela Ferrari"
+wrestler_id = "489"
 Gender = 1
 Division = 2
 Age = 31

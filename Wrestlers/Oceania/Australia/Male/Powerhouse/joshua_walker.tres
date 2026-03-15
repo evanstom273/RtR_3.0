@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_q4nlh")
 CharacterName = "Joshua Walker"
+wrestler_id = "1019"
 Division = 1
 Age = 29
 Height = "6'6\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_mj6aj")
 CharacterName = "Yang Sun"
+wrestler_id = "120"
 ClassType = 2
 Division = 1
 Age = 46

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_s7ug2")
 CharacterName = "Averno Zero"
+wrestler_id = "812"
 ClassType = 2
 Disposition = 1
 Age = 47

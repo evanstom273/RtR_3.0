@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_8f8wt")
 CharacterName = "Deepika Chopra"
+wrestler_id = "122"
 ClassType = 1
 Gender = 1
 Division = 2

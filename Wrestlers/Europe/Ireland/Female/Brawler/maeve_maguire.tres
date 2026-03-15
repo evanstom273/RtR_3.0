@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ar71x")
 CharacterName = "Maeve Maguire"
+wrestler_id = "451"
 ClassType = 3
 Gender = 1
 Division = 2

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_tni2u")
 CharacterName = "Skadi Dragon"
+wrestler_id = "764"
 ClassType = 1
 Gender = 1
 Division = 2

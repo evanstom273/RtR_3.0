@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_xqymp")
 CharacterName = "Nikau Perenara"
+wrestler_id = "1057"
 ClassType = 4
 Division = 1
 Age = 45

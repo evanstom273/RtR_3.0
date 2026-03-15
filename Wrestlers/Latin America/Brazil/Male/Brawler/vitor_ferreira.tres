@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_wvqhd")
 CharacterName = "Vitor Ferreira"
+wrestler_id = "668"
 ClassType = 3
 Division = 1
 Age = 28

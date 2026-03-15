@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_jobkk")
 CharacterName = "Sable Dixon"
+wrestler_id = "855"
 ClassType = 4
 Gender = 1
 Division = 2

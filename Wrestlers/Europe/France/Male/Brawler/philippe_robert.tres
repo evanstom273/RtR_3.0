@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_mdqff")
 CharacterName = "Philippe Robert"
+wrestler_id = "386"
 ClassType = 3
 Disposition = 1
 Age = 59

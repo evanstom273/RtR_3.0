@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_elmoo")
 CharacterName = "Kenji Sato"
+wrestler_id = "205"
 ClassType = 4
 Age = 34
 Height = "5'8\""

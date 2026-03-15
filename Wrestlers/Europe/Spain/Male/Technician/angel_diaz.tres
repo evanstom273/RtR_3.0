@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_f1y8a")
 CharacterName = "Angel Diaz"
+wrestler_id = "580"
 ClassType = 2
 Age = 46
 Weight = 191

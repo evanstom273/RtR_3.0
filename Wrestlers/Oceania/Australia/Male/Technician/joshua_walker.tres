@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_tqvi3")
 CharacterName = "Joshua Walker"
+wrestler_id = "1030"
 ClassType = 2
 Division = 1
 Age = 41

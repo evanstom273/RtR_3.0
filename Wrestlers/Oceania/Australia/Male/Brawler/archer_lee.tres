@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_4hf24")
 CharacterName = "Archer Lee"
+wrestler_id = "1004"
 ClassType = 3
 Division = 1
 Age = 59

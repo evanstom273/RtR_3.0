@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_tdho4")
 CharacterName = "Marcel Bonnet"
+wrestler_id = "404"
 ClassType = 2
 Disposition = 1
 Age = 39

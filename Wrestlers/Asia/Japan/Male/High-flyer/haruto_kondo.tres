@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_pe2v5")
 CharacterName = "Haruto Kondo"
+wrestler_id = "185"
 ClassType = 1
 Age = 26
 Height = "5'6\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_dosbe")
 CharacterName = "Priyanka Agarwal"
+wrestler_id = "128"
 ClassType = 4
 Gender = 1
 Division = 2

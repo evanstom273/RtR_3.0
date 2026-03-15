@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_17y03")
 CharacterName = "Fionn McLaughlin"
+wrestler_id = "468"
 Disposition = 1
 Age = 22
 Height = "6'3\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_0yclg")
 CharacterName = "Emilio Perez"
+wrestler_id = "629"
 ClassType = 1
 Division = 1
 Height = "5'6\""

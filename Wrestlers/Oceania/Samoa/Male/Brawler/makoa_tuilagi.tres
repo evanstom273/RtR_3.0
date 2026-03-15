@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_mfj3y")
 CharacterName = "Makoa Tuilagi"
+wrestler_id = "1075"
 ClassType = 3
 Disposition = 1
 Age = 35

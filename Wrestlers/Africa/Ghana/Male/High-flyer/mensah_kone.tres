@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_f2yeg")
 CharacterName = "Mensah Kone"
+wrestler_id = "10"
 ClassType = 1
 Disposition = 1
 Age = 24

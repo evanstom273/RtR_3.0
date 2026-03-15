@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_oy8i1")
 CharacterName = "Clayton Cross"
+wrestler_id = "937"
 Division = 1
 Disposition = 1
 Age = 52

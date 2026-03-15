@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_q1lxj")
 CharacterName = "Wilder Creed"
+wrestler_id = "975"
 Division = 1
 Disposition = 1
 Age = 29

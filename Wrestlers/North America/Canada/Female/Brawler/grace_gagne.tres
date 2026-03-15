@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_xshaw")
 CharacterName = "Grace Gagne"
+wrestler_id = "696"
 ClassType = 3
 Gender = 1
 Division = 2

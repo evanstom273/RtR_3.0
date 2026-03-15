@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_3fy2e")
 CharacterName = "Raven Steele"
+wrestler_id = "842"
 Gender = 1
 Division = 2
 Age = 35

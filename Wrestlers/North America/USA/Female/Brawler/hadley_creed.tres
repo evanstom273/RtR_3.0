@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_x2eud")
 CharacterName = "Hadley Creed"
+wrestler_id = "820"
 ClassType = 3
 Gender = 1
 Division = 2

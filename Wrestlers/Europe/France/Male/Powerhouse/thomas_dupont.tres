@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_3f6tn")
 CharacterName = "Thomas Dupont"
+wrestler_id = "392"
 Division = 1
 Age = 62
 Height = "6'3\""

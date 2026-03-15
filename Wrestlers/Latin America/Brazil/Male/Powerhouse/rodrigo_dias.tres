@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_s3tl1")
 CharacterName = "Rodrigo Dias"
+wrestler_id = "687"
 Age = 26
 Height = "6'2\""
 Weight = 251

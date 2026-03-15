@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_dfvt2")
 CharacterName = "Lekan Chukwuma"
+wrestler_id = "46"
 ClassType = 4
 Disposition = 1
 Age = 61

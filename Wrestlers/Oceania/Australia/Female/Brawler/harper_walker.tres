@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_qehyp")
 CharacterName = "Harper Walker"
+wrestler_id = "994"
 ClassType = 3
 Gender = 1
 Division = 2

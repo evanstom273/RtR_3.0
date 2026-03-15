@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_jfh5m")
 CharacterName = "Paora Read"
+wrestler_id = "1052"
 Age = 36
 Height = "6'4\""
 Weight = 272

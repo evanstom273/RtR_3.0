@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_k1vhh")
 CharacterName = "Alberto Gomez"
+wrestler_id = "564"
 ClassType = 1
 Age = 60
 Height = "6'1\""

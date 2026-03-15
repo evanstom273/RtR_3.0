@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_6dpyy")
 CharacterName = "Kai Song"
+wrestler_id = "112"
 ClassType = 2
 Division = 1
 Age = 39

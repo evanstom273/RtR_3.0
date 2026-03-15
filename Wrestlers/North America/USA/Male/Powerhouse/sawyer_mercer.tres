@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_tktgi")
 CharacterName = "Sawyer Mercer"
+wrestler_id = "968"
 Disposition = 1
 Age = 61
 Weight = 244

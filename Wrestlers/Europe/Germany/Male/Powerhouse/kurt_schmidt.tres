@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_5b28j")
 CharacterName = "Kurt Schmidt"
+wrestler_id = "431"
 Division = 1
 Disposition = 1
 Age = 51

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_l822v")
 CharacterName = "Ted Williams"
+wrestler_id = "372"
 ClassType = 2
 Division = 1
 Age = 31

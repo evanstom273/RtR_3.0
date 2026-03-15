@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_884iv")
 CharacterName = "Tasi Tuiasoa"
+wrestler_id = "1079"
 ClassType = 3
 Age = 48
 Height = "6'4\""

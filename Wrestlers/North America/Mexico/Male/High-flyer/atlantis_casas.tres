@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_878px")
 CharacterName = "Atlantis Casas"
+wrestler_id = "776"
 ClassType = 1
 Disposition = 1
 Age = 42

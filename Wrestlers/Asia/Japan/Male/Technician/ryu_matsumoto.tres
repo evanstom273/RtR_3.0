@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_0r24s")
 CharacterName = "Ryu Matsumoto"
+wrestler_id = "229"
 ClassType = 2
 Division = 1
 Disposition = 1

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_rvvy2")
 CharacterName = "Raul Ruiz"
+wrestler_id = "585"
 ClassType = 2
 Division = 1
 Age = 54

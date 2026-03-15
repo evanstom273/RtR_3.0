@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_wgp0c")
 CharacterName = "Iestyn Lewis"
+wrestler_id = "612"
 ClassType = 2
 Division = 1
 Disposition = 1

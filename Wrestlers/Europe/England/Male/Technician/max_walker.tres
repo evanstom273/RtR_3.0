@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_vfx7q")
 CharacterName = "Max Walker"
+wrestler_id = "369"
 ClassType = 2
 Age = 45
 Height = "5'9\""

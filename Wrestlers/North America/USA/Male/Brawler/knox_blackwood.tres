@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_01o0g")
 CharacterName = "Knox Blackwood"
+wrestler_id = "896"
 ClassType = 3
 Division = 1
 Age = 64

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ipvyg")
 CharacterName = "Manon Blanc"
+wrestler_id = "383"
 ClassType = 2
 Gender = 1
 Division = 2

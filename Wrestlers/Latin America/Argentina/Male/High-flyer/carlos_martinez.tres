@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_x8dvo")
 CharacterName = "Carlos Martinez"
+wrestler_id = "627"
 ClassType = 1
 Disposition = 1
 Age = 39

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_md64i")
 CharacterName = "Ife Ifeanyi"
+wrestler_id = "22"
 Gender = 1
 Division = 2
 Disposition = 1

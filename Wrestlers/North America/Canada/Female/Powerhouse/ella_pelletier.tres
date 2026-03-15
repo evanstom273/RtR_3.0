@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_j37kx")
 CharacterName = "Ella Pelletier"
+wrestler_id = "700"
 Gender = 1
 Division = 2
 Age = 65

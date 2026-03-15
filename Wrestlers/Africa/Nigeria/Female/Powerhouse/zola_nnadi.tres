@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_8oly5")
 CharacterName = "Zola Nnadi"
+wrestler_id = "24"
 Gender = 1
 Division = 2
 Age = 37

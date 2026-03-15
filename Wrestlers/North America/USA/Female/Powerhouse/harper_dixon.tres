@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_clgfp")
 CharacterName = "Harper Dixon"
+wrestler_id = "837"
 Gender = 1
 Division = 2
 Disposition = 1

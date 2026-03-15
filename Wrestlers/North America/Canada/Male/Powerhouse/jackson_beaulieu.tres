@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_cdn8a")
 CharacterName = "Jackson Beaulieu"
+wrestler_id = "721"
 Age = 44
 Height = "6'6\""
 Weight = 282

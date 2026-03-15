@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_bg0d6")
 CharacterName = "Felipe Monteiro"
+wrestler_id = "686"
 Division = 1
 Age = 44
 Height = "6'1\""

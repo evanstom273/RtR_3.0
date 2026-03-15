@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_imfc1")
 CharacterName = "Koji Matsumoto"
+wrestler_id = "187"
 ClassType = 1
 Division = 1
 Age = 65

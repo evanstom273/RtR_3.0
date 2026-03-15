@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_nbrg4")
 CharacterName = "Tanner Wolf"
+wrestler_id = "971"
 Division = 1
 Age = 57
 Height = "6'3\""

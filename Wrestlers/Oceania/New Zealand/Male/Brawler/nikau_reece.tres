@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_3iuup")
 CharacterName = "Nikau Reece"
+wrestler_id = "1043"
 ClassType = 3
 Disposition = 1
 Age = 36

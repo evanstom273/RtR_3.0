@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_akq7k")
 CharacterName = "Nash Cade"
+wrestler_id = "902"
 ClassType = 3
 Division = 1
 Disposition = 1

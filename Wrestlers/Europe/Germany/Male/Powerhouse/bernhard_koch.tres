@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_dhdpq")
 CharacterName = "Bernhard Koch"
+wrestler_id = "427"
 Division = 1
 Disposition = 1
 Age = 41

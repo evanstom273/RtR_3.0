@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_jbyda")
 CharacterName = "Ravi Reddy"
+wrestler_id = "152"
 ClassType = 4
 Division = 1
 Disposition = 1

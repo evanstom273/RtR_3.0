@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_gbdhx")
 CharacterName = "Ruby Mercer"
+wrestler_id = "853"
 ClassType = 4
 Gender = 1
 Division = 2

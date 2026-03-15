@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_u5lng")
 CharacterName = "Ravi Singh"
+wrestler_id = "148"
 Age = 52
 Height = "5'10\""
 Weight = 219

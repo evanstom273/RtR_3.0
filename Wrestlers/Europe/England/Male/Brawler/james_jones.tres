@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_a4sd0")
 CharacterName = "James Jones"
+wrestler_id = "335"
 ClassType = 3
 Age = 58
 Height = "6'2\""

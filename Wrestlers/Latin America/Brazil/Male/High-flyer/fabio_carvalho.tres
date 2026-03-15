@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_exfpx")
 CharacterName = "Fabio Carvalho"
+wrestler_id = "673"
 ClassType = 1
 Age = 27
 Height = "5'10\""

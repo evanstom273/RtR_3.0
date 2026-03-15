@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_rwnhp")
 CharacterName = "Ming Luo"
+wrestler_id = "117"
 ClassType = 2
 Age = 46
 Height = "5'9\""

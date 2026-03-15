@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_mh4g6")
 CharacterName = "Alfie Hall"
+wrestler_id = "325"
 ClassType = 3
 Age = 47
 Weight = 209

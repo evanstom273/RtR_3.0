@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_65qn1")
 CharacterName = "Matai Tuilagi"
+wrestler_id = "1090"
 ClassType = 4
 Division = 1
 Disposition = 1

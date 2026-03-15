@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_hxfpa")
 CharacterName = "Clayton Hart"
+wrestler_id = "938"
 Age = 39
 Height = "6'3\""
 Weight = 273

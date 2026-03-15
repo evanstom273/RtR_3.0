@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_g1myy")
 CharacterName = "Maverick Gunn"
+wrestler_id = "962"
 Age = 24
 Weight = 233
 strength = 48

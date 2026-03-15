@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_4h783")
 CharacterName = "Xolani Ndlovu"
+wrestler_id = "77"
 Age = 44
 Height = "6'4\""
 Weight = 285

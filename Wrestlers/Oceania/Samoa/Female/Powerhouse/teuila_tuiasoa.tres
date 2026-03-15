@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ky01r")
 CharacterName = "Teuila Tuiasoa"
+wrestler_id = "1070"
 Gender = 1
 Division = 2
 Disposition = 1

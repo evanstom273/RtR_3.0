@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_xtuxb")
 CharacterName = "Tiffany Konnan"
+wrestler_id = "767"
 ClassType = 1
 Gender = 1
 Division = 2

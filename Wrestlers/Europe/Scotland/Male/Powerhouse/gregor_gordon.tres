@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_qby50")
 CharacterName = "Gregor Gordon"
+wrestler_id = "545"
 Age = 59
 Height = "6'3\""
 Weight = 266

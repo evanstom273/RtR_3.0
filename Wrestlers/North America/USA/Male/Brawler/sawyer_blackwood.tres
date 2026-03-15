@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_6t5i1")
 CharacterName = "Sawyer Blackwood"
+wrestler_id = "909"
 ClassType = 3
 Division = 1
 Age = 40

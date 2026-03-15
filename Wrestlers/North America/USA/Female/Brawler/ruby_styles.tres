@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_d7aj2")
 CharacterName = "Ruby Styles"
+wrestler_id = "825"
 ClassType = 3
 Gender = 1
 Division = 2

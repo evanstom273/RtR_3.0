@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_kofjm")
 CharacterName = "Matai Seumanutafa"
+wrestler_id = "1076"
 ClassType = 3
 Division = 1
 Age = 38

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_22bah")
 CharacterName = "Dewi Watkins"
+wrestler_id = "598"
 ClassType = 3
 Disposition = 1
 Age = 28

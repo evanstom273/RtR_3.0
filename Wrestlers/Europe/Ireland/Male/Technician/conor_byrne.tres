@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_02ham")
 CharacterName = "Conor Byrne"
+wrestler_id = "475"
 ClassType = 2
 Disposition = 1
 Age = 32

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_48anl")
 CharacterName = "Ricardo Gonzalez"
+wrestler_id = "633"
 ClassType = 1
 Division = 1
 Age = 34

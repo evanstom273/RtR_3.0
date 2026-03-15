@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_bofcw")
 CharacterName = "Craig Stewart"
+wrestler_id = "537"
 ClassType = 1
 Disposition = 1
 Age = 46

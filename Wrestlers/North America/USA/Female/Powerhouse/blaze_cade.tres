@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_3jvol")
 CharacterName = "Blaze Cade"
+wrestler_id = "836"
 Gender = 1
 Division = 2
 Age = 65

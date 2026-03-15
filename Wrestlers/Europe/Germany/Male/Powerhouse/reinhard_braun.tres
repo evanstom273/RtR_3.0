@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_3c4ev")
 CharacterName = "Reinhard Braun"
+wrestler_id = "433"
 Age = 24
 Height = "6'4\""
 Weight = 276

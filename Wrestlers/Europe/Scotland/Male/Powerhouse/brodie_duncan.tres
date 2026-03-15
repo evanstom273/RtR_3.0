@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_35unf")
 CharacterName = "Brodie Duncan"
+wrestler_id = "542"
 Age = 57
 Height = "6'2\""
 Weight = 265

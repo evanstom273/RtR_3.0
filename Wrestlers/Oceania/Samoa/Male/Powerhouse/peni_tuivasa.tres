@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_dh144")
 CharacterName = "Peni Tuivasa"
+wrestler_id = "1086"
 Age = 22
 Weight = 250
 birthplace = 5

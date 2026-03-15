@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_elnfv")
 CharacterName = "Hana Yoshida"
+wrestler_id = "174"
 ClassType = 2
 Gender = 1
 Division = 2

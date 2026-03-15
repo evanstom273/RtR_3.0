@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_yu1rr")
 CharacterName = "Heinrich Zimmerman"
+wrestler_id = "440"
 ClassType = 2
 Division = 1
 Disposition = 1

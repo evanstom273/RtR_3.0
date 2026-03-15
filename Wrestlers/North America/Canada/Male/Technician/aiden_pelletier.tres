@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_l27af")
 CharacterName = "Aiden Pelletier"
+wrestler_id = "737"
 ClassType = 2
 Age = 53
 Height = "6'3\""

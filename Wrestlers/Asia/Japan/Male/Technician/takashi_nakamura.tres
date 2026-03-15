@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_mxwrn")
 CharacterName = "Takashi Nakamura"
+wrestler_id = "233"
 ClassType = 2
 Division = 1
 Disposition = 1

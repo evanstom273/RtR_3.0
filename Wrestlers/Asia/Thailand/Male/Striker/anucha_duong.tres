@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_0356o")
 CharacterName = "Anucha Duong"
+wrestler_id = "299"
 ClassType = 4
 Age = 42
 Height = "5'8\""

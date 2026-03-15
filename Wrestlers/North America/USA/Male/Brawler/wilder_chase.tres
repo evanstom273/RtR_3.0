@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_i5cyp")
 CharacterName = "Wilder Chase"
+wrestler_id = "917"
 ClassType = 3
 Age = 55
 Height = "6'2\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_l17hc")
 CharacterName = "Chidi Udoka"
+wrestler_id = "30"
 ClassType = 3
 Division = 1
 Age = 47

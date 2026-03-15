@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_iynin")
 CharacterName = "Olivia Simard"
+wrestler_id = "705"
 ClassType = 4
 Gender = 1
 Division = 2

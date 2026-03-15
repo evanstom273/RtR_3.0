@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_75xj8")
 CharacterName = "Iestyn Rees"
+wrestler_id = "610"
 ClassType = 4
 Division = 1
 Age = 33

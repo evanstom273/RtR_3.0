@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_rl8cb")
 CharacterName = "Samuel Thomas"
+wrestler_id = "1014"
 ClassType = 3
 Division = 1
 Age = 31

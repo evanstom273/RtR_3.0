@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_vhpac")
 CharacterName = "Akua Koroma"
+wrestler_id = "3"
 Gender = 1
 Division = 2
 Age = 46

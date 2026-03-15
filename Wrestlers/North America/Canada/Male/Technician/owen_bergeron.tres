@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_vvmbj")
 CharacterName = "Owen Bergeron"
+wrestler_id = "754"
 ClassType = 2
 Age = 39
 Height = "6'4\""

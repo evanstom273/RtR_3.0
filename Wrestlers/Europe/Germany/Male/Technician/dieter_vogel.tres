@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_rugwk")
 CharacterName = "Dieter Vogel"
+wrestler_id = "438"
 ClassType = 2
 Age = 26
 Weight = 196

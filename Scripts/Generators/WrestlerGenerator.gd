@@ -4,6 +4,7 @@ extends EditorScript
 # CRITICAL: Preload WrestlerResource to ensure consistent enum values
 # This prevents enum mismatches when script is loaded via ResourceLoader.load()
 const WrestlerResourceScript = preload("res://Scripts/Data/WrestlerData.gd")
+const WRESTLERS_ROOT = "res://Wrestlers"
 
 # Hierarchical Country → Continent structure for 1000 wrestlers across 23 countries
 var regions = {
@@ -187,6 +188,8 @@ var wrestler_counts = {
     "New Zealand": 30, "Australia": 40, "Samoa": 30
 }
 
+var next_wrestler_id := 1
+
 var country_body_profiles = {
     "USA": {
         "male": {"base_height": 74, "height_variance": 3},
@@ -297,6 +300,7 @@ var class_body_modifiers = {
 func _run():
     print("=== STARTING WRESTLER GENERATION ===")
     var total_generated = 0
+    next_wrestler_id = _get_next_wrestler_id()
     
     # Load all moves from folders
     
@@ -366,6 +370,8 @@ func _create_wrestler(region_name: String, country_name: String, gender: int, fi
     var first = first_names.pick_random()
     var last = last_names.pick_random()
     wrestler.CharacterName = first + " " + last
+    wrestler.wrestler_id = str(next_wrestler_id)
+    next_wrestler_id += 1
     
     # 2. Gender
     wrestler.Gender = gender
@@ -571,6 +577,45 @@ func _inches_to_height_string(inches: int) -> String:
     var feet = inches / 12
     var remaining_inches = inches % 12
     return str(feet) + "'" + str(remaining_inches) + "\""
+
+func _get_next_wrestler_id() -> int:
+    var highest_id := 0
+    for wrestler_path in _get_wrestler_resource_paths():
+        var wrestler = load(wrestler_path)
+        if wrestler == null:
+            continue
+
+        var wrestler_id_text = str(wrestler.wrestler_id)
+        if wrestler_id_text.is_valid_int():
+            highest_id = maxi(highest_id, wrestler_id_text.to_int())
+
+    return highest_id + 1
+
+func _get_wrestler_resource_paths() -> Array[String]:
+    var wrestler_paths: Array[String] = []
+    _collect_wrestler_paths(WRESTLERS_ROOT, wrestler_paths)
+    wrestler_paths.sort()
+    return wrestler_paths
+
+func _collect_wrestler_paths(folder_path: String, wrestler_paths: Array[String]) -> void:
+    var dir = DirAccess.open(folder_path)
+    if dir == null:
+        return
+
+    dir.list_dir_begin()
+    while true:
+        var entry = dir.get_next()
+        if entry == "":
+            break
+        if entry == "." or entry == "..":
+            continue
+
+        var entry_path = folder_path + "/" + entry
+        if dir.current_is_dir():
+            _collect_wrestler_paths(entry_path, wrestler_paths)
+        elif entry.ends_with(".tres"):
+            wrestler_paths.append(entry_path)
+    dir.list_dir_end()
 
 func _save_wrestler(wrestler: WrestlerResource, region_name: String, country_name: String):
     """Save wrestler to hierarchical folder structure"""

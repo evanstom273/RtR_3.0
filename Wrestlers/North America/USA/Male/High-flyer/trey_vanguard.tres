@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_hupaa")
 CharacterName = "Trey Vanguard"
+wrestler_id = "927"
 ClassType = 1
 Disposition = 1
 Age = 49

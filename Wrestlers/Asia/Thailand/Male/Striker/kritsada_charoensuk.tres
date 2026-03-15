@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_iks0x")
 CharacterName = "Kritsada Charoensuk"
+wrestler_id = "301"
 ClassType = 4
 Disposition = 1
 Age = 55

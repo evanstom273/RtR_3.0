@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_opd7m")
 CharacterName = "Mair Griffiths"
+wrestler_id = "592"
 ClassType = 2
 Gender = 1
 Division = 2

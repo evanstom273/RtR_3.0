@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_hxnfx")
 CharacterName = "Jae-min Lee"
+wrestler_id = "275"
 ClassType = 2
 Division = 1
 Disposition = 1

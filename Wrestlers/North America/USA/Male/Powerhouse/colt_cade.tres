@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_hlggf")
 CharacterName = "Colt Cade"
+wrestler_id = "939"
 Age = 46
 Height = "6'3\""
 Weight = 272

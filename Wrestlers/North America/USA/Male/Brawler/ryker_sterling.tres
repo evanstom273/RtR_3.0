@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_y46e0")
 CharacterName = "Ryker Sterling"
+wrestler_id = "907"
 ClassType = 3
 Division = 1
 Age = 31

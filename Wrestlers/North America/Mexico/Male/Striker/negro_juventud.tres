@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_22kwp")
 CharacterName = "Negro Juventud"
+wrestler_id = "810"
 ClassType = 4
 Division = 1
 Disposition = 1

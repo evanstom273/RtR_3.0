@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_r2cyv")
 CharacterName = "Olufemi Adeyemi"
+wrestler_id = "38"
 Disposition = 1
 Age = 44
 Height = "6'3\""

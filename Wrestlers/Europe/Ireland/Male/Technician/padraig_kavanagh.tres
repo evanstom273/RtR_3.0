@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_8rwsy")
 CharacterName = "Padraig Kavanagh"
+wrestler_id = "483"
 ClassType = 2
 Disposition = 1
 Age = 59

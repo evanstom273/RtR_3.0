@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_g4htc")
 CharacterName = "Arthur Edwards"
+wrestler_id = "361"
 ClassType = 2
 Disposition = 1
 Age = 59

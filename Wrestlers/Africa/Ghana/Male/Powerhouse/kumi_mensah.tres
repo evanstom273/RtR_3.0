@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_vpcpv")
 CharacterName = "Kumi Mensah"
+wrestler_id = "15"
 Age = 46
 Height = "5'11\""
 Weight = 246

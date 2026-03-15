@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_bkl7h")
 CharacterName = "Dev Verma"
+wrestler_id = "131"
 ClassType = 3
 Age = 36
 Height = "6'1\""

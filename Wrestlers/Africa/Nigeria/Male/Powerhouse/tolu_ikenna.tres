@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_s8d5x")
 CharacterName = "Tolu Ikenna"
+wrestler_id = "40"
 Age = 35
 Height = "6'2\""
 Weight = 268

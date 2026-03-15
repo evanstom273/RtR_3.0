@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_pu852")
 CharacterName = "Min-jun Lim"
+wrestler_id = "255"
 ClassType = 1
 Age = 31
 Height = "5'9\""

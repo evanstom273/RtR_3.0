@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_5vx6s")
 CharacterName = "Thomas Wright"
+wrestler_id = "375"
 ClassType = 2
 Age = 46
 Height = "5'10\""

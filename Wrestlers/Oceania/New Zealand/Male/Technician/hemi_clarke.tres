@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_56pug")
 CharacterName = "Hemi Clarke"
+wrestler_id = "1059"
 ClassType = 2
 Disposition = 1
 Age = 27

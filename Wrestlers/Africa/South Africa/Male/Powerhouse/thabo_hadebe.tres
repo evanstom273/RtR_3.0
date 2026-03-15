@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_y24f5")
 CharacterName = "Thabo Hadebe"
+wrestler_id = "73"
 Division = 1
 Age = 56
 Height = "6'1\""

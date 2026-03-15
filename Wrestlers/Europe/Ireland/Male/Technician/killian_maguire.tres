@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_hnmfi")
 CharacterName = "Killian Maguire"
+wrestler_id = "479"
 ClassType = 2
 Division = 1
 Disposition = 1

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_clb3k")
 CharacterName = "Ebo Diop"
+wrestler_id = "14"
 Age = 29
 Height = "5'11\""
 Weight = 225

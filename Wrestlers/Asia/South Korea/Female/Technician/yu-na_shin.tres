@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_wrp11")
 CharacterName = "Yu-na Shin"
+wrestler_id = "246"
 ClassType = 2
 Gender = 1
 Division = 2

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_eaysq")
 CharacterName = "Finley Evans"
+wrestler_id = "344"
 ClassType = 1
 Disposition = 1
 Age = 63

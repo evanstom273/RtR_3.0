@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ay734")
 CharacterName = "Colt Vanguard"
+wrestler_id = "879"
 ClassType = 3
 Age = 54
 Height = "6'3\""

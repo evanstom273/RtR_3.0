@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_t7p85")
 CharacterName = "Phoenix Hart"
+wrestler_id = "840"
 Gender = 1
 Division = 2
 Disposition = 1

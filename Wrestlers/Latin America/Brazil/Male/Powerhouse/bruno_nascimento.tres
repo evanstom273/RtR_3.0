@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_dv824")
 CharacterName = "Bruno Nascimento"
+wrestler_id = "684"
 Division = 1
 Age = 60
 Weight = 232

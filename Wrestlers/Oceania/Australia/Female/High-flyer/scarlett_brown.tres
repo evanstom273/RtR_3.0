@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ocvfy")
 CharacterName = "Scarlett Brown"
+wrestler_id = "998"
 ClassType = 1
 Gender = 1
 Division = 2

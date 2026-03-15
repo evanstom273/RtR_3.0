@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ugf05")
 CharacterName = "Christophe Fournier"
+wrestler_id = "399"
 ClassType = 2
 Age = 46
 Height = "5'10\""

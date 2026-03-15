@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_kuc5l")
 CharacterName = "Nash Blackwood"
+wrestler_id = "964"
 Age = 24
 Height = "6'3\""
 Weight = 274

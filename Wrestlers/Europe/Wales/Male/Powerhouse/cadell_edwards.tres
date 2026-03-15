@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_t0hs8")
 CharacterName = "Cadell Edwards"
+wrestler_id = "608"
 Age = 41
 Weight = 240
 birthplace = 2

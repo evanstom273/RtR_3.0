@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_nbwrr")
 CharacterName = "Iosefa Folau"
+wrestler_id = "1092"
 ClassType = 2
 Age = 63
 Height = "6'2\""

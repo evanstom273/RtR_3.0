@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_gy4qp")
 CharacterName = "Musa Buthelezi"
+wrestler_id = "78"
 ClassType = 4
 Division = 1
 Disposition = 1

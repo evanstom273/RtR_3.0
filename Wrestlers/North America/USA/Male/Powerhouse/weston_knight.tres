@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_0be0n")
 CharacterName = "Weston Knight"
+wrestler_id = "974"
 Division = 1
 Disposition = 1
 Age = 30

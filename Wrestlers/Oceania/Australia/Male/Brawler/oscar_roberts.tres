@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_8jr7g")
 CharacterName = "Oscar Roberts"
+wrestler_id = "1012"
 ClassType = 3
 Disposition = 1
 Age = 33

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_14cg1")
 CharacterName = "Tamati Smith"
+wrestler_id = "1063"
 ClassType = 2
 Age = 35
 Height = "6'4\""

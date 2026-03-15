@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_022kc")
 CharacterName = "Guillaume Dubois"
+wrestler_id = "400"
 ClassType = 2
 Age = 41
 Height = "6'1\""

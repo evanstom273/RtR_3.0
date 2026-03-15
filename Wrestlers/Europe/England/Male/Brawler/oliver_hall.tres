@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_p7hxj")
 CharacterName = "Oliver Hall"
+wrestler_id = "337"
 ClassType = 3
 Disposition = 1
 Age = 43

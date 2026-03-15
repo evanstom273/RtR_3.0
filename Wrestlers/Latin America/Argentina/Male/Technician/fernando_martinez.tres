@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_lowjj")
 CharacterName = "Fernando Martinez"
+wrestler_id = "640"
 ClassType = 2
 Division = 1
 Age = 22

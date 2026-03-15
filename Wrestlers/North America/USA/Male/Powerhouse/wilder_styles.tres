@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_13ixc")
 CharacterName = "Wilder Styles"
+wrestler_id = "976"
 Age = 24
 Height = "6'5\""
 Weight = 278

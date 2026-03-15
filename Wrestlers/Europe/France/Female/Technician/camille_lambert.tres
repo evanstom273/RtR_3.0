@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_hc76y")
 CharacterName = "Camille Lambert"
+wrestler_id = "380"
 ClassType = 2
 Gender = 1
 Division = 2

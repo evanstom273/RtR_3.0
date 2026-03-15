@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_2hxic")
 CharacterName = "Ava Boucher"
+wrestler_id = "706"
 ClassType = 2
 Gender = 1
 Division = 2

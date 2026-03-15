@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_mktbo")
 CharacterName = "Terrible Panther"
+wrestler_id = "800"
 ClassType = 1
 Disposition = 1
 Age = 51

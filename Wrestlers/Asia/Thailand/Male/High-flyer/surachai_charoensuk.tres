@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_qhx35")
 CharacterName = "Surachai Charoensuk"
+wrestler_id = "294"
 ClassType = 1
 Age = 36
 Height = "5'10\""

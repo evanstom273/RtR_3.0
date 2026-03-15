@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_7csu1")
 CharacterName = "Kiko Goto"
+wrestler_id = "176"
 ClassType = 2
 Gender = 1
 Division = 2

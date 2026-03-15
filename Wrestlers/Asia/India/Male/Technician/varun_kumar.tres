@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_k8l6i")
 CharacterName = "Varun Kumar"
+wrestler_id = "160"
 ClassType = 2
 Age = 36
 Height = "5'10\""

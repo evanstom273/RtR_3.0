@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_3lu00")
 CharacterName = "Thomas Davies"
+wrestler_id = "374"
 ClassType = 2
 Disposition = 1
 Age = 24

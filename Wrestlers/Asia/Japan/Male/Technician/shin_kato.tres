@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_qmko4")
 CharacterName = "Shin Kato"
+wrestler_id = "231"
 ClassType = 2
 Disposition = 1
 Age = 41

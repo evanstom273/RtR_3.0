@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_fv6ou")
 CharacterName = "Greta Vogel"
+wrestler_id = "413"
 Gender = 1
 Division = 2
 Disposition = 1

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_s7l3i")
 CharacterName = "Gang Wu"
+wrestler_id = "108"
 ClassType = 2
 Division = 1
 Age = 64

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_isteb")
 CharacterName = "Ji-yoon Baek"
+wrestler_id = "239"
 ClassType = 1
 Gender = 1
 Division = 2

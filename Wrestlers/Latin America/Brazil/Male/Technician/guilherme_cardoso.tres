@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_5najv")
 CharacterName = "Guilherme Cardoso"
+wrestler_id = "691"
 ClassType = 2
 Division = 1
 Age = 45

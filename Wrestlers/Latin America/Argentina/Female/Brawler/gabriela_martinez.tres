@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_24wml")
 CharacterName = "Gabriela Martinez"
+wrestler_id = "616"
 ClassType = 3
 Gender = 1
 Division = 2

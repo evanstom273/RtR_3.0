@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_sp8p4")
 CharacterName = "Rina Savea"
+wrestler_id = "1037"
 ClassType = 3
 Gender = 1
 Division = 2

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_sgnhl")
 CharacterName = "Poppy Anderson"
+wrestler_id = "1002"
 ClassType = 2
 Gender = 1
 Division = 2

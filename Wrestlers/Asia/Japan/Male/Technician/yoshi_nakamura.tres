@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_fnbqj")
 CharacterName = "Yoshi Nakamura"
+wrestler_id = "236"
 ClassType = 2
 Disposition = 1
 Age = 50

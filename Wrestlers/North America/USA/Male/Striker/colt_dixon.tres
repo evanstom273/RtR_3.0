@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_you0f")
 CharacterName = "Colt Dixon"
+wrestler_id = "981"
 ClassType = 4
 Division = 1
 Disposition = 1

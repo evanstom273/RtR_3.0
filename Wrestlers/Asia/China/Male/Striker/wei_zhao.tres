@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_belhy")
 CharacterName = "Wei Zhao"
+wrestler_id = "101"
 ClassType = 4
 Disposition = 1
 Age = 53

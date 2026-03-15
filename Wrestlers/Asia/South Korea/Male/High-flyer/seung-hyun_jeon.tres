@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_05vup")
 CharacterName = "Seung-hyun Jeon"
+wrestler_id = "256"
 ClassType = 1
 Disposition = 1
 Age = 65

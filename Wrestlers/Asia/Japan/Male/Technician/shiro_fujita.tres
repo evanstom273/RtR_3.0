@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_r87lo")
 CharacterName = "Shiro Fujita"
+wrestler_id = "232"
 ClassType = 2
 Age = 60
 Height = "5'11\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_54lnv")
 CharacterName = "Phoenix Styles"
+wrestler_id = "858"
 ClassType = 2
 Gender = 1
 Division = 2

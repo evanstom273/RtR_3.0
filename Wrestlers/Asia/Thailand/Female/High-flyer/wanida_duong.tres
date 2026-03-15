@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_wfnvi")
 CharacterName = "Wanida Duong"
+wrestler_id = "280"
 ClassType = 1
 Gender = 1
 Division = 2

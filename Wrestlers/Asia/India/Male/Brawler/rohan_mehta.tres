@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_aafg7")
 CharacterName = "Rohan Mehta"
+wrestler_id = "132"
 ClassType = 3
 Disposition = 1
 Age = 22

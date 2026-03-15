@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_glo0x")
 CharacterName = "Rhodri Watkins"
+wrestler_id = "609"
 Age = 49
 Height = "5'11\""
 Weight = 224

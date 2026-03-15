@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_kqied")
 CharacterName = "Ihaia Frizell"
+wrestler_id = "1049"
 Division = 1
 Disposition = 1
 Age = 28

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ntfsq")
 CharacterName = "Ewan Mackenzie"
+wrestler_id = "531"
 ClassType = 3
 Age = 56
 Height = "5'9\""

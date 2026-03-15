@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_8lt84")
 CharacterName = "Maverick Cage"
+wrestler_id = "961"
 Age = 53
 Height = "6'1\""
 Weight = 241

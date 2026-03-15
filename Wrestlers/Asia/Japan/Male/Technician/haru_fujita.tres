@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_6ih22")
 CharacterName = "Haru Fujita"
+wrestler_id = "218"
 ClassType = 2
 Disposition = 1
 Age = 55

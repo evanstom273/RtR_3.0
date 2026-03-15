@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_hmg8v")
 CharacterName = "Colton Nash"
+wrestler_id = "943"
 Disposition = 1
 Age = 47
 Height = "6'5\""

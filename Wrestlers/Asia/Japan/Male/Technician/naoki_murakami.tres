@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_20l61")
 CharacterName = "Naoki Murakami"
+wrestler_id = "228"
 ClassType = 2
 Division = 1
 Disposition = 1

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_5qlf7")
 CharacterName = "Paolo Gallo"
+wrestler_id = "508"
 ClassType = 4
 Disposition = 1
 Age = 42

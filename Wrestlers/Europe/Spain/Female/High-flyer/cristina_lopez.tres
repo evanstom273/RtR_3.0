@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_n5obh")
 CharacterName = "Cristina Lopez"
+wrestler_id = "557"
 ClassType = 1
 Gender = 1
 Division = 2

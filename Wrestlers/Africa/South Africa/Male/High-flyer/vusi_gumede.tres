@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_fhh84")
 CharacterName = "Vusi Gumede"
+wrestler_id = "65"
 ClassType = 1
 Disposition = 1
 Age = 64

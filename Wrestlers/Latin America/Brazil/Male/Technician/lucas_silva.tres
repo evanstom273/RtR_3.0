@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ib8hu")
 CharacterName = "Lucas Silva"
+wrestler_id = "692"
 ClassType = 2
 Age = 43
 Height = "5'7\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ix83v")
 CharacterName = "Gift Hadebe"
+wrestler_id = "80"
 ClassType = 2
 Age = 58
 Height = "5'10\""

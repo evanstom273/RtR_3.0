@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_rs7k7")
 CharacterName = "Ethan Simard"
+wrestler_id = "718"
 Division = 1
 Age = 28
 Height = "6'1\""

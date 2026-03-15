@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_bsmjy")
 CharacterName = "Rawiri Barrett"
+wrestler_id = "1044"
 ClassType = 3
 Disposition = 1
 Age = 31

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_svdg2")
 CharacterName = "Teiva Tuiasoa"
+wrestler_id = "1091"
 ClassType = 4
 Disposition = 1
 Age = 26

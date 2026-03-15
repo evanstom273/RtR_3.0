@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_wjc7n")
 CharacterName = "Asha Iyer"
+wrestler_id = "126"
 Gender = 1
 Division = 2
 Disposition = 1

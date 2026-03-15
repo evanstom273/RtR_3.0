@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_027jb")
 CharacterName = "Priya Desai"
+wrestler_id = "124"
 ClassType = 1
 Gender = 1
 Division = 2

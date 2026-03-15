@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_lstfs")
 CharacterName = "Lei Yang"
+wrestler_id = "115"
 ClassType = 2
 Division = 1
 Age = 38

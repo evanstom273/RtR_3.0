@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ypaqc")
 CharacterName = "Sawyer Stone"
+wrestler_id = "969"
 Division = 1
 Age = 26
 Height = "6'2\""

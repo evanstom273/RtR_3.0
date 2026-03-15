@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_xf6cb")
 CharacterName = "Guilherme Ribeiro"
+wrestler_id = "675"
 ClassType = 1
 Age = 43
 Height = "5'8\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_lausg")
 CharacterName = "Guerrero Mil"
+wrestler_id = "814"
 ClassType = 2
 Division = 1
 Age = 53

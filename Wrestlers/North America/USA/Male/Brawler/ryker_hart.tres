@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_lc8fc")
 CharacterName = "Ryker Hart"
+wrestler_id = "905"
 ClassType = 3
 Disposition = 1
 Age = 65

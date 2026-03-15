@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ckimw")
 CharacterName = "Sasithorn Dang"
+wrestler_id = "283"
 ClassType = 4
 Gender = 1
 Division = 2

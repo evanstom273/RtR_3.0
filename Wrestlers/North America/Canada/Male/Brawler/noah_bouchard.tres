@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_gs65n")
 CharacterName = "Noah Bouchard"
+wrestler_id = "711"
 ClassType = 3
 Age = 61
 Weight = 209

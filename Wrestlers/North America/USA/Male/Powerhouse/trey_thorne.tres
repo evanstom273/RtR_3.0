@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_i7erc")
 CharacterName = "Trey Thorne"
+wrestler_id = "972"
 Disposition = 1
 Age = 26
 Height = "6'4\""

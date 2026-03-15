@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_mm5wb")
 CharacterName = "Gage Steele"
+wrestler_id = "923"
 ClassType = 1
 Division = 1
 Disposition = 1

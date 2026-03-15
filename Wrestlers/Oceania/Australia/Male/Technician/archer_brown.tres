@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_bytfu")
 CharacterName = "Archer Brown"
+wrestler_id = "1022"
 ClassType = 2
 Age = 61
 Weight = 175

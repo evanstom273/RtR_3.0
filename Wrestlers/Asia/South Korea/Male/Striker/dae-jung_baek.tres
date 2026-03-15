@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_hdctt")
 CharacterName = "Dae-jung Baek"
+wrestler_id = "263"
 ClassType = 4
 Disposition = 1
 Age = 47

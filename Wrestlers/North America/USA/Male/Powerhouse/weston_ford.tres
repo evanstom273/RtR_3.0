@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_hyokn")
 CharacterName = "Weston Ford"
+wrestler_id = "973"
 Division = 1
 Disposition = 1
 Age = 29

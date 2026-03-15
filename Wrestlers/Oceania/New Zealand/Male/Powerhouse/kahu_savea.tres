@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_26mjj")
 CharacterName = "Kahu Savea"
+wrestler_id = "1050"
 Division = 1
 Age = 36
 Height = "6'2\""

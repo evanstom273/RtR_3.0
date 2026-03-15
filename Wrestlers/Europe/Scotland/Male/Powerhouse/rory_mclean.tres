@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_kwd4r")
 CharacterName = "Rory McLean"
+wrestler_id = "550"
 Disposition = 1
 Age = 65
 Height = "5'11\""

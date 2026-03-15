@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_7ypii")
 CharacterName = "Niyi Chimamanda"
+wrestler_id = "47"
 ClassType = 4
 Division = 1
 Age = 51

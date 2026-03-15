@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_1h6ba")
 CharacterName = "Kyung-soo Ahn"
+wrestler_id = "269"
 ClassType = 4
 Age = 56
 Height = "5'10\""

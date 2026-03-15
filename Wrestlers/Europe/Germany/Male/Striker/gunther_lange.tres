@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_7lnpu")
 CharacterName = "Gunther Lange"
+wrestler_id = "435"
 ClassType = 4
 Division = 1
 Age = 39

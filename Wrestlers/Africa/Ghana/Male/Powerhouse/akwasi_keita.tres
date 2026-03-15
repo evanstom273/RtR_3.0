@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_q032n")
 CharacterName = "Akwasi Keita"
+wrestler_id = "13"
 Disposition = 1
 Age = 30
 Height = "5'9\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_0djo0")
 CharacterName = "Ciaran Kennedy"
+wrestler_id = "474"
 ClassType = 2
 Age = 46
 Height = "5'9\""

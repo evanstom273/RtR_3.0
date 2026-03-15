@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_f2h27")
 CharacterName = "Gage Nash"
+wrestler_id = "957"
 Division = 1
 Age = 24
 Weight = 250

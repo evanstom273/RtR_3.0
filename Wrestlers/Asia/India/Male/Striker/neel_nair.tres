@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_5fgw2")
 CharacterName = "Neel Nair"
+wrestler_id = "151"
 ClassType = 4
 Division = 1
 Age = 60

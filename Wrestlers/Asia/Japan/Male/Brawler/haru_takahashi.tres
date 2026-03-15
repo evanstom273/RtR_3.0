@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_800cn")
 CharacterName = "Haru Takahashi"
+wrestler_id = "182"
 ClassType = 3
 Division = 1
 Disposition = 1

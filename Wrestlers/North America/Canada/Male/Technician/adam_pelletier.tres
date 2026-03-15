@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_1ihx5")
 CharacterName = "Adam Pelletier"
+wrestler_id = "735"
 ClassType = 2
 Disposition = 1
 Age = 58

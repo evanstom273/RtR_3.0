@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_stmt6")
 CharacterName = "Bernhard Schulz"
+wrestler_id = "428"
 Age = 63
 Weight = 234
 birthplace = 2

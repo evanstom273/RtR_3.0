@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_hn3id")
 CharacterName = "Beau Chase"
+wrestler_id = "865"
 ClassType = 3
 Division = 1
 Age = 37

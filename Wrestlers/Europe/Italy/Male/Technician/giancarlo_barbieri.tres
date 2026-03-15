@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_4jfkg")
 CharacterName = "Giancarlo Barbieri"
+wrestler_id = "513"
 ClassType = 2
 Age = 33
 Height = "5'11\""

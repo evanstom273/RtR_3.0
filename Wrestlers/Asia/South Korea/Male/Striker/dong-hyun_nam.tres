@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_x3k1r")
 CharacterName = "Dong-hyun Nam"
+wrestler_id = "265"
 ClassType = 4
 Age = 37
 Height = "5'7\""

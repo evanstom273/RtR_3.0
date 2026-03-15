@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_it6as")
 CharacterName = "Long Xu"
+wrestler_id = "116"
 ClassType = 2
 Age = 56
 Height = "5'7\""

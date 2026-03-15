@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_kp1cc")
 CharacterName = "Theo Roberts"
+wrestler_id = "341"
 ClassType = 3
 Disposition = 1
 Height = "6'3\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_6ge8a")
 CharacterName = "Brett Levesque"
+wrestler_id = "738"
 ClassType = 2
 Disposition = 1
 Age = 59

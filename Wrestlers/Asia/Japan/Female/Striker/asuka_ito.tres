@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_3co64")
 CharacterName = "Asuka Ito"
+wrestler_id = "165"
 ClassType = 4
 Gender = 1
 Division = 2

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_tixrb")
 CharacterName = "Gabriela Carvalho"
+wrestler_id = "649"
 ClassType = 3
 Gender = 1
 Division = 2

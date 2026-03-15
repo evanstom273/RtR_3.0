@@ -20,6 +20,7 @@ enum CharacterPos { STANDING, RUNNING, GROUNDED, IN_CORNER }
 # --- Personal Info ---
 @export_group("Personal Info")
 @export var CharacterName = str ("")
+@export var wrestler_id: String = ""
 @export var ClassType = CharacterClass.POWERHOUSE
 @export var Gender = CharacterGender.MALE
 @export var Division = CharacterDivision.MAIN_EVENT

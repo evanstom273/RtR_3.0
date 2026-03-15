@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_v1xlu")
 CharacterName = "Dae-jung Jeon"
+wrestler_id = "259"
 Division = 1
 Age = 62
 Height = "5'8\""

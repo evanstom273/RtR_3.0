@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_0bgfi")
 CharacterName = "Grainne McCarthy"
+wrestler_id = "450"
 ClassType = 3
 Gender = 1
 Division = 2

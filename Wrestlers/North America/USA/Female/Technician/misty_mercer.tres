@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_0lfpy")
 CharacterName = "Misty Mercer"
+wrestler_id = "857"
 ClassType = 2
 Gender = 1
 Division = 2

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_x8rx5")
 CharacterName = "Nash Rollins"
+wrestler_id = "903"
 ClassType = 3
 Disposition = 1
 Age = 52

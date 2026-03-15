@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_sfr0q")
 CharacterName = "Boonsong Duong"
+wrestler_id = "298"
 Division = 1
 Disposition = 1
 Age = 53

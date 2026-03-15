@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_e7fsc")
 CharacterName = "Hamish Fraser"
+wrestler_id = "539"
 ClassType = 1
 Age = 59
 Height = "6'2\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_u6cbh")
 CharacterName = "Luis Gil"
+wrestler_id = "571"
 ClassType = 1
 Disposition = 1
 Age = 34

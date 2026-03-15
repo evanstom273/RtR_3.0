@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_qfas6")
 CharacterName = "Charlie Smith"
+wrestler_id = "364"
 ClassType = 2
 Division = 1
 Age = 37

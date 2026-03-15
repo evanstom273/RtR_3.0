@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_wsvr7")
 CharacterName = "Jun-seo Choi"
+wrestler_id = "254"
 ClassType = 1
 Disposition = 1
 Age = 27

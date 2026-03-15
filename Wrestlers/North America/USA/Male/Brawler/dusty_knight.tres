@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_bwayl")
 CharacterName = "Dusty Knight"
+wrestler_id = "885"
 ClassType = 3
 Age = 65
 Height = "6'2\""

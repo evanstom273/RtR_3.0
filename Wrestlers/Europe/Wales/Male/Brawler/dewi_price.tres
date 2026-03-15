@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_s17bt")
 CharacterName = "Dewi Price"
+wrestler_id = "597"
 ClassType = 3
 Division = 1
 Disposition = 1

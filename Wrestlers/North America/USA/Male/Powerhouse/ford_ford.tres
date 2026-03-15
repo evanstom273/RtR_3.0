@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_fs1p3")
 CharacterName = "Ford Ford"
+wrestler_id = "955"
 Age = 42
 Weight = 244
 strength = 42

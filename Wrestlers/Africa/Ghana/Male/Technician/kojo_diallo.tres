@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_y8s7d")
 CharacterName = "Kojo Diallo"
+wrestler_id = "19"
 ClassType = 2
 Disposition = 1
 Height = "5'11\""

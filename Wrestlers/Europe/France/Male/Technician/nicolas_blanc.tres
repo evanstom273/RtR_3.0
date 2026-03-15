@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_qji0u")
 CharacterName = "Nicolas Blanc"
+wrestler_id = "407"
 ClassType = 2
 Division = 1
 Disposition = 1

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_j7512")
 CharacterName = "Aiden Fitzpatrick"
+wrestler_id = "472"
 ClassType = 2
 Disposition = 1
 Age = 58

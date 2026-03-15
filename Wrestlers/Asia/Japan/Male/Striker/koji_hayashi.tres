@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_rrwrx")
 CharacterName = "Koji Hayashi"
+wrestler_id = "206"
 ClassType = 4
 Division = 1
 Age = 35

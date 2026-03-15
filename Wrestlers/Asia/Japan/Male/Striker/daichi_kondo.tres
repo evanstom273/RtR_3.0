@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_xr6w3")
 CharacterName = "Daichi Kondo"
+wrestler_id = "197"
 ClassType = 4
 Division = 1
 Age = 47

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_d4j18")
 CharacterName = "Chaiwat Do"
+wrestler_id = "289"
 ClassType = 1
 Division = 1
 Age = 45

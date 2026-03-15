@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_jv8fu")
 CharacterName = "Jacob Dube"
+wrestler_id = "723"
 Age = 54
 Height = "6'3\""
 Weight = 265

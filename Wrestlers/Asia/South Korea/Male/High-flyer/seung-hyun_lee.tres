@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_odybi")
 CharacterName = "Seung-hyun Lee"
+wrestler_id = "257"
 ClassType = 1
 Age = 64
 Weight = 161

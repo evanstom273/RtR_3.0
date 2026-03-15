@@ -7,7 +7,8 @@
 
 [resource]
 script = ExtResource("4_wj4i6")
-CharacterName = "Chloé Thomas"
+CharacterName = "ChloÃ© Thomas"
+wrestler_id = "381"
 ClassType = 2
 Gender = 1
 Division = 2

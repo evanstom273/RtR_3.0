@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_pm4vb")
 CharacterName = "Chang-min Park"
+wrestler_id = "247"
 ClassType = 3
 Division = 1
 Age = 48

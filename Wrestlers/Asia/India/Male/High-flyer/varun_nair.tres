@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_yxo0l")
 CharacterName = "Varun Nair"
+wrestler_id = "146"
 ClassType = 1
 Division = 1
 Age = 26

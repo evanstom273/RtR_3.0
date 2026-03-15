@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_kqk1x")
 CharacterName = "Savannah Steele"
+wrestler_id = "847"
 Gender = 1
 Division = 2
 Disposition = 1

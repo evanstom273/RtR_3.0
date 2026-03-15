@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_uqyxu")
 CharacterName = "Skye Ford"
+wrestler_id = "848"
 Gender = 1
 Division = 2
 Disposition = 1

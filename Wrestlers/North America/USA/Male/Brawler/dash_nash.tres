@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_jxv7n")
 CharacterName = "Dash Nash"
+wrestler_id = "880"
 ClassType = 3
 Division = 1
 Age = 43

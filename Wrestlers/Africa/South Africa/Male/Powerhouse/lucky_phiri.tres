@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_48xkc")
 CharacterName = "Lucky Phiri"
+wrestler_id = "70"
 Age = 52
 Height = "6'2\""
 Weight = 262

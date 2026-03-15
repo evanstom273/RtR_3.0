@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_qy40j")
 CharacterName = "Bandido Lucha"
+wrestler_id = "813"
 ClassType = 2
 Division = 1
 Age = 58

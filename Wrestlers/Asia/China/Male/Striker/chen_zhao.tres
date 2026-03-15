@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_y5etu")
 CharacterName = "Chen Zhao"
+wrestler_id = "95"
 ClassType = 4
 Age = 36
 Height = "5'9\""

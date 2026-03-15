@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ktkld")
 CharacterName = "Dash Hart"
+wrestler_id = "946"
 Division = 1
 Disposition = 1
 Age = 24

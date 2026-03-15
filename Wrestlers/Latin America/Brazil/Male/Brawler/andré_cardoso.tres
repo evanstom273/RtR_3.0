@@ -7,7 +7,8 @@
 
 [resource]
 script = ExtResource("4_xhhfb")
-CharacterName = "André Cardoso"
+CharacterName = "AndrÃ© Cardoso"
+wrestler_id = "659"
 ClassType = 3
 Division = 1
 Age = 51

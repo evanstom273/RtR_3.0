@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_0hnvj")
 CharacterName = "Andile Ndlovu"
+wrestler_id = "59"
 ClassType = 3
 Division = 1
 Age = 37

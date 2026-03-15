@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_pjdoh")
 CharacterName = "Aisling Murphy"
+wrestler_id = "447"
 ClassType = 3
 Gender = 1
 Division = 2

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_my3g4")
 CharacterName = "Ace Thorne"
+wrestler_id = "984"
 ClassType = 2
 Division = 1
 Age = 59

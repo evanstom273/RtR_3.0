@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_0fnwr")
 CharacterName = "Santiago Jimenez"
+wrestler_id = "637"
 ClassType = 4
 Division = 1
 Disposition = 1

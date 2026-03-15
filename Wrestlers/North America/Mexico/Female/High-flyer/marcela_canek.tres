@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_m5j10")
 CharacterName = "Marcela Canek"
+wrestler_id = "761"
 ClassType = 1
 Gender = 1
 Division = 2

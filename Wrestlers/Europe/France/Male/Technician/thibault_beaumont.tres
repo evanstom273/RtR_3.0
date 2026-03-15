@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_pupon")
 CharacterName = "Thibault Beaumont"
+wrestler_id = "410"
 ClassType = 2
 Age = 46
 Height = "6'2\""

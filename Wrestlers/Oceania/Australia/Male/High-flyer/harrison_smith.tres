@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_unxs7")
 CharacterName = "Harrison Smith"
+wrestler_id = "1016"
 ClassType = 1
 Age = 24
 Weight = 150

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_mtl7x")
 CharacterName = "Skadi Panther"
+wrestler_id = "765"
 ClassType = 1
 Gender = 1
 Division = 2

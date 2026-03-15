@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_wsolr")
 CharacterName = "Aoife Walsh"
+wrestler_id = "448"
 ClassType = 3
 Gender = 1
 Division = 2

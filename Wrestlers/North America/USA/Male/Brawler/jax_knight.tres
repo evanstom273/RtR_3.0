@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_y5mxy")
 CharacterName = "Jax Knight"
+wrestler_id = "895"
 ClassType = 3
 Age = 64
 Height = "6'1\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_r207m")
 CharacterName = "Rui Liu"
+wrestler_id = "118"
 ClassType = 2
 Division = 1
 Age = 47

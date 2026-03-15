@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_prtor")
 CharacterName = "Min-jun Choi"
+wrestler_id = "276"
 ClassType = 2
 Division = 1
 Age = 32

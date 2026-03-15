@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_x3tgc")
 CharacterName = "Yoshi Matsumoto"
+wrestler_id = "235"
 ClassType = 2
 Division = 1
 Disposition = 1

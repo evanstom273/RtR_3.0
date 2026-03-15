@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_h2ycy")
 CharacterName = "Beau Styles"
+wrestler_id = "867"
 ClassType = 3
 Division = 1
 Disposition = 1

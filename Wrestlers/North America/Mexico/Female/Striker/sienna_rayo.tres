@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_tsx4y")
 CharacterName = "Sienna Rayo"
+wrestler_id = "769"
 ClassType = 4
 Gender = 1
 Division = 2

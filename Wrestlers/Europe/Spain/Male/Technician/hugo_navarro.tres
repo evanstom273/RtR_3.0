@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_avkvl")
 CharacterName = "Hugo Navarro"
+wrestler_id = "581"
 ClassType = 2
 Age = 62
 Height = "5'10\""

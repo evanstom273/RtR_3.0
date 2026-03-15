@@ -7,7 +7,8 @@
 
 [resource]
 script = ExtResource("4_ritpv")
-CharacterName = "André Mercier"
+CharacterName = "AndrÃ© Mercier"
+wrestler_id = "396"
 ClassType = 2
 Disposition = 1
 Age = 35

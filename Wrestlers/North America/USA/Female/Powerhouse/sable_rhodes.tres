@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_s2ye8")
 CharacterName = "Sable Rhodes"
+wrestler_id = "845"
 Gender = 1
 Division = 2
 Age = 43

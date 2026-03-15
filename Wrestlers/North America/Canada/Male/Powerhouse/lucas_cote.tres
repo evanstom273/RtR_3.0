@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_yvv3l")
 CharacterName = "Lucas Cote"
+wrestler_id = "725"
 Age = 50
 Height = "6'2\""
 Weight = 257

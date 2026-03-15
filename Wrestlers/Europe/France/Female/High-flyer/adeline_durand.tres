@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_orynx")
 CharacterName = "Adeline Durand"
+wrestler_id = "377"
 ClassType = 1
 Gender = 1
 Division = 2

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_lohsw")
 CharacterName = "Chen Liang"
+wrestler_id = "94"
 Division = 1
 Disposition = 1
 Age = 55

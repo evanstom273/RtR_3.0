@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_cdpq1")
 CharacterName = "Dusty Stone"
+wrestler_id = "886"
 ClassType = 3
 Age = 49
 Height = "6'5\""

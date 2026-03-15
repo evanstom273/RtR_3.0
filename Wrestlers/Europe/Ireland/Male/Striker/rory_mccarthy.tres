@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ob45a")
 CharacterName = "Rory McCarthy"
+wrestler_id = "471"
 ClassType = 4
 Age = 31
 Height = "5'9\""

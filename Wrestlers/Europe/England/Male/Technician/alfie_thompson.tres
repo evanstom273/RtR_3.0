@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_33pcp")
 CharacterName = "Alfie Thompson"
+wrestler_id = "358"
 ClassType = 2
 Age = 44
 Height = "5'11\""

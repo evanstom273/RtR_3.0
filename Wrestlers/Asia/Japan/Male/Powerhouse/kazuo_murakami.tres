@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_56v2x")
 CharacterName = "Kazuo Murakami"
+wrestler_id = "193"
 Disposition = 1
 Age = 24
 Height = "6'2\""

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_oc1bw")
 CharacterName = "Averno Azteca"
+wrestler_id = "777"
 ClassType = 1
 Age = 64
 Height = "5'10\""

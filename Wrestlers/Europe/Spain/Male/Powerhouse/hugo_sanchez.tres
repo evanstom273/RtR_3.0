@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_ulkcj")
 CharacterName = "Hugo Sanchez"
+wrestler_id = "576"
 Age = 63
 Height = "5'10\""
 Weight = 233

@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_wpusg")
 CharacterName = "Lukas Keller"
+wrestler_id = "442"
 ClassType = 2
 Disposition = 1
 Age = 46

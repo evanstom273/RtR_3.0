@@ -8,6 +8,7 @@
 [resource]
 script = ExtResource("4_268tu")
 CharacterName = "Sbu Zuma"
+wrestler_id = "72"
 Age = 63
 Height = "6'2\""
 Weight = 256
