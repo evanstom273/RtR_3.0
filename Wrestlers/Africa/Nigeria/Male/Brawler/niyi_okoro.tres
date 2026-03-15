@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://05n8eflrx3up"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_fd5mo"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_k50hr"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_qtbrl"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_2u843"]
+
+[resource]
+script = ExtResource("4_2u843")
+CharacterName = "Niyi Okoro"
+ClassType = 3
+Division = 1
+Age = 24
+Height = "6'3\""
+Weight = 240
+birthplace = 4
+strength = 28
+speed = 15
+stamina = 20
+skill = 15
+striking = 46
+charisma = 23
+pop_north_america = 11
+pop_latin_america = 6
+pop_europe = 9
+pop_asia = 15
+pop_africa = 42
+pop_oceania = 11

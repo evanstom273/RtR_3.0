@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://qddpt1s4j266"]
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ctb6siujkqpab"]
 
 [ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ou5rp"]
 [ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_f7ska"]
@@ -11,20 +11,19 @@ CharacterName = "Guillaume Fontaine"
 ClassType = 2
 Division = 1
 Disposition = 1
-Age = 41
-Height = "5'9\""
-Weight = 290
+Age = 48
+Height = "6'3\""
+Weight = 213
 birthplace = 2
 country_europe = 2
-strength = 18
-speed = 22
-stamina = 27
-skill = 39
-striking = 11
-charisma = 28
-pop_north_america = 9
-pop_latin_america = 10
-pop_europe = 32
-pop_asia = 12
-pop_africa = 7
-pop_oceania = 14
+strength = 20
+speed = 21
+stamina = 29
+skill = 42
+charisma = 18
+pop_north_america = 7
+pop_latin_america = 6
+pop_europe = 39
+pop_asia = 7
+pop_africa = 13
+pop_oceania = 10

@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://vl7tm0dbydin"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_2y6p4"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_u7dkv"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_h4erm"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_xuqvj"]
+
+[resource]
+script = ExtResource("4_xuqvj")
+CharacterName = "Isabella Clarke"
+ClassType = 3
+Gender = 1
+Division = 2
+Age = 58
+Height = "5'7\""
+Weight = 157
+birthplace = 2
+strength = 27
+speed = 15
+stamina = 29
+skill = 13
+striking = 49
+charisma = 18
+pop_north_america = 11
+pop_latin_america = 11
+pop_europe = 48
+pop_asia = 6
+pop_africa = 9
+pop_oceania = 10

@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://lm0be3kv2sn3"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_6iek0"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_shplb"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_a2yl4"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_14cg1"]
+
+[resource]
+script = ExtResource("4_14cg1")
+CharacterName = "Tamati Smith"
+ClassType = 2
+Age = 35
+Height = "6'4\""
+Weight = 215
+birthplace = 5
+strength = 19
+speed = 19
+stamina = 30
+skill = 46
+striking = 19
+charisma = 30
+pop_north_america = 14
+pop_latin_america = 8
+pop_europe = 9
+pop_asia = 12
+pop_africa = 14
+pop_oceania = 33

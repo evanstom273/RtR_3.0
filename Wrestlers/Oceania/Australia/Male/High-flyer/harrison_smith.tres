@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://brsnrrub5cq4n"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_c78ox"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_xs7oc"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_duw2g"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_unxs7"]
+
+[resource]
+script = ExtResource("4_unxs7")
+CharacterName = "Harrison Smith"
+ClassType = 1
+Age = 24
+Weight = 150
+birthplace = 5
+country_oceania = 1
+strength = 20
+speed = 46
+stamina = 43
+skill = 26
+striking = 24
+charisma = 24
+pop_north_america = 14
+pop_latin_america = 11
+pop_europe = 6
+pop_asia = 13
+pop_africa = 10
+pop_oceania = 41

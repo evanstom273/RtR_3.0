@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://g2045o74w8ok"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_64gac"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_c47pc"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_16oea"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_bitq2"]
+
+[resource]
+script = ExtResource("4_bitq2")
+CharacterName = "Oliver Taylor"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 38
+Height = "6'2\""
+Weight = 225
+birthplace = 2
+strength = 25
+speed = 12
+stamina = 25
+skill = 18
+striking = 39
+charisma = 24
+pop_north_america = 9
+pop_latin_america = 15
+pop_europe = 38
+pop_asia = 13
+pop_africa = 8
+pop_oceania = 8

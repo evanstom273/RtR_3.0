@@ -1,0 +1,31 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://gq4jsctswvdi"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_u0avt"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_hkqqv"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_6k1kr"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_p3ufg"]
+
+[resource]
+script = ExtResource("4_p3ufg")
+CharacterName = "Fernanda Morales"
+ClassType = 1
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 65
+Height = "5'5\""
+Weight = 105
+birthplace = 1
+country_latin_america = 1
+strength = 16
+speed = 42
+stamina = 41
+skill = 28
+striking = 20
+charisma = 32
+pop_north_america = 12
+pop_latin_america = 47
+pop_europe = 9
+pop_asia = 10
+pop_africa = 9
+pop_oceania = 11

@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c1207if8r3qwo"]
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://clm0kioj272wm"]
 
 [ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_7sgsl"]
 [ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_si5p3"]
@@ -9,19 +9,21 @@
 script = ExtResource("4_4naep")
 CharacterName = "Noah Walker"
 ClassType = 3
-Age = 46
-Height = "6'2\""
-Weight = 316
+Division = 1
+Disposition = 1
+Age = 24
+Height = "5'11\""
+Weight = 205
 birthplace = 2
-strength = 25
-speed = 11
-stamina = 23
-skill = 15
-striking = 48
-charisma = 25
-pop_north_america = 7
-pop_latin_america = 13
-pop_europe = 48
-pop_asia = 12
-pop_africa = 14
-pop_oceania = 8
+strength = 33
+speed = 14
+stamina = 22
+skill = 14
+striking = 50
+charisma = 21
+pop_north_america = 8
+pop_latin_america = 7
+pop_europe = 41
+pop_asia = 8
+pop_africa = 15
+pop_oceania = 10

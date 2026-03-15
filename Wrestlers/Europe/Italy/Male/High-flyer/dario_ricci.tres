@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cdar2h3rbdm53"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_wov18"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_vl4gw"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_7cv8r"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_mtqmv"]
+
+[resource]
+script = ExtResource("4_mtqmv")
+CharacterName = "Dario Ricci"
+ClassType = 1
+Disposition = 1
+Age = 53
+Height = "5'8\""
+Weight = 145
+birthplace = 2
+country_europe = 5
+strength = 15
+speed = 41
+stamina = 30
+skill = 29
+striking = 20
+charisma = 35
+pop_north_america = 9
+pop_latin_america = 14
+pop_europe = 44
+pop_asia = 10
+pop_africa = 7
+pop_oceania = 12

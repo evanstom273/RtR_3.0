@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cma6hashv8hcu"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_iggci"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_lh2ya"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_aetvc"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ytibm"]
+
+[resource]
+script = ExtResource("4_ytibm")
+CharacterName = "Eduardo Carvalho"
+ClassType = 1
+Division = 1
+Age = 52
+Height = "5'11\""
+Weight = 146
+birthplace = 1
+strength = 20
+speed = 39
+stamina = 34
+skill = 27
+striking = 20
+charisma = 30
+pop_north_america = 7
+pop_latin_america = 31
+pop_europe = 10
+pop_asia = 5
+pop_africa = 15
+pop_oceania = 11

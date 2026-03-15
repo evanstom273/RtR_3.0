@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cvj0ccxa51m46"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_tpqhs"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_lp6ix"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_pse5b"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_stw7k"]
+
+[resource]
+script = ExtResource("4_stw7k")
+CharacterName = "Colt Steele"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 55
+Height = "6'3\""
+Weight = 249
+strength = 28
+speed = 16
+stamina = 26
+striking = 38
+charisma = 27
+pop_north_america = 30
+pop_latin_america = 12
+pop_europe = 7
+pop_asia = 12
+pop_africa = 8
+pop_oceania = 6

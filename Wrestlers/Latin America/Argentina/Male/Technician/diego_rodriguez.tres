@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://db0gni7c3mxme"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_5l6ro"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_t4dsv"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_w16po"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_1tnoq"]
+
+[resource]
+script = ExtResource("4_1tnoq")
+CharacterName = "Diego Rodriguez"
+ClassType = 2
+Disposition = 1
+Age = 22
+Weight = 173
+birthplace = 1
+country_latin_america = 1
+strength = 18
+speed = 15
+stamina = 28
+skill = 50
+striking = 12
+charisma = 23
+pop_north_america = 7
+pop_latin_america = 31
+pop_europe = 13
+pop_asia = 11
+pop_africa = 7
+pop_oceania = 15

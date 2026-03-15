@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cd1i0e3e8hino"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_b5ppu"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_2oadt"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ywc55"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_1bhg3"]
+
+[resource]
+script = ExtResource("4_1bhg3")
+CharacterName = "Archer Thompson"
+ClassType = 2
+Age = 50
+Height = "5'11\""
+Weight = 187
+birthplace = 5
+country_oceania = 1
+strength = 22
+speed = 15
+stamina = 25
+skill = 42
+charisma = 21
+pop_north_america = 6
+pop_latin_america = 8
+pop_europe = 10
+pop_asia = 9
+pop_africa = 13
+pop_oceania = 44

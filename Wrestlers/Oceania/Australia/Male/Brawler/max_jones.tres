@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bbpaatw2l17q8"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_lrarj"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_km6pf"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_bt8fm"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_7nfw6"]
+
+[resource]
+script = ExtResource("4_7nfw6")
+CharacterName = "Max Jones"
+ClassType = 3
+Division = 1
+Age = 46
+Height = "5'11\""
+Weight = 202
+birthplace = 5
+country_oceania = 1
+strength = 30
+speed = 20
+stamina = 30
+skill = 14
+striking = 39
+charisma = 18
+pop_north_america = 15
+pop_latin_america = 9
+pop_europe = 15
+pop_asia = 15
+pop_africa = 13
+pop_oceania = 40

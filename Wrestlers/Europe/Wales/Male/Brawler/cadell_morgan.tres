@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://du1pfih36lpyp"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_xa00p"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_sm2nr"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ufkw6"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_0jhw4"]
+
+[resource]
+script = ExtResource("4_0jhw4")
+CharacterName = "Cadell Morgan"
+ClassType = 3
+Disposition = 1
+Age = 58
+Height = "6'1\""
+Weight = 229
+birthplace = 2
+country_europe = 7
+strength = 32
+speed = 15
+stamina = 21
+skill = 18
+striking = 38
+charisma = 29
+pop_north_america = 14
+pop_latin_america = 9
+pop_europe = 39
+pop_asia = 14
+pop_africa = 5
+pop_oceania = 13

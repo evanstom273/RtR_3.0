@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://d0ux1rs2unjmm"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_qacxv"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_0m1o3"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_23q2l"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_h7vku"]
+
+[resource]
+script = ExtResource("4_h7vku")
+CharacterName = "Penta Santo"
+ClassType = 1
+Division = 1
+Disposition = 1
+Age = 47
+Height = "5'8\""
+Weight = 145
+country_north_america = 2
+strength = 17
+speed = 43
+stamina = 30
+skill = 24
+striking = 23
+charisma = 20
+pop_north_america = 29
+pop_latin_america = 13
+pop_europe = 10
+pop_asia = 13
+pop_africa = 14
+pop_oceania = 10

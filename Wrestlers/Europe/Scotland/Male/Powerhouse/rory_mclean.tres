@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b1bouq1s30deu"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_mrh53"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_8s2kk"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_w83i4"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_kwd4r"]
+
+[resource]
+script = ExtResource("4_kwd4r")
+CharacterName = "Rory McLean"
+Disposition = 1
+Age = 65
+Height = "5'11\""
+Weight = 236
+birthplace = 2
+country_europe = 1
+strength = 42
+speed = 17
+stamina = 29
+skill = 16
+striking = 20
+charisma = 19
+pop_north_america = 5
+pop_latin_america = 11
+pop_europe = 46
+pop_asia = 14
+pop_africa = 14
+pop_oceania = 7

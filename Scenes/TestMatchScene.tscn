@@ -1,13 +1,67 @@
 [gd_scene format=3 uid="uid://cwg6w7khr4gbu"]
 
 [ext_resource type="Script" uid="uid://3oovooyungxt" path="res://Scripts/Engine/MatchEngine.gd" id="1"]
-[ext_resource type="Resource" uid="uid://dker0100n3sap" path="res://Wrestlers/Asia/China/Male/Striker/feng_xu.tres" id="2_rdkmo"]
-[ext_resource type="Resource" uid="uid://cevx8m3j0rfxn" path="res://Wrestlers/Asia/China/Female/Striker/hua_ma.tres" id="3_rdkmo"]
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="2_77rc7"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="3_mvmjq"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="4_lvjpj"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="5_lavvm"]
+
+[sub_resource type="Resource" id="Resource_ysyhl"]
+script = ExtResource("5_lavvm")
+CharacterName = "Feng Xu"
+ClassType = 4
+Division = 1
+Disposition = 1
+Age = 65
+Height = "6'5\""
+Weight = 295
+style = ""
+finisher_name = ""
+birthplace = 3
+country_asia = 1
+speed = 26
+stamina = 25
+skill = 19
+striking = 35
+charisma = 30
+pop_north_america = 15
+pop_latin_america = 14
+pop_europe = 14
+pop_asia = 36
+pop_africa = 13
+pop_oceania = 14
+
+[sub_resource type="Resource" id="Resource_b0nmt"]
+script = ExtResource("5_lavvm")
+CharacterName = "Hua Ma"
+ClassType = 4
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 62
+Height = "5'2\""
+Weight = 131
+style = ""
+finisher_name = ""
+birthplace = 3
+country_asia = 1
+strength = 12
+speed = 34
+stamina = 28
+skill = 17
+striking = 45
+charisma = 28
+pop_north_america = 7
+pop_latin_america = 6
+pop_europe = 13
+pop_asia = 34
+pop_africa = 5
+pop_oceania = 13
 
 [node name="UI_Base" type="CanvasLayer" unique_id=10248373]
 script = ExtResource("1")
-wrestler_a = ExtResource("2_rdkmo")
-wrestler_b = ExtResource("3_rdkmo")
+wrestler_a = SubResource("Resource_ysyhl")
+wrestler_b = SubResource("Resource_b0nmt")
 
 [node name="Root" type="MarginContainer" parent="." unique_id=414550440]
 anchors_preset = 15

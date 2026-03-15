@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dtfkdqtdyey8l"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ml5un"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_xknup"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ksfpp"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_sdwpr"]
+
+[resource]
+script = ExtResource("4_sdwpr")
+CharacterName = "Ngozi Chimamanda"
+ClassType = 2
+Gender = 1
+Division = 2
+Age = 40
+Height = "5'5\""
+Weight = 117
+birthplace = 4
+strength = 20
+speed = 21
+stamina = 31
+skill = 40
+charisma = 22
+pop_north_america = 12
+pop_latin_america = 14
+pop_europe = 13
+pop_asia = 9
+pop_africa = 42
+pop_oceania = 15

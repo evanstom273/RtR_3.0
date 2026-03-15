@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://detynal6twxb8"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_hkxwa"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_6db3s"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_jg1x3"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_n5obh"]
+
+[resource]
+script = ExtResource("4_n5obh")
+CharacterName = "Cristina Lopez"
+ClassType = 1
+Gender = 1
+Division = 2
+Age = 42
+Height = "5'1\""
+Weight = 105
+birthplace = 2
+country_europe = 6
+strength = 15
+speed = 37
+stamina = 38
+skill = 21
+striking = 20
+charisma = 26
+pop_north_america = 12
+pop_latin_america = 13
+pop_europe = 47
+pop_asia = 8
+pop_africa = 8
+pop_oceania = 9

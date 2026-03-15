@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b6x7bccjse21w"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_d4nh1"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_f8d35"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_0mur7"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_itku2"]
+
+[resource]
+script = ExtResource("4_itku2")
+CharacterName = "Felipe Flores"
+ClassType = 1
+Division = 1
+Age = 49
+Weight = 151
+birthplace = 1
+country_latin_america = 1
+strength = 15
+speed = 39
+stamina = 43
+skill = 25
+striking = 25
+charisma = 23
+pop_north_america = 8
+pop_latin_america = 37
+pop_europe = 13
+pop_asia = 5
+pop_africa = 6
+pop_oceania = 11

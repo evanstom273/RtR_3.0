@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dm5eqt6pu7tv2"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ois5q"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_44xax"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_1edux"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_vqvaj"]
+
+[resource]
+script = ExtResource("4_vqvaj")
+CharacterName = "Carmen Martinez"
+Gender = 1
+Division = 2
+Age = 26
+Height = "5'3\""
+Weight = 150
+birthplace = 2
+country_europe = 6
+strength = 41
+speed = 11
+stamina = 25
+skill = 22
+striking = 22
+charisma = 28
+pop_north_america = 9
+pop_latin_america = 14
+pop_europe = 40
+pop_asia = 5
+pop_africa = 7
+pop_oceania = 10

@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c5ag2p5nv5ar8"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_obvqa"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_vlde2"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_5en8n"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_4kh2m"]
+
+[resource]
+script = ExtResource("4_4kh2m")
+CharacterName = "Isabela Silva"
+ClassType = 1
+Gender = 1
+Division = 2
+Age = 26
+Height = "5'0\""
+Weight = 105
+birthplace = 1
+strength = 16
+speed = 50
+stamina = 30
+skill = 29
+striking = 19
+charisma = 35
+pop_north_america = 7
+pop_latin_america = 31
+pop_europe = 7
+pop_asia = 9
+pop_africa = 10
+pop_oceania = 7

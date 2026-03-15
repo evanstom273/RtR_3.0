@@ -6,7 +6,7 @@ enum Region { NORTH_AMERICA, LATIN_AMERICA, EUROPE, ASIA, AFRICA, OCEANIA }
 enum CountryNorthAmerica { USA, CANADA, MEXICO }
 enum CountryLatinAmerica { BRAZIL, ARGENTINA, CHILE }
 enum CountryEurope { ENGLAND, SCOTLAND, FRANCE, GERMANY, IRELAND, ITALY, SPAIN, WALES }
-enum CountryAsia { JAPAN, CHINA, INDIA, SOUTH_KOREA }
+enum CountryAsia { JAPAN, CHINA, INDIA, SOUTH_KOREA, THAILAND }
 enum CountryAfrica { NIGERIA, SOUTH_AFRICA, GHANA }
 enum CountryOceania { NEW_ZEALAND, AUSTRALIA, SAMOA }
 
@@ -28,8 +28,6 @@ enum CharacterPos { STANDING, RUNNING, GROUNDED, IN_CORNER }
 @export var Height: String = "6'0\""
 @export var Weight: int = 220
 @export var traits: Array[String] = []
-@export var style: String = ""
-@export var finisher_name: String = ""
 @export var birthplace: Region = Region.NORTH_AMERICA:
     set(value):
         birthplace = value

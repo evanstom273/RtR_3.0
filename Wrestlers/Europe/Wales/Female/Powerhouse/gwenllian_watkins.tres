@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cc1rj4jd1xxy7"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_7pkm8"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_jr6ja"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_o7knw"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_cvpt5"]
+
+[resource]
+script = ExtResource("4_cvpt5")
+CharacterName = "Gwenllian Watkins"
+Gender = 1
+Division = 2
+Age = 47
+Height = "5'4\""
+Weight = 159
+birthplace = 2
+country_europe = 7
+strength = 35
+stamina = 33
+skill = 23
+striking = 19
+charisma = 20
+pop_north_america = 13
+pop_latin_america = 9
+pop_europe = 32
+pop_asia = 7
+pop_africa = 10
+pop_oceania = 10

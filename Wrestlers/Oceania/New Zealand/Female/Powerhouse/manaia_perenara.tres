@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dvqawd7qddswq"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_66yxs"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_yksw2"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_avqfo"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_xf6ix"]
+
+[resource]
+script = ExtResource("4_xf6ix")
+CharacterName = "Manaia Perenara"
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 58
+Height = "5'7\""
+Weight = 185
+birthplace = 5
+strength = 38
+speed = 12
+stamina = 33
+skill = 17
+striking = 17
+charisma = 16
+pop_north_america = 7
+pop_latin_america = 13
+pop_europe = 13
+pop_asia = 8
+pop_africa = 5
+pop_oceania = 35

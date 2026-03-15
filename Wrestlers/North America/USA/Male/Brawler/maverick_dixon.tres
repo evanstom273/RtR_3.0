@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://brdrc2wcf7twf"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_enonl"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_bgp05"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_j5tgr"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_vjyqd"]
+
+[resource]
+script = ExtResource("4_vjyqd")
+CharacterName = "Maverick Dixon"
+ClassType = 3
+Division = 1
+Age = 24
+Height = "6'4\""
+Weight = 257
+strength = 29
+speed = 11
+stamina = 25
+skill = 19
+striking = 36
+charisma = 19
+pop_north_america = 37
+pop_latin_america = 9
+pop_europe = 8
+pop_asia = 14
+pop_africa = 14
+pop_oceania = 15

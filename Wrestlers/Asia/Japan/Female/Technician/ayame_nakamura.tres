@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ctwrns5ekgmv8"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ca3b7"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_3t08f"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_rsjda"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_dh0p2"]
+
+[resource]
+script = ExtResource("4_dh0p2")
+CharacterName = "Ayame Nakamura"
+ClassType = 2
+Gender = 1
+Division = 2
+Age = 59
+Height = "5'3\""
+Weight = 110
+birthplace = 3
+strength = 17
+speed = 21
+stamina = 32
+skill = 41
+striking = 14
+charisma = 28
+pop_north_america = 7
+pop_latin_america = 6
+pop_europe = 5
+pop_asia = 45
+pop_africa = 8
+pop_oceania = 9

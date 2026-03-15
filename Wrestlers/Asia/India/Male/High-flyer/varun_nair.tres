@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c0q6squipqbf5"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_xwpes"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_au6l1"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_74dn0"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_yxo0l"]
+
+[resource]
+script = ExtResource("4_yxo0l")
+CharacterName = "Varun Nair"
+ClassType = 1
+Division = 1
+Age = 26
+Height = "5'6\""
+Weight = 145
+birthplace = 3
+country_asia = 2
+strength = 12
+speed = 47
+stamina = 37
+skill = 30
+striking = 17
+charisma = 20
+pop_north_america = 15
+pop_latin_america = 11
+pop_europe = 14
+pop_asia = 44
+pop_africa = 10
+pop_oceania = 7

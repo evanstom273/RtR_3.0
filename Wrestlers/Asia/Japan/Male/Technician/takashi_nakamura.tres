@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://s1n3cxasy3rp"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_lx10j"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_nq0i3"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_aie5m"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_mxwrn"]
+
+[resource]
+script = ExtResource("4_mxwrn")
+CharacterName = "Takashi Nakamura"
+ClassType = 2
+Division = 1
+Disposition = 1
+Age = 45
+Height = "5'10\""
+Weight = 179
+birthplace = 3
+strength = 24
+speed = 16
+stamina = 26
+skill = 45
+striking = 12
+charisma = 29
+pop_north_america = 14
+pop_latin_america = 9
+pop_europe = 9
+pop_asia = 49
+pop_africa = 5
+pop_oceania = 10

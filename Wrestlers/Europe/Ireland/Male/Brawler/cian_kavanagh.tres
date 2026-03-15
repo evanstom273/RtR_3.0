@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dab206316dssl"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_vrf5b"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_6e1gy"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_grubn"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_10f37"]
+
+[resource]
+script = ExtResource("4_10f37")
+CharacterName = "Cian Kavanagh"
+ClassType = 3
+Age = 30
+Height = "6'3\""
+Weight = 229
+birthplace = 2
+country_europe = 4
+strength = 35
+speed = 16
+stamina = 24
+skill = 13
+striking = 44
+charisma = 24
+pop_north_america = 10
+pop_latin_america = 9
+pop_europe = 37
+pop_asia = 6
+pop_africa = 5
+pop_oceania = 14

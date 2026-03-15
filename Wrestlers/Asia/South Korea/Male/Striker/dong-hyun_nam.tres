@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b7yvbc4c8lyex"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_req0d"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_hby5q"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ye8ei"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_x3k1r"]
+
+[resource]
+script = ExtResource("4_x3k1r")
+CharacterName = "Dong-hyun Nam"
+ClassType = 4
+Age = 37
+Height = "5'7\""
+Weight = 145
+birthplace = 3
+country_asia = 3
+speed = 31
+stamina = 23
+skill = 17
+striking = 46
+charisma = 15
+pop_north_america = 5
+pop_latin_america = 12
+pop_europe = 9
+pop_asia = 42
+pop_africa = 10
+pop_oceania = 15

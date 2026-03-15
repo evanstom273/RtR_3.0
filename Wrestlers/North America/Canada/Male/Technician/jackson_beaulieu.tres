@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://crgl2lmbkwa7o"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_nbjxn"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_utd5p"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_lbjhg"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_02x1x"]
+
+[resource]
+script = ExtResource("4_02x1x")
+CharacterName = "Jackson Beaulieu"
+ClassType = 2
+Division = 1
+Age = 24
+Height = "6'2\""
+Weight = 210
+country_north_america = 1
+strength = 24
+speed = 17
+stamina = 34
+skill = 45
+striking = 15
+charisma = 22
+pop_north_america = 40
+pop_latin_america = 13
+pop_europe = 5
+pop_asia = 13
+pop_africa = 7
+pop_oceania = 14

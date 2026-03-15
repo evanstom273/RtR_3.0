@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cplu70rpeev61"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_nlugr"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_govso"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_wfqap"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_33pcp"]
+
+[resource]
+script = ExtResource("4_33pcp")
+CharacterName = "Alfie Thompson"
+ClassType = 2
+Age = 44
+Height = "5'11\""
+Weight = 172
+birthplace = 2
+strength = 19
+speed = 19
+stamina = 27
+skill = 46
+striking = 17
+charisma = 21
+pop_north_america = 9
+pop_latin_america = 5
+pop_europe = 47
+pop_asia = 13
+pop_africa = 5
+pop_oceania = 9

@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cfak6op1ka7n"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ib5mc"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_s3pok"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ufhnd"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_dl1h6"]
+
+[resource]
+script = ExtResource("4_dl1h6")
+CharacterName = "Tunde Abiola"
+ClassType = 4
+Division = 1
+Disposition = 1
+Age = 41
+Height = "6'1\""
+Weight = 177
+birthplace = 4
+strength = 12
+speed = 27
+stamina = 22
+striking = 40
+charisma = 18
+pop_north_america = 9
+pop_latin_america = 15
+pop_europe = 10
+pop_asia = 10
+pop_africa = 35
+pop_oceania = 12

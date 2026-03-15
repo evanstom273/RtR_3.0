@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://lja040d48tnf"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_pxccg"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_lilfm"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_fcxde"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_i5e8y"]
+
+[resource]
+script = ExtResource("4_i5e8y")
+CharacterName = "Weston Hart"
+ClassType = 3
+Division = 1
+Age = 60
+strength = 25
+speed = 16
+stamina = 22
+skill = 17
+striking = 50
+charisma = 17
+pop_north_america = 45
+pop_latin_america = 9
+pop_europe = 12
+pop_asia = 9
+pop_africa = 9
+pop_oceania = 13

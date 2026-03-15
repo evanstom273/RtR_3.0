@@ -1,0 +1,31 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dnbxwckq48a5j"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_awek2"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_opdix"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_3b2qk"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_pjdoh"]
+
+[resource]
+script = ExtResource("4_pjdoh")
+CharacterName = "Aisling Murphy"
+ClassType = 3
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 51
+Height = "5'7\""
+Weight = 165
+birthplace = 2
+country_europe = 4
+strength = 30
+speed = 11
+stamina = 21
+skill = 19
+striking = 50
+charisma = 24
+pop_north_america = 8
+pop_latin_america = 8
+pop_europe = 37
+pop_asia = 13
+pop_africa = 8
+pop_oceania = 5

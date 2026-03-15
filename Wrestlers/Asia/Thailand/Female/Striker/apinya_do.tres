@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bfns7n5and3bg"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_xttcp"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_2t523"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_bgilg"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ts1s5"]
+
+[resource]
+script = ExtResource("4_ts1s5")
+CharacterName = "Apinya Do"
+ClassType = 4
+Gender = 1
+Division = 2
+Age = 39
+Height = "5'5\""
+Weight = 118
+birthplace = 3
+country_asia = 4
+strength = 12
+speed = 27
+stamina = 20
+skill = 14
+striking = 40
+charisma = 29
+pop_north_america = 6
+pop_latin_america = 7
+pop_europe = 15
+pop_asia = 44
+pop_africa = 15
+pop_oceania = 5

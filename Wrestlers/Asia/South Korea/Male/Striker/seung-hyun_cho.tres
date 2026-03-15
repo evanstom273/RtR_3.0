@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dt4ffu6fhiy61"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_l06s8"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_jrtka"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_wvaho"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_gjsew"]
+
+[resource]
+script = ExtResource("4_gjsew")
+CharacterName = "Seung-hyun Cho"
+ClassType = 4
+Division = 1
+Age = 22
+Height = "5'11\""
+Weight = 171
+birthplace = 3
+country_asia = 3
+strength = 19
+speed = 32
+stamina = 23
+skill = 19
+striking = 48
+charisma = 22
+pop_north_america = 10
+pop_latin_america = 14
+pop_europe = 13
+pop_asia = 40
+pop_africa = 8
+pop_oceania = 9

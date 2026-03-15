@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://iysatdguaecs"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_58rgf"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_lxv6l"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_wog5y"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_268tu"]
+
+[resource]
+script = ExtResource("4_268tu")
+CharacterName = "Sbu Zuma"
+Age = 63
+Height = "6'2\""
+Weight = 256
+birthplace = 4
+country_africa = 1
+strength = 49
+speed = 19
+stamina = 25
+skill = 16
+striking = 20
+charisma = 19
+pop_north_america = 7
+pop_latin_america = 11
+pop_europe = 12
+pop_asia = 10
+pop_africa = 28
+pop_oceania = 5

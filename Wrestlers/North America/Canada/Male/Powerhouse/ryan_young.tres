@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cp0ynvfda6e2o"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_d4wsd"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_hl3eq"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_mhkv5"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_oxtk8"]
+
+[resource]
+script = ExtResource("4_oxtk8")
+CharacterName = "Ryan Young"
+Age = 39
+Height = "6'4\""
+Weight = 276
+country_north_america = 1
+strength = 41
+speed = 13
+stamina = 30
+skill = 25
+striking = 25
+charisma = 25
+pop_north_america = 47
+pop_latin_america = 5
+pop_europe = 9
+pop_asia = 12
+pop_africa = 7
+pop_oceania = 6

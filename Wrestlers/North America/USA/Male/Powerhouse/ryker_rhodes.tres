@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c4qqguhw7frq5"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_d3u3x"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_x4ict"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_lafme"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_4gn2c"]
+
+[resource]
+script = ExtResource("4_4gn2c")
+CharacterName = "Ryker Rhodes"
+Age = 60
+Height = "6'4\""
+Weight = 284
+strength = 38
+speed = 14
+stamina = 35
+skill = 22
+striking = 20
+charisma = 15
+pop_north_america = 46
+pop_latin_america = 14
+pop_europe = 11
+pop_asia = 6
+pop_africa = 10
+pop_oceania = 12

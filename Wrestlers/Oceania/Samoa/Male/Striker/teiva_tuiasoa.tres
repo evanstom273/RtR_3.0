@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cbvg2270kruff"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_j608o"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ksu6a"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_o3ayr"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_svdg2"]
+
+[resource]
+script = ExtResource("4_svdg2")
+CharacterName = "Teiva Tuiasoa"
+ClassType = 4
+Disposition = 1
+Age = 26
+Height = "6'3\""
+Weight = 192
+birthplace = 5
+country_oceania = 2
+strength = 15
+speed = 30
+stamina = 22
+skill = 13
+striking = 35
+charisma = 25
+pop_north_america = 14
+pop_latin_america = 13
+pop_europe = 9
+pop_asia = 7
+pop_africa = 8
+pop_oceania = 37

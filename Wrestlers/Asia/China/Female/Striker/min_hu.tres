@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cayjehwj10mij"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_bhguv"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_2dicd"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_4hp3b"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_j1u3c"]
+
+[resource]
+script = ExtResource("4_j1u3c")
+CharacterName = "Min Hu"
+ClassType = 4
+Gender = 1
+Division = 2
+Age = 29
+Height = "5'4\""
+Weight = 116
+birthplace = 3
+country_asia = 1
+speed = 30
+stamina = 30
+skill = 16
+striking = 37
+charisma = 16
+pop_north_america = 10
+pop_latin_america = 7
+pop_europe = 11
+pop_asia = 43
+pop_africa = 12
+pop_oceania = 5

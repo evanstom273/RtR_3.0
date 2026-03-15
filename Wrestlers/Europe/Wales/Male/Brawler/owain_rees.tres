@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b04u12jwk40dk"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_5qhbe"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_yol2a"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_4omfd"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_35q1u"]
+
+[resource]
+script = ExtResource("4_35q1u")
+CharacterName = "Owain Rees"
+ClassType = 3
+Division = 1
+Age = 29
+Weight = 225
+birthplace = 2
+country_europe = 7
+strength = 26
+stamina = 23
+skill = 11
+striking = 50
+charisma = 21
+pop_north_america = 11
+pop_latin_america = 9
+pop_europe = 34
+pop_asia = 15
+pop_africa = 8
+pop_oceania = 6

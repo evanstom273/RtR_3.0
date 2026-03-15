@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bqvmq71v4hevd"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_4iavo"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_n1uhl"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_21k61"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_6774v"]
+
+[resource]
+script = ExtResource("4_6774v")
+CharacterName = "Sawyer Steele"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 28
+Height = "5'11\""
+Weight = 211
+strength = 31
+stamina = 24
+skill = 19
+striking = 50
+charisma = 23
+pop_north_america = 38
+pop_latin_america = 10
+pop_europe = 13
+pop_asia = 8
+pop_africa = 9
+pop_oceania = 9

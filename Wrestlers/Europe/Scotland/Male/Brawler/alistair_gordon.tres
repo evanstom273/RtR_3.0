@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bse0g7u8rbfgo"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_rg176"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_tmn52"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_dnqnh"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_wdias"]
+
+[resource]
+script = ExtResource("4_wdias")
+CharacterName = "Alistair Gordon"
+ClassType = 3
+Disposition = 1
+Age = 27
+Height = "5'9\""
+Weight = 187
+birthplace = 2
+country_europe = 1
+strength = 25
+speed = 20
+stamina = 28
+skill = 18
+striking = 36
+charisma = 26
+pop_north_america = 6
+pop_latin_america = 6
+pop_europe = 32
+pop_asia = 6
+pop_africa = 5
+pop_oceania = 10

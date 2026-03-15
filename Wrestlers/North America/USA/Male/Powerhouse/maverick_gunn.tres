@@ -1,0 +1,24 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://babg2ilnrwdbw"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_a36el"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_mb5df"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_oylpo"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_g1myy"]
+
+[resource]
+script = ExtResource("4_g1myy")
+CharacterName = "Maverick Gunn"
+Age = 24
+Weight = 233
+strength = 48
+speed = 14
+stamina = 26
+skill = 23
+striking = 18
+charisma = 29
+pop_north_america = 40
+pop_latin_america = 13
+pop_europe = 14
+pop_asia = 11
+pop_africa = 10
+pop_oceania = 10

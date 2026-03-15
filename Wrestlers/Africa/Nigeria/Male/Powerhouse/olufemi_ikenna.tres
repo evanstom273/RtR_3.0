@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c48xhe8uqhf7a"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_15xd4"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_qj6mh"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_n52lh"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_n6qcr"]
+
+[resource]
+script = ExtResource("4_n6qcr")
+CharacterName = "Olufemi Ikenna"
+Age = 57
+Weight = 230
+birthplace = 4
+strength = 37
+speed = 20
+stamina = 26
+skill = 21
+striking = 23
+charisma = 26
+pop_north_america = 14
+pop_latin_america = 10
+pop_europe = 7
+pop_asia = 8
+pop_africa = 46
+pop_oceania = 10

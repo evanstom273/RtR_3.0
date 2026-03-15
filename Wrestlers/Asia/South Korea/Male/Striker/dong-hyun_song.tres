@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cqy7lt1iapxv0"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_eiyx1"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_yp5jq"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_7cgwf"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_fti3r"]
+
+[resource]
+script = ExtResource("4_fti3r")
+CharacterName = "Dong-hyun Song"
+ClassType = 4
+Division = 1
+Disposition = 1
+Age = 29
+Height = "5'9\""
+Weight = 158
+birthplace = 3
+country_asia = 3
+strength = 12
+speed = 25
+stamina = 24
+skill = 18
+striking = 46
+charisma = 18
+pop_north_america = 8
+pop_latin_america = 8
+pop_europe = 8
+pop_asia = 40
+pop_africa = 6
+pop_oceania = 8

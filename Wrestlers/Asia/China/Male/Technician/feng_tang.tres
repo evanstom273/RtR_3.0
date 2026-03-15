@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://d3onhjntuwiph"]
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bjuown0wb01ja"]
 
 [ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_mspe2"]
 [ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_jyq1l"]
@@ -9,20 +9,21 @@
 script = ExtResource("4_0yajm")
 CharacterName = "Feng Tang"
 ClassType = 2
-Age = 47
-Height = "6'1\""
-Weight = 273
+Division = 1
+Age = 55
+Height = "5'10\""
+Weight = 167
 birthplace = 3
 country_asia = 1
-strength = 22
-speed = 20
-stamina = 34
-skill = 44
-striking = 14
-charisma = 24
-pop_north_america = 15
+strength = 25
+speed = 23
+stamina = 35
+skill = 36
+striking = 18
+charisma = 30
+pop_north_america = 11
 pop_latin_america = 7
-pop_europe = 5
-pop_asia = 41
-pop_africa = 11
-pop_oceania = 15
+pop_europe = 13
+pop_asia = 28
+pop_africa = 14
+pop_oceania = 5

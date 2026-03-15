@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cbhx64xt141ge"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_hnl3t"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_hr2vg"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ak81f"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_05m6v"]
+
+[resource]
+script = ExtResource("4_05m6v")
+CharacterName = "Henry Davies"
+ClassType = 3
+Age = 37
+Height = "6'1\""
+birthplace = 2
+strength = 27
+speed = 13
+stamina = 30
+striking = 38
+charisma = 15
+pop_north_america = 10
+pop_latin_america = 13
+pop_europe = 39
+pop_asia = 15
+pop_africa = 6
+pop_oceania = 5

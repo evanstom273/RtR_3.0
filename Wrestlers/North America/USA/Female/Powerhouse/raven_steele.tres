@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cuovqo04fjghs"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_7ku8a"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_i65ke"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_xr3fe"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_3fy2e"]
+
+[resource]
+script = ExtResource("4_3fy2e")
+CharacterName = "Raven Steele"
+Gender = 1
+Division = 2
+Age = 35
+Height = "5'11\""
+Weight = 196
+strength = 48
+speed = 18
+stamina = 30
+skill = 17
+striking = 24
+charisma = 15
+pop_north_america = 37
+pop_latin_america = 13
+pop_europe = 14
+pop_asia = 14
+pop_africa = 15
+pop_oceania = 10

@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://o3yyw7qt3ais"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_xcg8t"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_d2wgk"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_po521"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_wgp0c"]
+
+[resource]
+script = ExtResource("4_wgp0c")
+CharacterName = "Iestyn Lewis"
+ClassType = 2
+Division = 1
+Disposition = 1
+Age = 49
+Height = "6'2\""
+Weight = 192
+birthplace = 2
+country_europe = 7
+strength = 18
+speed = 15
+stamina = 29
+skill = 38
+striking = 11
+charisma = 15
+pop_north_america = 15
+pop_latin_america = 11
+pop_europe = 45
+pop_asia = 14
+pop_africa = 9
+pop_oceania = 5

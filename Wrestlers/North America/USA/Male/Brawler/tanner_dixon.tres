@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://fuu57ws6ibhy"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_2j4fu"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_cstbj"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_yfj6c"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_v7wm8"]
+
+[resource]
+script = ExtResource("4_v7wm8")
+CharacterName = "Tanner Dixon"
+ClassType = 3
+Division = 1
+Age = 47
+Weight = 223
+strength = 26
+speed = 15
+stamina = 27
+striking = 47
+charisma = 25
+pop_north_america = 35
+pop_latin_america = 11
+pop_europe = 15
+pop_asia = 9
+pop_africa = 6
+pop_oceania = 15

@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cjidfbnp3i48t"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ytcvw"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_pxl7w"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_rh4ob"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_1ihx5"]
+
+[resource]
+script = ExtResource("4_1ihx5")
+CharacterName = "Adam Pelletier"
+ClassType = 2
+Disposition = 1
+Age = 58
+Height = "6'1\""
+Weight = 198
+country_north_america = 1
+strength = 25
+speed = 25
+stamina = 30
+skill = 50
+striking = 14
+charisma = 27
+pop_north_america = 43
+pop_latin_america = 6
+pop_europe = 9
+pop_asia = 5
+pop_africa = 15
+pop_oceania = 12

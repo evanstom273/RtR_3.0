@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cw31mhtle131l"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_2e34h"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_6v6sa"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_vxg8m"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_48xkc"]
+
+[resource]
+script = ExtResource("4_48xkc")
+CharacterName = "Lucky Phiri"
+Age = 52
+Height = "6'2\""
+Weight = 262
+birthplace = 4
+country_africa = 1
+strength = 46
+speed = 13
+stamina = 29
+skill = 22
+striking = 17
+charisma = 18
+pop_north_america = 7
+pop_latin_america = 5
+pop_europe = 7
+pop_asia = 14
+pop_africa = 47
+pop_oceania = 15

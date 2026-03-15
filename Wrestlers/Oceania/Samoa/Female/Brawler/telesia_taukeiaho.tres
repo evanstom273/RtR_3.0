@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://8w1p00nrdvws"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_5oyie"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_4vw4n"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_dqkdu"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ucisp"]
+
+[resource]
+script = ExtResource("4_ucisp")
+CharacterName = "Telesia Taukei'aho"
+ClassType = 3
+Gender = 1
+Division = 2
+Age = 35
+Height = "5'5\""
+Weight = 154
+birthplace = 5
+country_oceania = 2
+strength = 30
+speed = 13
+stamina = 25
+skill = 14
+striking = 48
+charisma = 19
+pop_north_america = 7
+pop_latin_america = 8
+pop_europe = 11
+pop_asia = 9
+pop_africa = 15
+pop_oceania = 46

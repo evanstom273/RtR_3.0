@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://orqqc4wk43nv"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_fg8xj"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_6gw0q"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_oqr4g"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_8a4mf"]
+
+[resource]
+script = ExtResource("4_8a4mf")
+CharacterName = "Sable Hart"
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 38
+Height = "5'10\""
+Weight = 188
+strength = 49
+speed = 11
+stamina = 30
+skill = 15
+striking = 15
+charisma = 30
+pop_north_america = 40
+pop_latin_america = 13
+pop_europe = 11
+pop_asia = 9
+pop_africa = 10
+pop_oceania = 14

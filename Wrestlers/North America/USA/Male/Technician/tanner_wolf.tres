@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dqd7ol6vfu5n0"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_jou3i"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_elllp"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_i51wd"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_gpwd3"]
+
+[resource]
+script = ExtResource("4_gpwd3")
+CharacterName = "Tanner Wolf"
+ClassType = 2
+Division = 1
+Age = 48
+Weight = 182
+strength = 24
+speed = 20
+stamina = 28
+skill = 47
+striking = 13
+charisma = 18
+pop_north_america = 40
+pop_latin_america = 8
+pop_europe = 10
+pop_asia = 15
+pop_africa = 11
+pop_oceania = 7

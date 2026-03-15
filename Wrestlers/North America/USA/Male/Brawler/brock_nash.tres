@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://pmu1353vhrbn"]
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bhydgmjjw6frh"]
 
 [ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ssmrc"]
 [ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_1eqli"]
@@ -9,19 +9,18 @@
 script = ExtResource("4_o8x3y")
 CharacterName = "Brock Nash"
 ClassType = 3
-Disposition = 1
-Age = 24
-Height = "5'11\""
-Weight = 224
-strength = 28
-speed = 12
-stamina = 26
-skill = 15
-striking = 41
+Division = 1
+Age = 59
+Height = "6'4\""
+Weight = 233
+strength = 35
+speed = 20
+stamina = 27
+striking = 37
 charisma = 24
-pop_north_america = 26
-pop_latin_america = 14
-pop_europe = 13
-pop_asia = 14
-pop_africa = 15
-pop_oceania = 9
+pop_north_america = 28
+pop_latin_america = 5
+pop_europe = 5
+pop_asia = 7
+pop_africa = 8
+pop_oceania = 12

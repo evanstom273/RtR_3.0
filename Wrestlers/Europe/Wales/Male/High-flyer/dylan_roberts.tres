@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bvogw8eawkm0j"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_pyi3r"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_hb7kq"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_vfioi"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_yvj0s"]
+
+[resource]
+script = ExtResource("4_yvj0s")
+CharacterName = "Dylan Roberts"
+ClassType = 1
+Division = 1
+Disposition = 1
+Age = 39
+Height = "5'10\""
+Weight = 146
+birthplace = 2
+country_europe = 7
+strength = 13
+speed = 47
+stamina = 33
+skill = 24
+striking = 17
+charisma = 20
+pop_north_america = 9
+pop_latin_america = 13
+pop_europe = 32
+pop_asia = 11
+pop_africa = 5
+pop_oceania = 13

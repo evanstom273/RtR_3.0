@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cr6xje2kou5pp"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_vixcb"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_2f8ro"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_sbxmh"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_gs65n"]
+
+[resource]
+script = ExtResource("4_gs65n")
+CharacterName = "Noah Bouchard"
+ClassType = 3
+Age = 61
+Weight = 209
+country_north_america = 1
+strength = 29
+speed = 14
+stamina = 20
+skill = 18
+striking = 45
+charisma = 27
+pop_north_america = 35
+pop_latin_america = 7
+pop_europe = 15
+pop_asia = 13
+pop_africa = 12
+pop_oceania = 10

@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cpev0d2jltejq"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_q13uc"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_s28v0"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_twnmx"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_q28ys"]
+
+[resource]
+script = ExtResource("4_q28ys")
+CharacterName = "Enyonam Kamara"
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 36
+Height = "5'4\""
+Weight = 166
+birthplace = 4
+country_africa = 2
+strength = 35
+speed = 20
+stamina = 32
+skill = 25
+striking = 16
+charisma = 22
+pop_north_america = 14
+pop_latin_america = 9
+pop_europe = 9
+pop_asia = 12
+pop_africa = 40
+pop_oceania = 10

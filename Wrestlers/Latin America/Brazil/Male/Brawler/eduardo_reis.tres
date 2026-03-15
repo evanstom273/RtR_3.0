@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ch5rhd8so3iql"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_7bp8a"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_qqtky"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_k5cv0"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_bwgds"]
+
+[resource]
+script = ExtResource("4_bwgds")
+CharacterName = "Eduardo Reis"
+ClassType = 3
+Division = 1
+Age = 22
+Height = "6'1\""
+Weight = 216
+birthplace = 1
+strength = 35
+speed = 15
+stamina = 25
+skill = 19
+striking = 48
+charisma = 26
+pop_north_america = 9
+pop_latin_america = 32
+pop_europe = 9
+pop_asia = 8
+pop_africa = 5
+pop_oceania = 8

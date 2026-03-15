@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c1c8ille663hp"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_mppwe"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_fxmd4"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ybxsb"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_angjk"]
+
+[resource]
+script = ExtResource("4_angjk")
+CharacterName = "Rangi Cane"
+ClassType = 1
+Division = 1
+Age = 22
+Height = "6'2\""
+Weight = 158
+birthplace = 5
+strength = 14
+speed = 35
+stamina = 42
+skill = 29
+striking = 18
+charisma = 26
+pop_north_america = 7
+pop_latin_america = 15
+pop_europe = 7
+pop_asia = 13
+pop_africa = 6
+pop_oceania = 48

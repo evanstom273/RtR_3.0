@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://btgmitvg01r4n"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_yhrqi"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_pi167"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_iphvu"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_4jfkg"]
+
+[resource]
+script = ExtResource("4_4jfkg")
+CharacterName = "Giancarlo Barbieri"
+ClassType = 2
+Age = 33
+Height = "5'11\""
+Weight = 180
+birthplace = 2
+country_europe = 5
+strength = 21
+speed = 18
+stamina = 31
+skill = 40
+striking = 17
+charisma = 25
+pop_north_america = 6
+pop_latin_america = 13
+pop_europe = 40
+pop_asia = 12
+pop_africa = 6
+pop_oceania = 9

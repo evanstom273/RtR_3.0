@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ckytby1su86st"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_t6wt0"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_8t4gm"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_uthnb"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_j7512"]
+
+[resource]
+script = ExtResource("4_j7512")
+CharacterName = "Aiden Fitzpatrick"
+ClassType = 2
+Disposition = 1
+Age = 58
+Height = "5'9\""
+Weight = 172
+birthplace = 2
+country_europe = 4
+strength = 21
+speed = 25
+stamina = 30
+skill = 46
+striking = 16
+charisma = 19
+pop_north_america = 9
+pop_latin_america = 15
+pop_europe = 36
+pop_asia = 10
+pop_africa = 10
+pop_oceania = 6

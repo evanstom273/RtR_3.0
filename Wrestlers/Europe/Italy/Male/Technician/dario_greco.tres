@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c2rrnet0f6ahm"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_piqxe"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_iw48x"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_py5i2"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_vevw4"]
+
+[resource]
+script = ExtResource("4_vevw4")
+CharacterName = "Dario Greco"
+ClassType = 2
+Division = 1
+Age = 24
+Height = "5'9\""
+Weight = 170
+birthplace = 2
+country_europe = 5
+strength = 18
+speed = 16
+stamina = 30
+skill = 38
+striking = 12
+charisma = 18
+pop_north_america = 13
+pop_latin_america = 5
+pop_europe = 45
+pop_asia = 15
+pop_africa = 6
+pop_oceania = 9

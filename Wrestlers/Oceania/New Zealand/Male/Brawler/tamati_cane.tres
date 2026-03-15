@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://4moaj0qrqadj"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ol3ok"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_byru3"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_3wm6g"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_is8gx"]
+
+[resource]
+script = ExtResource("4_is8gx")
+CharacterName = "Tamati Cane"
+ClassType = 3
+Age = 47
+Weight = 215
+birthplace = 5
+strength = 25
+speed = 15
+stamina = 30
+skill = 18
+striking = 39
+charisma = 15
+pop_north_america = 12
+pop_latin_america = 6
+pop_europe = 15
+pop_asia = 8
+pop_africa = 8
+pop_oceania = 50

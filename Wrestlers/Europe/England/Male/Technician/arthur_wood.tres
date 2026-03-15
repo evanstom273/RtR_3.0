@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c4xthw1aagj7n"]
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://d2ykrrp8v5pqh"]
 
 [ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_kcff3"]
 [ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_pnd0n"]
@@ -9,20 +9,21 @@
 script = ExtResource("4_hqtyq")
 CharacterName = "Arthur Wood"
 ClassType = 2
+Division = 1
 Disposition = 1
-Age = 53
-Height = "5'8\""
-Weight = 313
+Age = 61
+Height = "5'10\""
+Weight = 164
 birthplace = 2
 strength = 16
-speed = 20
-stamina = 28
-skill = 39
-striking = 11
-charisma = 28
-pop_north_america = 11
-pop_latin_america = 15
-pop_europe = 49
-pop_asia = 14
-pop_africa = 7
-pop_oceania = 5
+speed = 24
+stamina = 34
+skill = 38
+striking = 14
+charisma = 15
+pop_north_america = 14
+pop_latin_america = 5
+pop_europe = 52
+pop_asia = 15
+pop_africa = 8
+pop_oceania = 13

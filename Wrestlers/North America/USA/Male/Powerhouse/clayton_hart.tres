@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c5x5fuyqru1ek"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ks0pt"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_0rby7"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_uj4ve"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_hxfpa"]
+
+[resource]
+script = ExtResource("4_hxfpa")
+CharacterName = "Clayton Hart"
+Age = 39
+Height = "6'3\""
+Weight = 273
+strength = 45
+speed = 13
+stamina = 35
+skill = 18
+striking = 18
+charisma = 19
+pop_north_america = 52
+pop_latin_america = 14
+pop_europe = 11
+pop_asia = 5
+pop_africa = 10
+pop_oceania = 15

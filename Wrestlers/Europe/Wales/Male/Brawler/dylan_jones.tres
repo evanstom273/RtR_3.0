@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c4n1m8d76qy8a"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_n0ysp"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_4636s"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_eg5uq"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_8wdgj"]
+
+[resource]
+script = ExtResource("4_8wdgj")
+CharacterName = "Dylan Jones"
+ClassType = 3
+Disposition = 1
+Age = 36
+Weight = 214
+birthplace = 2
+country_europe = 7
+strength = 26
+speed = 15
+stamina = 28
+skill = 13
+striking = 41
+charisma = 19
+pop_north_america = 8
+pop_latin_america = 7
+pop_europe = 49
+pop_asia = 14
+pop_africa = 9
+pop_oceania = 13

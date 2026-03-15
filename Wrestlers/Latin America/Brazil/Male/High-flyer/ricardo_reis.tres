@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bms3xexxecgtb"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_y2new"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_krimg"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_3rc60"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_800cs"]
+
+[resource]
+script = ExtResource("4_800cs")
+CharacterName = "Ricardo Reis"
+ClassType = 1
+Division = 1
+Disposition = 1
+Age = 51
+Weight = 166
+birthplace = 1
+strength = 19
+speed = 40
+stamina = 31
+skill = 26
+striking = 19
+charisma = 20
+pop_north_america = 10
+pop_latin_america = 34
+pop_europe = 5
+pop_asia = 7
+pop_africa = 8
+pop_oceania = 15

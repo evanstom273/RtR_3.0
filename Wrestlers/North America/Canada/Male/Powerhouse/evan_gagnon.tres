@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://6ykhhqqsgt3t"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_bdwc2"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_rcfjv"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_0ufo0"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_235my"]
+
+[resource]
+script = ExtResource("4_235my")
+CharacterName = "Evan Gagnon"
+Division = 1
+Age = 33
+Height = "6'1\""
+Weight = 239
+country_north_america = 1
+strength = 45
+speed = 13
+stamina = 29
+skill = 20
+striking = 25
+charisma = 28
+pop_north_america = 39
+pop_latin_america = 5
+pop_europe = 10
+pop_asia = 12
+pop_africa = 6
+pop_oceania = 13

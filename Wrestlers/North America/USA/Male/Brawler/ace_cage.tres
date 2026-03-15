@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b4hlgb2xb4h1n"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ubxeu"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_pdgmg"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_6ssmx"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_l3hgx"]
+
+[resource]
+script = ExtResource("4_l3hgx")
+CharacterName = "Ace Cage"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 47
+Height = "5'11\""
+Weight = 216
+strength = 26
+speed = 12
+stamina = 25
+skill = 17
+striking = 37
+charisma = 29
+pop_north_america = 48
+pop_latin_america = 6
+pop_europe = 7
+pop_asia = 10
+pop_africa = 12
+pop_oceania = 6

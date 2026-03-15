@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cwpn2jnbep0xb"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_cp87d"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ileex"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_8pfjq"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_bkl7h"]
+
+[resource]
+script = ExtResource("4_bkl7h")
+CharacterName = "Dev Verma"
+ClassType = 3
+Age = 36
+Height = "6'1\""
+Weight = 211
+birthplace = 3
+country_asia = 2
+strength = 28
+speed = 18
+stamina = 28
+skill = 14
+striking = 36
+charisma = 30
+pop_north_america = 12
+pop_latin_america = 6
+pop_europe = 9
+pop_asia = 37
+pop_africa = 9
+pop_oceania = 9

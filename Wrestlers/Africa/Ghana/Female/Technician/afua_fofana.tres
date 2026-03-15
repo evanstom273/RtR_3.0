@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dfuu0hhdexpcn"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_tgela"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_eviu4"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_38h6g"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_8y417"]
+
+[resource]
+script = ExtResource("4_8y417")
+CharacterName = "Afua Fofana"
+ClassType = 2
+Gender = 1
+Division = 2
+Age = 58
+Height = "5'0\""
+Weight = 105
+birthplace = 4
+country_africa = 2
+strength = 22
+speed = 18
+stamina = 32
+skill = 40
+striking = 11
+charisma = 20
+pop_north_america = 10
+pop_latin_america = 11
+pop_europe = 9
+pop_asia = 8
+pop_africa = 34
+pop_oceania = 13

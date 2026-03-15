@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cjywkhxv4ctoc"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_se8kk"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ierg3"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_5vi21"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_e4lau"]
+
+[resource]
+script = ExtResource("4_e4lau")
+CharacterName = "Fraser Robertson"
+Division = 1
+Age = 53
+Height = "6'2\""
+Weight = 251
+birthplace = 2
+country_europe = 1
+strength = 45
+speed = 15
+stamina = 35
+skill = 15
+striking = 25
+charisma = 16
+pop_north_america = 8
+pop_latin_america = 7
+pop_europe = 44
+pop_asia = 14
+pop_africa = 13
+pop_oceania = 7

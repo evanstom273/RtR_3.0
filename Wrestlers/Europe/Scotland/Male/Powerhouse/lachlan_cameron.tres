@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cmilnwmslk56i"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_n1vmw"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_hyb2s"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_81kps"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_77fth"]
+
+[resource]
+script = ExtResource("4_77fth")
+CharacterName = "Lachlan Cameron"
+Division = 1
+Age = 51
+Height = "6'2\""
+Weight = 255
+birthplace = 2
+country_europe = 1
+strength = 38
+speed = 11
+stamina = 32
+skill = 16
+striking = 25
+charisma = 18
+pop_north_america = 13
+pop_latin_america = 6
+pop_europe = 50
+pop_asia = 6
+pop_africa = 5
+pop_oceania = 12

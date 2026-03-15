@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bd2y662jox3ta"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ytk2c"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_sdnjx"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_1k6oo"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_wdiv2"]
+
+[resource]
+script = ExtResource("4_wdiv2")
+CharacterName = "Yong Lin"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 44
+Weight = 205
+birthplace = 3
+country_asia = 1
+strength = 35
+speed = 12
+stamina = 22
+skill = 18
+striking = 41
+charisma = 25
+pop_north_america = 13
+pop_latin_america = 14
+pop_europe = 5
+pop_asia = 47
+pop_africa = 13
+pop_oceania = 11

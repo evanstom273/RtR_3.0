@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c8cmiqdwjwi4b"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_xbytw"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_jrhmr"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_x3825"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_y46e0"]
+
+[resource]
+script = ExtResource("4_y46e0")
+CharacterName = "Ryker Sterling"
+ClassType = 3
+Division = 1
+Age = 31
+Height = "6'4\""
+Weight = 235
+strength = 26
+speed = 15
+stamina = 24
+skill = 14
+striking = 36
+charisma = 23
+pop_north_america = 49
+pop_latin_america = 10
+pop_europe = 8
+pop_asia = 5
+pop_africa = 9
+pop_oceania = 11

@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dvw3kfd10nqk3"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_y26bp"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_qcfn2"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_exdy7"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_bf8hu"]
+
+[resource]
+script = ExtResource("4_bf8hu")
+CharacterName = "Thomas Lefebvre"
+ClassType = 4
+Division = 1
+Disposition = 1
+Age = 27
+Height = "5'11\""
+Weight = 176
+birthplace = 2
+country_europe = 2
+strength = 14
+speed = 35
+stamina = 20
+skill = 13
+striking = 44
+charisma = 18
+pop_north_america = 6
+pop_latin_america = 10
+pop_europe = 35
+pop_asia = 15
+pop_africa = 10
+pop_oceania = 9

@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://fjs44o0qwtsn"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_2e4tw"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_4l1xa"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_v20uv"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_b1umo"]
+
+[resource]
+script = ExtResource("4_b1umo")
+CharacterName = "Ace Styles"
+ClassType = 3
+Disposition = 1
+Age = 62
+Height = "6'1\""
+Weight = 229
+strength = 35
+speed = 17
+stamina = 29
+skill = 15
+striking = 42
+charisma = 26
+pop_north_america = 29
+pop_latin_america = 6
+pop_europe = 7
+pop_asia = 10
+pop_africa = 8
+pop_oceania = 15

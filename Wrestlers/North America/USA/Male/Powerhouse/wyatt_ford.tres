@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cc4d6y3y8cbeq"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_7ghbq"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_0pts7"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_gs1ss"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_0pkg8"]
+
+[resource]
+script = ExtResource("4_0pkg8")
+CharacterName = "Wyatt Ford"
+Age = 34
+Height = "6'5\""
+Weight = 295
+strength = 50
+speed = 11
+stamina = 25
+skill = 15
+striking = 22
+charisma = 15
+pop_north_america = 42
+pop_latin_america = 8
+pop_europe = 13
+pop_asia = 7
+pop_africa = 6
+pop_oceania = 8

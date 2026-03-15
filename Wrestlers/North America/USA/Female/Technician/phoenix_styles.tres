@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://by7pa3hr6nth6"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_0jdam"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_yk5gm"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_6cx0q"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_54lnv"]
+
+[resource]
+script = ExtResource("4_54lnv")
+CharacterName = "Phoenix Styles"
+ClassType = 2
+Gender = 1
+Division = 2
+Age = 52
+Height = "5'9\""
+Weight = 145
+strength = 18
+speed = 19
+stamina = 31
+skill = 38
+striking = 19
+charisma = 26
+pop_north_america = 41
+pop_latin_america = 7
+pop_europe = 11
+pop_asia = 9
+pop_africa = 11
+pop_oceania = 9

@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://m836cu1caa1x"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_lnkt1"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_wh5h2"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_3ou8h"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_gms2e"]
+
+[resource]
+script = ExtResource("4_gms2e")
+CharacterName = "Dragon Solar"
+ClassType = 1
+Age = 42
+Height = "5'11\""
+Weight = 148
+country_north_america = 2
+strength = 11
+speed = 47
+stamina = 37
+skill = 21
+striking = 25
+charisma = 27
+pop_north_america = 37
+pop_latin_america = 11
+pop_europe = 7
+pop_asia = 6
+pop_africa = 7
+pop_oceania = 11

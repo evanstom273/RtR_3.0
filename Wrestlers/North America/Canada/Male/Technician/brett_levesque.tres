@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b50hmqtnm8rrx"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_8y8uj"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_vcygp"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_uknrn"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_6ge8a"]
+
+[resource]
+script = ExtResource("4_6ge8a")
+CharacterName = "Brett Levesque"
+ClassType = 2
+Disposition = 1
+Age = 59
+Height = "5'11\""
+Weight = 169
+country_north_america = 1
+strength = 21
+speed = 23
+stamina = 25
+skill = 40
+striking = 19
+charisma = 27
+pop_north_america = 28
+pop_latin_america = 6
+pop_europe = 7
+pop_asia = 6
+pop_africa = 6
+pop_oceania = 10

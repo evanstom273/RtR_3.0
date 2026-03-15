@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bbmuevdgjt8ax"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_fjxk2"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_eyelf"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_77b3x"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_sfr0q"]
+
+[resource]
+script = ExtResource("4_sfr0q")
+CharacterName = "Boonsong Duong"
+Division = 1
+Disposition = 1
+Age = 53
+Height = "6'1\""
+Weight = 255
+birthplace = 3
+country_asia = 4
+strength = 40
+speed = 19
+stamina = 31
+skill = 16
+striking = 22
+charisma = 29
+pop_north_america = 13
+pop_latin_america = 6
+pop_europe = 5
+pop_asia = 38
+pop_africa = 15
+pop_oceania = 5

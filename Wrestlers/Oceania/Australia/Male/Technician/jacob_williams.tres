@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bxmrbkedoox8d"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_h6xds"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_4txav"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_0fqkj"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ds418"]
+
+[resource]
+script = ExtResource("4_ds418")
+CharacterName = "Jacob Williams"
+ClassType = 2
+Disposition = 1
+Age = 26
+Height = "6'4\""
+Weight = 216
+birthplace = 5
+country_oceania = 1
+strength = 19
+speed = 15
+stamina = 25
+skill = 40
+striking = 20
+charisma = 16
+pop_north_america = 11
+pop_latin_america = 5
+pop_europe = 14
+pop_asia = 7
+pop_africa = 9
+pop_oceania = 36

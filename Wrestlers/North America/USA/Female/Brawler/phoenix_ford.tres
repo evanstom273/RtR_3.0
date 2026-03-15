@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dlg43fqbu6n5g"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_0jx8q"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_pk2xc"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_wjvp5"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_6k51f"]
+
+[resource]
+script = ExtResource("4_6k51f")
+CharacterName = "Phoenix Ford"
+ClassType = 3
+Gender = 1
+Division = 2
+Age = 27
+Height = "5'5\""
+Weight = 140
+strength = 33
+speed = 18
+stamina = 28
+skill = 19
+striking = 38
+charisma = 26
+pop_north_america = 41
+pop_latin_america = 6
+pop_europe = 6
+pop_asia = 15
+pop_africa = 8
+pop_oceania = 9

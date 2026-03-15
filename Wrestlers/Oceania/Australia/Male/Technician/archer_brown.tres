@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://blb4cb64sweuy"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_auoyn"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_u63jl"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_cskkt"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_bytfu"]
+
+[resource]
+script = ExtResource("4_bytfu")
+CharacterName = "Archer Brown"
+ClassType = 2
+Age = 61
+Weight = 175
+birthplace = 5
+country_oceania = 1
+strength = 22
+speed = 17
+stamina = 27
+skill = 40
+striking = 11
+charisma = 24
+pop_north_america = 8
+pop_latin_america = 11
+pop_europe = 13
+pop_asia = 10
+pop_africa = 5
+pop_oceania = 37

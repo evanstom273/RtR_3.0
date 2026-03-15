@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bldju1jtdy4f"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_t5d6t"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_2q7i2"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_3178n"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_3xjhj"]
+
+[resource]
+script = ExtResource("4_3xjhj")
+CharacterName = "Fernando Costa"
+ClassType = 3
+Age = 49
+Height = "5'10\""
+Weight = 191
+birthplace = 1
+strength = 29
+speed = 15
+stamina = 29
+skill = 11
+striking = 44
+charisma = 16
+pop_north_america = 8
+pop_latin_america = 35
+pop_europe = 6
+pop_asia = 15
+pop_africa = 7
+pop_oceania = 5

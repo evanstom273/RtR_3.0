@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://7lkvjh7xnbl6"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ind17"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_x3i18"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_5ml7m"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_74k3w"]
+
+[resource]
+script = ExtResource("4_74k3w")
+CharacterName = "Willow Ford"
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 42
+Height = "5'6\""
+Weight = 167
+strength = 39
+speed = 11
+stamina = 25
+skill = 23
+striking = 23
+charisma = 20
+pop_north_america = 50
+pop_latin_america = 15
+pop_europe = 14
+pop_asia = 12
+pop_africa = 5
+pop_oceania = 11

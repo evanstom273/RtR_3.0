@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ro8tqudb11ug"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_l3lfn"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_anc1t"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_q4gq1"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_vp1ph"]
+
+[resource]
+script = ExtResource("4_vp1ph")
+CharacterName = "Javier Morales"
+ClassType = 1
+Age = 40
+Height = "5'7\""
+Weight = 145
+birthplace = 1
+country_latin_america = 1
+strength = 16
+speed = 42
+stamina = 38
+skill = 23
+striking = 23
+charisma = 31
+pop_north_america = 11
+pop_latin_america = 34
+pop_europe = 5
+pop_asia = 5
+pop_africa = 13
+pop_oceania = 7

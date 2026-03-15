@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bdxto6c8euvme"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_il52k"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_c6xyg"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ereht"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_c7kiy"]
+
+[resource]
+script = ExtResource("4_c7kiy")
+CharacterName = "Wichai Duong"
+ClassType = 1
+Age = 35
+Height = "5'11\""
+Weight = 147
+birthplace = 3
+country_asia = 4
+strength = 13
+speed = 45
+stamina = 36
+skill = 30
+striking = 22
+charisma = 23
+pop_north_america = 7
+pop_latin_america = 12
+pop_europe = 14
+pop_asia = 33
+pop_africa = 6
+pop_oceania = 6

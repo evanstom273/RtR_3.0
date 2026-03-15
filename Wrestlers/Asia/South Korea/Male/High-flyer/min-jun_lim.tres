@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b6h7xstteok8y"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ag5g1"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ip8eq"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_21bw1"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_pu852"]
+
+[resource]
+script = ExtResource("4_pu852")
+CharacterName = "Min-jun Lim"
+ClassType = 1
+Age = 31
+Height = "5'9\""
+Weight = 145
+birthplace = 3
+country_asia = 3
+strength = 14
+speed = 39
+stamina = 39
+skill = 21
+striking = 15
+charisma = 21
+pop_north_america = 11
+pop_latin_america = 7
+pop_europe = 9
+pop_asia = 29
+pop_africa = 14
+pop_oceania = 14

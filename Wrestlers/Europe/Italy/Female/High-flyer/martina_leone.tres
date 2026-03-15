@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cf3fbvjks0bet"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_1skoj"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_i3wjo"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_q5y73"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_u8rk2"]
+
+[resource]
+script = ExtResource("4_u8rk2")
+CharacterName = "Martina Leone"
+ClassType = 1
+Gender = 1
+Division = 2
+Age = 59
+Height = "5'5\""
+Weight = 105
+birthplace = 2
+country_europe = 5
+strength = 19
+speed = 42
+stamina = 31
+skill = 25
+striking = 22
+charisma = 29
+pop_north_america = 5
+pop_latin_america = 5
+pop_europe = 44
+pop_asia = 8
+pop_africa = 12
+pop_oceania = 9

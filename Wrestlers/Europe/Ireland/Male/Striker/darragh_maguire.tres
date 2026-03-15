@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://hd7sah60qw14"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_h4ex8"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_1ngds"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_3jnwu"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_qeagp"]
+
+[resource]
+script = ExtResource("4_qeagp")
+CharacterName = "Darragh Maguire"
+ClassType = 4
+Disposition = 1
+Age = 54
+Height = "5'10\""
+Weight = 162
+birthplace = 2
+country_europe = 4
+strength = 11
+speed = 34
+stamina = 26
+skill = 14
+striking = 49
+charisma = 20
+pop_north_america = 10
+pop_latin_america = 7
+pop_europe = 40
+pop_asia = 7
+pop_africa = 13
+pop_oceania = 12

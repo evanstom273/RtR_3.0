@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c38xclx6ctkis"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_4rrxg"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_88ba3"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_l3vvw"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ng84r"]
+
+[resource]
+script = ExtResource("4_ng84r")
+CharacterName = "Sloane Vaughn"
+Gender = 1
+Division = 2
+Age = 22
+Height = "5'8\""
+Weight = 182
+strength = 36
+speed = 17
+stamina = 33
+skill = 15
+striking = 21
+charisma = 18
+pop_north_america = 39
+pop_latin_america = 11
+pop_europe = 8
+pop_asia = 9
+pop_africa = 9
+pop_oceania = 11

@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bugh3tjeje37n"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_qrvw7"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_gxu7l"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_hkcou"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_d6mt8"]
+
+[resource]
+script = ExtResource("4_d6mt8")
+CharacterName = "Serwa Sesay"
+ClassType = 1
+Gender = 1
+Division = 2
+Age = 37
+Height = "5'3\""
+Weight = 105
+birthplace = 4
+country_africa = 2
+strength = 20
+speed = 44
+stamina = 37
+skill = 26
+striking = 21
+charisma = 35
+pop_north_america = 7
+pop_latin_america = 6
+pop_europe = 6
+pop_asia = 11
+pop_africa = 28
+pop_oceania = 15

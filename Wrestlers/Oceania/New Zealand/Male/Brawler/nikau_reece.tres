@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://8jns6wn0c5py"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_arpcl"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_jjii8"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_8xovm"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_3iuup"]
+
+[resource]
+script = ExtResource("4_3iuup")
+CharacterName = "Nikau Reece"
+ClassType = 3
+Disposition = 1
+Age = 36
+Height = "6'4\""
+Weight = 246
+birthplace = 5
+strength = 35
+speed = 17
+stamina = 25
+skill = 20
+striking = 48
+charisma = 24
+pop_north_america = 7
+pop_latin_america = 13
+pop_europe = 6
+pop_asia = 5
+pop_africa = 6
+pop_oceania = 38

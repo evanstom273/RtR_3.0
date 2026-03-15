@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dg4k5v8wgptx6"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_08dfo"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_kumlj"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_u4ncp"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_lc8fc"]
+
+[resource]
+script = ExtResource("4_lc8fc")
+CharacterName = "Ryker Hart"
+ClassType = 3
+Disposition = 1
+Age = 65
+Height = "5'11\""
+Weight = 207
+strength = 29
+speed = 13
+stamina = 22
+skill = 14
+striking = 44
+charisma = 24
+pop_north_america = 35
+pop_latin_america = 10
+pop_europe = 8
+pop_asia = 6
+pop_africa = 6
+pop_oceania = 13

@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dnxcmujiylk2x"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_8j2tp"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ragaf"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_qi68h"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ualvp"]
+
+[resource]
+script = ExtResource("4_ualvp")
+CharacterName = "Ana Campos"
+ClassType = 4
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 55
+Height = "5'0\""
+Weight = 105
+birthplace = 1
+strength = 15
+speed = 32
+stamina = 27
+skill = 12
+striking = 38
+charisma = 15
+pop_north_america = 8
+pop_latin_america = 51
+pop_europe = 7
+pop_asia = 13
+pop_africa = 9
+pop_oceania = 5

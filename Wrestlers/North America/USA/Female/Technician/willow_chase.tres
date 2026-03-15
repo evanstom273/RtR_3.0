@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c6adxrf7qjopk"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_fs8xf"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_c0w6a"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_uckom"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_1yy4q"]
+
+[resource]
+script = ExtResource("4_1yy4q")
+CharacterName = "Willow Chase"
+ClassType = 2
+Gender = 1
+Division = 2
+Age = 48
+Height = "5'5\""
+Weight = 113
+strength = 20
+speed = 17
+stamina = 34
+skill = 41
+charisma = 20
+pop_north_america = 38
+pop_latin_america = 9
+pop_europe = 13
+pop_asia = 14
+pop_africa = 5
+pop_oceania = 12

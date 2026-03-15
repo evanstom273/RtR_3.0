@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c308fvbxl8b0o"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_aot6o"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ef614"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_jj1ju"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_suk72"]
+
+[resource]
+script = ExtResource("4_suk72")
+CharacterName = "Lekan Adeyemi"
+ClassType = 4
+Disposition = 1
+Age = 30
+Height = "6'3\""
+Weight = 199
+birthplace = 4
+speed = 34
+stamina = 20
+striking = 47
+charisma = 22
+pop_north_america = 10
+pop_latin_america = 10
+pop_europe = 9
+pop_asia = 12
+pop_africa = 31
+pop_oceania = 13

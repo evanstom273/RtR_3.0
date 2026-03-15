@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bmkcmccr3svp7"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_simgx"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_hgaey"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_r2dp7"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_xar00"]
+
+[resource]
+script = ExtResource("4_xar00")
+CharacterName = "Freddie Walker"
+ClassType = 1
+Age = 44
+Height = "5'9\""
+Weight = 145
+birthplace = 2
+strength = 20
+speed = 35
+stamina = 39
+skill = 24
+striking = 25
+charisma = 24
+pop_north_america = 6
+pop_latin_america = 13
+pop_europe = 44
+pop_asia = 8
+pop_africa = 10
+pop_oceania = 10

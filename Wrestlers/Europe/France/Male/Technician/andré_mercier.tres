@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://co64ju7f82le0"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_yybq8"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_0tu86"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_1kwvm"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ritpv"]
+
+[resource]
+script = ExtResource("4_ritpv")
+CharacterName = "André Mercier"
+ClassType = 2
+Disposition = 1
+Age = 35
+Height = "5'10\""
+Weight = 178
+birthplace = 2
+country_europe = 2
+strength = 23
+speed = 24
+stamina = 32
+skill = 36
+striking = 15
+charisma = 24
+pop_north_america = 9
+pop_latin_america = 7
+pop_europe = 41
+pop_asia = 14
+pop_africa = 15
+pop_oceania = 9

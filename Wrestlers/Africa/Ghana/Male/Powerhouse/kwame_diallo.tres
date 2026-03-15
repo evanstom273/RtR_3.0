@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ctvk0mxwubs46"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_gb6ut"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_3owp2"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_kirsj"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_yqxyl"]
+
+[resource]
+script = ExtResource("4_yqxyl")
+CharacterName = "Kwame Diallo"
+Age = 36
+Height = "5'9\""
+Weight = 215
+birthplace = 4
+country_africa = 2
+strength = 47
+speed = 14
+stamina = 25
+skill = 21
+striking = 17
+charisma = 24
+pop_north_america = 12
+pop_latin_america = 8
+pop_europe = 14
+pop_asia = 13
+pop_africa = 44
+pop_oceania = 13

@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ctp42sihoo6a8"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_vfox2"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_q2qr2"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_wxulg"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ao2h1"]
+
+[resource]
+script = ExtResource("4_ao2h1")
+CharacterName = "Adjei Mensah"
+Division = 1
+Age = 64
+Weight = 247
+birthplace = 4
+country_africa = 2
+strength = 48
+speed = 15
+stamina = 30
+skill = 25
+striking = 22
+charisma = 22
+pop_north_america = 6
+pop_latin_america = 7
+pop_europe = 5
+pop_asia = 7
+pop_africa = 51
+pop_oceania = 12

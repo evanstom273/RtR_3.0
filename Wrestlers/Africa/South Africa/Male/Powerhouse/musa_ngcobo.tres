@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://br4qgm5tkoj7c"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_suywv"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ejesl"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_dy24y"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_6l5pm"]
+
+[resource]
+script = ExtResource("4_6l5pm")
+CharacterName = "Musa Ngcobo"
+Division = 1
+Disposition = 1
+Age = 33
+Height = "5'10\""
+Weight = 237
+birthplace = 4
+country_africa = 1
+strength = 45
+speed = 20
+stamina = 33
+skill = 22
+striking = 19
+charisma = 26
+pop_north_america = 10
+pop_latin_america = 9
+pop_europe = 15
+pop_asia = 12
+pop_africa = 31
+pop_oceania = 11

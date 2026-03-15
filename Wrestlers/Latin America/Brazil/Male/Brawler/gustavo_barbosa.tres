@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bot5naxlsaems"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_rjwa3"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_xk8s3"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_b84aa"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_51gal"]
+
+[resource]
+script = ExtResource("4_51gal")
+CharacterName = "Gustavo Barbosa"
+ClassType = 3
+Age = 52
+Height = "5'7\""
+Weight = 167
+birthplace = 1
+strength = 34
+speed = 12
+stamina = 30
+skill = 12
+striking = 43
+charisma = 18
+pop_north_america = 11
+pop_latin_america = 47
+pop_europe = 7
+pop_asia = 13
+pop_africa = 6
+pop_oceania = 11

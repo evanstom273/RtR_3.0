@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://tcliv3ffg7ip"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_6rme0"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_jp55v"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_3k486"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ckimw"]
+
+[resource]
+script = ExtResource("4_ckimw")
+CharacterName = "Sasithorn Dang"
+ClassType = 4
+Gender = 1
+Division = 2
+Age = 58
+Height = "5'4\""
+Weight = 105
+birthplace = 3
+country_asia = 4
+strength = 14
+speed = 29
+stamina = 29
+skill = 14
+striking = 42
+charisma = 15
+pop_north_america = 10
+pop_latin_america = 15
+pop_europe = 11
+pop_asia = 33
+pop_africa = 8
+pop_oceania = 8

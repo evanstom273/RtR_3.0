@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://coeg12rmcxavs"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_mvl08"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_rjicx"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_g0vxc"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_lijlr"]
+
+[resource]
+script = ExtResource("4_lijlr")
+CharacterName = "Hijo Canek"
+ClassType = 1
+Disposition = 1
+Age = 41
+Height = "5'10\""
+Weight = 145
+country_north_america = 2
+strength = 20
+speed = 47
+stamina = 38
+skill = 30
+striking = 20
+charisma = 27
+pop_north_america = 48
+pop_latin_america = 13
+pop_europe = 14
+pop_asia = 13
+pop_africa = 11
+pop_oceania = 7

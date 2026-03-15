@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b7nctfchvp5k2"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_7bkd7"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_wgq3o"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_idq6c"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_oj18m"]
+
+[resource]
+script = ExtResource("4_oj18m")
+CharacterName = "Hope Ndlovu"
+ClassType = 1
+Gender = 1
+Division = 2
+Age = 40
+Height = "5'3\""
+Weight = 105
+birthplace = 4
+country_africa = 1
+strength = 13
+speed = 38
+stamina = 36
+skill = 30
+striking = 20
+charisma = 34
+pop_north_america = 9
+pop_latin_america = 5
+pop_europe = 6
+pop_asia = 10
+pop_africa = 55
+pop_oceania = 7

@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dypuudkr6l3qg"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_72yfg"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_na58a"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_57mci"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ei8kh"]
+
+[resource]
+script = ExtResource("4_ei8kh")
+CharacterName = "Kwame Kamara"
+ClassType = 2
+Division = 1
+Age = 39
+Height = "5'8\""
+Weight = 162
+birthplace = 4
+country_africa = 2
+strength = 22
+speed = 18
+stamina = 35
+skill = 38
+striking = 13
+charisma = 21
+pop_north_america = 5
+pop_latin_america = 9
+pop_europe = 6
+pop_asia = 5
+pop_africa = 29
+pop_oceania = 10

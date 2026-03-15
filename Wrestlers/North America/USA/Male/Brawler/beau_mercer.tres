@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dgdpy2tcq7r1q"]
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c25ve6y6e8wgw"]
 
 [ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_4m487"]
 [ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_24fa0"]
@@ -9,18 +9,19 @@
 script = ExtResource("4_8bp4b")
 CharacterName = "Beau Mercer"
 ClassType = 3
+Division = 1
+Disposition = 1
 Age = 59
-Height = "6'9\""
-Weight = 171
-strength = 33
-speed = 11
-stamina = 25
-skill = 17
-striking = 37
-charisma = 30
-pop_north_america = 46
-pop_latin_america = 8
-pop_europe = 5
-pop_asia = 5
-pop_africa = 15
-pop_oceania = 14
+Height = "6'5\""
+Weight = 255
+strength = 34
+speed = 16
+stamina = 20
+striking = 43
+charisma = 25
+pop_north_america = 35
+pop_latin_america = 9
+pop_europe = 15
+pop_asia = 7
+pop_africa = 6
+pop_oceania = 11

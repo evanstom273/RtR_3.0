@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dcfdp1ce3bdn6"]
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://eehoyp4boe2p"]
 
 [ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_3w85q"]
 [ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_iv7ck"]
@@ -9,18 +9,18 @@
 script = ExtResource("4_x8rx5")
 CharacterName = "Nash Rollins"
 ClassType = 3
-Age = 43
-Height = "6'1\""
-Weight = 204
-strength = 26
-speed = 13
-stamina = 23
-skill = 19
-striking = 39
-charisma = 18
-pop_north_america = 48
-pop_latin_america = 15
-pop_europe = 15
-pop_asia = 10
-pop_africa = 7
-pop_oceania = 11
+Disposition = 1
+Age = 52
+Height = "6'2\""
+Weight = 238
+strength = 25
+speed = 17
+stamina = 20
+striking = 37
+charisma = 25
+pop_north_america = 46
+pop_latin_america = 6
+pop_europe = 5
+pop_asia = 7
+pop_africa = 15
+pop_oceania = 5

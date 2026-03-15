@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://46konq77ta1x"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_aw34j"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_c3rqy"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_jvpgd"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_iv36f"]
+
+[resource]
+script = ExtResource("4_iv36f")
+CharacterName = "Tasi Tuivasa"
+Age = 40
+Weight = 253
+birthplace = 5
+country_oceania = 2
+strength = 40
+speed = 13
+stamina = 29
+skill = 22
+striking = 15
+charisma = 20
+pop_north_america = 9
+pop_latin_america = 12
+pop_europe = 9
+pop_asia = 5
+pop_africa = 10
+pop_oceania = 47

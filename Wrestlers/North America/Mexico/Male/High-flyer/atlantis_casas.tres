@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dpgijd5h0w55j"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_3wm6o"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_7384n"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_vemgt"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_878px"]
+
+[resource]
+script = ExtResource("4_878px")
+CharacterName = "Atlantis Casas"
+ClassType = 1
+Disposition = 1
+Age = 42
+Height = "6'2\""
+Weight = 163
+country_north_america = 2
+strength = 15
+speed = 39
+stamina = 30
+skill = 24
+striking = 23
+charisma = 32
+pop_north_america = 36
+pop_latin_america = 10
+pop_europe = 6
+pop_asia = 7
+pop_africa = 7
+pop_oceania = 15

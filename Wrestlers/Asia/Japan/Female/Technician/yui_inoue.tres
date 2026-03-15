@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://clgyxyvhdu2lr"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_m0fbe"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_y4a13"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ymgq3"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_d4fvo"]
+
+[resource]
+script = ExtResource("4_d4fvo")
+CharacterName = "Yui Inoue"
+ClassType = 2
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 45
+Height = "5'3\""
+Weight = 109
+birthplace = 3
+strength = 18
+speed = 24
+stamina = 34
+skill = 44
+striking = 19
+charisma = 17
+pop_north_america = 5
+pop_latin_america = 14
+pop_europe = 11
+pop_asia = 42
+pop_africa = 12
+pop_oceania = 7

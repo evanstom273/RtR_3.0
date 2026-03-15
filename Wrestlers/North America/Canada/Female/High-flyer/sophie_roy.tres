@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ddwa00wq64jdj"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_npceg"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_kvgd1"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_vye41"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_rinv2"]
+
+[resource]
+script = ExtResource("4_rinv2")
+CharacterName = "Sophie Roy"
+ClassType = 1
+Gender = 1
+Division = 2
+Age = 52
+Height = "5'4\""
+Weight = 105
+country_north_america = 1
+strength = 12
+speed = 40
+stamina = 44
+skill = 26
+striking = 25
+charisma = 31
+pop_north_america = 50
+pop_latin_america = 13
+pop_europe = 11
+pop_asia = 9
+pop_africa = 11
+pop_oceania = 14

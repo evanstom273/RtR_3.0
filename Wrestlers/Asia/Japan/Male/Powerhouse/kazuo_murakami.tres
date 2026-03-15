@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://oak2lcp1wwnh"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_51irb"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_b20r1"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_4e1gk"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_56v2x"]
+
+[resource]
+script = ExtResource("4_56v2x")
+CharacterName = "Kazuo Murakami"
+Disposition = 1
+Age = 24
+Height = "6'2\""
+Weight = 252
+birthplace = 3
+strength = 47
+speed = 15
+stamina = 33
+skill = 24
+striking = 24
+charisma = 26
+pop_north_america = 7
+pop_latin_america = 6
+pop_europe = 15
+pop_asia = 41
+pop_africa = 9
+pop_oceania = 8

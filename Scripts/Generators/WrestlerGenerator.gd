@@ -187,6 +187,113 @@ var wrestler_counts = {
     "New Zealand": 30, "Australia": 40, "Samoa": 30
 }
 
+var country_body_profiles = {
+    "USA": {
+        "male": {"base_height": 74, "height_variance": 3},
+        "female": {"base_height": 67, "height_variance": 3}
+    },
+    "Canada": {
+        "male": {"base_height": 74, "height_variance": 3},
+        "female": {"base_height": 67, "height_variance": 3}
+    },
+    "Mexico": {
+        "male": {"base_height": 72, "height_variance": 3},
+        "female": {"base_height": 65, "height_variance": 3}
+    },
+    "Brazil": {
+        "male": {"base_height": 70, "height_variance": 3},
+        "female": {"base_height": 63, "height_variance": 3}
+    },
+    "Argentina": {
+        "male": {"base_height": 70, "height_variance": 3},
+        "female": {"base_height": 63, "height_variance": 3}
+    },
+    "England": {
+        "male": {"base_height": 72, "height_variance": 3},
+        "female": {"base_height": 65, "height_variance": 3}
+    },
+    "Wales": {
+        "male": {"base_height": 72, "height_variance": 3},
+        "female": {"base_height": 65, "height_variance": 3}
+    },
+    "Scotland": {
+        "male": {"base_height": 72, "height_variance": 3},
+        "female": {"base_height": 65, "height_variance": 3}
+    },
+    "Ireland": {
+        "male": {"base_height": 72, "height_variance": 3},
+        "female": {"base_height": 65, "height_variance": 3}
+    },
+    "France": {
+        "male": {"base_height": 72, "height_variance": 3},
+        "female": {"base_height": 65, "height_variance": 3}
+    },
+    "Germany": {
+        "male": {"base_height": 74, "height_variance": 3},
+        "female": {"base_height": 67, "height_variance": 3}
+    },
+    "Italy": {
+        "male": {"base_height": 72, "height_variance": 3},
+        "female": {"base_height": 65, "height_variance": 3}
+    },
+    "Spain": {
+        "male": {"base_height": 72, "height_variance": 3},
+        "female": {"base_height": 65, "height_variance": 3}
+    },
+    "Japan": {
+        "male": {"base_height": 70, "height_variance": 3},
+        "female": {"base_height": 63, "height_variance": 3}
+    },
+    "India": {
+        "male": {"base_height": 70, "height_variance": 3},
+        "female": {"base_height": 63, "height_variance": 3}
+    },
+    "China": {
+        "male": {"base_height": 70, "height_variance": 3},
+        "female": {"base_height": 63, "height_variance": 3}
+    },
+    "South Korea": {
+        "male": {"base_height": 70, "height_variance": 3},
+        "female": {"base_height": 63, "height_variance": 3}
+    },
+    "Thailand": {
+        "male": {"base_height": 70, "height_variance": 3},
+        "female": {"base_height": 63, "height_variance": 3}
+    },
+    "Nigeria": {
+        "male": {"base_height": 72, "height_variance": 3},
+        "female": {"base_height": 65, "height_variance": 3}
+    },
+    "South Africa": {
+        "male": {"base_height": 72, "height_variance": 3},
+        "female": {"base_height": 65, "height_variance": 3}
+    },
+    "Ghana": {
+        "male": {"base_height": 70, "height_variance": 3},
+        "female": {"base_height": 63, "height_variance": 3}
+    },
+    "New Zealand": {
+        "male": {"base_height": 74, "height_variance": 3},
+        "female": {"base_height": 67, "height_variance": 3}
+    },
+    "Australia": {
+        "male": {"base_height": 74, "height_variance": 3},
+        "female": {"base_height": 67, "height_variance": 3}
+    },
+    "Samoa": {
+        "male": {"base_height": 74, "height_variance": 3},
+        "female": {"base_height": 67, "height_variance": 3}
+    }
+}
+
+var class_body_modifiers = {
+    WrestlerResource.CharacterClass.POWERHOUSE: {"height": 1, "weight_multiplier": 1.18, "weight_flat": 25},
+    WrestlerResource.CharacterClass.BRAWLER: {"height": 0, "weight_multiplier": 1.10, "weight_flat": 12},
+    WrestlerResource.CharacterClass.TECHNICIAN: {"height": 0, "weight_multiplier": 1.00, "weight_flat": 0},
+    WrestlerResource.CharacterClass.STRIKER: {"height": 0, "weight_multiplier": 0.97, "weight_flat": -4},
+    WrestlerResource.CharacterClass.HIGH_FLYER: {"height": -1, "weight_multiplier": 0.90, "weight_flat": -12}
+}
+
 func _run():
     print("=== STARTING WRESTLER GENERATION ===")
     var total_generated = 0
@@ -276,15 +383,8 @@ func _create_wrestler(region_name: String, country_name: String, gender: int, fi
     # 5. Age (22-65)
     wrestler.Age = randi_range(22, 65)
     
-    # 6. Height & Weight (gender-based)
-    if gender == WrestlerResource.CharacterGender.MALE:
-        var height_inches = randi_range(66, 84)  # 5'6" to 7'0"
-        wrestler.Height = _inches_to_height_string(height_inches)
-        wrestler.Weight = randi_range(170, 320)
-    else:
-        var height_inches = randi_range(60, 72)  # 5'0" to 6'0"
-        wrestler.Height = _inches_to_height_string(height_inches)
-        wrestler.Weight = randi_range(110, 200)
+    # 6. Height & Weight (country + class aware)
+    _apply_physical_attributes(wrestler, country_name)
     
     # 7. Disposition (50/50)
     wrestler.Disposition = WrestlerResource.CharacterDisposition.FACE if randf() < 0.5 else WrestlerResource.CharacterDisposition.HEEL
@@ -310,6 +410,43 @@ func _get_regional_class(country_name: String) -> int:
     else:
         # Random class
         return randi() % 5  # 0-4 = POWERHOUSE, HIGH_FLYER, TECHNICIAN, BRAWLER, STRIKER
+
+func _apply_physical_attributes(wrestler: WrestlerResource, country_name: String):
+    var gender_key = "male" if wrestler.Gender == WrestlerResource.CharacterGender.MALE else "female"
+    var country_profile = country_body_profiles.get(country_name, {})
+    var gender_profile = country_profile.get(gender_key, {})
+    var class_modifier = class_body_modifiers.get(wrestler.ClassType, class_body_modifiers[WrestlerResource.CharacterClass.TECHNICIAN])
+
+    var base_height = int(gender_profile.get("base_height", 72 if gender_key == "male" else 65))
+    var height_variance = int(gender_profile.get("height_variance", 3))
+    var height_offset = int(class_modifier.get("height", 0))
+
+    var height_inches = base_height + randi_range(-height_variance, height_variance) + height_offset
+    if wrestler.Gender == WrestlerResource.CharacterGender.MALE:
+        height_inches = clampi(height_inches, 66, 80)
+    else:
+        height_inches = clampi(height_inches, 60, 74)
+
+    wrestler.Height = _inches_to_height_string(height_inches)
+    wrestler.Weight = _calculate_weight_for_height(wrestler, height_inches, class_modifier)
+
+func _calculate_weight_for_height(wrestler: WrestlerResource, height_inches: int, class_modifier: Dictionary) -> int:
+    var weight_base: int
+    var variance: int
+
+    if wrestler.Gender == WrestlerResource.CharacterGender.MALE:
+        weight_base = 100 + ((height_inches - 60) * 7)
+        variance = randi_range(-12, 12)
+    else:
+        weight_base = 95 + ((height_inches - 60) * 5)
+        variance = randi_range(-10, 10)
+
+    var weight = int(round(weight_base * float(class_modifier.get("weight_multiplier", 1.0)) + int(class_modifier.get("weight_flat", 0)))) + variance
+
+    if wrestler.Gender == WrestlerResource.CharacterGender.MALE:
+        return clampi(weight, 145, 360)
+
+    return clampi(weight, 105, 260)
 
 func _set_wrestler_region(wrestler: WrestlerResource, region_name: String, country_name: String):
     """Set birthplace and country enums"""
@@ -346,6 +483,7 @@ func _set_wrestler_region(wrestler: WrestlerResource, region_name: String, count
                 "India": wrestler.country_asia = WrestlerResource.CountryAsia.INDIA
                 "China": wrestler.country_asia = WrestlerResource.CountryAsia.CHINA
                 "South Korea": wrestler.country_asia = WrestlerResource.CountryAsia.SOUTH_KOREA
+                "Thailand": wrestler.country_asia = WrestlerResource.CountryAsia.THAILAND
         
         "Africa":
             wrestler.birthplace = WrestlerResource.Region.AFRICA

@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://def4rn5lstthq"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_usgly"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_wbtxd"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_wfwst"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_kpbmj"]
+
+[resource]
+script = ExtResource("4_kpbmj")
+CharacterName = "Scarlett Sterling"
+ClassType = 3
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 59
+Height = "5'6\""
+Weight = 158
+strength = 31
+speed = 19
+stamina = 22
+skill = 15
+striking = 49
+charisma = 27
+pop_north_america = 38
+pop_latin_america = 11
+pop_europe = 14
+pop_asia = 14
+pop_africa = 14
+pop_oceania = 9

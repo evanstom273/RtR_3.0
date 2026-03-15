@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://faypvned5wwx"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_tja6j"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_x424r"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_8sxg4"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_yql7t"]
+
+[resource]
+script = ExtResource("4_yql7t")
+CharacterName = "Estrella Perros"
+ClassType = 2
+Gender = 1
+Division = 2
+Age = 57
+Height = "5'4\""
+Weight = 105
+country_north_america = 2
+strength = 16
+speed = 25
+stamina = 34
+skill = 43
+striking = 15
+charisma = 17
+pop_north_america = 40
+pop_latin_america = 10
+pop_europe = 7
+pop_asia = 5
+pop_africa = 10
+pop_oceania = 5

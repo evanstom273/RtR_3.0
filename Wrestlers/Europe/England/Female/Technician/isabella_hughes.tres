@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b86mgasi1ik3q"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_8nsvs"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_pqnru"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ammjc"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_s854o"]
+
+[resource]
+script = ExtResource("4_s854o")
+CharacterName = "Isabella Hughes"
+ClassType = 2
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 41
+Height = "5'3\""
+Weight = 106
+birthplace = 2
+strength = 15
+speed = 24
+stamina = 32
+skill = 46
+striking = 17
+charisma = 15
+pop_north_america = 7
+pop_latin_america = 10
+pop_europe = 42
+pop_asia = 12
+pop_africa = 8
+pop_oceania = 15

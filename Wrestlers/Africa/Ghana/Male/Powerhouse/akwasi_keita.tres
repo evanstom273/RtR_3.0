@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://1yaw0a3veypa"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_wovl6"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_8uilb"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_tknw8"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_q032n"]
+
+[resource]
+script = ExtResource("4_q032n")
+CharacterName = "Akwasi Keita"
+Disposition = 1
+Age = 30
+Height = "5'9\""
+Weight = 219
+birthplace = 4
+country_africa = 2
+strength = 47
+speed = 11
+stamina = 32
+skill = 24
+striking = 25
+charisma = 17
+pop_north_america = 11
+pop_latin_america = 15
+pop_europe = 6
+pop_asia = 12
+pop_africa = 51
+pop_oceania = 11

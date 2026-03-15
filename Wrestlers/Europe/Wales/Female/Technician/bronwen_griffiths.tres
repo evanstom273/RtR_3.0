@@ -1,0 +1,31 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ctaiaa237byj6"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_hjski"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_qyn7q"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_0hb0d"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_yint5"]
+
+[resource]
+script = ExtResource("4_yint5")
+CharacterName = "Bronwen Griffiths"
+ClassType = 2
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 61
+Height = "5'6\""
+Weight = 120
+birthplace = 2
+country_europe = 7
+strength = 21
+speed = 19
+stamina = 33
+skill = 40
+striking = 14
+charisma = 20
+pop_north_america = 9
+pop_latin_america = 14
+pop_europe = 33
+pop_asia = 12
+pop_africa = 7
+pop_oceania = 6

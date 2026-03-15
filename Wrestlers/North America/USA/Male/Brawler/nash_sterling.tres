@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bft1p1crsamci"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_807vm"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_mikip"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_v4vgc"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_uhrep"]
+
+[resource]
+script = ExtResource("4_uhrep")
+CharacterName = "Nash Sterling"
+ClassType = 3
+Age = 33
+Height = "6'3\""
+Weight = 244
+strength = 26
+speed = 14
+stamina = 23
+skill = 12
+striking = 44
+charisma = 15
+pop_north_america = 42
+pop_latin_america = 15
+pop_europe = 14
+pop_asia = 15
+pop_africa = 11
+pop_oceania = 11

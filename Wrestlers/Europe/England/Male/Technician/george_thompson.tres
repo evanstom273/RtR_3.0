@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c3jy6aubbrqri"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_3ugbs"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_4wrig"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_u5ixr"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_u1u8o"]
+
+[resource]
+script = ExtResource("4_u1u8o")
+CharacterName = "George Thompson"
+ClassType = 2
+Age = 59
+Weight = 180
+birthplace = 2
+strength = 24
+speed = 21
+stamina = 30
+skill = 35
+striking = 15
+charisma = 29
+pop_north_america = 15
+pop_latin_america = 5
+pop_europe = 36
+pop_asia = 5
+pop_africa = 10
+pop_oceania = 13

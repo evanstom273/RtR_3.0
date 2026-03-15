@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dei7s0ws0ke7y"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_066aq"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_qu4ra"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_p1jyv"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_262cy"]
+
+[resource]
+script = ExtResource("4_262cy")
+CharacterName = "Hijo Phoenix"
+ClassType = 1
+Division = 1
+Disposition = 1
+Age = 37
+Height = "6'2\""
+Weight = 176
+country_north_america = 2
+strength = 12
+speed = 41
+stamina = 44
+skill = 24
+striking = 17
+charisma = 33
+pop_north_america = 48
+pop_latin_america = 13
+pop_europe = 7
+pop_asia = 13
+pop_africa = 14
+pop_oceania = 5

@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c82b4cyblaloo"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_0syge"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_fdh1n"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_xq0n8"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_tu2bn"]
+
+[resource]
+script = ExtResource("4_tu2bn")
+CharacterName = "Keanu Taukei'aho"
+ClassType = 3
+Age = 30
+Height = "6'3\""
+Weight = 228
+birthplace = 5
+country_oceania = 2
+strength = 31
+speed = 11
+stamina = 21
+skill = 12
+striking = 35
+charisma = 19
+pop_north_america = 9
+pop_latin_america = 15
+pop_europe = 11
+pop_asia = 6
+pop_africa = 7
+pop_oceania = 49

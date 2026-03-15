@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bj6yp6ftto8yk"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_arv5t"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_tdk1d"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_5tljp"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_kpd1q"]
+
+[resource]
+script = ExtResource("4_kpd1q")
+CharacterName = "Carlos Torres"
+ClassType = 1
+Division = 1
+Disposition = 1
+Age = 57
+Height = "5'9\""
+Weight = 145
+birthplace = 1
+country_latin_america = 1
+strength = 13
+speed = 36
+stamina = 42
+skill = 25
+striking = 25
+charisma = 31
+pop_north_america = 13
+pop_latin_america = 31
+pop_europe = 6
+pop_asia = 6
+pop_africa = 11
+pop_oceania = 9

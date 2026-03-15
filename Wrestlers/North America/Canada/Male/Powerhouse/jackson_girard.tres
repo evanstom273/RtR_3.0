@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dj3h4bkedp0ne"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_34btu"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_2ht1w"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_cyugm"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_nln3s"]
+
+[resource]
+script = ExtResource("4_nln3s")
+CharacterName = "Jackson Girard"
+Division = 1
+Age = 36
+Height = "6'3\""
+Weight = 262
+country_north_america = 1
+strength = 47
+speed = 12
+stamina = 33
+skill = 19
+striking = 21
+charisma = 20
+pop_north_america = 39
+pop_latin_america = 11
+pop_europe = 9
+pop_asia = 7
+pop_africa = 14
+pop_oceania = 13

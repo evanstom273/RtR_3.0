@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dfmyrrndvwhcu"]
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://pl7q0764c4oi"]
 
 [ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_eh5ow"]
 [ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_hbuom"]
@@ -9,18 +9,19 @@
 script = ExtResource("4_av5ko")
 CharacterName = "Brooks Blackwood"
 ClassType = 3
-Age = 54
-Height = "6'11\""
-Weight = 252
+Disposition = 1
+Age = 33
+Height = "6'5\""
+Weight = 243
 strength = 27
-speed = 17
-stamina = 23
-skill = 13
-striking = 40
-charisma = 27
-pop_north_america = 40
-pop_latin_america = 5
-pop_europe = 13
-pop_asia = 9
-pop_africa = 14
-pop_oceania = 6
+speed = 13
+stamina = 26
+skill = 14
+striking = 41
+charisma = 16
+pop_north_america = 45
+pop_latin_america = 8
+pop_europe = 15
+pop_asia = 14
+pop_africa = 6
+pop_oceania = 9

@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://x65cca5blfn"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_vombp"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_mjn28"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_nquhe"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_q4nlh"]
+
+[resource]
+script = ExtResource("4_q4nlh")
+CharacterName = "Joshua Walker"
+Division = 1
+Age = 29
+Height = "6'6\""
+Weight = 299
+birthplace = 5
+country_oceania = 1
+strength = 36
+speed = 20
+stamina = 26
+skill = 17
+striking = 24
+charisma = 17
+pop_north_america = 5
+pop_latin_america = 15
+pop_europe = 15
+pop_asia = 15
+pop_africa = 13
+pop_oceania = 47

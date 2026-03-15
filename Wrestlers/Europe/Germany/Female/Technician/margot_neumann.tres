@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cah2fr1d4ldsh"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_1iadn"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_biaum"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_uccor"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_122lq"]
+
+[resource]
+script = ExtResource("4_122lq")
+CharacterName = "Margot Neumann"
+ClassType = 2
+Gender = 1
+Division = 2
+Age = 29
+Height = "5'6\""
+Weight = 120
+birthplace = 2
+country_europe = 3
+strength = 18
+speed = 20
+stamina = 27
+skill = 35
+striking = 20
+charisma = 23
+pop_north_america = 6
+pop_latin_america = 12
+pop_europe = 34
+pop_asia = 9
+pop_africa = 8
+pop_oceania = 6

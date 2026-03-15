@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ds26mvabjn2a4"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_t1o3v"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_5654h"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_cn0en"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_jjngq"]
+
+[resource]
+script = ExtResource("4_jjngq")
+CharacterName = "Niall Fitzpatrick"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 44
+Height = "5'10\""
+Weight = 189
+birthplace = 2
+country_europe = 4
+strength = 34
+speed = 19
+stamina = 26
+skill = 11
+striking = 35
+charisma = 27
+pop_north_america = 10
+pop_latin_america = 15
+pop_europe = 39
+pop_asia = 9
+pop_africa = 8
+pop_oceania = 7

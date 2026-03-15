@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://1ehamm2qfhto"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_l3d6g"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_572o3"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_r1epp"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_uwgve"]
+
+[resource]
+script = ExtResource("4_uwgve")
+CharacterName = "Otto Becker"
+ClassType = 2
+Age = 57
+Height = "5'11\""
+Weight = 184
+birthplace = 2
+country_europe = 3
+strength = 23
+speed = 15
+stamina = 29
+skill = 47
+striking = 17
+charisma = 28
+pop_north_america = 13
+pop_latin_america = 11
+pop_europe = 32
+pop_asia = 5
+pop_africa = 15
+pop_oceania = 9

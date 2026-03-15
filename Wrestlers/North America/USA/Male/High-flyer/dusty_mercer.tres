@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b0g50k2s1xyj0"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_dlti6"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_e7q21"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_beotx"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_v0dpm"]
+
+[resource]
+script = ExtResource("4_v0dpm")
+CharacterName = "Dusty Mercer"
+ClassType = 1
+Division = 1
+Disposition = 1
+Age = 34
+Height = "6'2\""
+Weight = 165
+strength = 16
+speed = 45
+stamina = 30
+skill = 29
+striking = 24
+charisma = 21
+pop_north_america = 46
+pop_latin_america = 11
+pop_europe = 5
+pop_asia = 8
+pop_africa = 12
+pop_oceania = 7

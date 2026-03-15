@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ci5my1ctba1p2"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_sy2mr"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_pivqm"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_frr35"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_pd5rg"]
+
+[resource]
+script = ExtResource("4_pd5rg")
+CharacterName = "Ji-hu Yoon"
+ClassType = 3
+Division = 1
+Age = 35
+Height = "6'1\""
+Weight = 217
+birthplace = 3
+country_asia = 3
+strength = 27
+speed = 16
+stamina = 27
+striking = 46
+charisma = 21
+pop_north_america = 9
+pop_latin_america = 8
+pop_europe = 12
+pop_asia = 47
+pop_africa = 12
+pop_oceania = 14

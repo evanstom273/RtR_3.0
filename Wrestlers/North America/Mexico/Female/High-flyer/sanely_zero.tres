@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://4qo3081vqgu7"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_0odlj"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_d6hoq"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_4mxn7"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_c28ei"]
+
+[resource]
+script = ExtResource("4_c28ei")
+CharacterName = "Sanely Zero"
+ClassType = 1
+Gender = 1
+Division = 2
+Age = 42
+Height = "5'7\""
+Weight = 105
+country_north_america = 2
+strength = 20
+speed = 47
+stamina = 44
+skill = 20
+striking = 21
+charisma = 34
+pop_north_america = 31
+pop_latin_america = 10
+pop_europe = 14
+pop_asia = 7
+pop_africa = 13
+pop_oceania = 15

@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://fgb531aqfdhe"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_wi5xg"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_objex"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_eq2q2"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_nqbnj"]
+
+[resource]
+script = ExtResource("4_nqbnj")
+CharacterName = "Andrade Dragon"
+ClassType = 1
+Division = 1
+Disposition = 1
+Age = 38
+Height = "5'10\""
+Weight = 153
+country_north_america = 2
+strength = 15
+speed = 42
+stamina = 30
+skill = 26
+striking = 16
+charisma = 35
+pop_north_america = 34
+pop_latin_america = 13
+pop_europe = 12
+pop_asia = 13
+pop_africa = 11
+pop_oceania = 6

@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dm5213akulny1"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ltg72"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_7chq3"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_aab2q"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_wsxvi"]
+
+[resource]
+script = ExtResource("4_wsxvi")
+CharacterName = "Sione Latu"
+Disposition = 1
+Age = 48
+Height = "6'3\""
+Weight = 263
+birthplace = 5
+country_oceania = 2
+strength = 48
+speed = 19
+stamina = 29
+skill = 21
+striking = 20
+charisma = 29
+pop_north_america = 10
+pop_latin_america = 11
+pop_europe = 6
+pop_asia = 8
+pop_africa = 12
+pop_oceania = 39

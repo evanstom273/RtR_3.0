@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://58ql4qne51sh"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_im8ew"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_32myc"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_w8q86"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_wictg"]
+
+[resource]
+script = ExtResource("4_wictg")
+CharacterName = "Manuel Gomez"
+ClassType = 2
+Age = 65
+Height = "6'3\""
+Weight = 202
+birthplace = 2
+country_europe = 6
+strength = 17
+speed = 24
+stamina = 33
+skill = 49
+striking = 19
+charisma = 16
+pop_north_america = 11
+pop_latin_america = 8
+pop_europe = 32
+pop_asia = 11
+pop_africa = 10
+pop_oceania = 14

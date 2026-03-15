@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bl60blbuhgb8h"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ac3q6"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_lk24n"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ieujo"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_d0t2k"]
+
+[resource]
+script = ExtResource("4_d0t2k")
+CharacterName = "Maverick Sterling"
+ClassType = 3
+Age = 42
+Height = "5'11\""
+Weight = 206
+strength = 25
+speed = 20
+stamina = 29
+skill = 17
+striking = 41
+charisma = 27
+pop_north_america = 33
+pop_latin_america = 5
+pop_europe = 7
+pop_asia = 14
+pop_africa = 5
+pop_oceania = 12

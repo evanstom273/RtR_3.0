@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b2omm2axmnhiy"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_gpud3"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_4tb76"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_imbyy"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_o0ygp"]
+
+[resource]
+script = ExtResource("4_o0ygp")
+CharacterName = "Bastien Bonnet"
+ClassType = 4
+Age = 41
+Height = "5'11\""
+Weight = 178
+birthplace = 2
+country_europe = 2
+strength = 15
+speed = 32
+stamina = 24
+skill = 12
+striking = 37
+charisma = 24
+pop_north_america = 14
+pop_latin_america = 10
+pop_europe = 50
+pop_asia = 15
+pop_africa = 6
+pop_oceania = 15

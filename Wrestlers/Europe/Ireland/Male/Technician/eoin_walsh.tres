@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://hgeonq45wrre"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_3p6fc"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_mjujq"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_l22u3"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_hyajm"]
+
+[resource]
+script = ExtResource("4_hyajm")
+CharacterName = "Eoin Walsh"
+ClassType = 2
+Disposition = 1
+Age = 54
+Height = "6'3\""
+Weight = 203
+birthplace = 2
+country_europe = 4
+strength = 20
+speed = 15
+stamina = 27
+skill = 48
+striking = 12
+charisma = 30
+pop_north_america = 7
+pop_latin_america = 9
+pop_europe = 36
+pop_asia = 7
+pop_africa = 8
+pop_oceania = 10

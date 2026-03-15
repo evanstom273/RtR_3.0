@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c3k7cqvv2efks"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_xvukv"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_wmrir"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_vkkby"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_8rtbx"]
+
+[resource]
+script = ExtResource("4_8rtbx")
+CharacterName = "Rey Juventud"
+ClassType = 1
+Division = 1
+Age = 62
+Height = "5'9\""
+Weight = 145
+country_north_america = 2
+strength = 15
+speed = 43
+stamina = 34
+skill = 20
+striking = 17
+charisma = 33
+pop_north_america = 44
+pop_latin_america = 8
+pop_europe = 6
+pop_asia = 11
+pop_africa = 8
+pop_oceania = 10

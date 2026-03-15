@@ -6,7 +6,7 @@ enum Region { NORTH_AMERICA, LATIN_AMERICA, EUROPE, ASIA, AFRICA, OCEANIA }
 enum CountryNorthAmerica { USA, CANADA, MEXICO }
 enum CountryLatinAmerica { BRAZIL, ARGENTINA, CHILE }
 enum CountryEurope { ENGLAND, SCOTLAND, FRANCE, GERMANY, IRELAND, ITALY, SPAIN, WALES }
-enum CountryAsia { JAPAN, CHINA, INDIA, SOUTH_KOREA }
+enum CountryAsia { JAPAN, CHINA, INDIA, SOUTH_KOREA, THAILAND }
 enum CountryAfrica { NIGERIA, SOUTH_AFRICA, GHANA }
 enum CountryOceania { NEW_ZEALAND, AUSTRALIA, SAMOA }
 enum PromotionSize { SMALL, MEDIUM, LARGE, GIANT }

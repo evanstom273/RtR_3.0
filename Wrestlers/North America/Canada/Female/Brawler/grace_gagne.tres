@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bmrp33ia74e63"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_hrxrq"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_2jhkx"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_w7do4"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_xshaw"]
+
+[resource]
+script = ExtResource("4_xshaw")
+CharacterName = "Grace Gagne"
+ClassType = 3
+Gender = 1
+Division = 2
+Age = 22
+Height = "5'9\""
+Weight = 167
+country_north_america = 1
+strength = 29
+speed = 18
+stamina = 25
+skill = 13
+striking = 43
+charisma = 30
+pop_north_america = 30
+pop_latin_america = 8
+pop_europe = 9
+pop_asia = 8
+pop_africa = 12
+pop_oceania = 7

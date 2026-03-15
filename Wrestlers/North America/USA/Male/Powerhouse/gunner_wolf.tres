@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://btyx6ep2mnoao"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_gjbqd"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_51cyu"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_d3rqx"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_pljwt"]
+
+[resource]
+script = ExtResource("4_pljwt")
+CharacterName = "Gunner Wolf"
+Division = 1
+Age = 41
+Height = "6'5\""
+Weight = 295
+strength = 37
+stamina = 32
+skill = 21
+striking = 18
+charisma = 19
+pop_north_america = 32
+pop_latin_america = 13
+pop_europe = 6
+pop_asia = 10
+pop_africa = 15
+pop_oceania = 7

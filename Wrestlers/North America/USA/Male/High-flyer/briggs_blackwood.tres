@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bo0uiu2s26hf8"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_cfla4"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_v2irh"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_s26vi"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_bia2h"]
+
+[resource]
+script = ExtResource("4_bia2h")
+CharacterName = "Briggs Blackwood"
+ClassType = 1
+Age = 22
+Height = "6'2\""
+Weight = 168
+strength = 19
+speed = 50
+stamina = 31
+skill = 28
+striking = 16
+charisma = 29
+pop_north_america = 40
+pop_latin_america = 8
+pop_europe = 12
+pop_asia = 8
+pop_africa = 6
+pop_oceania = 8

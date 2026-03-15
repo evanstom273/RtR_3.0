@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cjoq5q844vl0w"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_spx3i"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_4kv5l"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_fbsa2"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_xv0jb"]
+
+[resource]
+script = ExtResource("4_xv0jb")
+CharacterName = "Akira Watanabe"
+ClassType = 4
+Division = 1
+Age = 23
+Height = "5'9\""
+Weight = 151
+birthplace = 3
+strength = 14
+speed = 28
+stamina = 20
+striking = 35
+charisma = 18
+pop_north_america = 14
+pop_latin_america = 8
+pop_europe = 7
+pop_asia = 28
+pop_africa = 7
+pop_oceania = 10

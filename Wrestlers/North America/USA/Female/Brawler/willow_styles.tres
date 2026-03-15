@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dlc3rp24afxv6"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_nqhbq"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_usbvu"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_h236e"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ct6ck"]
+
+[resource]
+script = ExtResource("4_ct6ck")
+CharacterName = "Willow Styles"
+ClassType = 3
+Gender = 1
+Division = 2
+Age = 22
+Height = "5'5\""
+Weight = 140
+strength = 31
+speed = 15
+stamina = 29
+skill = 18
+striking = 45
+charisma = 27
+pop_north_america = 31
+pop_latin_america = 13
+pop_europe = 15
+pop_asia = 12
+pop_africa = 13
+pop_oceania = 5

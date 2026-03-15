@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cbcrxssl1yxwh"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ywjax"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_wuf7s"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ah8ou"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_2d5bn"]
+
+[resource]
+script = ExtResource("4_2d5bn")
+CharacterName = "João Martins"
+ClassType = 3
+Age = 45
+Height = "6'1\""
+Weight = 213
+birthplace = 1
+strength = 31
+speed = 13
+stamina = 24
+skill = 12
+striking = 49
+charisma = 23
+pop_north_america = 9
+pop_latin_america = 44
+pop_europe = 14
+pop_asia = 5
+pop_africa = 9
+pop_oceania = 13

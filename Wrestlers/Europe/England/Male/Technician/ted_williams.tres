@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bn4uju0qv745l"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_nq7ja"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_v5mt6"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_x4fao"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_l822v"]
+
+[resource]
+script = ExtResource("4_l822v")
+CharacterName = "Ted Williams"
+ClassType = 2
+Division = 1
+Age = 31
+Height = "6'1\""
+Weight = 188
+birthplace = 2
+strength = 25
+speed = 19
+stamina = 26
+skill = 46
+striking = 15
+charisma = 23
+pop_north_america = 12
+pop_latin_america = 8
+pop_europe = 50
+pop_asia = 14
+pop_africa = 5
+pop_oceania = 10

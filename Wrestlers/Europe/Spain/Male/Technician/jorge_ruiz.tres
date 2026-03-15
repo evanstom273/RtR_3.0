@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://co11tccnpxf3o"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ohixj"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_l1cv2"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ilure"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_52wwg"]
+
+[resource]
+script = ExtResource("4_52wwg")
+CharacterName = "Jorge Ruiz"
+ClassType = 2
+Division = 1
+Age = 57
+Height = "5'10\""
+Weight = 175
+birthplace = 2
+country_europe = 6
+strength = 15
+speed = 17
+stamina = 32
+skill = 47
+striking = 11
+charisma = 30
+pop_north_america = 9
+pop_latin_america = 9
+pop_europe = 48
+pop_asia = 12
+pop_africa = 6
+pop_oceania = 7

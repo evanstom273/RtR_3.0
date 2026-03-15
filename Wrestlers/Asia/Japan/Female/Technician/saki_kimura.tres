@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cfd772sawmc7j"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_1dpgd"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_tmgi7"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_dncay"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_t501v"]
+
+[resource]
+script = ExtResource("4_t501v")
+CharacterName = "Saki Kimura"
+ClassType = 2
+Gender = 1
+Division = 2
+Age = 26
+Height = "5'3\""
+Weight = 108
+birthplace = 3
+strength = 24
+speed = 24
+stamina = 33
+skill = 37
+charisma = 28
+pop_north_america = 7
+pop_latin_america = 9
+pop_europe = 8
+pop_asia = 51
+pop_africa = 15
+pop_oceania = 13

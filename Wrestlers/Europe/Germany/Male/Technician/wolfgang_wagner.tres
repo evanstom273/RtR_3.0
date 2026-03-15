@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cekjt5su37hjt"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_rdbu4"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_jqswv"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_sl301"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_pfmv2"]
+
+[resource]
+script = ExtResource("4_pfmv2")
+CharacterName = "Wolfgang Wagner"
+ClassType = 2
+Disposition = 1
+Age = 62
+Height = "6'5\""
+Weight = 223
+birthplace = 2
+country_europe = 3
+strength = 19
+speed = 24
+stamina = 26
+skill = 36
+striking = 17
+charisma = 30
+pop_north_america = 8
+pop_latin_america = 5
+pop_europe = 43
+pop_asia = 13
+pop_africa = 15
+pop_oceania = 15

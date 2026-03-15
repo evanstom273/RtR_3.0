@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bqo6wsut2smbg"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_4pg56"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_1fy85"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_cdynt"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_7sxcv"]
+
+[resource]
+script = ExtResource("4_7sxcv")
+CharacterName = "Blair Thorne"
+ClassType = 3
+Gender = 1
+Division = 2
+Age = 48
+Height = "5'9\""
+Weight = 162
+strength = 26
+speed = 15
+stamina = 26
+skill = 12
+striking = 47
+charisma = 30
+pop_north_america = 52
+pop_latin_america = 11
+pop_europe = 15
+pop_asia = 7
+pop_africa = 8
+pop_oceania = 13

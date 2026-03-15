@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dpu04svpubc2c"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_xxtik"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_8sx0q"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_cwupd"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_bmfxs"]
+
+[resource]
+script = ExtResource("4_bmfxs")
+CharacterName = "Arthur Taylor"
+ClassType = 2
+Disposition = 1
+Age = 24
+Height = "6'2\""
+Weight = 197
+birthplace = 2
+strength = 22
+speed = 15
+stamina = 29
+skill = 47
+striking = 14
+charisma = 16
+pop_north_america = 9
+pop_latin_america = 14
+pop_europe = 53
+pop_asia = 5
+pop_africa = 9
+pop_oceania = 7

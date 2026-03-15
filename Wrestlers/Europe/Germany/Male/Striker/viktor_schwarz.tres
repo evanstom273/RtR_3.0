@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://7ur0y62t2lie"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_7otbm"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_0x837"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ob1js"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_roj4y"]
+
+[resource]
+script = ExtResource("4_roj4y")
+CharacterName = "Viktor Schwarz"
+ClassType = 4
+Division = 1
+Age = 31
+Height = "6'4\""
+Weight = 193
+birthplace = 2
+country_europe = 3
+strength = 12
+speed = 29
+stamina = 27
+skill = 12
+striking = 44
+charisma = 27
+pop_north_america = 15
+pop_latin_america = 12
+pop_europe = 43
+pop_asia = 5
+pop_africa = 15
+pop_oceania = 15

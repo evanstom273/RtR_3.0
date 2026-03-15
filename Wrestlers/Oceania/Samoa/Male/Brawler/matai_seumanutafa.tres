@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bgvkurc4uat2m"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_6bdnq"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_qofb1"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_hynoh"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_kofjm"]
+
+[resource]
+script = ExtResource("4_kofjm")
+CharacterName = "Matai Seumanutafa"
+ClassType = 3
+Division = 1
+Age = 38
+Weight = 206
+birthplace = 5
+country_oceania = 2
+strength = 31
+speed = 15
+stamina = 23
+skill = 16
+striking = 44
+charisma = 16
+pop_north_america = 15
+pop_latin_america = 10
+pop_europe = 6
+pop_asia = 6
+pop_africa = 11
+pop_oceania = 51

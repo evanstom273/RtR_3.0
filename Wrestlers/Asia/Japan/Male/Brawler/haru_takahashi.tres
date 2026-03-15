@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dp8ladi1ti0lx"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_i0chh"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_1slcr"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_p8xrt"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_800cn"]
+
+[resource]
+script = ExtResource("4_800cn")
+CharacterName = "Haru Takahashi"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 23
+Height = "5'7\""
+Weight = 166
+birthplace = 3
+strength = 25
+speed = 15
+stamina = 28
+skill = 16
+striking = 39
+charisma = 15
+pop_north_america = 15
+pop_latin_america = 12
+pop_europe = 6
+pop_asia = 34
+pop_africa = 6
+pop_oceania = 15

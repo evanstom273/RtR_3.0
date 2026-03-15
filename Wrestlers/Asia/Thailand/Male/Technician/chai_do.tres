@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dvjr6i3ejwyg4"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_bf1nk"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_pl8mv"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ja753"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_cjs6o"]
+
+[resource]
+script = ExtResource("4_cjs6o")
+CharacterName = "Chai Do"
+ClassType = 2
+Disposition = 1
+Age = 48
+Height = "5'11\""
+Weight = 172
+birthplace = 3
+country_asia = 4
+strength = 18
+speed = 22
+stamina = 29
+skill = 40
+striking = 17
+charisma = 22
+pop_north_america = 9
+pop_latin_america = 15
+pop_europe = 15
+pop_asia = 32
+pop_africa = 7
+pop_oceania = 7

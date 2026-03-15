@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://7mgm2jfuwi7j"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_wbow2"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_sianf"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_67grf"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_3hrsx"]
+
+[resource]
+script = ExtResource("4_3hrsx")
+CharacterName = "Daniela Araujo"
+ClassType = 1
+Gender = 1
+Division = 2
+Age = 60
+Height = "5'5\""
+Weight = 105
+birthplace = 1
+strength = 20
+speed = 38
+stamina = 39
+skill = 24
+striking = 15
+charisma = 27
+pop_north_america = 11
+pop_latin_america = 48
+pop_europe = 8
+pop_asia = 6
+pop_africa = 13
+pop_oceania = 10

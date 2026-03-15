@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://52eo63qgqf3h"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_56qgp"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_v263e"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_sexw7"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_cepwn"]
+
+[resource]
+script = ExtResource("4_cepwn")
+CharacterName = "Ichiro Ito"
+ClassType = 4
+Division = 1
+Age = 59
+Height = "5'9\""
+Weight = 166
+birthplace = 3
+strength = 14
+speed = 26
+stamina = 28
+striking = 39
+charisma = 24
+pop_north_america = 7
+pop_latin_america = 10
+pop_europe = 12
+pop_asia = 44
+pop_africa = 11
+pop_oceania = 5

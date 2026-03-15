@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://6luk5st22hoi"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_dcf1x"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_wq52h"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_xnbjw"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_lowjj"]
+
+[resource]
+script = ExtResource("4_lowjj")
+CharacterName = "Fernando Martinez"
+ClassType = 2
+Division = 1
+Age = 22
+Height = "5'7\""
+Weight = 158
+birthplace = 1
+country_latin_america = 1
+strength = 21
+speed = 20
+stamina = 27
+skill = 50
+striking = 13
+charisma = 22
+pop_north_america = 15
+pop_latin_america = 41
+pop_europe = 11
+pop_asia = 14
+pop_africa = 6
+pop_oceania = 7

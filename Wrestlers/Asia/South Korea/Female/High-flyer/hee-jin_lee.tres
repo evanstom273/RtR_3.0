@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cmueaw7cpmkj"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_pfldd"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_at0ce"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_h3unr"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_yjrn7"]
+
+[resource]
+script = ExtResource("4_yjrn7")
+CharacterName = "Hee-jin Lee"
+ClassType = 1
+Gender = 1
+Division = 2
+Age = 53
+Height = "5'0\""
+Weight = 105
+birthplace = 3
+country_asia = 3
+strength = 13
+speed = 47
+stamina = 45
+skill = 26
+striking = 16
+charisma = 32
+pop_north_america = 5
+pop_latin_america = 6
+pop_europe = 5
+pop_asia = 47
+pop_africa = 12
+pop_oceania = 8

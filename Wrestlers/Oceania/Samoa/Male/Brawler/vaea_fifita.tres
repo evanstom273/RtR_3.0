@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ek756nvf5rdc"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_swnrp"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_vmcof"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_td4mi"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_w7mw7"]
+
+[resource]
+script = ExtResource("4_w7mw7")
+CharacterName = "Vaea Fifita"
+ClassType = 3
+Division = 1
+Age = 38
+Height = "5'11\""
+Weight = 212
+birthplace = 5
+country_oceania = 2
+strength = 28
+speed = 14
+stamina = 28
+skill = 11
+striking = 38
+charisma = 21
+pop_north_america = 10
+pop_latin_america = 13
+pop_europe = 14
+pop_asia = 9
+pop_africa = 10
+pop_oceania = 34

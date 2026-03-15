@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ddisruok127mc"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_6lnao"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_fm3nm"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ti62e"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_wfnvi"]
+
+[resource]
+script = ExtResource("4_wfnvi")
+CharacterName = "Wanida Duong"
+ClassType = 1
+Gender = 1
+Division = 2
+Age = 39
+Height = "5'2\""
+Weight = 105
+birthplace = 3
+country_asia = 4
+strength = 13
+speed = 50
+stamina = 42
+skill = 22
+striking = 24
+charisma = 22
+pop_north_america = 7
+pop_latin_america = 13
+pop_europe = 7
+pop_asia = 29
+pop_africa = 15
+pop_oceania = 9

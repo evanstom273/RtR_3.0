@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cbxco462pgw7p"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_gu12r"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_33mjv"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_j0m4l"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_13e0y"]
+
+[resource]
+script = ExtResource("4_13e0y")
+CharacterName = "Bruno Oliveira"
+Division = 1
+Disposition = 1
+Age = 53
+Height = "6'1\""
+Weight = 240
+birthplace = 1
+strength = 40
+speed = 11
+stamina = 31
+skill = 22
+striking = 20
+charisma = 24
+pop_north_america = 9
+pop_latin_america = 44
+pop_europe = 11
+pop_asia = 14
+pop_africa = 7
+pop_oceania = 13

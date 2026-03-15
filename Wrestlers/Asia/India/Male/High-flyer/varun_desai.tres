@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://df3rna7gncm16"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_a8gb5"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_wxki7"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_q6gey"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_x7xme"]
+
+[resource]
+script = ExtResource("4_x7xme")
+CharacterName = "Varun Desai"
+ClassType = 1
+Division = 1
+Age = 64
+Height = "5'9\""
+Weight = 145
+birthplace = 3
+country_asia = 2
+strength = 17
+speed = 47
+stamina = 35
+skill = 28
+striking = 18
+charisma = 30
+pop_north_america = 7
+pop_latin_america = 9
+pop_europe = 9
+pop_asia = 36
+pop_africa = 5
+pop_oceania = 12

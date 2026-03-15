@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://0uaistvrmijb"]
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dvqs2vgn2jyx"]
 
 [ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_qlly1"]
 [ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_wd3ca"]
@@ -9,19 +9,18 @@
 script = ExtResource("4_y5mxy")
 CharacterName = "Jax Knight"
 ClassType = 3
-Division = 1
-Age = 39
-Height = "5'8\""
-Weight = 258
-strength = 26
-speed = 12
-stamina = 25
-skill = 19
-striking = 39
-charisma = 28
-pop_north_america = 54
-pop_latin_america = 13
-pop_europe = 8
-pop_asia = 9
-pop_africa = 12
-pop_oceania = 6
+Age = 64
+Height = "6'1\""
+Weight = 227
+strength = 34
+speed = 11
+stamina = 29
+skill = 12
+striking = 37
+charisma = 20
+pop_north_america = 50
+pop_latin_america = 10
+pop_europe = 13
+pop_asia = 6
+pop_africa = 13
+pop_oceania = 7

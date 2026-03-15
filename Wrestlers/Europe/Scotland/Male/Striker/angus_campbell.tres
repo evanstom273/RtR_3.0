@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cuc52g8sveugb"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_bx6wi"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_x8q5o"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_jed5h"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_45e0e"]
+
+[resource]
+script = ExtResource("4_45e0e")
+CharacterName = "Angus Campbell"
+ClassType = 4
+Division = 1
+Age = 64
+Height = "5'11\""
+Weight = 168
+birthplace = 2
+country_europe = 1
+strength = 15
+speed = 35
+stamina = 29
+skill = 19
+striking = 45
+charisma = 20
+pop_north_america = 6
+pop_latin_america = 9
+pop_europe = 35
+pop_asia = 5
+pop_africa = 6
+pop_oceania = 9

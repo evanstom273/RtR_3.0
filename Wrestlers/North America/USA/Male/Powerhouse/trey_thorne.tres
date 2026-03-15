@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b1uidevvkuiyl"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_pm6d6"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ng5fn"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_woj0v"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_i7erc"]
+
+[resource]
+script = ExtResource("4_i7erc")
+CharacterName = "Trey Thorne"
+Disposition = 1
+Age = 26
+Height = "6'4\""
+Weight = 285
+strength = 50
+speed = 15
+stamina = 25
+skill = 16
+striking = 19
+charisma = 19
+pop_north_america = 44
+pop_latin_america = 8
+pop_europe = 5
+pop_asia = 6
+pop_africa = 8
+pop_oceania = 9

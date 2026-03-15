@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bs6umqvypwvv1"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ouvk2"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_wexjt"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_7edul"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_6p0mo"]
+
+[resource]
+script = ExtResource("4_6p0mo")
+CharacterName = "Anahera McKenzie"
+ClassType = 3
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 37
+Height = "5'8\""
+Weight = 159
+birthplace = 5
+strength = 29
+speed = 20
+stamina = 30
+skill = 15
+striking = 49
+charisma = 29
+pop_north_america = 12
+pop_latin_america = 5
+pop_europe = 9
+pop_asia = 11
+pop_africa = 9
+pop_oceania = 45

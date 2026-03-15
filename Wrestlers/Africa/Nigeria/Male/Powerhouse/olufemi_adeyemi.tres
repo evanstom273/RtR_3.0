@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cx8uxphlhtfts"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_igkjk"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_30soy"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_r7e8e"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_r2cyv"]
+
+[resource]
+script = ExtResource("4_r2cyv")
+CharacterName = "Olufemi Adeyemi"
+Disposition = 1
+Age = 44
+Height = "6'3\""
+Weight = 256
+birthplace = 4
+strength = 48
+speed = 15
+stamina = 33
+skill = 22
+striking = 25
+charisma = 29
+pop_north_america = 7
+pop_latin_america = 11
+pop_europe = 5
+pop_asia = 15
+pop_africa = 48
+pop_oceania = 5

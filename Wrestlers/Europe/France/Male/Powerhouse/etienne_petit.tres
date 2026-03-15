@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://d27u54iu4m2r7"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_pcbjx"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_a3n5a"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_j4ox8"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_i1naw"]
+
+[resource]
+script = ExtResource("4_i1naw")
+CharacterName = "Etienne Petit"
+Division = 1
+Age = 28
+Height = "5'10\""
+Weight = 219
+birthplace = 2
+country_europe = 2
+strength = 48
+speed = 16
+stamina = 35
+skill = 24
+striking = 16
+charisma = 19
+pop_north_america = 15
+pop_latin_america = 10
+pop_europe = 37
+pop_asia = 10
+pop_africa = 7
+pop_oceania = 8

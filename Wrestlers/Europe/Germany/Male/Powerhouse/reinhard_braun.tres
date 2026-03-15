@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bf2eutpjp1suk"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_qfuf4"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_iwtel"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_gdm73"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_3c4ev"]
+
+[resource]
+script = ExtResource("4_3c4ev")
+CharacterName = "Reinhard Braun"
+Age = 24
+Height = "6'4\""
+Weight = 276
+birthplace = 2
+country_europe = 3
+strength = 39
+speed = 16
+stamina = 27
+skill = 22
+striking = 22
+charisma = 26
+pop_north_america = 8
+pop_latin_america = 6
+pop_europe = 51
+pop_asia = 9
+pop_africa = 10
+pop_oceania = 8

@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dd2kjkvb8w63t"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_eua0c"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_hj2he"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_2cwx1"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_uwf3k"]
+
+[resource]
+script = ExtResource("4_uwf3k")
+CharacterName = "Ace Creed"
+ClassType = 3
+Age = 49
+Height = "6'5\""
+Weight = 252
+strength = 25
+speed = 14
+stamina = 29
+skill = 17
+striking = 48
+charisma = 23
+pop_north_america = 34
+pop_latin_america = 7
+pop_europe = 13
+pop_asia = 11
+pop_africa = 15
+pop_oceania = 13

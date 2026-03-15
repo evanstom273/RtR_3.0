@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b0rqvlhrjc5nc"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_u5rd8"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_sor0o"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_qj6bv"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_83w3m"]
+
+[resource]
+script = ExtResource("4_83w3m")
+CharacterName = "Oisin O'Neill"
+ClassType = 2
+Division = 1
+Age = 47
+Height = "6'1\""
+Weight = 182
+birthplace = 2
+country_europe = 4
+strength = 15
+speed = 23
+stamina = 30
+skill = 39
+striking = 20
+charisma = 23
+pop_north_america = 6
+pop_latin_america = 14
+pop_europe = 51
+pop_asia = 14
+pop_africa = 14
+pop_oceania = 15

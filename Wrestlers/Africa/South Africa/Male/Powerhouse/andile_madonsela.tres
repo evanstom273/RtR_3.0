@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://da3cs1cke6xej"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_y80gt"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ihjy6"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_qfihg"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_1dqls"]
+
+[resource]
+script = ExtResource("4_1dqls")
+CharacterName = "Andile Madonsela"
+Division = 1
+Disposition = 1
+Age = 50
+Weight = 231
+birthplace = 4
+country_africa = 1
+strength = 43
+speed = 18
+stamina = 35
+skill = 17
+striking = 25
+charisma = 22
+pop_north_america = 5
+pop_latin_america = 8
+pop_europe = 7
+pop_asia = 8
+pop_africa = 44
+pop_oceania = 15

@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://diqwfbmewkm5j"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_qhd41"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_4qgoq"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_44x7q"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_mfj3y"]
+
+[resource]
+script = ExtResource("4_mfj3y")
+CharacterName = "Makoa Tuilagi"
+ClassType = 3
+Disposition = 1
+Age = 35
+Height = "6'1\""
+Weight = 218
+birthplace = 5
+country_oceania = 2
+strength = 28
+speed = 11
+stamina = 20
+skill = 15
+striking = 50
+charisma = 19
+pop_north_america = 12
+pop_latin_america = 5
+pop_europe = 10
+pop_asia = 7
+pop_africa = 5
+pop_oceania = 52

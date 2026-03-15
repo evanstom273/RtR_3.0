@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bewiapwgswvf4"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_hgrom"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_0li13"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_mr083"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_qfas6"]
+
+[resource]
+script = ExtResource("4_qfas6")
+CharacterName = "Charlie Smith"
+ClassType = 2
+Division = 1
+Age = 37
+Height = "6'2\""
+Weight = 192
+birthplace = 2
+strength = 25
+speed = 22
+stamina = 32
+skill = 41
+striking = 17
+charisma = 24
+pop_north_america = 7
+pop_latin_america = 10
+pop_europe = 46
+pop_asia = 13
+pop_africa = 11
+pop_oceania = 11

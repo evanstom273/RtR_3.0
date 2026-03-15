@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dp7tvqbua7grj"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_cyfvg"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_yteqw"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_vm5l5"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_adraj"]
+
+[resource]
+script = ExtResource("4_adraj")
+CharacterName = "Thiago Rocha"
+ClassType = 3
+Division = 1
+Age = 49
+Height = "5'8\""
+Weight = 182
+birthplace = 1
+strength = 28
+speed = 15
+stamina = 26
+skill = 13
+striking = 38
+charisma = 19
+pop_north_america = 11
+pop_latin_america = 45
+pop_europe = 8
+pop_asia = 15
+pop_africa = 12
+pop_oceania = 7

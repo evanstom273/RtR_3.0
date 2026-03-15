@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bgy2gc4168uhd"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_vig1t"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_6w7ih"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_5evt8"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_0gnmr"]
+
+[resource]
+script = ExtResource("4_0gnmr")
+CharacterName = "Mikaere Talanoa"
+ClassType = 2
+Division = 1
+Age = 61
+Height = "6'5\""
+Weight = 231
+birthplace = 5
+strength = 21
+speed = 18
+stamina = 26
+skill = 49
+striking = 11
+charisma = 20
+pop_north_america = 8
+pop_latin_america = 14
+pop_europe = 9
+pop_asia = 13
+pop_africa = 9
+pop_oceania = 38

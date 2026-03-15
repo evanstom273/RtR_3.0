@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cq7c88en0b4dx"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_mgfyy"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_q6loi"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_e3g5i"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_sgc5r"]
+
+[resource]
+script = ExtResource("4_sgc5r")
+CharacterName = "Waimarie Read"
+ClassType = 3
+Gender = 1
+Division = 2
+Age = 57
+Height = "5'9\""
+Weight = 165
+birthplace = 5
+strength = 27
+speed = 16
+stamina = 28
+skill = 19
+striking = 43
+charisma = 26
+pop_north_america = 14
+pop_latin_america = 15
+pop_europe = 5
+pop_asia = 7
+pop_africa = 6
+pop_oceania = 32

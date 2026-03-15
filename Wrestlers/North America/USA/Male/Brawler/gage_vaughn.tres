@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cuki4tmj5xwom"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_uyx6k"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_jmwf8"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_y3o3q"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_8xcik"]
+
+[resource]
+script = ExtResource("4_8xcik")
+CharacterName = "Gage Vaughn"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 59
+Height = "6'4\""
+Weight = 248
+strength = 26
+speed = 11
+stamina = 20
+skill = 11
+striking = 49
+charisma = 19
+pop_north_america = 32
+pop_latin_america = 14
+pop_europe = 12
+pop_asia = 5
+pop_africa = 15
+pop_oceania = 7

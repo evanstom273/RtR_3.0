@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://vmdx64uabngl"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_hdug8"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_yudbx"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_gohsa"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_0digk"]
+
+[resource]
+script = ExtResource("4_0digk")
+CharacterName = "Marco Jimenez"
+ClassType = 3
+Disposition = 1
+Age = 63
+Height = "5'7\""
+Weight = 175
+birthplace = 1
+country_latin_america = 1
+strength = 26
+stamina = 27
+skill = 14
+striking = 38
+charisma = 17
+pop_north_america = 5
+pop_latin_america = 41
+pop_europe = 13
+pop_asia = 13
+pop_africa = 15
+pop_oceania = 5

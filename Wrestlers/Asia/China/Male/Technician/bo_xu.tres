@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bjoh7c7irrahn"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_r4ihh"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_j3tx3"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_sfx3q"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_qnb8t"]
+
+[resource]
+script = ExtResource("4_qnb8t")
+CharacterName = "Bo Xu"
+ClassType = 2
+Division = 1
+Age = 52
+Height = "5'9\""
+Weight = 169
+birthplace = 3
+country_asia = 1
+strength = 19
+speed = 16
+stamina = 28
+skill = 46
+striking = 11
+charisma = 28
+pop_north_america = 15
+pop_latin_america = 9
+pop_europe = 9
+pop_asia = 36
+pop_africa = 13
+pop_oceania = 7

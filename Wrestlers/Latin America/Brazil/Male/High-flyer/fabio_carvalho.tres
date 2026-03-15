@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cdfur3yefypng"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_flq2i"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_l3e6n"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_6soxv"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_exfpx"]
+
+[resource]
+script = ExtResource("4_exfpx")
+CharacterName = "Fabio Carvalho"
+ClassType = 1
+Age = 27
+Height = "5'10\""
+Weight = 145
+birthplace = 1
+speed = 49
+stamina = 42
+skill = 22
+striking = 23
+charisma = 21
+pop_north_america = 6
+pop_latin_america = 31
+pop_europe = 6
+pop_asia = 13
+pop_africa = 6
+pop_oceania = 12

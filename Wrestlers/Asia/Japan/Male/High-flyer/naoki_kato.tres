@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dpns64rjofdq5"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_37e6d"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_5nfc3"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_71rpa"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_s0kt5"]
+
+[resource]
+script = ExtResource("4_s0kt5")
+CharacterName = "Naoki Kato"
+ClassType = 1
+Age = 56
+Weight = 151
+birthplace = 3
+strength = 11
+speed = 49
+stamina = 33
+skill = 20
+striking = 15
+charisma = 30
+pop_north_america = 6
+pop_latin_america = 7
+pop_europe = 5
+pop_asia = 43
+pop_africa = 8
+pop_oceania = 8

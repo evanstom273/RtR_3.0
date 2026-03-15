@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://buuy0kn500we1"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_f4nhq"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_7ybly"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_bbeuo"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_6rs7o"]
+
+[resource]
+script = ExtResource("4_6rs7o")
+CharacterName = "Lowri Jenkins"
+ClassType = 4
+Gender = 1
+Division = 2
+Age = 23
+Height = "5'3\""
+Weight = 105
+birthplace = 2
+country_europe = 7
+speed = 35
+stamina = 21
+skill = 19
+striking = 43
+charisma = 26
+pop_north_america = 10
+pop_latin_america = 11
+pop_europe = 49
+pop_asia = 11
+pop_africa = 14
+pop_oceania = 15

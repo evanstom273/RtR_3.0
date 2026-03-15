@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c0joqokswkm0e"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_thel4"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_0dl0k"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ruak1"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_0hnvj"]
+
+[resource]
+script = ExtResource("4_0hnvj")
+CharacterName = "Andile Ndlovu"
+ClassType = 3
+Division = 1
+Age = 37
+Height = "5'9\""
+Weight = 190
+birthplace = 4
+country_africa = 1
+strength = 35
+speed = 14
+stamina = 29
+skill = 14
+striking = 43
+charisma = 29
+pop_north_america = 13
+pop_latin_america = 15
+pop_europe = 12
+pop_asia = 14
+pop_africa = 43
+pop_oceania = 12
