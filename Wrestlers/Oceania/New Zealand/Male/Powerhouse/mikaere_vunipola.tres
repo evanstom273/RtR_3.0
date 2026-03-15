@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://0grc5tytgctt"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_kw1pb"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_j00fc"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_18n1q"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_x76xq"]
+
+[resource]
+script = ExtResource("4_x76xq")
+CharacterName = "Mikaere Vunipola"
+Division = 1
+Disposition = 1
+Age = 46
+Height = "6'3\""
+Weight = 316
+birthplace = 5
+strength = 47
+speed = 12
+stamina = 29
+skill = 20
+striking = 22
+charisma = 15
+pop_north_america = 13
+pop_latin_america = 6
+pop_europe = 11
+pop_asia = 15
+pop_africa = 12
+pop_oceania = 42

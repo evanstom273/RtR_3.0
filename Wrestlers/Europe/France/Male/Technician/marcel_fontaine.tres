@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://by3ieluqu02rj"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_uldav"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_k71e4"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ndjet"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_rvecr"]
+
+[resource]
+script = ExtResource("4_rvecr")
+CharacterName = "Marcel Fontaine"
+ClassType = 2
+Division = 1
+Age = 27
+Height = "6'6\""
+Weight = 281
+birthplace = 2
+country_europe = 2
+strength = 22
+speed = 24
+stamina = 32
+skill = 43
+striking = 12
+charisma = 23
+pop_north_america = 9
+pop_latin_america = 11
+pop_europe = 53
+pop_asia = 11
+pop_africa = 10
+pop_oceania = 7

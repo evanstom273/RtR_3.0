@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://draegpmq13p52"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_yms1p"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_dfg5b"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_rqoux"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_fmare"]
+
+[resource]
+script = ExtResource("4_fmare")
+CharacterName = "Kaito Kato"
+ClassType = 2
+Division = 1
+Disposition = 1
+Age = 63
+Height = "6'8\""
+Weight = 254
+birthplace = 3
+strength = 25
+speed = 23
+stamina = 29
+skill = 39
+striking = 14
+charisma = 19
+pop_north_america = 6
+pop_latin_america = 6
+pop_europe = 10
+pop_asia = 28
+pop_africa = 11
+pop_oceania = 5

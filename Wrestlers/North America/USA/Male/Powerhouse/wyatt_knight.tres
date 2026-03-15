@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dwegd5h2iwwar"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_i4mtd"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_j41wb"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_x0hbv"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_wyut6"]
+
+[resource]
+script = ExtResource("4_wyut6")
+CharacterName = "Wyatt Knight"
+Disposition = 1
+Age = 64
+Height = "6'2\""
+Weight = 311
+strength = 40
+speed = 17
+stamina = 31
+skill = 16
+striking = 24
+charisma = 18
+pop_north_america = 47
+pop_latin_america = 12
+pop_europe = 13
+pop_asia = 12
+pop_africa = 15
+pop_oceania = 8

@@ -1,0 +1,31 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://lslmq8uc3w8e"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_537wk"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_484o4"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_2id54"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_mgofd"]
+
+[resource]
+script = ExtResource("4_mgofd")
+CharacterName = "Tesni Ellis"
+ClassType = 2
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 29
+Height = "5'5\""
+Weight = 115
+birthplace = 2
+country_europe = 7
+strength = 15
+speed = 17
+stamina = 28
+skill = 45
+striking = 11
+charisma = 22
+pop_north_america = 7
+pop_latin_america = 6
+pop_europe = 35
+pop_asia = 7
+pop_africa = 8
+pop_oceania = 11

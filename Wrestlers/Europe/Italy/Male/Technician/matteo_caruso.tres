@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cipg815ueq3aq"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_jfxyc"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_qwlob"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_hvhnw"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ihje7"]
+
+[resource]
+script = ExtResource("4_ihje7")
+CharacterName = "Matteo Caruso"
+ClassType = 2
+Age = 42
+Height = "5'7\""
+Weight = 238
+birthplace = 2
+country_europe = 5
+strength = 25
+speed = 18
+stamina = 26
+skill = 38
+striking = 17
+charisma = 18
+pop_north_america = 7
+pop_latin_america = 9
+pop_europe = 29
+pop_asia = 15
+pop_africa = 6
+pop_oceania = 12

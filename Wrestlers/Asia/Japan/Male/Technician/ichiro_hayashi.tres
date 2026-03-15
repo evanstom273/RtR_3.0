@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c4cbfsenf2gf0"]
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b6jaw4i7etd1m"]
 
 [ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_cxyjd"]
 [ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_m84pg"]
@@ -10,18 +10,19 @@ script = ExtResource("4_w61q1")
 CharacterName = "Ichiro Hayashi"
 ClassType = 2
 Division = 1
-Age = 44
-Height = "5'7\""
-Weight = 298
+Age = 36
+Height = "5'8\""
+Weight = 260
 birthplace = 3
-strength = 23
-speed = 25
-stamina = 27
+strength = 19
+speed = 21
+stamina = 25
 skill = 45
-charisma = 20
-pop_north_america = 7
-pop_latin_america = 6
-pop_europe = 12
-pop_asia = 31
+striking = 12
+charisma = 27
+pop_north_america = 12
+pop_latin_america = 11
+pop_europe = 5
+pop_asia = 47
 pop_africa = 14
-pop_oceania = 5
+pop_oceania = 10

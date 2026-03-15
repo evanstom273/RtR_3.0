@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bqdkk8h8s1wlt"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_r3afk"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_p0kcb"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_4l2ko"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_c4lc6"]
+
+[resource]
+script = ExtResource("4_c4lc6")
+CharacterName = "Brooks Steele"
+Division = 1
+Disposition = 1
+Age = 64
+Height = "6'5\""
+Weight = 172
+strength = 47
+speed = 14
+stamina = 35
+skill = 16
+striking = 22
+charisma = 25
+pop_north_america = 31
+pop_latin_america = 5
+pop_europe = 12
+pop_asia = 12
+pop_africa = 8
+pop_oceania = 11

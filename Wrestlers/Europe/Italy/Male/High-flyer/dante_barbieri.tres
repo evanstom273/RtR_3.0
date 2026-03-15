@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://jvtyfsxpn8f3"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_lb1jg"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_aaeb3"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_bwfn8"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_rd6dp"]
+
+[resource]
+script = ExtResource("4_rd6dp")
+CharacterName = "Dante Barbieri"
+ClassType = 1
+Division = 1
+Age = 58
+Height = "5'9\""
+Weight = 223
+birthplace = 2
+country_europe = 5
+strength = 14
+speed = 42
+stamina = 43
+skill = 25
+striking = 21
+charisma = 21
+pop_north_america = 8
+pop_latin_america = 12
+pop_europe = 41
+pop_asia = 12
+pop_africa = 14
+pop_oceania = 10

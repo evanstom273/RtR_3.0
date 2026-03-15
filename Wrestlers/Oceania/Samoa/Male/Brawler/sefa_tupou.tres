@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bnplaub42pp21"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_q87tt"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_cy0x6"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_tm02n"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_rd0q6"]
+
+[resource]
+script = ExtResource("4_rd0q6")
+CharacterName = "Sefa Tupou"
+ClassType = 3
+Division = 1
+Age = 44
+Height = "6'4\""
+Weight = 272
+birthplace = 5
+country_oceania = 2
+strength = 26
+speed = 12
+stamina = 27
+skill = 19
+striking = 36
+charisma = 30
+pop_north_america = 15
+pop_latin_america = 10
+pop_europe = 10
+pop_asia = 5
+pop_africa = 5
+pop_oceania = 30

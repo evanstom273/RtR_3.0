@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dlsykeotwq2d"]
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bmwuc6y1uya5n"]
 
 [ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ijpd2"]
 [ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_j17bx"]
@@ -12,19 +12,18 @@ ClassType = 4
 Gender = 1
 Division = 2
 Disposition = 1
-Age = 39
-Height = "5'11\""
-Weight = 119
+Age = 50
+Height = "5'6\""
+Weight = 166
 birthplace = 3
-strength = 13
-speed = 35
-stamina = 24
-skill = 13
-striking = 35
-charisma = 25
-pop_north_america = 14
-pop_latin_america = 12
-pop_europe = 5
-pop_asia = 45
+speed = 27
+stamina = 25
+skill = 20
+striking = 49
+charisma = 28
+pop_north_america = 15
+pop_latin_america = 14
+pop_europe = 11
+pop_asia = 34
 pop_africa = 7
-pop_oceania = 13
+pop_oceania = 7

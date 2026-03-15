@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cqa1wc0neapgj"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_8y3b5"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_tasoq"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_wl48s"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_fb5ep"]
+
+[resource]
+script = ExtResource("4_fb5ep")
+CharacterName = "Ella White"
+ClassType = 2
+Gender = 1
+Division = 2
+Age = 34
+Height = "5'11\""
+Weight = 119
+birthplace = 2
+strength = 17
+speed = 25
+stamina = 26
+skill = 42
+charisma = 22
+pop_north_america = 15
+pop_latin_america = 5
+pop_europe = 45
+pop_asia = 14
+pop_africa = 13
+pop_oceania = 5

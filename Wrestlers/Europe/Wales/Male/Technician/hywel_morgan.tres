@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cwslx84lc3wtl"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_2i7el"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_vdl4h"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_js175"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_qrkve"]
+
+[resource]
+script = ExtResource("4_qrkve")
+CharacterName = "Hywel Morgan"
+ClassType = 2
+Disposition = 1
+Age = 29
+Height = "5'7\""
+Weight = 301
+birthplace = 2
+country_europe = 7
+strength = 17
+speed = 18
+stamina = 35
+skill = 36
+striking = 12
+charisma = 17
+pop_north_america = 10
+pop_latin_america = 8
+pop_europe = 45
+pop_asia = 9
+pop_africa = 11
+pop_oceania = 15

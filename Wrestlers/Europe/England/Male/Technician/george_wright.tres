@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://sr2n24so2whu"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_nq773"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_g6761"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_uoec2"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_blyw8"]
+
+[resource]
+script = ExtResource("4_blyw8")
+CharacterName = "George Wright"
+ClassType = 2
+Age = 61
+Height = "6'6\""
+birthplace = 2
+strength = 17
+speed = 17
+stamina = 25
+skill = 43
+charisma = 20
+pop_north_america = 13
+pop_latin_america = 10
+pop_europe = 41
+pop_asia = 6
+pop_africa = 5
+pop_oceania = 7

@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://car4ftw22hrm0"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_mmymg"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_pssc1"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_a2sh1"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_3h5u1"]
+
+[resource]
+script = ExtResource("4_3h5u1")
+CharacterName = "Alex Carrier"
+ClassType = 2
+Division = 1
+Age = 38
+Height = "7'0\""
+Weight = 215
+country_north_america = 1
+strength = 19
+speed = 22
+stamina = 26
+skill = 39
+striking = 18
+charisma = 29
+pop_north_america = 54
+pop_latin_america = 6
+pop_europe = 10
+pop_asia = 11
+pop_africa = 5
+pop_oceania = 7

@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://crthd5xmnvyoq"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_b3odr"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_f6qtf"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ckdux"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_s4r3j"]
+
+[resource]
+script = ExtResource("4_s4r3j")
+CharacterName = "Heinrich Richter"
+Age = 46
+Height = "6'10\""
+Weight = 306
+birthplace = 2
+country_europe = 3
+strength = 44
+speed = 20
+stamina = 29
+skill = 16
+striking = 20
+charisma = 15
+pop_north_america = 13
+pop_latin_america = 14
+pop_europe = 46
+pop_asia = 9
+pop_africa = 8
+pop_oceania = 14

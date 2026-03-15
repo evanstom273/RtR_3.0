@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dv070x5ygqfsr"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_013ef"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_y2tb0"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_u07g2"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_n35g6"]
+
+[resource]
+script = ExtResource("4_n35g6")
+CharacterName = "Hanna Schwarz"
+ClassType = 4
+Gender = 1
+Division = 2
+Age = 24
+Height = "5'11\""
+Weight = 136
+birthplace = 2
+country_europe = 3
+strength = 14
+speed = 34
+stamina = 24
+skill = 11
+striking = 45
+charisma = 25
+pop_north_america = 8
+pop_latin_america = 6
+pop_europe = 42
+pop_asia = 7
+pop_africa = 11
+pop_oceania = 13

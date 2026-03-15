@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bayj441lixctd"]
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dw6dyw8l1dheu"]
 
 [ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_lqols"]
 [ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_qpxmx"]
@@ -11,19 +11,19 @@ CharacterName = "Evie Smith"
 ClassType = 2
 Gender = 1
 Division = 2
-Age = 63
-Height = "5'7\""
-Weight = 130
+Age = 33
+Height = "5'8\""
+Weight = 147
 birthplace = 2
-strength = 17
-speed = 19
-stamina = 27
-skill = 39
-striking = 18
-charisma = 22
-pop_north_america = 12
+strength = 19
+speed = 16
+stamina = 34
+skill = 42
+striking = 12
+charisma = 17
+pop_north_america = 10
 pop_latin_america = 15
-pop_europe = 49
-pop_asia = 11
-pop_africa = 15
-pop_oceania = 15
+pop_europe = 39
+pop_asia = 5
+pop_africa = 12
+pop_oceania = 9

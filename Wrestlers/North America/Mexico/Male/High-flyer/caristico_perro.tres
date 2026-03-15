@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://df5qj4qnet8th"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_8mxb0"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_hit6r"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_pigaw"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_2uomn"]
+
+[resource]
+script = ExtResource("4_2uomn")
+CharacterName = "Caristico Perro"
+ClassType = 1
+Age = 50
+Height = "6'4\""
+Weight = 251
+country_north_america = 2
+strength = 14
+speed = 35
+stamina = 32
+skill = 29
+striking = 24
+charisma = 21
+pop_north_america = 39
+pop_latin_america = 15
+pop_europe = 5
+pop_asia = 8
+pop_africa = 6
+pop_oceania = 10

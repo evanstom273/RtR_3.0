@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dfn6rlh6npjav"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_yk8wy"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_nvwov"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_wv1cy"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ulra3"]
+
+[resource]
+script = ExtResource("4_ulra3")
+CharacterName = "Rodrigo Rocha"
+ClassType = 3
+Division = 1
+Age = 63
+Height = "6'10\""
+Weight = 184
+birthplace = 1
+strength = 32
+speed = 19
+stamina = 29
+striking = 36
+charisma = 22
+pop_north_america = 13
+pop_latin_america = 45
+pop_europe = 15
+pop_asia = 5
+pop_africa = 6
+pop_oceania = 8

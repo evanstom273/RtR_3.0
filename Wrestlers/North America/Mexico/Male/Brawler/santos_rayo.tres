@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cgynu5gn1r7o4"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_5dtyv"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_aeynk"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_nheht"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_cwt52"]
+
+[resource]
+script = ExtResource("4_cwt52")
+CharacterName = "Santos Rayo"
+ClassType = 3
+Disposition = 1
+Age = 37
+Height = "5'11\""
+Weight = 244
+country_north_america = 2
+strength = 34
+speed = 18
+stamina = 21
+skill = 19
+striking = 35
+charisma = 25
+pop_north_america = 39
+pop_latin_america = 12
+pop_europe = 14
+pop_asia = 14
+pop_africa = 15
+pop_oceania = 13

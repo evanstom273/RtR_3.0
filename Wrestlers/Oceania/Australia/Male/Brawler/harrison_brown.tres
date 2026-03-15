@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://df4po3536hkow"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_et0h0"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_b7415"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_8e4nr"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_p0ja4"]
+
+[resource]
+script = ExtResource("4_p0ja4")
+CharacterName = "Harrison Brown"
+ClassType = 3
+Disposition = 1
+Age = 22
+Height = "5'8\""
+Weight = 186
+birthplace = 5
+country_oceania = 1
+strength = 34
+speed = 17
+stamina = 28
+striking = 49
+charisma = 29
+pop_north_america = 13
+pop_latin_america = 7
+pop_europe = 12
+pop_asia = 9
+pop_africa = 15
+pop_oceania = 36

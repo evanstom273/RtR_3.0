@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://57855vu37bab"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_awxim"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_emjrb"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_4w4hc"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_3r2hc"]
+
+[resource]
+script = ExtResource("4_3r2hc")
+CharacterName = "Diamante Sagrada"
+ClassType = 2
+Age = 28
+Height = "6'10\""
+Weight = 196
+country_north_america = 2
+strength = 16
+speed = 20
+stamina = 32
+skill = 41
+striking = 14
+charisma = 24
+pop_north_america = 38
+pop_latin_america = 13
+pop_europe = 10
+pop_asia = 10
+pop_africa = 5
+pop_oceania = 14

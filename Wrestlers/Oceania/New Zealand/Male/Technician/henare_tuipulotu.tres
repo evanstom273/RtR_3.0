@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://2p6lv5wjyqt4"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_8fr61"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_e8yig"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_p6glh"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_rwthi"]
+
+[resource]
+script = ExtResource("4_rwthi")
+CharacterName = "Henare Tuipulotu"
+ClassType = 2
+Age = 41
+Height = "6'7\""
+Weight = 270
+birthplace = 5
+strength = 23
+speed = 16
+stamina = 32
+skill = 46
+striking = 12
+charisma = 25
+pop_north_america = 15
+pop_latin_america = 10
+pop_europe = 5
+pop_asia = 9
+pop_africa = 8
+pop_oceania = 37

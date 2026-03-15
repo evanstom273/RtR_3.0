@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ci032hokp5odi"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_o1df4"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_mev5d"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_bvytl"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_4y1ka"]
+
+[resource]
+script = ExtResource("4_4y1ka")
+CharacterName = "Sergio Flores"
+ClassType = 2
+Age = 58
+Height = "6'5\""
+Weight = 308
+birthplace = 1
+country_latin_america = 1
+strength = 17
+speed = 18
+stamina = 31
+skill = 37
+striking = 19
+charisma = 22
+pop_north_america = 5
+pop_latin_america = 39
+pop_europe = 11
+pop_asia = 7
+pop_africa = 6
+pop_oceania = 5

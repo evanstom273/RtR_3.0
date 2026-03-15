@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b6rl04qndvh15"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_6q34f"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_o7nit"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_k3uv1"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_kmn85"]
+
+[resource]
+script = ExtResource("4_kmn85")
+CharacterName = "Andrew Morrison"
+ClassType = 4
+Disposition = 1
+Age = 38
+Height = "7'0\""
+Weight = 241
+birthplace = 2
+country_europe = 1
+speed = 25
+stamina = 22
+skill = 14
+striking = 49
+charisma = 15
+pop_north_america = 14
+pop_latin_america = 12
+pop_europe = 37
+pop_asia = 12
+pop_africa = 14
+pop_oceania = 7

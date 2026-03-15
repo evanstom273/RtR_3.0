@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b44lyjbpppxty"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_1aqrk"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_wrtlf"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_68c4v"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_u4054"]
+
+[resource]
+script = ExtResource("4_u4054")
+CharacterName = "Brett Carrier"
+ClassType = 2
+Age = 47
+Height = "5'7\""
+Weight = 235
+country_north_america = 1
+strength = 19
+speed = 20
+stamina = 29
+skill = 47
+striking = 20
+charisma = 22
+pop_north_america = 49
+pop_latin_america = 8
+pop_europe = 9
+pop_asia = 9
+pop_africa = 5
+pop_oceania = 12

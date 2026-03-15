@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://d2biqrv3mwgty"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_p53uw"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_lw88l"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_mhjbv"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_n4lrj"]
+
+[resource]
+script = ExtResource("4_n4lrj")
+CharacterName = "Amelia Wood"
+ClassType = 2
+Gender = 1
+Division = 2
+Age = 60
+Height = "5'3\""
+Weight = 115
+birthplace = 2
+strength = 21
+speed = 22
+stamina = 35
+skill = 35
+striking = 14
+charisma = 21
+pop_north_america = 11
+pop_latin_america = 10
+pop_europe = 46
+pop_asia = 9
+pop_africa = 13
+pop_oceania = 13

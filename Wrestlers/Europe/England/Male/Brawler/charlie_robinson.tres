@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://brsn7hkkspnep"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_x122t"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_bbnr4"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_l15ka"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_v0tt6"]
+
+[resource]
+script = ExtResource("4_v0tt6")
+CharacterName = "Charlie Robinson"
+ClassType = 3
+Disposition = 1
+Age = 34
+Height = "5'10\""
+Weight = 253
+birthplace = 2
+strength = 29
+speed = 19
+stamina = 26
+skill = 15
+striking = 50
+charisma = 17
+pop_north_america = 12
+pop_latin_america = 10
+pop_europe = 33
+pop_asia = 7
+pop_africa = 5
+pop_oceania = 14

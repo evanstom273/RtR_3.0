@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bx3aysi3qtrth"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_6b0ct"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_dr7l0"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_7watj"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_igjf5"]
+
+[resource]
+script = ExtResource("4_igjf5")
+CharacterName = "Takashi Saito"
+ClassType = 1
+Division = 1
+Age = 38
+Height = "5'8\""
+Weight = 181
+birthplace = 3
+speed = 36
+stamina = 31
+skill = 23
+striking = 24
+charisma = 34
+pop_north_america = 6
+pop_latin_america = 8
+pop_europe = 14
+pop_asia = 34
+pop_africa = 11
+pop_oceania = 8

@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dd8mca2dwm6b2"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_3raqh"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_sqq4s"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ukg5p"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_qc5a1"]
+
+[resource]
+script = ExtResource("4_qc5a1")
+CharacterName = "Grace Page"
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 56
+Height = "5'7\""
+Weight = 170
+country_north_america = 1
+strength = 40
+speed = 17
+stamina = 25
+skill = 23
+striking = 21
+charisma = 19
+pop_north_america = 40
+pop_latin_america = 8
+pop_europe = 14
+pop_asia = 6
+pop_africa = 14
+pop_oceania = 11

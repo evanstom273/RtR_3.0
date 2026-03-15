@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cbig8lkqnkl1y"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_7fk86"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_j3wjq"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_beues"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_5tab0"]
+
+[resource]
+script = ExtResource("4_5tab0")
+CharacterName = "Eoin O'Sullivan"
+ClassType = 3
+Disposition = 1
+Age = 63
+Height = "5'7\""
+Weight = 244
+birthplace = 2
+country_europe = 4
+strength = 28
+speed = 17
+stamina = 26
+striking = 41
+charisma = 16
+pop_north_america = 14
+pop_latin_america = 11
+pop_europe = 34
+pop_asia = 8
+pop_africa = 5
+pop_oceania = 5

@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ma15cpu46jye"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_q2uh5"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ujp0x"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_sbrbc"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ulpdg"]
+
+[resource]
+script = ExtResource("4_ulpdg")
+CharacterName = "Dong-hyun Cho"
+Disposition = 1
+Age = 22
+Height = "6'6\""
+Weight = 191
+birthplace = 3
+country_asia = 3
+strength = 35
+speed = 16
+stamina = 34
+skill = 18
+striking = 18
+charisma = 24
+pop_north_america = 9
+pop_latin_america = 5
+pop_europe = 6
+pop_asia = 40
+pop_africa = 13
+pop_oceania = 9

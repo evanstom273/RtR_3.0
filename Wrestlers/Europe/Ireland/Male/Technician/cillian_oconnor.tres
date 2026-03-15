@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b5od38solwacn"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_tglcv"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_6cnff"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_yyeqs"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_a2xx5"]
+
+[resource]
+script = ExtResource("4_a2xx5")
+CharacterName = "Cillian O'Connor"
+ClassType = 2
+Division = 1
+Age = 29
+Height = "6'9\""
+Weight = 314
+birthplace = 2
+country_europe = 4
+strength = 17
+speed = 18
+stamina = 27
+skill = 46
+striking = 19
+charisma = 20
+pop_north_america = 11
+pop_latin_america = 8
+pop_europe = 31
+pop_asia = 10
+pop_africa = 13
+pop_oceania = 9

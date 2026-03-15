@@ -1,0 +1,31 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://eu4euyhd0mgc"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_rqu1j"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_tmnbr"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_fph0v"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_k7ele"]
+
+[resource]
+script = ExtResource("4_k7ele")
+CharacterName = "Eun-ji Kim"
+ClassType = 3
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 65
+Height = "5'2\""
+Weight = 163
+birthplace = 3
+country_asia = 3
+strength = 27
+speed = 17
+stamina = 24
+skill = 13
+striking = 43
+charisma = 21
+pop_north_america = 11
+pop_latin_america = 11
+pop_europe = 6
+pop_asia = 46
+pop_africa = 14
+pop_oceania = 6

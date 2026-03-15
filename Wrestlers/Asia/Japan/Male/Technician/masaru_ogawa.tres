@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b08unlboya22n"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_qf58d"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_hn3it"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_2h4qe"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_wto1d"]
+
+[resource]
+script = ExtResource("4_wto1d")
+CharacterName = "Masaru Ogawa"
+ClassType = 2
+Division = 1
+Age = 33
+Height = "6'4\""
+Weight = 176
+birthplace = 3
+strength = 25
+speed = 15
+stamina = 31
+skill = 41
+striking = 11
+charisma = 23
+pop_north_america = 12
+pop_latin_america = 8
+pop_europe = 12
+pop_asia = 32
+pop_africa = 8
+pop_oceania = 13

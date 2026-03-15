@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cujuhiffn4ntf"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_jjcn4"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_mk2wq"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ykepb"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_p2xon"]
+
+[resource]
+script = ExtResource("4_p2xon")
+CharacterName = "Feng Ma"
+ClassType = 4
+Age = 30
+Height = "6'10\""
+Weight = 240
+birthplace = 3
+country_asia = 1
+strength = 19
+speed = 34
+stamina = 21
+skill = 19
+striking = 38
+charisma = 28
+pop_north_america = 13
+pop_latin_america = 14
+pop_europe = 8
+pop_asia = 46
+pop_africa = 8
+pop_oceania = 14

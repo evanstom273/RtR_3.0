@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://btenx1nsh70c"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_m38a6"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_la01p"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ox0dm"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ca7j1"]
+
+[resource]
+script = ExtResource("4_ca7j1")
+CharacterName = "Tiffany Zero"
+ClassType = 1
+Gender = 1
+Division = 2
+Age = 49
+Height = "5'11\""
+Weight = 165
+country_north_america = 2
+strength = 17
+speed = 37
+stamina = 30
+skill = 21
+striking = 15
+charisma = 24
+pop_north_america = 44
+pop_latin_america = 15
+pop_europe = 10
+pop_asia = 8
+pop_africa = 5
+pop_oceania = 5

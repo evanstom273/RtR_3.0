@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cgghe06iwhycp"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_pccef"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_xr231"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_x8k6r"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_nfv5g"]
+
+[resource]
+script = ExtResource("4_nfv5g")
+CharacterName = "Dusty Thorne"
+ClassType = 1
+Age = 48
+Height = "6'5\""
+Weight = 258
+strength = 14
+speed = 43
+stamina = 43
+skill = 23
+striking = 19
+charisma = 35
+pop_north_america = 38
+pop_latin_america = 8
+pop_europe = 12
+pop_asia = 5
+pop_africa = 5
+pop_oceania = 12

@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cjy1qy5wx3lk"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_dgewv"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_di7ig"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_jmbq2"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_7w8k6"]
+
+[resource]
+script = ExtResource("4_7w8k6")
+CharacterName = "Joaquin Guzman"
+ClassType = 2
+Division = 1
+Disposition = 1
+Age = 33
+Height = "5'6\""
+Weight = 288
+birthplace = 1
+country_latin_america = 1
+strength = 25
+speed = 15
+stamina = 30
+skill = 45
+striking = 13
+charisma = 24
+pop_north_america = 13
+pop_latin_america = 46
+pop_europe = 9
+pop_asia = 12
+pop_africa = 10
+pop_oceania = 13

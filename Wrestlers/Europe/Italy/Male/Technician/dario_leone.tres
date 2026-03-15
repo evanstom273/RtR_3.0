@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b4alkh7qj5sbw"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_oiv2p"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_1v75s"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_hqw7f"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_j5rfm"]
+
+[resource]
+script = ExtResource("4_j5rfm")
+CharacterName = "Dario Leone"
+ClassType = 2
+Division = 1
+Age = 43
+Height = "6'4\""
+Weight = 230
+birthplace = 2
+country_europe = 5
+strength = 17
+speed = 15
+stamina = 33
+skill = 38
+striking = 18
+charisma = 15
+pop_north_america = 5
+pop_latin_america = 13
+pop_europe = 29
+pop_asia = 13
+pop_africa = 14
+pop_oceania = 14

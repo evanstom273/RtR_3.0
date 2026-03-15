@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ebaqsnkf5u8s"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_11msv"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_h67f6"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_c5uf0"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_26x4s"]
+
+[resource]
+script = ExtResource("4_26x4s")
+CharacterName = "Bennett Cade"
+ClassType = 1
+Division = 1
+Age = 41
+Height = "5'8\""
+Weight = 267
+strength = 12
+speed = 40
+stamina = 45
+skill = 27
+striking = 20
+charisma = 32
+pop_north_america = 33
+pop_latin_america = 5
+pop_europe = 13
+pop_asia = 9
+pop_africa = 9
+pop_oceania = 8

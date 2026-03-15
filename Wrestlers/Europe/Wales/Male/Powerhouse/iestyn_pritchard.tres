@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://3x7osdobe166"]
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dqmr05lh2l5qb"]
 
 [ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ii0kg"]
 [ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_5ntm8"]
@@ -8,21 +8,21 @@
 [resource]
 script = ExtResource("4_8oi8b")
 CharacterName = "Iestyn Pritchard"
-Disposition = 1
-Age = 39
-Height = "6'9\""
-Weight = 200
+Division = 1
+Age = 35
+Height = "5'11\""
+Weight = 213
 birthplace = 2
 country_europe = 7
-strength = 35
-speed = 11
-stamina = 35
+strength = 40
+speed = 18
+stamina = 27
 skill = 23
 striking = 24
 charisma = 28
-pop_north_america = 13
-pop_latin_america = 11
-pop_europe = 32
-pop_asia = 15
-pop_africa = 11
-pop_oceania = 11
+pop_north_america = 15
+pop_latin_america = 15
+pop_europe = 50
+pop_asia = 9
+pop_africa = 5
+pop_oceania = 15

@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://kdull3ekbai5"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_qqrab"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_nvjxo"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_8puho"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_b4vhe"]
+
+[resource]
+script = ExtResource("4_b4vhe")
+CharacterName = "Hamish Mackenzie"
+ClassType = 3
+Division = 1
+Age = 60
+Height = "6'3\""
+Weight = 174
+birthplace = 2
+country_europe = 1
+strength = 31
+speed = 13
+stamina = 27
+skill = 19
+striking = 42
+charisma = 22
+pop_north_america = 5
+pop_latin_america = 9
+pop_europe = 37
+pop_asia = 6
+pop_africa = 10
+pop_oceania = 10

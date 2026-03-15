@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cow0awlv4mcnw"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_m8go6"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_a23uf"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_px1en"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_4w8vl"]
+
+[resource]
+script = ExtResource("4_4w8vl")
+CharacterName = "Hunter Tremblay"
+Division = 1
+Age = 28
+Height = "5'9\""
+Weight = 250
+country_north_america = 1
+strength = 50
+speed = 18
+stamina = 31
+skill = 21
+striking = 17
+charisma = 19
+pop_north_america = 31
+pop_latin_america = 6
+pop_europe = 13
+pop_asia = 7
+pop_africa = 7
+pop_oceania = 14

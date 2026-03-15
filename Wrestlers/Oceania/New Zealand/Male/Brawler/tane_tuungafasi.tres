@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dkb21p1rmuc63"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_hg07t"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_1300w"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_hilqb"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_6nbt3"]
+
+[resource]
+script = ExtResource("4_6nbt3")
+CharacterName = "Tane Tu'ungafasi"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 63
+Height = "5'7\""
+Weight = 305
+birthplace = 5
+strength = 34
+speed = 14
+stamina = 22
+skill = 13
+striking = 43
+charisma = 16
+pop_north_america = 11
+pop_latin_america = 11
+pop_europe = 13
+pop_asia = 6
+pop_africa = 8
+pop_oceania = 38

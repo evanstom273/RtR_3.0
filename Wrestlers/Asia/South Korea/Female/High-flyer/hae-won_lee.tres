@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ba2jr856cfikf"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_dqvkm"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_1pl60"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_dxi4y"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_6a33q"]
+
+[resource]
+script = ExtResource("4_6a33q")
+CharacterName = "Hae-won Lee"
+ClassType = 1
+Gender = 1
+Division = 2
+Age = 59
+Height = "5'0\""
+Weight = 190
+birthplace = 3
+country_asia = 3
+strength = 16
+speed = 47
+stamina = 37
+skill = 20
+striking = 20
+charisma = 32
+pop_north_america = 10
+pop_latin_america = 8
+pop_europe = 6
+pop_asia = 37
+pop_africa = 15
+pop_oceania = 9

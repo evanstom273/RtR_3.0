@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ds00w2sgn3yne"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_tu8ov"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_eamnh"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_k823i"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_gspeb"]
+
+[resource]
+script = ExtResource("4_gspeb")
+CharacterName = "Noah Bergeron"
+ClassType = 2
+Age = 41
+Height = "6'8\""
+Weight = 208
+country_north_america = 1
+strength = 17
+speed = 16
+stamina = 34
+skill = 45
+striking = 15
+charisma = 24
+pop_north_america = 37
+pop_latin_america = 10
+pop_europe = 13
+pop_asia = 14
+pop_africa = 5
+pop_oceania = 14

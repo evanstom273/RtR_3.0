@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://2ht3jheu0768"]
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://4v72gdk2bl27"]
 
 [ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_miihh"]
 [ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_g57h2"]
@@ -9,20 +9,20 @@
 script = ExtResource("4_4qq75")
 CharacterName = "Jean Dupont"
 ClassType = 2
-Age = 49
-Height = "6'6\""
-Weight = 237
+Disposition = 1
+Age = 48
+Weight = 226
 birthplace = 2
 country_europe = 2
 strength = 23
-speed = 16
-stamina = 29
-skill = 49
+speed = 20
+stamina = 30
+skill = 40
 striking = 16
-charisma = 22
-pop_north_america = 15
-pop_latin_america = 9
-pop_europe = 48
+charisma = 16
+pop_north_america = 7
+pop_latin_america = 12
+pop_europe = 39
 pop_asia = 8
-pop_africa = 9
-pop_oceania = 10
+pop_africa = 6
+pop_oceania = 9

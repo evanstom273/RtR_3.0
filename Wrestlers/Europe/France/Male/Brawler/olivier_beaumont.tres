@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dwydod1nmk8a5"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_k4o2j"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_mgd27"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_mtspe"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_mi8bh"]
+
+[resource]
+script = ExtResource("4_mi8bh")
+CharacterName = "Olivier Beaumont"
+ClassType = 3
+Age = 65
+Height = "6'3\""
+Weight = 250
+birthplace = 2
+country_europe = 2
+strength = 29
+speed = 17
+stamina = 29
+skill = 11
+striking = 35
+charisma = 21
+pop_north_america = 7
+pop_latin_america = 14
+pop_europe = 48
+pop_asia = 6
+pop_africa = 12
+pop_oceania = 15

@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bslx0yql105nq"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_kgelb"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_33nlf"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_edbiq"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_7djsy"]
+
+[resource]
+script = ExtResource("4_7djsy")
+CharacterName = "Bruno Gomes"
+ClassType = 3
+Disposition = 1
+Age = 37
+Height = "5'11\""
+Weight = 198
+birthplace = 1
+strength = 26
+speed = 13
+stamina = 26
+skill = 11
+striking = 35
+charisma = 22
+pop_north_america = 6
+pop_latin_america = 48
+pop_europe = 5
+pop_asia = 8
+pop_africa = 7
+pop_oceania = 14

@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://c2lr54nljb21h"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_yfb5p"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_3fd41"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_bbqua"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_x1u4o"]
+
+[resource]
+script = ExtResource("4_x1u4o")
+CharacterName = "Donal Brennan"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 55
+Height = "6'4\""
+Weight = 187
+birthplace = 2
+country_europe = 4
+strength = 33
+speed = 18
+stamina = 22
+skill = 11
+striking = 39
+charisma = 19
+pop_north_america = 7
+pop_latin_america = 13
+pop_europe = 36
+pop_asia = 5
+pop_africa = 13
+pop_oceania = 14

@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://stwhbbki48if"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_hiebp"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_douml"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_djgri"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_lshqm"]
+
+[resource]
+script = ExtResource("4_lshqm")
+CharacterName = "Knox Chase"
+ClassType = 3
+Disposition = 1
+Age = 46
+Height = "5'7\""
+Weight = 259
+strength = 27
+speed = 12
+stamina = 25
+skill = 16
+striking = 50
+charisma = 20
+pop_north_america = 29
+pop_latin_america = 9
+pop_europe = 12
+pop_asia = 12
+pop_africa = 7
+pop_oceania = 5

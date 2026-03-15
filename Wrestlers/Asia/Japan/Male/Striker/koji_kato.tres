@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://78p75e13rygj"]
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://iswaw8scas6y"]
 
 [ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_0vn1o"]
 [ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_nhoif"]
@@ -9,20 +9,19 @@
 script = ExtResource("4_7stid")
 CharacterName = "Koji Kato"
 ClassType = 4
-Disposition = 1
-Age = 60
-Height = "6'1\""
-Weight = 180
+Age = 53
+Height = "5'10\""
+Weight = 294
 birthplace = 3
-strength = 13
-speed = 34
-stamina = 25
-skill = 20
-striking = 47
-charisma = 25
-pop_north_america = 15
-pop_latin_america = 5
-pop_europe = 9
-pop_asia = 48
-pop_africa = 12
-pop_oceania = 10
+strength = 17
+speed = 30
+stamina = 22
+skill = 16
+striking = 38
+charisma = 26
+pop_north_america = 10
+pop_latin_america = 12
+pop_europe = 10
+pop_asia = 32
+pop_africa = 10
+pop_oceania = 7

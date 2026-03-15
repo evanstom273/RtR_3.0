@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://d3mi3dkl11jah"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_5508w"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_u46ej"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_m2yu1"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_gbp7k"]
+
+[resource]
+script = ExtResource("4_gbp7k")
+CharacterName = "Oscar Jackson"
+Division = 1
+Age = 31
+Height = "6'6\""
+Weight = 316
+birthplace = 2
+strength = 38
+speed = 18
+stamina = 33
+skill = 25
+striking = 19
+charisma = 16
+pop_north_america = 10
+pop_latin_america = 5
+pop_europe = 28
+pop_asia = 7
+pop_africa = 7
+pop_oceania = 13

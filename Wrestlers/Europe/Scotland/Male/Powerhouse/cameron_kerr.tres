@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://qwsc6qfi7b7n"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_bs3rm"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_r82pp"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_7q41c"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_w48to"]
+
+[resource]
+script = ExtResource("4_w48to")
+CharacterName = "Cameron Kerr"
+Disposition = 1
+Age = 27
+Height = "6'4\""
+Weight = 311
+birthplace = 2
+country_europe = 1
+strength = 39
+speed = 19
+stamina = 34
+skill = 23
+striking = 21
+charisma = 19
+pop_north_america = 11
+pop_latin_america = 10
+pop_europe = 40
+pop_asia = 8
+pop_africa = 13
+pop_oceania = 12

@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dm6grv6n8rcad"]
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dptc5ly6pm3ne"]
 
 [ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_wkx82"]
 [ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_g8rq5"]
@@ -10,19 +10,18 @@ script = ExtResource("4_yywyl")
 CharacterName = "Leo Wilson"
 ClassType = 4
 Division = 1
-Age = 45
-Height = "6'4\""
-Weight = 195
+Age = 59
+Height = "5'6\""
+Weight = 251
 birthplace = 2
-strength = 17
-speed = 31
-stamina = 30
-skill = 14
+strength = 20
+speed = 26
+stamina = 24
 striking = 50
-charisma = 26
-pop_north_america = 7
-pop_latin_america = 5
-pop_europe = 36
+charisma = 27
+pop_north_america = 6
+pop_latin_america = 10
+pop_europe = 45
 pop_asia = 15
-pop_africa = 9
-pop_oceania = 9
+pop_africa = 10
+pop_oceania = 14

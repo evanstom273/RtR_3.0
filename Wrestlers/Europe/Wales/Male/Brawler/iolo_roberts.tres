@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://3n0igqvf5wvf"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_o03al"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_74u4i"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_r3k7a"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_j5meo"]
+
+[resource]
+script = ExtResource("4_j5meo")
+CharacterName = "Iolo Roberts"
+ClassType = 3
+Disposition = 1
+Age = 40
+Height = "6'9\""
+Weight = 209
+birthplace = 2
+country_europe = 7
+strength = 29
+speed = 14
+stamina = 30
+striking = 41
+charisma = 25
+pop_north_america = 12
+pop_latin_america = 6
+pop_europe = 44
+pop_asia = 7
+pop_africa = 11
+pop_oceania = 12

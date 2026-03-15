@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://byjum231rg4we"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_otg5g"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_kfbt0"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_y5hos"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_p0bu2"]
+
+[resource]
+script = ExtResource("4_p0bu2")
+CharacterName = "Owen Gagne"
+ClassType = 2
+Age = 46
+Height = "6'4\""
+Weight = 185
+country_north_america = 1
+strength = 23
+speed = 15
+stamina = 25
+skill = 35
+striking = 15
+charisma = 22
+pop_north_america = 33
+pop_latin_america = 9
+pop_europe = 15
+pop_asia = 11
+pop_africa = 7
+pop_oceania = 9

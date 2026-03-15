@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b1g0coh5ewxjj"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ysaa1"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_bdhwc"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_f6313"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_hrhnk"]
+
+[resource]
+script = ExtResource("4_hrhnk")
+CharacterName = "Clayton Rhodes"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 45
+Height = "5'10\""
+Weight = 249
+strength = 32
+speed = 19
+stamina = 21
+skill = 12
+striking = 48
+charisma = 21
+pop_north_america = 44
+pop_latin_america = 9
+pop_europe = 13
+pop_asia = 12
+pop_africa = 6
+pop_oceania = 15

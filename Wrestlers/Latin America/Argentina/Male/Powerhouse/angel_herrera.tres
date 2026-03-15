@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bpys34faq4slr"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_y1urf"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_enj8r"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_wq3a5"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_n1xef"]
+
+[resource]
+script = ExtResource("4_n1xef")
+CharacterName = "Angel Herrera"
+Disposition = 1
+Age = 22
+Height = "6'1\""
+Weight = 288
+birthplace = 1
+country_latin_america = 1
+strength = 45
+speed = 18
+stamina = 35
+skill = 20
+striking = 24
+charisma = 15
+pop_north_america = 15
+pop_latin_america = 42
+pop_europe = 11
+pop_asia = 11
+pop_africa = 15
+pop_oceania = 12

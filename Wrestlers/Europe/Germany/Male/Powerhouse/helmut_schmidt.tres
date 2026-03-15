@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b4uwm8m1w1nyr"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_tbjxm"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_dnxka"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ofd2d"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_lv0ua"]
+
+[resource]
+script = ExtResource("4_lv0ua")
+CharacterName = "Helmut Schmidt"
+Division = 1
+Age = 60
+Height = "6'3\""
+Weight = 218
+birthplace = 2
+country_europe = 3
+strength = 47
+speed = 14
+stamina = 33
+skill = 19
+striking = 19
+charisma = 25
+pop_north_america = 10
+pop_latin_america = 15
+pop_europe = 50
+pop_asia = 8
+pop_africa = 12
+pop_oceania = 8

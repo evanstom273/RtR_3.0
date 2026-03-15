@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dm8h6ef122u13"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_f5ew2"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_b820m"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_8bvw8"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_e6blm"]
+
+[resource]
+script = ExtResource("4_e6blm")
+CharacterName = "Hine Jordan"
+ClassType = 3
+Gender = 1
+Division = 2
+Age = 41
+Height = "5'6\""
+Weight = 166
+birthplace = 5
+strength = 26
+speed = 20
+stamina = 26
+skill = 14
+striking = 36
+charisma = 25
+pop_north_america = 10
+pop_latin_america = 12
+pop_europe = 12
+pop_asia = 5
+pop_africa = 9
+pop_oceania = 37

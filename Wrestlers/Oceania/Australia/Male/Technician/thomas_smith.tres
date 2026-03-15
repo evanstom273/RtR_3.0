@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://britpbwok5o3d"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_0vyjq"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_3siox"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_hfo7h"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_sqgfw"]
+
+[resource]
+script = ExtResource("4_sqgfw")
+CharacterName = "Thomas Smith"
+ClassType = 2
+Age = 33
+Height = "6'5\""
+Weight = 183
+birthplace = 5
+country_oceania = 1
+strength = 23
+speed = 24
+stamina = 28
+skill = 39
+charisma = 20
+pop_north_america = 14
+pop_latin_america = 9
+pop_europe = 14
+pop_asia = 11
+pop_africa = 15
+pop_oceania = 49

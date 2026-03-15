@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://buuoxrgsdxwfs"]
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bdy0vxunghe72"]
 
 [ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_yf06s"]
 [ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_jwixm"]
@@ -10,18 +10,18 @@ script = ExtResource("4_jig65")
 CharacterName = "Gunner Stone"
 ClassType = 3
 Division = 1
-Age = 36
-Height = "6'3\""
+Age = 30
+Height = "6'8\""
 Weight = 193
-strength = 35
-speed = 19
-stamina = 21
-skill = 13
-striking = 50
-charisma = 21
-pop_north_america = 38
-pop_latin_america = 6
-pop_europe = 8
-pop_asia = 14
-pop_africa = 14
-pop_oceania = 10
+strength = 33
+speed = 18
+stamina = 29
+skill = 15
+striking = 47
+charisma = 16
+pop_north_america = 43
+pop_latin_america = 7
+pop_europe = 15
+pop_asia = 7
+pop_africa = 9
+pop_oceania = 9

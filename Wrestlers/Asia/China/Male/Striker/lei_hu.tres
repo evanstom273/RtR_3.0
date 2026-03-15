@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://chv5cojmkadgw"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_qc7t0"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_r0r34"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_6wtk1"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ywc46"]
+
+[resource]
+script = ExtResource("4_ywc46")
+CharacterName = "Lei Hu"
+ClassType = 4
+Disposition = 1
+Age = 41
+Height = "6'5\""
+Weight = 183
+birthplace = 3
+country_asia = 1
+strength = 19
+speed = 35
+stamina = 25
+skill = 14
+striking = 45
+charisma = 15
+pop_north_america = 7
+pop_latin_america = 6
+pop_europe = 9
+pop_asia = 38
+pop_africa = 15
+pop_oceania = 12

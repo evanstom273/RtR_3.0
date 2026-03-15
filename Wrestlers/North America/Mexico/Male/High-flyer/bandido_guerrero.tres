@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ilmqr2xiu2e1"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_pf3kn"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_mjujk"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ukbmv"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_rgyvt"]
+
+[resource]
+script = ExtResource("4_rgyvt")
+CharacterName = "Bandido Guerrero"
+ClassType = 1
+Division = 1
+Disposition = 1
+Age = 63
+Height = "5'8\""
+Weight = 291
+country_north_america = 2
+strength = 20
+speed = 40
+stamina = 32
+skill = 21
+striking = 21
+charisma = 24
+pop_north_america = 30
+pop_latin_america = 14
+pop_europe = 9
+pop_asia = 15
+pop_africa = 15
+pop_oceania = 7

@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://db6m02jj2267e"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_oaluw"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_b3bdx"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_pptdu"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_44qvr"]
+
+[resource]
+script = ExtResource("4_44qvr")
+CharacterName = "Misty Vaughn"
+ClassType = 2
+Gender = 1
+Division = 2
+Age = 41
+Height = "5'9\""
+Weight = 171
+strength = 25
+speed = 18
+stamina = 32
+skill = 45
+charisma = 17
+pop_north_america = 37
+pop_latin_america = 6
+pop_europe = 8
+pop_asia = 8
+pop_africa = 5
+pop_oceania = 9

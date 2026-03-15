@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dsok4nc1j3eu8"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_trlsp"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_3j0c4"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ynhls"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_lphaf"]
+
+[resource]
+script = ExtResource("4_lphaf")
+CharacterName = "Whetu Nonu"
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 56
+Height = "5'1\""
+Weight = 180
+birthplace = 5
+strength = 40
+speed = 12
+stamina = 29
+skill = 16
+striking = 23
+charisma = 16
+pop_north_america = 15
+pop_latin_america = 12
+pop_europe = 11
+pop_asia = 8
+pop_africa = 7
+pop_oceania = 42

@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dovj0ojgwbpbe"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_4sb7w"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_8ucq7"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_72vkj"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_rh1vk"]
+
+[resource]
+script = ExtResource("4_rh1vk")
+CharacterName = "Ming He"
+ClassType = 2
+Age = 36
+Height = "6'5\""
+Weight = 244
+birthplace = 3
+country_asia = 1
+strength = 15
+speed = 15
+stamina = 28
+skill = 42
+striking = 14
+charisma = 30
+pop_north_america = 15
+pop_latin_america = 10
+pop_europe = 10
+pop_asia = 39
+pop_africa = 11
+pop_oceania = 8

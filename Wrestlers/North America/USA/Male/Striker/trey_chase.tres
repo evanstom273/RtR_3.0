@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cjrcyfscqnutm"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_a2k0y"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_36aey"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_sjp2l"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_gd8m7"]
+
+[resource]
+script = ExtResource("4_gd8m7")
+CharacterName = "Trey Chase"
+ClassType = 4
+Disposition = 1
+Age = 31
+Height = "6'7\""
+Weight = 274
+strength = 11
+speed = 33
+stamina = 26
+skill = 20
+striking = 44
+charisma = 24
+pop_north_america = 31
+pop_latin_america = 5
+pop_europe = 15
+pop_asia = 14
+pop_africa = 10
+pop_oceania = 6

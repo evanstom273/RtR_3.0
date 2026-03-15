@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dwcmypnn1kk3k"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_mddaq"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_xm6ct"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_8gl56"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_d1k6d"]
+
+[resource]
+script = ExtResource("4_d1k6d")
+CharacterName = "Santiago Herrera"
+ClassType = 2
+Age = 63
+Height = "7'0\""
+Weight = 244
+birthplace = 1
+country_latin_america = 1
+strength = 15
+speed = 24
+stamina = 32
+skill = 42
+striking = 20
+charisma = 28
+pop_north_america = 15
+pop_latin_america = 46
+pop_europe = 9
+pop_asia = 13
+pop_africa = 13
+pop_oceania = 7

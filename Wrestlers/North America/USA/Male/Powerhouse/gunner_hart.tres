@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b2umau7u4lmfl"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_gtwkt"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_34anj"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ro0dl"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_t6wo1"]
+
+[resource]
+script = ExtResource("4_t6wo1")
+CharacterName = "Gunner Hart"
+Age = 56
+Height = "5'8\""
+Weight = 252
+strength = 35
+speed = 19
+stamina = 25
+skill = 18
+striking = 15
+charisma = 29
+pop_north_america = 44
+pop_latin_america = 14
+pop_europe = 13
+pop_asia = 11
+pop_africa = 8
+pop_oceania = 7

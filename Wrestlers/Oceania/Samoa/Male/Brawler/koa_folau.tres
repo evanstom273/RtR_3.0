@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://itinoe3h5y0i"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_7dewx"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_7qatq"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_d5y5c"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_wp1lf"]
+
+[resource]
+script = ExtResource("4_wp1lf")
+CharacterName = "Koa Folau"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 27
+Height = "6'7\""
+Weight = 318
+birthplace = 5
+country_oceania = 2
+strength = 34
+speed = 13
+stamina = 23
+skill = 12
+striking = 38
+charisma = 20
+pop_north_america = 15
+pop_latin_america = 13
+pop_europe = 11
+pop_asia = 5
+pop_africa = 15
+pop_oceania = 49

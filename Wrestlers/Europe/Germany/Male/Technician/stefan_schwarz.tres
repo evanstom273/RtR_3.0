@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dui54mmj12xfy"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_sb1hl"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_rm82q"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_c2rab"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_pebxp"]
+
+[resource]
+script = ExtResource("4_pebxp")
+CharacterName = "Stefan Schwarz"
+ClassType = 2
+Age = 31
+Height = "6'8\""
+Weight = 314
+birthplace = 2
+country_europe = 3
+strength = 17
+speed = 24
+stamina = 30
+skill = 48
+striking = 12
+charisma = 24
+pop_north_america = 10
+pop_latin_america = 15
+pop_europe = 39
+pop_asia = 14
+pop_africa = 13
+pop_oceania = 9

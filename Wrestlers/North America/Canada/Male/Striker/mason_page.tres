@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dcmq1a2moyv36"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_g1im2"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_hrf7o"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_3qlx1"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_rycxw"]
+
+[resource]
+script = ExtResource("4_rycxw")
+CharacterName = "Mason Page"
+ClassType = 4
+Division = 1
+Disposition = 1
+Age = 50
+Height = "6'2\""
+Weight = 176
+country_north_america = 1
+strength = 16
+speed = 33
+stamina = 29
+skill = 11
+striking = 49
+charisma = 30
+pop_north_america = 39
+pop_latin_america = 11
+pop_europe = 5
+pop_asia = 6
+pop_africa = 9
+pop_oceania = 12

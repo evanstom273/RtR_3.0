@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bde6oybui2d0q"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_f12he"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_qdpfr"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_j452k"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_1k32h"]
+
+[resource]
+script = ExtResource("4_1k32h")
+CharacterName = "Gunner Rhodes"
+ClassType = 1
+Age = 49
+Height = "6'7\""
+Weight = 193
+strength = 19
+speed = 47
+stamina = 42
+skill = 21
+striking = 21
+charisma = 35
+pop_north_america = 36
+pop_latin_america = 6
+pop_europe = 14
+pop_asia = 13
+pop_africa = 15
+pop_oceania = 15

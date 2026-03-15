@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://55wuvcgwdmub"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_64u8w"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_fedsw"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_qlo2l"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_8ncub"]
+
+[resource]
+script = ExtResource("4_8ncub")
+CharacterName = "Beau Vaughn"
+Disposition = 1
+Age = 59
+Height = "6'2\""
+Weight = 314
+strength = 41
+speed = 16
+stamina = 35
+skill = 20
+striking = 15
+charisma = 16
+pop_north_america = 36
+pop_latin_america = 9
+pop_europe = 5
+pop_asia = 13
+pop_africa = 12
+pop_oceania = 7

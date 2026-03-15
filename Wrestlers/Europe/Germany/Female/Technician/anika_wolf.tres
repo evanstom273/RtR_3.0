@@ -1,0 +1,31 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://6wwf5j7hohkl"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_xxdd0"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_7jwec"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_teag2"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_smcbw"]
+
+[resource]
+script = ExtResource("4_smcbw")
+CharacterName = "Anika Wolf"
+ClassType = 2
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 40
+Height = "5'11\""
+Weight = 158
+birthplace = 2
+country_europe = 3
+strength = 24
+speed = 23
+stamina = 27
+skill = 43
+striking = 15
+charisma = 28
+pop_north_america = 7
+pop_latin_america = 6
+pop_europe = 38
+pop_asia = 15
+pop_africa = 8
+pop_oceania = 7

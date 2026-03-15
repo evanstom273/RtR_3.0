@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dgj8nhtqft8nq"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_utk3h"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_p8s7f"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_spyta"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_spvd5"]
+
+[resource]
+script = ExtResource("4_spvd5")
+CharacterName = "Yoshi Ito"
+ClassType = 2
+Age = 62
+Height = "5'6\""
+Weight = 279
+birthplace = 3
+strength = 24
+speed = 25
+stamina = 26
+skill = 39
+striking = 19
+charisma = 19
+pop_north_america = 8
+pop_latin_america = 8
+pop_europe = 9
+pop_asia = 47
+pop_africa = 6
+pop_oceania = 6

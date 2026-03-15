@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cdhm8fwekgv8q"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_jo875"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_xbmbc"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_b8ia0"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_tjgqt"]
+
+[resource]
+script = ExtResource("4_tjgqt")
+CharacterName = "Kenji Murakami"
+ClassType = 2
+Disposition = 1
+Age = 26
+Height = "5'9\""
+Weight = 281
+birthplace = 3
+strength = 21
+speed = 23
+stamina = 31
+skill = 49
+striking = 17
+charisma = 21
+pop_north_america = 8
+pop_latin_america = 10
+pop_europe = 7
+pop_asia = 44
+pop_africa = 6
+pop_oceania = 13

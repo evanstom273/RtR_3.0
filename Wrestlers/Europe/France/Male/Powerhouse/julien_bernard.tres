@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ba51d2yd44llf"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_70mtc"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_reaj8"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_cklao"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_yk1wt"]
+
+[resource]
+script = ExtResource("4_yk1wt")
+CharacterName = "Julien Bernard"
+Division = 1
+Age = 38
+Height = "5'8\""
+Weight = 290
+birthplace = 2
+country_europe = 2
+strength = 36
+speed = 17
+stamina = 25
+skill = 24
+striking = 20
+charisma = 20
+pop_north_america = 9
+pop_latin_america = 10
+pop_europe = 44
+pop_asia = 12
+pop_africa = 5
+pop_oceania = 6

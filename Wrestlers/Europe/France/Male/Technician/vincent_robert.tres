@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dd1ja3f1s6anf"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_u4r1r"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_b5tcl"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_baotp"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_qt2hj"]
+
+[resource]
+script = ExtResource("4_qt2hj")
+CharacterName = "Vincent Robert"
+ClassType = 2
+Division = 1
+Age = 41
+Height = "5'11\""
+Weight = 300
+birthplace = 2
+country_europe = 2
+strength = 24
+speed = 16
+stamina = 31
+skill = 45
+striking = 20
+charisma = 20
+pop_north_america = 8
+pop_latin_america = 15
+pop_europe = 33
+pop_asia = 14
+pop_africa = 5
+pop_oceania = 15

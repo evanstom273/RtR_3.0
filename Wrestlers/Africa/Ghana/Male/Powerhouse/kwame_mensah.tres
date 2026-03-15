@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://8tk33ovipfie"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_y0htu"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_h3wxf"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_i6p6g"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_77sc8"]
+
+[resource]
+script = ExtResource("4_77sc8")
+CharacterName = "Kwame Mensah"
+Disposition = 1
+Age = 33
+Height = "6'6\""
+Weight = 242
+birthplace = 4
+country_africa = 2
+strength = 49
+speed = 17
+stamina = 28
+skill = 19
+striking = 25
+charisma = 25
+pop_north_america = 11
+pop_latin_america = 14
+pop_europe = 14
+pop_asia = 8
+pop_africa = 45
+pop_oceania = 15

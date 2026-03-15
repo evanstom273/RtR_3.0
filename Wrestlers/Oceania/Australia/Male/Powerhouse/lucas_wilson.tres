@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://m25mguhptre"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ljj6p"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_y230q"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ad8o0"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_p8xon"]
+
+[resource]
+script = ExtResource("4_p8xon")
+CharacterName = "Lucas Wilson"
+Age = 56
+Height = "6'4\""
+Weight = 271
+birthplace = 5
+country_oceania = 1
+strength = 43
+stamina = 29
+skill = 15
+striking = 20
+charisma = 22
+pop_north_america = 5
+pop_latin_america = 15
+pop_europe = 8
+pop_asia = 15
+pop_africa = 11
+pop_oceania = 39

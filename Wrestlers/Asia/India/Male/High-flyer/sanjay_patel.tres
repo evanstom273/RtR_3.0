@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dgt0h8tp8tksu"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_0qeec"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_6wu7f"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_dg0r0"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_1gn6q"]
+
+[resource]
+script = ExtResource("4_1gn6q")
+CharacterName = "Sanjay Patel"
+ClassType = 1
+Age = 32
+Height = "6'1\""
+Weight = 212
+birthplace = 3
+country_asia = 2
+strength = 20
+speed = 47
+stamina = 37
+skill = 29
+striking = 18
+charisma = 23
+pop_north_america = 14
+pop_latin_america = 11
+pop_europe = 13
+pop_asia = 43
+pop_africa = 15
+pop_oceania = 8

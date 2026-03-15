@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b3jbsna37o4si"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_na3qy"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_rt27o"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_pqajq"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_1pdcg"]
+
+[resource]
+script = ExtResource("4_1pdcg")
+CharacterName = "Diamante Azteca"
+ClassType = 2
+Division = 1
+Age = 45
+Height = "6'4\""
+Weight = 202
+country_north_america = 2
+strength = 25
+speed = 24
+stamina = 29
+skill = 37
+striking = 17
+charisma = 20
+pop_north_america = 49
+pop_latin_america = 12
+pop_europe = 8
+pop_asia = 15
+pop_africa = 5
+pop_oceania = 14

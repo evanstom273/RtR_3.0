@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cfmjbg4hh5vk5"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_iyfnj"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_iajse"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_gvyjf"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_8cfdc"]
+
+[resource]
+script = ExtResource("4_8cfdc")
+CharacterName = "Ofori Conteh"
+Division = 1
+Age = 28
+Height = "5'11\""
+Weight = 317
+birthplace = 4
+country_africa = 2
+strength = 47
+speed = 11
+stamina = 27
+skill = 16
+striking = 18
+charisma = 18
+pop_north_america = 13
+pop_latin_america = 12
+pop_europe = 13
+pop_asia = 10
+pop_africa = 29
+pop_oceania = 6

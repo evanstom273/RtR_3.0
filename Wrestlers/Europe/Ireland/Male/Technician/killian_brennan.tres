@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cabioqy15hvw2"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_r8ds5"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_p6qkr"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_20mn7"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_be4gg"]
+
+[resource]
+script = ExtResource("4_be4gg")
+CharacterName = "Killian Brennan"
+ClassType = 2
+Division = 1
+Disposition = 1
+Age = 41
+Height = "6'11\""
+Weight = 310
+birthplace = 2
+country_europe = 4
+strength = 24
+speed = 25
+stamina = 27
+skill = 36
+striking = 20
+charisma = 21
+pop_north_america = 15
+pop_latin_america = 13
+pop_europe = 36
+pop_asia = 6
+pop_africa = 10
+pop_oceania = 13

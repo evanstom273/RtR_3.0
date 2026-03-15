@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dhf8u16l1tk7y"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_70xnl"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_vvpuc"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_524kc"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_du6tt"]
+
+[resource]
+script = ExtResource("4_du6tt")
+CharacterName = "Blair Cade"
+Gender = 1
+Division = 2
+Disposition = 1
+Age = 38
+Height = "5'8\""
+Weight = 151
+strength = 42
+speed = 16
+stamina = 27
+skill = 20
+striking = 20
+charisma = 28
+pop_north_america = 42
+pop_latin_america = 8
+pop_europe = 9
+pop_asia = 7
+pop_africa = 10
+pop_oceania = 6

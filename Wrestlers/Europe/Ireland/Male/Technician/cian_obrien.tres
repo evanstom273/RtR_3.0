@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cvop0ytcnqu5"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_5orbh"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_36m0x"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_87kma"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_l4qs5"]
+
+[resource]
+script = ExtResource("4_l4qs5")
+CharacterName = "Cian O'Brien"
+ClassType = 2
+Disposition = 1
+Age = 24
+Height = "6'9\""
+Weight = 266
+birthplace = 2
+country_europe = 4
+strength = 15
+speed = 18
+stamina = 32
+skill = 38
+striking = 14
+charisma = 29
+pop_north_america = 5
+pop_latin_america = 14
+pop_europe = 38
+pop_asia = 9
+pop_africa = 12
+pop_oceania = 11

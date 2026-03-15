@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://b7pk06wlxorew"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_gcw7s"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_pki6j"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_qt4gs"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_rc4qj"]
+
+[resource]
+script = ExtResource("4_rc4qj")
+CharacterName = "Trey Creed"
+ClassType = 4
+Disposition = 1
+Age = 24
+Height = "6'11\""
+Weight = 179
+strength = 14
+speed = 28
+stamina = 26
+skill = 11
+striking = 39
+charisma = 26
+pop_north_america = 40
+pop_latin_america = 8
+pop_europe = 11
+pop_asia = 6
+pop_africa = 14
+pop_oceania = 15

@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://mnqvkfiyykmv"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_frdvk"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ea0xj"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_3yqb8"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_8me18"]
+
+[resource]
+script = ExtResource("4_8me18")
+CharacterName = "Amit Iyer"
+ClassType = 4
+Age = 32
+Height = "5'10\""
+Weight = 241
+birthplace = 3
+country_asia = 2
+strength = 18
+speed = 34
+stamina = 30
+skill = 19
+striking = 49
+charisma = 26
+pop_north_america = 14
+pop_latin_america = 12
+pop_europe = 5
+pop_asia = 48
+pop_africa = 9
+pop_oceania = 14

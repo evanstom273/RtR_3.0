@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cx2ymlm70fu6w"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_ck2v5"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_qtd5n"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_1v665"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_uduoo"]
+
+[resource]
+script = ExtResource("4_uduoo")
+CharacterName = "Koji Ito"
+ClassType = 4
+Age = 26
+Height = "5'7\""
+Weight = 230
+birthplace = 3
+strength = 18
+speed = 28
+stamina = 27
+skill = 20
+striking = 46
+charisma = 22
+pop_north_america = 15
+pop_latin_america = 7
+pop_europe = 12
+pop_asia = 46
+pop_africa = 5
+pop_oceania = 14

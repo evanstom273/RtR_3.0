@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dcol2jkv7guo7"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_h5taj"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_dn6tg"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ptqyh"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_8lidq"]
+
+[resource]
+script = ExtResource("4_8lidq")
+CharacterName = "Skye Styles"
+ClassType = 3
+Gender = 1
+Division = 2
+Age = 55
+Weight = 136
+strength = 27
+speed = 20
+stamina = 26
+skill = 18
+striking = 47
+charisma = 17
+pop_north_america = 33
+pop_latin_america = 10
+pop_europe = 5
+pop_asia = 11
+pop_africa = 11
+pop_oceania = 6

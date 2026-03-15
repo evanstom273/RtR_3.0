@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bylc6xt8bmjra"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_t7vc0"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_nac3t"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_8on4n"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_860fr"]
+
+[resource]
+script = ExtResource("4_860fr")
+CharacterName = "Lily Pelletier"
+ClassType = 1
+Gender = 1
+Division = 2
+Age = 47
+Height = "5'4\""
+Weight = 147
+country_north_america = 1
+strength = 18
+speed = 48
+stamina = 38
+skill = 27
+striking = 15
+charisma = 29
+pop_north_america = 35
+pop_latin_america = 9
+pop_europe = 13
+pop_asia = 7
+pop_africa = 10
+pop_oceania = 7

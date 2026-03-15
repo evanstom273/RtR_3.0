@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://byo8d4u1yact7"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_qdr2s"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_ftck0"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_82xaa"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_6iqnl"]
+
+[resource]
+script = ExtResource("4_6iqnl")
+CharacterName = "Hemi Tu'ungafasi"
+ClassType = 3
+Age = 23
+Height = "5'8\""
+Weight = 289
+birthplace = 5
+strength = 27
+speed = 20
+stamina = 24
+skill = 13
+striking = 38
+charisma = 28
+pop_north_america = 14
+pop_latin_america = 13
+pop_europe = 14
+pop_asia = 8
+pop_africa = 12
+pop_oceania = 48

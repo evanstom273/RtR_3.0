@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bjihcl8iu3p5a"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_841pi"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_vwmrt"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_5bng6"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_5tuk1"]
+
+[resource]
+script = ExtResource("4_5tuk1")
+CharacterName = "Kritsada Vu"
+ClassType = 1
+Age = 65
+Height = "6'6\""
+Weight = 229
+birthplace = 3
+strength = 13
+speed = 44
+stamina = 31
+skill = 27
+striking = 19
+charisma = 33
+pop_north_america = 13
+pop_latin_america = 5
+pop_europe = 13
+pop_asia = 43
+pop_africa = 7
+pop_oceania = 12

@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://6ny1qnbih5gd"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_7d1ud"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_i5ug7"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_4dbbi"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_nnkng"]
+
+[resource]
+script = ExtResource("4_nnkng")
+CharacterName = "Xin Luo"
+ClassType = 2
+Division = 1
+Age = 30
+Height = "6'6\""
+Weight = 299
+birthplace = 3
+country_asia = 1
+strength = 16
+speed = 25
+stamina = 29
+skill = 43
+charisma = 24
+pop_north_america = 13
+pop_latin_america = 5
+pop_europe = 13
+pop_asia = 38
+pop_africa = 8
+pop_oceania = 5

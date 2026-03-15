@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dwntgrroq83yg"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_erxww"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_qbuf1"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_ik4uf"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_xgb0w"]
+
+[resource]
+script = ExtResource("4_xgb0w")
+CharacterName = "Magnus MacDonald"
+ClassType = 3
+Division = 1
+Disposition = 1
+Age = 35
+Height = "6'1\""
+Weight = 256
+birthplace = 2
+country_europe = 1
+strength = 34
+speed = 11
+stamina = 24
+skill = 18
+striking = 42
+charisma = 27
+pop_north_america = 13
+pop_latin_america = 7
+pop_europe = 41
+pop_asia = 5
+pop_africa = 8
+pop_oceania = 15

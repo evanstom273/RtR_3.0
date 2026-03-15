@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://mun3i8p8rhb6"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_cf8n0"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_4vq4w"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_gdgbd"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_57lqr"]
+
+[resource]
+script = ExtResource("4_57lqr")
+CharacterName = "Rainer Becker"
+Age = 55
+Height = "5'6\""
+Weight = 214
+birthplace = 2
+country_europe = 3
+strength = 45
+speed = 11
+stamina = 28
+skill = 16
+striking = 15
+charisma = 30
+pop_north_america = 12
+pop_latin_america = 11
+pop_europe = 53
+pop_asia = 9
+pop_africa = 11
+pop_oceania = 7

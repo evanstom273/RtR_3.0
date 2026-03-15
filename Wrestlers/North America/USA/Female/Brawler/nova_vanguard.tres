@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://h2pgllnjutxu"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_uqypb"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_rf5r0"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_fcglx"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_gj5m7"]
+
+[resource]
+script = ExtResource("4_gj5m7")
+CharacterName = "Nova Vanguard"
+ClassType = 3
+Gender = 1
+Division = 2
+Age = 63
+Height = "5'1\""
+Weight = 127
+strength = 30
+speed = 13
+stamina = 27
+skill = 16
+striking = 46
+charisma = 16
+pop_north_america = 30
+pop_latin_america = 5
+pop_europe = 7
+pop_asia = 8
+pop_africa = 6
+pop_oceania = 15

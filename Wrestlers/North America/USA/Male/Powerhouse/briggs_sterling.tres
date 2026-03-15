@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://chcmfefkk6p0x"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_yc5ek"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_wt5rb"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_thqnn"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_vv4o3"]
+
+[resource]
+script = ExtResource("4_vv4o3")
+CharacterName = "Briggs Sterling"
+Division = 1
+Age = 29
+Height = "6'11\""
+Weight = 256
+strength = 46
+speed = 15
+stamina = 26
+skill = 19
+striking = 21
+charisma = 25
+pop_north_america = 46
+pop_latin_america = 13
+pop_europe = 15
+pop_asia = 11
+pop_africa = 9
+pop_oceania = 5

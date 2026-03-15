@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dfw48lc7yhgdl"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_pow0q"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_cbqxy"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_fwnif"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_e4avx"]
+
+[resource]
+script = ExtResource("4_e4avx")
+CharacterName = "Matteo Longo"
+ClassType = 1
+Age = 61
+Height = "5'10\""
+Weight = 190
+birthplace = 2
+country_europe = 5
+strength = 12
+speed = 47
+stamina = 42
+skill = 30
+striking = 15
+charisma = 24
+pop_north_america = 8
+pop_latin_america = 10
+pop_europe = 32
+pop_asia = 5
+pop_africa = 12
+pop_oceania = 12

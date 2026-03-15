@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cvdq8ysea8mdk"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_v3nkd"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_cyxv7"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_dtxhs"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_guqi3"]
+
+[resource]
+script = ExtResource("4_guqi3")
+CharacterName = "Xin Chen"
+ClassType = 4
+Division = 1
+Height = "6'1\""
+Weight = 298
+birthplace = 3
+country_asia = 1
+strength = 18
+speed = 27
+stamina = 22
+skill = 19
+striking = 42
+charisma = 22
+pop_north_america = 6
+pop_latin_america = 5
+pop_europe = 14
+pop_asia = 50
+pop_africa = 5
+pop_oceania = 6

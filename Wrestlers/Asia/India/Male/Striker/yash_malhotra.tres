@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ddtv83fo52xmk"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_omha2"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_wl4tt"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_00q11"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_bpuwl"]
+
+[resource]
+script = ExtResource("4_bpuwl")
+CharacterName = "Yash Malhotra"
+ClassType = 4
+Age = 55
+Height = "6'11\""
+Weight = 253
+birthplace = 3
+country_asia = 2
+strength = 20
+speed = 32
+stamina = 22
+skill = 18
+striking = 36
+charisma = 29
+pop_north_america = 15
+pop_latin_america = 7
+pop_europe = 11
+pop_asia = 42
+pop_africa = 10
+pop_oceania = 14

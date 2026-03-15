@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cpi5l0ph5fngi"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_v0yut"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_6fajd"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_1f65d"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ns08y"]
+
+[resource]
+script = ExtResource("4_ns08y")
+CharacterName = "Liam Gauthier"
+Age = 53
+Height = "5'9\""
+Weight = 215
+country_north_america = 1
+strength = 42
+speed = 15
+stamina = 29
+skill = 21
+striking = 17
+charisma = 20
+pop_north_america = 31
+pop_latin_america = 13
+pop_europe = 5
+pop_asia = 7
+pop_africa = 15
+pop_oceania = 13

@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://dh2cdajmxcxw3"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_45ha1"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_0s7ge"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_jc0j5"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_ds4qy"]
+
+[resource]
+script = ExtResource("4_ds4qy")
+CharacterName = "Dusty Nash"
+ClassType = 4
+Age = 41
+Height = "6'11\""
+Weight = 275
+strength = 12
+speed = 35
+stamina = 22
+skill = 18
+striking = 38
+charisma = 28
+pop_north_america = 37
+pop_latin_america = 7
+pop_europe = 10
+pop_asia = 8
+pop_africa = 7
+pop_oceania = 11

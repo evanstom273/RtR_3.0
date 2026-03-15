@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://cs2h06gx2pgkf"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_8nne5"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_wda07"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_dj5uw"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_s004h"]
+
+[resource]
+script = ExtResource("4_s004h")
+CharacterName = "Finlay Duncan"
+Division = 1
+Disposition = 1
+Age = 36
+Height = "6'5\""
+Weight = 207
+birthplace = 2
+country_europe = 1
+strength = 35
+speed = 20
+stamina = 30
+skill = 16
+striking = 15
+charisma = 25
+pop_north_america = 10
+pop_latin_america = 14
+pop_europe = 28
+pop_asia = 11
+pop_africa = 14
+pop_oceania = 9

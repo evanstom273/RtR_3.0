@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://bceop1gjw7x6p"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_swq0q"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_x4r6v"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_aaat8"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_lrfgq"]
+
+[resource]
+script = ExtResource("4_lrfgq")
+CharacterName = "Varun Kapoor"
+ClassType = 3
+Age = 61
+Height = "5'8\""
+Weight = 225
+birthplace = 3
+country_asia = 2
+strength = 25
+speed = 18
+stamina = 26
+skill = 11
+striking = 45
+charisma = 30
+pop_north_america = 15
+pop_latin_america = 12
+pop_europe = 9
+pop_asia = 45
+pop_africa = 5
+pop_oceania = 6

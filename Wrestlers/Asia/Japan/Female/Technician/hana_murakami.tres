@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://4wspxlal85na"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_kv38g"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_8sgdn"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_aogiy"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_8qhjf"]
+
+[resource]
+script = ExtResource("4_8qhjf")
+CharacterName = "Hana Murakami"
+ClassType = 2
+Gender = 1
+Division = 2
+Age = 31
+Height = "5'2\""
+Weight = 132
+birthplace = 3
+strength = 17
+speed = 20
+stamina = 30
+skill = 36
+striking = 19
+charisma = 28
+pop_north_america = 8
+pop_latin_america = 6
+pop_europe = 13
+pop_asia = 37
+pop_africa = 6
+pop_oceania = 10

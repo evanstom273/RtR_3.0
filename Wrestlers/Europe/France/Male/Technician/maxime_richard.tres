@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://oisx8kg1vw3t"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_jbu8e"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_cml7y"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_n3vvp"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_aoiaf"]
+
+[resource]
+script = ExtResource("4_aoiaf")
+CharacterName = "Maxime Richard"
+ClassType = 2
+Division = 1
+Disposition = 1
+Age = 58
+Height = "6'5\""
+Weight = 217
+birthplace = 2
+country_europe = 2
+strength = 16
+speed = 18
+stamina = 25
+skill = 36
+striking = 19
+charisma = 24
+pop_north_america = 13
+pop_latin_america = 11
+pop_europe = 55
+pop_asia = 10
+pop_africa = 7
+pop_oceania = 9

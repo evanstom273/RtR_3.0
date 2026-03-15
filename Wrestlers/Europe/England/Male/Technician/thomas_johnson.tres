@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="WrestlerResource" format=3 uid="uid://ctjkkdfi2slmi"]
+
+[ext_resource type="Script" uid="uid://ceh6ir474o4l5" path="res://Scripts/Data/PromotionData.gd" id="1_lbvt0"]
+[ext_resource type="Script" uid="uid://bmyub07jfu7u8" path="res://Scripts/Data/ContractData.gd" id="2_vkc2y"]
+[ext_resource type="Script" uid="uid://d22o10tyxa1ho" path="res://Scripts/Data/MoveData.gd" id="3_u01d2"]
+[ext_resource type="Script" uid="uid://b7ygmym5lhg73" path="res://Scripts/Data/WrestlerData.gd" id="4_vfjhx"]
+
+[resource]
+script = ExtResource("4_vfjhx")
+CharacterName = "Thomas Johnson"
+ClassType = 2
+Age = 55
+Height = "5'7\""
+Weight = 209
+birthplace = 2
+strength = 25
+speed = 16
+stamina = 34
+skill = 49
+striking = 17
+charisma = 23
+pop_north_america = 12
+pop_latin_america = 5
+pop_europe = 40
+pop_asia = 8
+pop_africa = 9
+pop_oceania = 11
