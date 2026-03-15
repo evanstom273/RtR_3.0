@@ -1,0 +1,464 @@
+[gd_scene format=3 uid="uid://cwg6w7khr4gbu"]
+
+[ext_resource type="Script" uid="uid://3oovooyungxt" path="res://Scripts/Engine/MatchEngine.gd" id="1"]
+[ext_resource type="Resource" uid="uid://dker0100n3sap" path="res://Wrestlers/Asia/China/Male/Striker/feng_xu.tres" id="2_rdkmo"]
+[ext_resource type="Resource" uid="uid://cevx8m3j0rfxn" path="res://Wrestlers/Asia/China/Female/Striker/hua_ma.tres" id="3_rdkmo"]
+
+[node name="UI_Base" type="CanvasLayer" unique_id=10248373]
+script = ExtResource("1")
+wrestler_a = ExtResource("2_rdkmo")
+wrestler_b = ExtResource("3_rdkmo")
+
+[node name="Root" type="MarginContainer" parent="." unique_id=414550440]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 16.0
+offset_top = 16.0
+offset_right = -16.0
+offset_bottom = -16.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="RootVBox" type="VBoxContainer" parent="Root" unique_id=1042083389]
+layout_mode = 2
+theme_override_constants/separation = 14
+
+[node name="TopBanner" type="PanelContainer" parent="Root/RootVBox" unique_id=1323428179]
+custom_minimum_size = Vector2(0, 72)
+layout_mode = 2
+
+[node name="TopBannerMargin" type="MarginContainer" parent="Root/RootVBox/TopBanner" unique_id=255541831]
+layout_mode = 2
+theme_override_constants/margin_left = 16
+theme_override_constants/margin_top = 12
+theme_override_constants/margin_right = 16
+theme_override_constants/margin_bottom = 12
+
+[node name="TopBannerHBox" type="HBoxContainer" parent="Root/RootVBox/TopBanner/TopBannerMargin" unique_id=1073538273]
+layout_mode = 2
+
+[node name="PromotionLabel" type="Label" parent="Root/RootVBox/TopBanner/TopBannerMargin/TopBannerHBox" unique_id=1206642546]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "ROLL THE ROPES"
+
+[node name="MatchTitle" type="Label" parent="Root/RootVBox/TopBanner/TopBannerMargin/TopBannerHBox" unique_id=1533441872]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "MATCH"
+horizontal_alignment = 1
+
+[node name="MatchStatus" type="Label" parent="Root/RootVBox/TopBanner/TopBannerMargin/TopBannerHBox" unique_id=796233175]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "READY"
+horizontal_alignment = 2
+
+[node name="MainHBox" type="HBoxContainer" parent="Root/RootVBox" unique_id=559892461]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_constants/separation = 16
+
+[node name="LeftPanel" type="PanelContainer" parent="Root/RootVBox/MainHBox" unique_id=1149189986]
+custom_minimum_size = Vector2(330, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="LeftMargin" type="MarginContainer" parent="Root/RootVBox/MainHBox/LeftPanel" unique_id=269364445]
+layout_mode = 2
+theme_override_constants/margin_left = 14
+theme_override_constants/margin_top = 14
+theme_override_constants/margin_right = 14
+theme_override_constants/margin_bottom = 14
+
+[node name="LeftVBox" type="VBoxContainer" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin" unique_id=869723233]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="LeftName" type="Label" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox" unique_id=1701506137]
+layout_mode = 2
+text = "Wrestler A"
+
+[node name="LeftSub" type="Label" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox" unique_id=629965113]
+layout_mode = 2
+text = "Class • Division • Disposition"
+
+[node name="LeftStatsPanel" type="PanelContainer" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox" unique_id=443609467]
+layout_mode = 2
+
+[node name="LeftStatsMargin" type="MarginContainer" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftStatsPanel" unique_id=702108972]
+layout_mode = 2
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 10
+
+[node name="LeftStats" type="RichTextLabel" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftStatsPanel/LeftStatsMargin" unique_id=963454817]
+layout_mode = 2
+bbcode_enabled = true
+fit_content = true
+scroll_active = false
+
+[node name="LeftHealthPanel" type="PanelContainer" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox" unique_id=590642629]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="LeftHealthMargin" type="MarginContainer" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel" unique_id=469090432]
+layout_mode = 2
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 10
+
+[node name="LeftHealthVBox" type="VBoxContainer" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin" unique_id=256437362]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="LeftHealthTitle" type="Label" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox" unique_id=1450571999]
+layout_mode = 2
+text = "DAMAGE REPORT"
+
+[node name="LeftCondition" type="RichTextLabel" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox" unique_id=419873326]
+layout_mode = 2
+bbcode_enabled = true
+fit_content = true
+scroll_active = false
+
+[node name="LeftHeadRow" type="HBoxContainer" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox" unique_id=1663684330]
+layout_mode = 2
+
+[node name="LeftHeadLabel" type="Label" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftHeadRow" unique_id=1845969432]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+text = "Head"
+
+[node name="LeftHeadBar" type="ProgressBar" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftHeadRow" unique_id=519606677]
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 50.0
+show_percentage = false
+
+[node name="LeftHeadValue" type="Label" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftHeadRow" unique_id=743298404]
+custom_minimum_size = Vector2(48, 0)
+layout_mode = 2
+text = "50/50"
+horizontal_alignment = 2
+
+[node name="LeftBodyRow" type="HBoxContainer" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox" unique_id=515866055]
+layout_mode = 2
+
+[node name="LeftBodyLabel" type="Label" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftBodyRow" unique_id=1165606352]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+text = "Body"
+
+[node name="LeftBodyBar" type="ProgressBar" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftBodyRow" unique_id=1479295435]
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 50.0
+show_percentage = false
+
+[node name="LeftBodyValue" type="Label" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftBodyRow" unique_id=186199873]
+custom_minimum_size = Vector2(48, 0)
+layout_mode = 2
+text = "50/50"
+horizontal_alignment = 2
+
+[node name="LeftArmLRow" type="HBoxContainer" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox" unique_id=1708225378]
+layout_mode = 2
+
+[node name="LeftArmLLabel" type="Label" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftArmLRow" unique_id=1221957823]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+text = "L Arm"
+
+[node name="LeftArmLBar" type="ProgressBar" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftArmLRow" unique_id=1265640541]
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 50.0
+show_percentage = false
+
+[node name="LeftArmLValue" type="Label" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftArmLRow" unique_id=1304723803]
+custom_minimum_size = Vector2(48, 0)
+layout_mode = 2
+text = "50/50"
+horizontal_alignment = 2
+
+[node name="LeftArmRRow" type="HBoxContainer" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox" unique_id=1498089243]
+layout_mode = 2
+
+[node name="LeftArmRLabel" type="Label" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftArmRRow" unique_id=1501579366]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+text = "R Arm"
+
+[node name="LeftArmRBar" type="ProgressBar" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftArmRRow" unique_id=80259621]
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 50.0
+show_percentage = false
+
+[node name="LeftArmRValue" type="Label" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftArmRRow" unique_id=806627919]
+custom_minimum_size = Vector2(48, 0)
+layout_mode = 2
+text = "50/50"
+horizontal_alignment = 2
+
+[node name="LeftLegLRow" type="HBoxContainer" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox" unique_id=1550103195]
+layout_mode = 2
+
+[node name="LeftLegLLabel" type="Label" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftLegLRow" unique_id=816128335]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+text = "L Leg"
+
+[node name="LeftLegLBar" type="ProgressBar" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftLegLRow" unique_id=1700925696]
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 50.0
+show_percentage = false
+
+[node name="LeftLegLValue" type="Label" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftLegLRow" unique_id=1355426215]
+custom_minimum_size = Vector2(48, 0)
+layout_mode = 2
+text = "50/50"
+horizontal_alignment = 2
+
+[node name="LeftLegRRow" type="HBoxContainer" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox" unique_id=1657950386]
+layout_mode = 2
+
+[node name="LeftLegRLabel" type="Label" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftLegRRow" unique_id=1916093035]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+text = "R Leg"
+
+[node name="LeftLegRBar" type="ProgressBar" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftLegRRow" unique_id=65906901]
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 50.0
+show_percentage = false
+
+[node name="LeftLegRValue" type="Label" parent="Root/RootVBox/MainHBox/LeftPanel/LeftMargin/LeftVBox/LeftHealthPanel/LeftHealthMargin/LeftHealthVBox/LeftLegRRow" unique_id=1602902571]
+custom_minimum_size = Vector2(48, 0)
+layout_mode = 2
+text = "50/50"
+horizontal_alignment = 2
+
+[node name="CenterPanel" type="PanelContainer" parent="Root/RootVBox/MainHBox" unique_id=30283631]
+custom_minimum_size = Vector2(460, 0)
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 3
+
+[node name="CenterMargin" type="MarginContainer" parent="Root/RootVBox/MainHBox/CenterPanel" unique_id=1623765588]
+layout_mode = 2
+theme_override_constants/margin_left = 14
+theme_override_constants/margin_top = 14
+theme_override_constants/margin_right = 14
+theme_override_constants/margin_bottom = 14
+
+[node name="CenterVBox" type="VBoxContainer" parent="Root/RootVBox/MainHBox/CenterPanel/CenterMargin" unique_id=1592273062]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="CommentaryTitle" type="Label" parent="Root/RootVBox/MainHBox/CenterPanel/CenterMargin/CenterVBox" unique_id=2049722653]
+layout_mode = 2
+text = "LIVE COMMENTARY"
+horizontal_alignment = 1
+
+[node name="MatchLog" type="RichTextLabel" parent="Root/RootVBox/MainHBox/CenterPanel/CenterMargin/CenterVBox" unique_id=254836063]
+layout_mode = 2
+size_flags_vertical = 3
+bbcode_enabled = true
+scroll_following = true
+
+[node name="RightPanel" type="PanelContainer" parent="Root/RootVBox/MainHBox" unique_id=871101269]
+custom_minimum_size = Vector2(330, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="RightMargin" type="MarginContainer" parent="Root/RootVBox/MainHBox/RightPanel" unique_id=1867123795]
+layout_mode = 2
+theme_override_constants/margin_left = 14
+theme_override_constants/margin_top = 14
+theme_override_constants/margin_right = 14
+theme_override_constants/margin_bottom = 14
+
+[node name="RightVBox" type="VBoxContainer" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin" unique_id=1900316937]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="RightName" type="Label" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox" unique_id=699404454]
+layout_mode = 2
+text = "Wrestler B"
+horizontal_alignment = 2
+
+[node name="RightSub" type="Label" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox" unique_id=1453430807]
+layout_mode = 2
+text = "Class • Division • Disposition"
+horizontal_alignment = 2
+
+[node name="RightStatsPanel" type="PanelContainer" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox" unique_id=1750771151]
+layout_mode = 2
+
+[node name="RightStatsMargin" type="MarginContainer" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightStatsPanel" unique_id=1194419700]
+layout_mode = 2
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 10
+
+[node name="RightStats" type="RichTextLabel" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightStatsPanel/RightStatsMargin" unique_id=1554836714]
+layout_mode = 2
+bbcode_enabled = true
+fit_content = true
+scroll_active = false
+
+[node name="RightHealthPanel" type="PanelContainer" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox" unique_id=1983162247]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="RightHealthMargin" type="MarginContainer" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel" unique_id=816071634]
+layout_mode = 2
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 10
+
+[node name="RightHealthVBox" type="VBoxContainer" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin" unique_id=998722838]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="RightHealthTitle" type="Label" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox" unique_id=1503090799]
+layout_mode = 2
+text = "DAMAGE REPORT"
+horizontal_alignment = 2
+
+[node name="RightCondition" type="RichTextLabel" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox" unique_id=1690529437]
+layout_mode = 2
+bbcode_enabled = true
+fit_content = true
+scroll_active = false
+
+[node name="RightHeadRow" type="HBoxContainer" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox" unique_id=2069985227]
+layout_mode = 2
+
+[node name="RightHeadLabel" type="Label" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightHeadRow" unique_id=1937609175]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+text = "Head"
+
+[node name="RightHeadBar" type="ProgressBar" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightHeadRow" unique_id=1015913691]
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 50.0
+show_percentage = false
+
+[node name="RightHeadValue" type="Label" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightHeadRow" unique_id=328498072]
+custom_minimum_size = Vector2(48, 0)
+layout_mode = 2
+text = "50/50"
+horizontal_alignment = 2
+
+[node name="RightBodyRow" type="HBoxContainer" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox" unique_id=2013843946]
+layout_mode = 2
+
+[node name="RightBodyLabel" type="Label" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightBodyRow" unique_id=1642956213]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+text = "Body"
+
+[node name="RightBodyBar" type="ProgressBar" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightBodyRow" unique_id=317787896]
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 50.0
+show_percentage = false
+
+[node name="RightBodyValue" type="Label" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightBodyRow" unique_id=273653414]
+custom_minimum_size = Vector2(48, 0)
+layout_mode = 2
+text = "50/50"
+horizontal_alignment = 2
+
+[node name="RightArmLRow" type="HBoxContainer" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox" unique_id=1106206415]
+layout_mode = 2
+
+[node name="RightArmLLabel" type="Label" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightArmLRow" unique_id=901085763]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+text = "L Arm"
+
+[node name="RightArmLBar" type="ProgressBar" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightArmLRow" unique_id=625117401]
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 50.0
+show_percentage = false
+
+[node name="RightArmLValue" type="Label" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightArmLRow" unique_id=1793072012]
+custom_minimum_size = Vector2(48, 0)
+layout_mode = 2
+text = "50/50"
+horizontal_alignment = 2
+
+[node name="RightArmRRow" type="HBoxContainer" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox" unique_id=1859398934]
+layout_mode = 2
+
+[node name="RightArmRLabel" type="Label" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightArmRRow" unique_id=1983820427]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+text = "R Arm"
+
+[node name="RightArmRBar" type="ProgressBar" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightArmRRow" unique_id=118402072]
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 50.0
+show_percentage = false
+
+[node name="RightArmRValue" type="Label" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightArmRRow" unique_id=171899501]
+custom_minimum_size = Vector2(48, 0)
+layout_mode = 2
+text = "50/50"
+horizontal_alignment = 2
+
+[node name="RightLegLRow" type="HBoxContainer" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox" unique_id=1160782262]
+layout_mode = 2
+
+[node name="RightLegLLabel" type="Label" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightLegLRow" unique_id=525611093]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+text = "L Leg"
+
+[node name="RightLegLBar" type="ProgressBar" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightLegLRow" unique_id=805716296]
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 50.0
+show_percentage = false
+
+[node name="RightLegLValue" type="Label" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightLegLRow" unique_id=835093848]
+custom_minimum_size = Vector2(48, 0)
+layout_mode = 2
+text = "50/50"
+horizontal_alignment = 2
+
+[node name="RightLegRRow" type="HBoxContainer" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox" unique_id=369560890]
+layout_mode = 2
+
+[node name="RightLegRLabel" type="Label" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightLegRRow" unique_id=763382697]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+text = "R Leg"
+
+[node name="RightLegRBar" type="ProgressBar" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightLegRRow" unique_id=1432636134]
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 50.0
+show_percentage = false
+
+[node name="RightLegRValue" type="Label" parent="Root/RootVBox/MainHBox/RightPanel/RightMargin/RightVBox/RightHealthPanel/RightHealthMargin/RightHealthVBox/RightLegRRow" unique_id=1708672646]
+custom_minimum_size = Vector2(48, 0)
+layout_mode = 2
+text = "50/50"
+horizontal_alignment = 2
